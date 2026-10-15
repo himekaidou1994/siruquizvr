@@ -1,0 +1,9 @@
+Словари мира «Буква» (VRChat) / Dictionaries of the VRChat world "Bukva"
+
+ru_nouns.txt, ru_all.txt — на основе OpenRussian.org (github.com/Badestrand/russian-dictionary, CC BY-SA 4.0)
+и Harrix/Russian-Nouns (github.com/Harrix/Russian-Nouns, MIT).
+en_nouns.txt, en_all.txt — на основе Open English WordNet (github.com/globalwordnet/english-wordnet, CC BY 4.0),
+который основан на Princeton WordNet.
+Стартовые слова отобраны по частотам FrequencyWords (github.com/hermitdave/FrequencyWords, CC BY-SA 4.0).
+
+Эти списки распространяются по лицензии CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
