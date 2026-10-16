@@ -1,0 +1,903 @@
+#LASTBET 1
+#LANGS ru en es ja zh
+#VERSION 2026-10-16-0715
+#Q 1 3 1
+ru|Какой океан самый большой?|Атлантический|Индийский|Тихий|Северный Ледовитый
+en|Which ocean is the largest?|Atlantic|Indian|Pacific|Arctic
+es|¿Cuál es el océano más grande?|Atlántico|Índico|Pacífico|Ártico
+ja|いちばん大きい海洋はどれ？|大西洋|インド洋|太平洋|北極海
+zh|哪个大洋面积最大？|大西洋|印度洋|太平洋|北冰洋
+#Q 2 2 1
+ru|Сколько ног у паука?|6|8|10|12
+en|How many legs does a spider have?|6|8|10|12
+es|¿Cuántas patas tiene una araña?|6|8|10|12
+ja|クモの脚は何本？|6本|8本|10本|12本
+zh|蜘蛛有几条腿？|6条|8条|10条|12条
+#Q 3 2 1
+ru|Какую планету называют Красной планетой?|Венера|Марс|Юпитер|Меркурий
+en|Which planet is called the Red Planet?|Venus|Mars|Jupiter|Mercury
+es|¿Qué planeta es conocido como el planeta rojo?|Venus|Marte|Júpiter|Mercurio
+ja|「赤い惑星」と呼ばれるのはどれ？|金星|火星|木星|水星
+zh|哪颗行星被称为“红色星球”？|金星|火星|木星|水星
+#Q 4 2 1
+ru|Какая планета самая большая в Солнечной системе?|Сатурн|Юпитер|Нептун|Земля
+en|Which is the largest planet in the Solar System?|Saturn|Jupiter|Neptune|Earth
+es|¿Cuál es el planeta más grande del sistema solar?|Saturno|Júpiter|Neptuno|La Tierra
+ja|太陽系で最も大きい惑星は？|土星|木星|海王星|地球
+zh|太阳系中最大的行星是哪颗？|土星|木星|海王星|地球
+#Q 5 2 1
+ru|Какой газ растения поглощают из воздуха для фотосинтеза?|Кислород|Углекислый газ|Азот|Водород
+en|Which gas do plants take from the air for photosynthesis?|Oxygen|Carbon dioxide|Nitrogen|Hydrogen
+es|¿Qué gas toman las plantas del aire para la fotosíntesis?|Oxígeno|Dióxido de carbono|Nitrógeno|Hidrógeno
+ja|植物が光合成のために空気から取り入れる気体は？|酸素|二酸化炭素|窒素|水素
+zh|植物进行光合作用时从空气中吸收哪种气体？|氧气|二氧化碳|氮气|氢气
+#Q 6 2 1
+ru|Какое животное самое большое на Земле?|Африканский слон|Синий кит|Жираф|Китовая акула
+en|What is the largest animal on Earth?|African elephant|Blue whale|Giraffe|Whale shark
+es|¿Cuál es el animal más grande de la Tierra?|Elefante africano|Ballena azul|Jirafa|Tiburón ballena
+ja|地球上で最も大きい動物は？|アフリカゾウ|シロナガスクジラ|キリン|ジンベエザメ
+zh|地球上最大的动物是什么？|非洲象|蓝鲸|长颈鹿|鲸鲨
+#Q 7 3 1
+ru|Сколько дней в високосном году?|364|365|366|367
+en|How many days are in a leap year?|364|365|366|367
+es|¿Cuántos días tiene un año bisiesto?|364|365|366|367
+ja|うるう年は何日？|364日|365日|366日|367日
+zh|闰年有多少天？|364天|365天|366天|367天
+#Q 8 2 1
+ru|При какой температуре кипит вода на уровне моря?|90 °C|100 °C|110 °C|120 °C
+en|At what temperature does water boil at sea level?|90 °C|100 °C|110 °C|120 °C
+es|¿A qué temperatura hierve el agua al nivel del mar?|90 °C|100 °C|110 °C|120 °C
+ja|海面の高さで水が沸騰する温度は？|90 °C|100 °C|110 °C|120 °C
+zh|在海平面上，水的沸点是多少？|90 °C|100 °C|110 °C|120 °C
+#Q 9 2 1
+ru|Что производят пчёлы?|Молоко|Мёд|Шёлк|Сыр
+en|What do bees make?|Milk|Honey|Silk|Cheese
+es|¿Qué producen las abejas?|Leche|Miel|Seda|Queso
+ja|ミツバチが作るものは？|ミルク|はちみつ|絹|チーズ
+zh|蜜蜂会酿造什么？|牛奶|蜂蜜|丝绸|奶酪
+#Q 10 3 1
+ru|У какого инструмента 88 клавиш?|Гитара|Скрипка|Фортепиано|Флейта
+en|Which instrument has 88 keys?|Guitar|Violin|Piano|Flute
+es|¿Qué instrumento tiene 88 teclas?|Guitarra|Violín|Piano|Flauta
+ja|88個の鍵盤がある楽器は？|ギター|バイオリン|ピアノ|フルート
+zh|哪种乐器有88个琴键？|吉他|小提琴|钢琴|长笛
+#Q 11 3 1
+ru|Какое природное вещество самое твёрдое?|Золото|Железо|Алмаз|Кварц
+en|What is the hardest natural substance?|Gold|Iron|Diamond|Quartz
+es|¿Cuál es la sustancia natural más dura?|Oro|Hierro|Diamante|Cuarzo
+ja|天然の物質で最も硬いのは？|金|鉄|ダイヤモンド|石英
+zh|最坚硬的天然物质是什么？|黄金|铁|钻石|石英
+#Q 12 1 1
+ru|Какой цвет получится, если смешать синюю и жёлтую краску?|Зелёный|Фиолетовый|Оранжевый|Коричневый
+en|What colour do you get by mixing blue and yellow paint?|Green|Purple|Orange|Brown
+es|¿Qué color se obtiene al mezclar pintura azul y amarilla?|Verde|Morado|Naranja|Marrón
+ja|青と黄色の絵の具を混ぜると何色になる？|緑|紫|オレンジ|茶色
+zh|蓝色和黄色颜料混合会得到什么颜色？|绿色|紫色|橙色|棕色
+#Q 13 1 1
+ru|Какая жаркая пустыня самая большая в мире?|Сахара|Гоби|Калахари|Атакама
+en|What is the largest hot desert in the world?|Sahara|Gobi|Kalahari|Atacama
+es|¿Cuál es el desierto cálido más grande del mundo?|Sahara|Gobi|Kalahari|Atacama
+ja|世界最大の暑い砂漠は？|サハラ砂漠|ゴビ砂漠|カラハリ砂漠|アタカマ砂漠
+zh|世界上最大的热沙漠是哪个？|撒哈拉沙漠|戈壁沙漠|卡拉哈里沙漠|阿塔卡马沙漠
+#Q 14 1 1
+ru|На каком материке в дикой природе живут кенгуру?|Австралия|Африка|Южная Америка|Азия
+en|On which continent do kangaroos live in the wild?|Australia|Africa|South America|Asia
+es|¿En qué continente viven los canguros en libertad?|Australia|África|América del Sur|Asia
+ja|野生のカンガルーがすむ大陸は？|オーストラリア|アフリカ|南アメリカ|アジア
+zh|野生袋鼠生活在哪个大洲？|澳大利亚|非洲|南美洲|亚洲
+#Q 15 3 1
+ru|Какая планета ближе всех к Солнцу?|Венера|Земля|Меркурий|Марс
+en|Which planet is closest to the Sun?|Venus|Earth|Mercury|Mars
+es|¿Qué planeta está más cerca del Sol?|Venus|La Tierra|Mercurio|Marte
+ja|太陽に最も近い惑星は？|金星|地球|水星|火星
+zh|离太阳最近的行星是哪颗？|金星|地球|水星|火星
+#Q 16 3 1
+ru|Сколько игроков одной команды одновременно на поле в футболе?|9|10|11|12
+en|How many players does one team have on the pitch in football (soccer)?|9|10|11|12
+es|¿Cuántos jugadores de un equipo hay en el campo en el fútbol?|9|10|11|12
+ja|サッカーで1チームがフィールドに出せる選手は何人？|9人|10人|11人|12人
+zh|足球比赛中，一支球队同时在场上有几名球员？|9名|10名|11名|12名
+#Q 17 2 1
+ru|Какое наземное животное самое быстрое?|Лев|Гепард|Лошадь|Антилопа
+en|What is the fastest land animal?|Lion|Cheetah|Horse|Antelope
+es|¿Cuál es el animal terrestre más rápido?|León|Guepardo|Caballo|Antílope
+ja|陸上で最も速い動物は？|ライオン|チーター|ウマ|アンテロープ
+zh|陆地上跑得最快的动物是什么？|狮子|猎豹|马|羚羊
+#Q 18 3 1
+ru|Как называется столица Японии?|Осака|Киото|Токио|Нагоя
+en|What is the capital of Japan?|Osaka|Kyoto|Tokyo|Nagoya
+es|¿Cuál es la capital de Japón?|Osaka|Kioto|Tokio|Nagoya
+ja|日本の首都は？|大阪|京都|東京|名古屋
+zh|日本的首都是哪座城市？|大阪|京都|东京|名古屋
+#Q 19 1 1
+ru|В какой стране находятся пирамиды Гизы?|Египет|Мексика|Перу|Греция
+en|In which country are the pyramids of Giza?|Egypt|Mexico|Peru|Greece
+es|¿En qué país están las pirámides de Guiza?|Egipto|México|Perú|Grecia
+ja|ギザのピラミッドがある国は？|エジプト|メキシコ|ペルー|ギリシャ
+zh|吉萨金字塔位于哪个国家？|埃及|墨西哥|秘鲁|希腊
+#Q 20 3 1
+ru|Сколько струн у обычной гитары?|4|5|6|8
+en|How many strings does a standard guitar have?|4|5|6|8
+es|¿Cuántas cuerdas tiene una guitarra estándar?|4|5|6|8
+ja|一般的なギターの弦は何本？|4本|5本|6本|8本
+zh|一把标准吉他有几根弦？|4根|5根|6根|8根
+#Q 21 2 1
+ru|Какая птица считается символом мира?|Орёл|Голубь|Сова|Ворона
+en|Which bird is a symbol of peace?|Eagle|Dove|Owl|Crow
+es|¿Qué ave es símbolo de la paz?|Águila|Paloma|Búho|Cuervo
+ja|平和の象徴とされる鳥は？|ワシ|ハト|フクロウ|カラス
+zh|哪种鸟是和平的象征？|鹰|鸽子|猫头鹰|乌鸦
+#Q 22 3 1
+ru|Какой орган перекачивает кровь по телу?|Печень|Лёгкие|Сердце|Почки
+en|Which organ pumps blood around the body?|Liver|Lungs|Heart|Kidneys
+es|¿Qué órgano bombea la sangre por el cuerpo?|Hígado|Pulmones|Corazón|Riñones
+ja|血液を全身に送り出す臓器は？|肝臓|肺|心臓|腎臓
+zh|哪个器官负责把血液泵送到全身？|肝脏|肺|心脏|肾脏
+#Q 23 2 1
+ru|Кто из них млекопитающее?|Акула|Дельфин|Осьминог|Лосось
+en|Which of these is a mammal?|Shark|Dolphin|Octopus|Salmon
+es|¿Cuál de estos es un mamífero?|Tiburón|Delfín|Pulpo|Salmón
+ja|この中で哺乳類はどれ？|サメ|イルカ|タコ|サケ
+zh|下面哪种是哺乳动物？|鲨鱼|海豚|章鱼|三文鱼
+#Q 24 3 1
+ru|Сколько цветов в радуге по традиции?|5|6|7|8
+en|How many colours are traditionally in a rainbow?|5|6|7|8
+es|¿Cuántos colores tiene tradicionalmente el arcoíris?|5|6|7|8
+ja|虹は伝統的に何色とされる？|5色|6色|7色|8色
+zh|传统上彩虹有几种颜色？|5种|6种|7种|8种
+#Q 25 2 1
+ru|В кого превращаются гусеницы?|В пауков|В бабочек|В жуков|В пчёл
+en|What do caterpillars turn into?|Spiders|Butterflies|Beetles|Bees
+es|¿En qué se convierten las orugas?|Arañas|Mariposas|Escarabajos|Abejas
+ja|イモムシは何になる？|クモ|チョウ|カブトムシ|ハチ
+zh|毛毛虫会变成什么？|蜘蛛|蝴蝶|甲虫|蜜蜂
+#Q 26 3 1
+ru|Какой материк самый холодный?|Европа|Азия|Антарктида|Северная Америка
+en|Which is the coldest continent?|Europe|Asia|Antarctica|North America
+es|¿Cuál es el continente más frío?|Europa|Asia|Antártida|América del Norte
+ja|最も寒い大陸は？|ヨーロッパ|アジア|南極大陸|北アメリカ
+zh|最冷的大洲是哪个？|欧洲|亚洲|南极洲|北美洲
+#Q 27 2 1
+ru|Какая гора самая высокая над уровнем моря?|К2|Эверест|Килиманджаро|Эльбрус
+en|Which mountain is the highest above sea level?|K2|Everest|Kilimanjaro|Elbrus
+es|¿Qué montaña es la más alta sobre el nivel del mar?|K2|Everest|Kilimanjaro|Elbrus
+ja|海抜が最も高い山は？|K2|エベレスト|キリマンジャロ|エルブルス
+zh|海拔最高的山峰是哪座？|乔戈里峰（K2）|珠穆朗玛峰|乞力马扎罗山|厄尔布鲁士山
+#Q 28 2 1
+ru|Какая птица откладывает самые большие яйца?|Курица|Страус|Орёл|Пингвин
+en|Which bird lays the largest eggs?|Chicken|Ostrich|Eagle|Penguin
+es|¿Qué ave pone los huevos más grandes?|Gallina|Avestruz|Águila|Pingüino
+ja|最も大きい卵を産む鳥は？|ニワトリ|ダチョウ|ワシ|ペンギン
+zh|哪种鸟下的蛋最大？|鸡|鸵鸟|鹰|企鹅
+#Q 29 3 1
+ru|Какая страна самая большая по площади?|Канада|Китай|Россия|США
+en|Which country is the largest by area?|Canada|China|Russia|USA
+es|¿Qué país es el más grande por superficie?|Canadá|China|Rusia|Estados Unidos
+ja|面積が最も大きい国は？|カナダ|中国|ロシア|アメリカ
+zh|面积最大的国家是哪个？|加拿大|中国|俄罗斯|美国
+#Q 30 2 1
+ru|В каком городе стоит Эйфелева башня?|Лондон|Париж|Рим|Берлин
+en|In which city is the Eiffel Tower?|London|Paris|Rome|Berlin
+es|¿En qué ciudad está la Torre Eiffel?|Londres|París|Roma|Berlín
+ja|エッフェル塔がある都市は？|ロンドン|パリ|ローマ|ベルリン
+zh|埃菲尔铁塔在哪座城市？|伦敦|巴黎|罗马|柏林
+#Q 31 2 1
+ru|Сколько ног у насекомого?|4|6|8|10
+en|How many legs does an insect have?|4|6|8|10
+es|¿Cuántas patas tiene un insecto?|4|6|8|10
+ja|昆虫の脚は何本？|4本|6本|8本|10本
+zh|昆虫有几条腿？|4条|6条|8条|10条
+#Q 32 2 1
+ru|Какая планета знаменита своими кольцами?|Марс|Сатурн|Венера|Меркурий
+en|Which planet is famous for its rings?|Mars|Saturn|Venus|Mercury
+es|¿Qué planeta es famoso por sus anillos?|Marte|Saturno|Venus|Mercurio
+ja|美しい環（リング）で有名な惑星は？|火星|土星|金星|水星
+zh|哪颗行星以美丽的光环闻名？|火星|土星|金星|水星
+#Q 33 1 1
+ru|Какой океан лежит между Африкой и Австралией?|Индийский|Атлантический|Тихий|Северный Ледовитый
+en|Which ocean lies between Africa and Australia?|Indian|Atlantic|Pacific|Arctic
+es|¿Qué océano está entre África y Australia?|Índico|Atlántico|Pacífico|Ártico
+ja|アフリカとオーストラリアの間にある海洋は？|インド洋|大西洋|太平洋|北極海
+zh|非洲和澳大利亚之间是哪个大洋？|印度洋|大西洋|太平洋|北冰洋
+#Q 34 3 1
+ru|Сколько секунд в одном часе?|360|600|3600|6000
+en|How many seconds are in one hour?|360|600|3600|6000
+es|¿Cuántos segundos tiene una hora?|360|600|3600|6000
+ja|1時間は何秒？|360秒|600秒|3600秒|6000秒
+zh|一小时有多少秒？|360秒|600秒|3600秒|6000秒
+#Q 35 2 1
+ru|Кто первым из людей полетел в космос?|Нил Армстронг|Юрий Гагарин|Базз Олдрин|Джон Гленн
+en|Who was the first person to fly into space?|Neil Armstrong|Yuri Gagarin|Buzz Aldrin|John Glenn
+es|¿Quién fue la primera persona en viajar al espacio?|Neil Armstrong|Yuri Gagarin|Buzz Aldrin|John Glenn
+ja|人類で初めて宇宙へ行ったのは？|ニール・アームストロング|ユーリイ・ガガーリン|バズ・オルドリン|ジョン・グレン
+zh|第一个进入太空的人是谁？|尼尔·阿姆斯特朗|尤里·加加林|巴兹·奥尔德林|约翰·格伦
+#Q 36 2 1
+ru|Кто написал «Мону Лизу»?|Микеланджело|Леонардо да Винчи|Рафаэль|Рембрандт
+en|Who painted the Mona Lisa?|Michelangelo|Leonardo da Vinci|Raphael|Rembrandt
+es|¿Quién pintó la Mona Lisa?|Miguel Ángel|Leonardo da Vinci|Rafael|Rembrandt
+ja|『モナ・リザ』を描いたのは？|ミケランジェロ|レオナルド・ダ・ヴィンチ|ラファエロ|レンブラント
+zh|《蒙娜丽莎》是谁画的？|米开朗基罗|列奥纳多·达·芬奇|拉斐尔|伦勃朗
+#Q 37 2 1
+ru|Кто написал «Ромео и Джульетту»?|Чарльз Диккенс|Уильям Шекспир|Лев Толстой|Иоганн Гёте
+en|Who wrote Romeo and Juliet?|Charles Dickens|William Shakespeare|Leo Tolstoy|Johann Goethe
+es|¿Quién escribió Romeo y Julieta?|Charles Dickens|William Shakespeare|León Tolstói|Johann Goethe
+ja|『ロミオとジュリエット』の作者は？|ディケンズ|シェイクスピア|トルストイ|ゲーテ
+zh|《罗密欧与朱丽叶》的作者是谁？|狄更斯|莎士比亚|托尔斯泰|歌德
+#Q 38 2 1
+ru|В какой стране зародились Олимпийские игры?|Италия|Греция|Египет|Китай
+en|In which country did the Olympic Games begin?|Italy|Greece|Egypt|China
+es|¿En qué país nacieron los Juegos Olímpicos?|Italia|Grecia|Egipto|China
+ja|オリンピックが始まった国は？|イタリア|ギリシャ|エジプト|中国
+zh|奥运会起源于哪个国家？|意大利|希腊|埃及|中国
+#Q 39 2 1
+ru|Сколько колец на олимпийском флаге?|4|5|6|7
+en|How many rings are on the Olympic flag?|4|5|6|7
+es|¿Cuántos anillos hay en la bandera olímpica?|4|5|6|7
+ja|オリンピック旗の輪はいくつ？|4つ|5つ|6つ|7つ
+zh|奥林匹克旗上有几个环？|4个|5个|6个|7个
+#Q 40 2 1
+ru|Какой корабль затонул в 1912 году, столкнувшись с айсбергом?|«Лузитания»|«Титаник»|«Британник»|«Олимпик»
+en|Which ship sank in 1912 after hitting an iceberg?|Lusitania|Titanic|Britannic|Olympic
+es|¿Qué barco se hundió en 1912 tras chocar con un iceberg?|Lusitania|Titanic|Britannic|Olympic
+ja|1912年に氷山に衝突して沈んだ船は？|ルシタニア号|タイタニック号|ブリタニック号|オリンピック号
+zh|1912年撞上冰山沉没的是哪艘船？|卢西塔尼亚号|泰坦尼克号|不列颠号|奥林匹克号
+#Q 41 2 1
+ru|В какой стране находится Рио-де-Жанейро?|Аргентина|Бразилия|Мексика|Чили
+en|Which country is Rio de Janeiro in?|Argentina|Brazil|Mexico|Chile
+es|¿En qué país está Río de Janeiro?|Argentina|Brasil|México|Chile
+ja|リオデジャネイロがある国は？|アルゼンチン|ブラジル|メキシコ|チリ
+zh|里约热内卢位于哪个国家？|阿根廷|巴西|墨西哥|智利
+#Q 42 3 1
+ru|Какая валюта в Японии?|Вона|Юань|Иена|Ринггит
+en|What is the currency of Japan?|Won|Yuan|Yen|Ringgit
+es|¿Cuál es la moneda de Japón?|Won|Yuan|Yen|Ringgit
+ja|日本の通貨は？|ウォン|元|円|リンギット
+zh|日本的货币是什么？|韩元|人民币|日元|林吉特
+#Q 43 2 1
+ru|В какой части растения в основном идёт фотосинтез?|В корне|В листе|В стебле|В цветке
+en|In which part of a plant does most photosynthesis happen?|Root|Leaf|Stem|Flower
+es|¿En qué parte de la planta ocurre la mayor parte de la fotosíntesis?|Raíz|Hoja|Tallo|Flor
+ja|植物の光合成が主に行われる部分は？|根|葉|茎|花
+zh|植物的光合作用主要在哪个部位进行？|根|叶|茎|花
+#Q 44 2 1
+ru|Какая из этих птиц не умеет летать?|Орёл|Пингвин|Ласточка|Попугай
+en|Which of these birds cannot fly?|Eagle|Penguin|Swallow|Parrot
+es|¿Cuál de estas aves no puede volar?|Águila|Pingüino|Golondrina|Loro
+ja|この中で飛べない鳥は？|ワシ|ペンギン|ツバメ|オウム
+zh|下面哪种鸟不会飞？|鹰|企鹅|燕子|鹦鹉
+#Q 45 2 1
+ru|Чем в основном питаются большие панды?|Рыбой|Бамбуком|Фруктами|Насекомыми
+en|What do giant pandas mainly eat?|Fish|Bamboo|Fruit|Insects
+es|¿Qué comen principalmente los pandas gigantes?|Pescado|Bambú|Fruta|Insectos
+ja|ジャイアントパンダが主に食べるものは？|魚|竹|果物|昆虫
+zh|大熊猫主要吃什么？|鱼|竹子|水果|昆虫
+#Q 46 3 1
+ru|Сколько недель в году?|48|50|52|54
+en|How many weeks are in a year?|48|50|52|54
+es|¿Cuántas semanas tiene un año?|48|50|52|54
+ja|1年は何週間？|48週|50週|52週|54週
+zh|一年有多少个星期？|48个|50个|52个|54个
+#Q 47 2 1
+ru|Как называется наша галактика?|Андромеда|Млечный Путь|Треугольник|Сомбреро
+en|What is the name of our galaxy?|Andromeda|Milky Way|Triangulum|Sombrero
+es|¿Cómo se llama nuestra galaxia?|Andrómeda|Vía Láctea|Triángulo|Sombrero
+ja|私たちが住む銀河は？|アンドロメダ銀河|天の川銀河|さんかく座銀河|ソンブレロ銀河
+zh|我们所在的星系叫什么？|仙女座星系|银河系|三角座星系|草帽星系
+#Q 48 2 1
+ru|Какая страна по форме похожа на сапог?|Греция|Италия|Испания|Португалия
+en|Which country is shaped like a boot?|Greece|Italy|Spain|Portugal
+es|¿Qué país tiene forma de bota?|Grecia|Italia|España|Portugal
+ja|長靴のような形をしている国は？|ギリシャ|イタリア|スペイン|ポルトガル
+zh|哪个国家的形状像一只靴子？|希腊|意大利|西班牙|葡萄牙
+#Q 49 2 1
+ru|Сколько нулей в числе миллион?|5|6|7|9
+en|How many zeros are there in one million?|5|6|7|9
+es|¿Cuántos ceros tiene un millón?|5|6|7|9
+ja|100万を数字で書くと0はいくつ？|5個|6個|7個|9個
+zh|一百万写成数字有几个零？|5个|6个|7个|9个
+#Q 50 2 1
+ru|Чему равен квадратный корень из 144?|11|12|13|14
+en|What is the square root of 144?|11|12|13|14
+es|¿Cuál es la raíz cuadrada de 144?|11|12|13|14
+ja|144の平方根（正の数）は？|11|12|13|14
+zh|144的平方根（正数）是多少？|11|12|13|14
+#Q 51 2 1
+ru|Сколько градусов в прямом угле?|45|90|180|360
+en|How many degrees are in a right angle?|45|90|180|360
+es|¿Cuántos grados tiene un ángulo recto?|45|90|180|360
+ja|直角は何度？|45度|90度|180度|360度
+zh|直角是多少度？|45度|90度|180度|360度
+#Q 52 2 1
+ru|Чему равна сумма углов треугольника?|90°|180°|270°|360°
+en|What do the angles of a triangle add up to?|90°|180°|270°|360°
+es|¿Cuánto suman los ángulos de un triángulo?|90°|180°|270°|360°
+ja|三角形の内角の和は？|90°|180°|270°|360°
+zh|三角形的内角和是多少？|90°|180°|270°|360°
+#Q 53 2 1
+ru|Какой напиток делают из перебродившего винограда?|Пиво|Вино|Саке|Квас
+en|Which drink is made from fermented grapes?|Beer|Wine|Sake|Kvass
+es|¿Qué bebida se hace con uvas fermentadas?|Cerveza|Vino|Sake|Kvas
+ja|ブドウを発酵させて作る飲み物は？|ビール|ワイン|日本酒|クワス
+zh|用葡萄发酵酿成的饮料是什么？|啤酒|葡萄酒|清酒|格瓦斯
+#Q 54 1 1
+ru|На каком дереве растут жёлуди?|Дуб|Клён|Сосна|Берёза
+en|Which tree grows acorns?|Oak|Maple|Pine|Birch
+es|¿Qué árbol da bellotas?|Roble|Arce|Pino|Abedul
+ja|ドングリがなる木は？|オーク（ナラ）|カエデ|マツ|シラカバ
+zh|哪种树结橡子？|橡树|枫树|松树|桦树
+#Q 55 3 1
+ru|Сколько клеток на шахматной доске?|36|49|64|81
+en|How many squares are on a chessboard?|36|49|64|81
+es|¿Cuántas casillas tiene un tablero de ajedrez?|36|49|64|81
+ja|チェス盤のマスはいくつ？|36|49|64|81
+zh|国际象棋棋盘上有多少个格子？|36个|49个|64个|81个
+#Q 56 1 1
+ru|Какое небесное тело сильнее всего вызывает приливы на Земле?|Луна|Солнце|Марс|Венера
+en|Which body in the sky causes most of Earth's tides?|The Moon|The Sun|Mars|Venus
+es|¿Qué astro causa la mayor parte de las mareas en la Tierra?|La Luna|El Sol|Marte|Venus
+ja|地球の潮の満ち引きを主に起こしている天体は？|月|太陽|火星|金星
+zh|引起地球潮汐的主要天体是什么？|月球|太阳|火星|金星
+#Q 57 1 1
+ru|В какой стране находится Тадж-Махал?|Индия|Пакистан|Иран|Турция
+en|In which country is the Taj Mahal?|India|Pakistan|Iran|Turkey
+es|¿En qué país está el Taj Mahal?|India|Pakistán|Irán|Turquía
+ja|タージ・マハルがある国は？|インド|パキスタン|イラン|トルコ
+zh|泰姬陵位于哪个国家？|印度|巴基斯坦|伊朗|土耳其
+#Q 58 1 1
+ru|Какое небесное тело в 2006 году перестали считать планетой?|Плутон|Церера|Эрида|Нептун
+en|Which body stopped being called a planet in 2006?|Pluto|Ceres|Eris|Neptune
+es|¿Qué cuerpo celeste dejó de considerarse planeta en 2006?|Plutón|Ceres|Eris|Neptuno
+ja|2006年に惑星から外されたのは？|冥王星|ケレス|エリス|海王星
+zh|哪个天体在2006年不再被算作行星？|冥王星|谷神星|阋神星|海王星
+#Q 59 2 1
+ru|Сколько планет в Солнечной системе?|7|8|9|10
+en|How many planets are in the Solar System?|7|8|9|10
+es|¿Cuántos planetas hay en el sistema solar?|7|8|9|10
+ja|太陽系の惑星はいくつ？|7個|8個|9個|10個
+zh|太阳系有几颗行星？|7颗|8颗|9颗|10颗
+#Q 60 2 1
+ru|Кто создал теорию относительности?|Исаак Ньютон|Альберт Эйнштейн|Чарльз Дарвин|Никола Тесла
+en|Who developed the theory of relativity?|Isaac Newton|Albert Einstein|Charles Darwin|Nikola Tesla
+es|¿Quién desarrolló la teoría de la relatividad?|Isaac Newton|Albert Einstein|Charles Darwin|Nikola Tesla
+ja|相対性理論を作ったのは？|ニュートン|アインシュタイン|ダーウィン|テスラ
+zh|谁提出了相对论？|牛顿|爱因斯坦|达尔文|特斯拉
+#Q 61 1 1
+ru|Кто предложил теорию эволюции путём естественного отбора?|Чарльз Дарвин|Грегор Мендель|Луи Пастер|Исаак Ньютон
+en|Who proposed evolution by natural selection?|Charles Darwin|Gregor Mendel|Louis Pasteur|Isaac Newton
+es|¿Quién propuso la evolución por selección natural?|Charles Darwin|Gregor Mendel|Louis Pasteur|Isaac Newton
+ja|自然選択による進化論を唱えたのは？|ダーウィン|メンデル|パスツール|ニュートン
+zh|谁提出了自然选择的进化论？|达尔文|孟德尔|巴斯德|牛顿
+#Q 62 2 1
+ru|В какой игре мяч загоняют в лунку за наименьшее число ударов?|Теннис|Гольф|Боулинг|Крикет
+en|In which sport do you get a ball into a hole in as few strokes as possible?|Tennis|Golf|Bowling|Cricket
+es|¿En qué deporte se mete una bola en un hoyo con el menor número de golpes?|Tenis|Golf|Bolos|Críquet
+ja|できるだけ少ない打数でボールを穴に入れるスポーツは？|テニス|ゴルフ|ボウリング|クリケット
+zh|哪项运动要用尽量少的击球次数把球打进洞里？|网球|高尔夫|保龄球|板球
+#Q 63 2 1
+ru|Сколько игроков одной команды на площадке в баскетболе?|4|5|6|7
+en|How many players per team are on the court in basketball?|4|5|6|7
+es|¿Cuántos jugadores por equipo hay en la cancha en baloncesto?|4|5|6|7
+ja|バスケットボールで1チームがコートに出る人数は？|4人|5人|6人|7人
+zh|篮球比赛中每队场上有几名球员？|4名|5名|6名|7名
+#Q 64 2 1
+ru|Какое животное самое высокое?|Слон|Жираф|Верблюд|Страус
+en|What is the tallest animal?|Elephant|Giraffe|Camel|Ostrich
+es|¿Cuál es el animal más alto?|Elefante|Jirafa|Camello|Avestruz
+ja|最も背が高い動物は？|ゾウ|キリン|ラクダ|ダチョウ
+zh|最高的动物是什么？|大象|长颈鹿|骆驼|鸵鸟
+#Q 65 2 1
+ru|Какое животное знаменито тем, что меняет цвет кожи?|Игуана|Хамелеон|Геккон|Лягушка
+en|Which animal is famous for changing the colour of its skin?|Iguana|Chameleon|Gecko|Frog
+es|¿Qué animal es famoso por cambiar el color de su piel?|Iguana|Camaleón|Geco|Rana
+ja|体の色を変えることで有名な動物は？|イグアナ|カメレオン|ヤモリ|カエル
+zh|哪种动物以会改变皮肤颜色而出名？|鬣蜥|变色龙|壁虎|青蛙
+#Q 66 2 2
+ru|Какой металл при комнатной температуре жидкий?|Железо|Ртуть|Серебро|Алюминий
+en|Which metal is liquid at room temperature?|Iron|Mercury|Silver|Aluminium
+es|¿Qué metal es líquido a temperatura ambiente?|Hierro|Mercurio|Plata|Aluminio
+ja|常温で液体の金属は？|鉄|水銀|銀|アルミニウム
+zh|哪种金属在室温下是液体？|铁|汞（水银）|银|铝
+#Q 67 3 2
+ru|Сколько зубов обычно у взрослого человека вместе с зубами мудрости?|28|30|32|36
+en|How many teeth does an adult usually have, including wisdom teeth?|28|30|32|36
+es|¿Cuántos dientes suele tener un adulto, incluidas las muelas del juicio?|28|30|32|36
+ja|親知らずを含めた大人の歯の数は普通何本？|28本|30本|32本|36本
+zh|成年人通常有多少颗牙齿（含智齿）？|28颗|30颗|32颗|36颗
+#Q 68 1 2
+ru|На каком языке как на родном говорит больше всего людей?|Китайский (путунхуа)|Английский|Испанский|Хинди
+en|Which language has the most native speakers?|Mandarin Chinese|English|Spanish|Hindi
+es|¿Qué idioma tiene más hablantes nativos?|Chino mandarín|Inglés|Español|Hindi
+ja|母語として話す人が最も多い言語は？|中国語（標準語）|英語|スペイン語|ヒンディー語
+zh|以母语人数计，使用人数最多的语言是？|汉语普通话|英语|西班牙语|印地语
+#Q 69 2 2
+ru|Сколько костей в скелете взрослого человека?|186|206|226|256
+en|How many bones are in the adult human skeleton?|186|206|226|256
+es|¿Cuántos huesos tiene el esqueleto humano adulto?|186|206|226|256
+ja|大人の人間の骨はいくつ？|186個|206個|226個|256個
+zh|成年人的骨骼一共有多少块骨头？|186块|206块|226块|256块
+#Q 70 2 2
+ru|Какого газа больше всего в атмосфере Земли?|Кислорода|Азота|Углекислого газа|Аргона
+en|Which gas makes up most of Earth's atmosphere?|Oxygen|Nitrogen|Carbon dioxide|Argon
+es|¿Qué gas forma la mayor parte de la atmósfera terrestre?|Oxígeno|Nitrógeno|Dióxido de carbono|Argón
+ja|地球の大気で最も多い気体は？|酸素|窒素|二酸化炭素|アルゴン
+zh|地球大气中含量最多的气体是什么？|氧气|氮气|二氧化碳|氩气
+#Q 71 2 2
+ru|При скольких градусах по Фаренгейту замерзает вода?|0 °F|32 °F|100 °F|212 °F
+en|At what temperature in Fahrenheit does water freeze?|0 °F|32 °F|100 °F|212 °F
+es|¿A cuántos grados Fahrenheit se congela el agua?|0 °F|32 °F|100 °F|212 °F
+ja|水が凍る温度は華氏何度？|0 °F|32 °F|100 °F|212 °F
+zh|水在华氏多少度结冰？|0 °F|32 °F|100 °F|212 °F
+#Q 72 2 2
+ru|Какая кость самая большая в теле человека?|Позвоночник|Бедренная кость|Череп|Плечевая кость
+en|What is the largest bone in the human body?|Spine|Femur (thigh bone)|Skull|Humerus
+es|¿Cuál es el hueso más grande del cuerpo humano?|Columna vertebral|Fémur|Cráneo|Húmero
+ja|人の体で最も大きい骨は？|背骨|大腿骨|頭蓋骨|上腕骨
+zh|人体最大的骨头是哪块？|脊柱|股骨|颅骨|肱骨
+#Q 73 1 2
+ru|Какая страна подарила США статую Свободы?|Франция|Великобритания|Испания|Италия
+en|Which country gave the Statue of Liberty to the USA?|France|United Kingdom|Spain|Italy
+es|¿Qué país regaló la Estatua de la Libertad a Estados Unidos?|Francia|Reino Unido|España|Italia
+ja|アメリカに自由の女神像を贈った国は？|フランス|イギリス|スペイン|イタリア
+zh|哪个国家把自由女神像送给了美国？|法国|英国|西班牙|意大利
+#Q 74 1 2
+ru|Какой остров самый большой в мире, если не считать материки?|Гренландия|Новая Гвинея|Калимантан|Мадагаскар
+en|What is the world's largest island, not counting continents?|Greenland|New Guinea|Borneo|Madagascar
+es|¿Cuál es la isla más grande del mundo, sin contar continentes?|Groenlandia|Nueva Guinea|Borneo|Madagascar
+ja|大陸を除いて世界最大の島は？|グリーンランド|ニューギニア島|ボルネオ島|マダガスカル島
+zh|除大陆外，世界上最大的岛是哪个？|格陵兰岛|新几内亚岛|加里曼丹岛|马达加斯加岛
+#Q 75 3 2
+ru|Какое простое число самое маленькое?|0|1|2|3
+en|What is the smallest prime number?|0|1|2|3
+es|¿Cuál es el número primo más pequeño?|0|1|2|3
+ja|最も小さい素数は？|0|1|2|3
+zh|最小的质数是几？|0|1|2|3
+#Q 76 4 2
+ru|Какой цвет не входит в три основных цвета света (RGB)?|Красный|Зелёный|Синий|Жёлтый
+en|Which colour is not one of the three primary colours of light (RGB)?|Red|Green|Blue|Yellow
+es|¿Qué color no es uno de los tres colores primarios de la luz (RGB)?|Rojo|Verde|Azul|Amarillo
+ja|光の三原色（RGB）に入らない色は？|赤|緑|青|黄
+zh|哪种颜色不属于光的三原色（RGB）？|红|绿|蓝|黄
+#Q 77 3 2
+ru|Какой город является столицей Австралии?|Сидней|Мельбурн|Канберра|Перт
+en|What is the capital of Australia?|Sydney|Melbourne|Canberra|Perth
+es|¿Cuál es la capital de Australia?|Sídney|Melbourne|Canberra|Perth
+ja|オーストラリアの首都は？|シドニー|メルボルン|キャンベラ|パース
+zh|澳大利亚的首都是哪座城市？|悉尼|墨尔本|堪培拉|珀斯
+#Q 78 3 2
+ru|Какой город является столицей Канады?|Торонто|Ванкувер|Оттава|Монреаль
+en|What is the capital of Canada?|Toronto|Vancouver|Ottawa|Montreal
+es|¿Cuál es la capital de Canadá?|Toronto|Vancouver|Ottawa|Montreal
+ja|カナダの首都は？|トロント|バンクーバー|オタワ|モントリオール
+zh|加拿大的首都是哪座城市？|多伦多|温哥华|渥太华|蒙特利尔
+#Q 79 3 2
+ru|Какой город является столицей Бразилии?|Рио-де-Жанейро|Сан-Паулу|Бразилиа|Салвадор
+en|What is the capital of Brazil?|Rio de Janeiro|São Paulo|Brasília|Salvador
+es|¿Cuál es la capital de Brasil?|Río de Janeiro|São Paulo|Brasilia|Salvador
+ja|ブラジルの首都は？|リオデジャネイロ|サンパウロ|ブラジリア|サルヴァドール
+zh|巴西的首都是哪座城市？|里约热内卢|圣保罗|巴西利亚|萨尔瓦多
+#Q 80 2 2
+ru|Сколько примерно идёт свет от Солнца до Земли?|8 секунд|8 минут|8 часов|1 день
+en|About how long does sunlight take to reach Earth?|8 seconds|8 minutes|8 hours|1 day
+es|¿Cuánto tarda aproximadamente la luz del Sol en llegar a la Tierra?|8 segundos|8 minutos|8 horas|1 día
+ja|太陽の光が地球に届くまでおよそどれくらい？|8秒|8分|8時間|1日
+zh|太阳光到达地球大约需要多长时间？|8秒|8分钟|8小时|1天
+#Q 81 1 2
+ru|Какое животное может дремать стоя?|Лошадь|Собака|Кошка|Свинья
+en|Which animal can doze while standing up?|Horse|Dog|Cat|Pig
+es|¿Qué animal puede dormitar de pie?|Caballo|Perro|Gato|Cerdo
+ja|立ったまま居眠りできる動物は？|ウマ|イヌ|ネコ|ブタ
+zh|哪种动物能站着打盹？|马|狗|猫|猪
+#Q 82 2 2
+ru|Какое млекопитающее умеет по-настоящему летать?|Белка-летяга|Летучая мышь|Сахарный поссум|Шерстокрыл
+en|Which mammal can truly fly?|Flying squirrel|Bat|Sugar glider|Colugo
+es|¿Qué mamífero puede volar de verdad?|Ardilla voladora|Murciélago|Petauro del azúcar|Colugo
+ja|本当に空を飛べる哺乳類は？|モモンガ|コウモリ|フクロモモンガ|ヒヨケザル
+zh|哪种哺乳动物能真正飞行？|鼯鼠|蝙蝠|蜜袋鼯|鼯猴
+#Q 83 1 2
+ru|Кто из них сумчатое животное?|Коала|Панда|Ленивец|Енот
+en|Which of these is a marsupial?|Koala|Panda|Sloth|Raccoon
+es|¿Cuál de estos es un marsupial?|Koala|Panda|Perezoso|Mapache
+ja|この中で有袋類はどれ？|コアラ|パンダ|ナマケモノ|アライグマ
+zh|下面哪种是有袋动物？|考拉|熊猫|树懒|浣熊
+#Q 84 3 2
+ru|Сколько сердец у осьминога?|1|2|3|4
+en|How many hearts does an octopus have?|1|2|3|4
+es|¿Cuántos corazones tiene un pulpo?|1|2|3|4
+ja|タコの心臓はいくつ？|1つ|2つ|3つ|4つ
+zh|章鱼有几颗心脏？|1颗|2颗|3颗|4颗
+#Q 85 2 2
+ru|Какой орган у человека самый большой?|Печень|Кожа|Мозг|Лёгкие
+en|What is the largest organ of the human body?|Liver|Skin|Brain|Lungs
+es|¿Cuál es el órgano más grande del cuerpo humano?|Hígado|Piel|Cerebro|Pulmones
+ja|人体で最も大きい器官は？|肝臓|皮膚|脳|肺
+zh|人体最大的器官是什么？|肝脏|皮肤|大脑|肺
+#Q 86 2 2
+ru|У какого химического элемента атомный номер 1?|Гелий|Водород|Кислород|Углерод
+en|Which element has atomic number 1?|Helium|Hydrogen|Oxygen|Carbon
+es|¿Qué elemento tiene el número atómico 1?|Helio|Hidrógeno|Oxígeno|Carbono
+ja|原子番号1の元素は？|ヘリウム|水素|酸素|炭素
+zh|原子序数为1的元素是什么？|氦|氢|氧|碳
+#Q 87 2 2
+ru|В каком году люди впервые высадились на Луну?|1965|1969|1972|1975
+en|In which year did people first land on the Moon?|1965|1969|1972|1975
+es|¿En qué año llegaron por primera vez personas a la Luna?|1965|1969|1972|1975
+ja|人類が初めて月に着陸したのは何年？|1965年|1969年|1972年|1975年
+zh|人类第一次登上月球是在哪一年？|1965年|1969年|1972年|1975年
+#Q 88 3 2
+ru|Какой композитор потерял слух, но продолжал сочинять?|Моцарт|Бах|Бетховен|Шопен
+en|Which composer went deaf but kept composing?|Mozart|Bach|Beethoven|Chopin
+es|¿Qué compositor se quedó sordo pero siguió componiendo?|Mozart|Bach|Beethoven|Chopin
+ja|耳が聞こえなくなっても作曲を続けた作曲家は？|モーツァルト|バッハ|ベートーヴェン|ショパン
+zh|哪位作曲家失聪后仍坚持作曲？|莫扎特|巴赫|贝多芬|肖邦
+#Q 89 3 2
+ru|Какое из семи чудес света сохранилось до наших дней?|Колосс Родосский|Висячие сады Семирамиды|Пирамида Хеопса|Александрийский маяк
+en|Which of the Seven Wonders of the Ancient World still stands?|Colossus of Rhodes|Hanging Gardens of Babylon|Great Pyramid of Giza|Lighthouse of Alexandria
+es|¿Cuál de las siete maravillas del mundo antiguo sigue en pie?|Coloso de Rodas|Jardines Colgantes de Babilonia|Gran Pirámide de Guiza|Faro de Alejandría
+ja|古代の世界七不思議で今も残っているのは？|ロドス島の巨像|バビロンの空中庭園|ギザの大ピラミッド|アレクサンドリアの大灯台
+zh|古代世界七大奇迹中，哪个至今仍然存在？|罗得岛太阳神巨像|巴比伦空中花园|吉萨大金字塔|亚历山大灯塔
+#Q 90 3 2
+ru|Какая цивилизация построила Мачу-Пикчу?|Ацтеки|Майя|Инки|Ольмеки
+en|Which civilisation built Machu Picchu?|Aztecs|Maya|Inca|Olmecs
+es|¿Qué civilización construyó Machu Picchu?|Aztecas|Mayas|Incas|Olmecas
+ja|マチュ・ピチュを築いた文明は？|アステカ|マヤ|インカ|オルメカ
+zh|马丘比丘是哪个文明建造的？|阿兹特克|玛雅|印加|奥尔梅克
+#Q 91 1 2
+ru|Какое озеро самое большое по площади?|Каспийское море|Верхнее|Байкал|Виктория
+en|Which lake has the largest area?|Caspian Sea|Lake Superior|Lake Baikal|Lake Victoria
+es|¿Qué lago tiene la mayor superficie?|Mar Caspio|Lago Superior|Lago Baikal|Lago Victoria
+ja|面積が最も大きい湖は？|カスピ海|スペリオル湖|バイカル湖|ビクトリア湖
+zh|面积最大的湖泊是哪个？|里海|苏必利尔湖|贝加尔湖|维多利亚湖
+#Q 92 1 2
+ru|Какое озеро самое глубокое в мире?|Байкал|Танганьика|Каспийское море|Верхнее
+en|Which is the deepest lake in the world?|Lake Baikal|Lake Tanganyika|Caspian Sea|Lake Superior
+es|¿Cuál es el lago más profundo del mundo?|Lago Baikal|Lago Tanganica|Mar Caspio|Lago Superior
+ja|世界で最も深い湖は？|バイカル湖|タンガニーカ湖|カスピ海|スペリオル湖
+zh|世界上最深的湖是哪个？|贝加尔湖|坦噶尼喀湖|里海|苏必利尔湖
+#Q 93 2 2
+ru|В какой из этих стран валюта называется песо?|Бразилия|Мексика|Перу|Испания
+en|Which of these countries uses the peso?|Brazil|Mexico|Peru|Spain
+es|¿Cuál de estos países usa el peso?|Brasil|México|Perú|España
+ja|この中で通貨が「ペソ」の国は？|ブラジル|メキシコ|ペルー|スペイン
+zh|下面哪个国家使用比索？|巴西|墨西哥|秘鲁|西班牙
+#Q 94 3 2
+ru|Сколько камер в сердце человека?|2|3|4|5
+en|How many chambers does the human heart have?|2|3|4|5
+es|¿Cuántas cavidades tiene el corazón humano?|2|3|4|5
+ja|人間の心臓の部屋はいくつ？|2つ|3つ|4つ|5つ
+zh|人的心脏有几个腔？|2个|3个|4个|5个
+#Q 95 2 2
+ru|Какая из больших кошек самая крупная?|Лев|Тигр|Ягуар|Леопард
+en|Which is the largest species of big cat?|Lion|Tiger|Jaguar|Leopard
+es|¿Cuál es la especie de gran felino más grande?|León|Tigre|Jaguar|Leopardo
+ja|大型ネコ科動物で最も大きいのは？|ライオン|トラ|ジャガー|ヒョウ
+zh|体型最大的大型猫科动物是什么？|狮子|老虎|美洲豹|豹
+#Q 96 2 2
+ru|Какая звезда ближе всех к Земле?|Сириус|Солнце|Проксима Центавра|Полярная звезда
+en|Which star is closest to Earth?|Sirius|The Sun|Proxima Centauri|Polaris
+es|¿Qué estrella está más cerca de la Tierra?|Sirio|El Sol|Próxima Centauri|Polaris
+ja|地球に最も近い恒星は？|シリウス|太陽|プロキシマ・ケンタウリ|北極星
+zh|离地球最近的恒星是哪颗？|天狼星|太阳|比邻星|北极星
+#Q 97 2 2
+ru|На каком языке в основном говорят в Бразилии?|Испанский|Португальский|Французский|Английский
+en|What is the main language of Brazil?|Spanish|Portuguese|French|English
+es|¿Cuál es el idioma principal de Brasil?|Español|Portugués|Francés|Inglés
+ja|ブラジルで主に話されている言語は？|スペイン語|ポルトガル語|フランス語|英語
+zh|巴西的主要语言是什么？|西班牙语|葡萄牙语|法语|英语
+#Q 98 3 2
+ru|Сколько будет 15% от 200?|15|20|30|45
+en|What is 15% of 200?|15|20|30|45
+es|¿Cuánto es el 15 % de 200?|15|20|30|45
+ja|200の15%は？|15|20|30|45
+zh|200的15%是多少？|15|20|30|45
+#Q 99 3 2
+ru|Какое из этих чисел простое?|21|27|29|33
+en|Which of these numbers is prime?|21|27|29|33
+es|¿Cuál de estos números es primo?|21|27|29|33
+ja|この中で素数はどれ？|21|27|29|33
+zh|下面哪个数是质数？|21|27|29|33
+#Q 100 3 2
+ru|Какой витамин вырабатывается в коже под солнцем?|Витамин A|Витамин C|Витамин D|Витамин K
+en|Which vitamin does skin make in sunlight?|Vitamin A|Vitamin C|Vitamin D|Vitamin K
+es|¿Qué vitamina produce la piel con la luz del sol?|Vitamina A|Vitamina C|Vitamina D|Vitamina K
+ja|日光を浴びると皮膚で作られるビタミンは？|ビタミンA|ビタミンC|ビタミンD|ビタミンK
+zh|皮肤晒太阳时会合成哪种维生素？|维生素A|维生素C|维生素D|维生素K
+#Q 101 2 2
+ru|Из чего делают тофу?|Из риса|Из сои|Из пшеницы|Из кукурузы
+en|What is tofu made from?|Rice|Soybeans|Wheat|Corn
+es|¿De qué se hace el tofu?|Arroz|Soja|Trigo|Maíz
+ja|豆腐の原料は？|米|大豆|小麦|トウモロコシ
+zh|豆腐是用什么做的？|大米|大豆|小麦|玉米
+#Q 102 1 2
+ru|Какую дорогую пряность получают из рылец фиолетового цветка?|Шафран|Корица|Куркума|Ваниль
+en|Which expensive spice is made from the stigmas of a purple flower?|Saffron|Cinnamon|Turmeric|Vanilla
+es|¿Qué especia cara se obtiene de los estigmas de una flor morada?|Azafrán|Canela|Cúrcuma|Vainilla
+ja|紫の花のめしべから作られる高価なスパイスは？|サフラン|シナモン|ターメリック|バニラ
+zh|哪种昂贵的香料取自一种紫色花朵的柱头？|藏红花|肉桂|姜黄|香草
+#Q 103 2 2
+ru|Из какого ореха делают марципан?|Грецкий орех|Миндаль|Арахис|Фундук
+en|Which nut is marzipan made from?|Walnut|Almond|Peanut|Hazelnut
+es|¿De qué fruto seco se hace el mazapán?|Nuez|Almendra|Cacahuete|Avellana
+ja|マジパンの主な材料になるナッツは？|クルミ|アーモンド|ピーナッツ|ヘーゼルナッツ
+zh|杏仁糖膏（marzipan）是用哪种坚果做的？|核桃|杏仁|花生|榛子
+#Q 104 3 2
+ru|Сколько спутников у Марса?|0|1|2|4
+en|How many moons does Mars have?|0|1|2|4
+es|¿Cuántas lunas tiene Marte?|0|1|2|4
+ja|火星の衛星はいくつ？|0個|1個|2個|4個
+zh|火星有几颗卫星？|0颗|1颗|2颗|4颗
+#Q 105 1 2
+ru|Кто открыл пенициллин?|Александр Флеминг|Луи Пастер|Роберт Кох|Мария Кюри
+en|Who discovered penicillin?|Alexander Fleming|Louis Pasteur|Robert Koch|Marie Curie
+es|¿Quién descubrió la penicilina?|Alexander Fleming|Louis Pasteur|Robert Koch|Marie Curie
+ja|ペニシリンを発見したのは？|フレミング|パスツール|コッホ|キュリー夫人
+zh|谁发现了青霉素？|弗莱明|巴斯德|科赫|居里夫人
+#Q 106 1 2
+ru|Где прошли первые современные Олимпийские игры в 1896 году?|В Греции|Во Франции|В Великобритании|В США
+en|Which country hosted the first modern Olympics in 1896?|Greece|France|United Kingdom|USA
+es|¿Qué país organizó los primeros Juegos Olímpicos modernos en 1896?|Grecia|Francia|Reino Unido|Estados Unidos
+ja|1896年に第1回近代オリンピックを開いた国は？|ギリシャ|フランス|イギリス|アメリカ
+zh|1896年首届现代奥运会在哪个国家举办？|希腊|法国|英国|美国
+#Q 107 2 2
+ru|Какова длина марафонской дистанции?|21,1 км|42,2 км|50 км|100 км
+en|How long is a marathon?|21.1 km|42.2 km|50 km|100 km
+es|¿Cuánto mide un maratón?|21,1 km|42,2 km|50 km|100 km
+ja|マラソンの距離は？|21.1 km|42.2 km|50 km|100 km
+zh|马拉松全程有多长？|21.1公里|42.2公里|50公里|100公里
+#Q 108 2 2
+ru|Какая шахматная фигура ходит только по диагонали?|Ладья|Слон|Конь|Ферзь
+en|Which chess piece moves only diagonally?|Rook|Bishop|Knight|Queen
+es|¿Qué pieza de ajedrez se mueve solo en diagonal?|Torre|Alfil|Caballo|Dama
+ja|チェスで斜めにしか動けない駒は？|ルーク|ビショップ|ナイト|クイーン
+zh|国际象棋中哪个棋子只能斜着走？|车|象|马|后
+#Q 109 2 2
+ru|Сколько лучей обычно у морской звезды?|4|5|6|8
+en|How many arms does a starfish usually have?|4|5|6|8
+es|¿Cuántos brazos suele tener una estrella de mar?|4|5|6|8
+ja|ヒトデの腕はふつう何本？|4本|5本|6本|8本
+zh|海星通常有几条腕？|4条|5条|6条|8条
+#Q 110 2 2
+ru|Зачем змеи высовывают язык?|Чтобы слышать|Чтобы чувствовать запахи|Чтобы видеть|Чтобы охлаждаться
+en|Why do snakes flick their tongues?|To hear|To smell|To see|To cool down
+es|¿Para qué sacan la lengua las serpientes?|Para oír|Para oler|Para ver|Para refrescarse
+ja|ヘビが舌を出し入れするのは何のため？|音を聞くため|においを感じるため|見るため|体を冷やすため
+zh|蛇为什么经常吐舌头？|为了听声音|为了闻气味|为了看东西|为了降温
+#Q 111 2 2
+ru|Какое устройство превращает звук в электрический сигнал?|Динамик|Микрофон|Батарейка|Лампочка
+en|Which device turns sound into an electrical signal?|Speaker|Microphone|Battery|Light bulb
+es|¿Qué dispositivo convierte el sonido en señal eléctrica?|Altavoz|Micrófono|Pila|Bombilla
+ja|音を電気信号に変える装置は？|スピーカー|マイク|電池|電球
+zh|哪种设备能把声音转换成电信号？|扬声器|麦克风|电池|灯泡
+#Q 112 3 2
+ru|Какая страна производит больше всего кофе?|Колумбия|Вьетнам|Бразилия|Эфиопия
+en|Which country produces the most coffee?|Colombia|Vietnam|Brazil|Ethiopia
+es|¿Qué país produce más café?|Colombia|Vietnam|Brasil|Etiopía
+ja|コーヒー豆の生産量が最も多い国は？|コロンビア|ベトナム|ブラジル|エチオピア
+zh|哪个国家的咖啡产量最高？|哥伦比亚|越南|巴西|埃塞俄比亚
+#Q 113 1 2
+ru|В каком океане находится Бермудский треугольник?|Атлантический|Тихий|Индийский|Северный Ледовитый
+en|In which ocean is the Bermuda Triangle?|Atlantic|Pacific|Indian|Arctic
+es|¿En qué océano está el Triángulo de las Bermudas?|Atlántico|Pacífico|Índico|Ártico
+ja|バミューダトライアングルがある海洋は？|大西洋|太平洋|インド洋|北極海
+zh|百慕大三角位于哪个大洋？|大西洋|太平洋|印度洋|北冰洋
+#Q 114 2 2
+ru|Какая река течёт через Париж?|Темза|Сена|Дунай|Рейн
+en|Which river flows through Paris?|Thames|Seine|Danube|Rhine
+es|¿Qué río atraviesa París?|Támesis|Sena|Danubio|Rin
+ja|パリを流れる川は？|テムズ川|セーヌ川|ドナウ川|ライン川
+zh|哪条河流经巴黎？|泰晤士河|塞纳河|多瑙河|莱茵河
+#Q 115 2 2
+ru|Какой город называют «Большим яблоком»?|Лос-Анджелес|Нью-Йорк|Чикаго|Бостон
+en|Which city is nicknamed the Big Apple?|Los Angeles|New York|Chicago|Boston
+es|¿Qué ciudad es conocida como la Gran Manzana?|Los Ángeles|Nueva York|Chicago|Boston
+ja|「ビッグ・アップル」と呼ばれる都市は？|ロサンゼルス|ニューヨーク|シカゴ|ボストン
+zh|哪座城市被称为“大苹果”？|洛杉矶|纽约|芝加哥|波士顿
+#Q 116 1 2
+ru|У берегов какой страны находится Большой Барьерный риф?|Австралия|Индонезия|Филиппины|Новая Зеландия
+en|Off the coast of which country is the Great Barrier Reef?|Australia|Indonesia|Philippines|New Zealand
+es|¿Frente a la costa de qué país está la Gran Barrera de Coral?|Australia|Indonesia|Filipinas|Nueva Zelanda
+ja|グレート・バリア・リーフがあるのはどの国の沖？|オーストラリア|インドネシア|フィリピン|ニュージーランド
+zh|大堡礁位于哪个国家的沿海？|澳大利亚|印度尼西亚|菲律宾|新西兰
+#Q 117 2 2
+ru|Какой цветок считается символом Нидерландов?|Роза|Тюльпан|Лилия|Подсолнух
+en|Which flower is a symbol of the Netherlands?|Rose|Tulip|Lily|Sunflower
+es|¿Qué flor es símbolo de los Países Bajos?|Rosa|Tulipán|Lirio|Girasol
+ja|オランダの象徴とされる花は？|バラ|チューリップ|ユリ|ヒマワリ
+zh|哪种花被视为荷兰的象征？|玫瑰|郁金香|百合|向日葵
+#Q 118 1 2
+ru|Какая планета самая маленькая в Солнечной системе?|Меркурий|Марс|Венера|Земля
+en|Which is the smallest planet in the Solar System?|Mercury|Mars|Venus|Earth
+es|¿Cuál es el planeta más pequeño del sistema solar?|Mercurio|Marte|Venus|La Tierra
+ja|太陽系で最も小さい惑星は？|水星|火星|金星|地球
+zh|太阳系中最小的行星是哪颗？|水星|火星|金星|地球
+#Q 119 1 2
+ru|В какой стране изобрели бумагу?|Китай|Египет|Греция|Индия
+en|Where was paper invented?|China|Egypt|Greece|India
+es|¿Dónde se inventó el papel?|China|Egipto|Grecia|India
+ja|紙が発明された国は？|中国|エジプト|ギリシャ|インド
+zh|纸最早是在哪里发明的？|中国|埃及|希腊|印度
+#Q 120 2 2
+ru|Какой главный продукт в гуакамоле?|Помидор|Авокадо|Горошек|Огурец
+en|What is the main ingredient of guacamole?|Tomato|Avocado|Peas|Cucumber
+es|¿Cuál es el ingrediente principal del guacamole?|Tomate|Aguacate|Guisantes|Pepino
+ja|ワカモレの主な材料は？|トマト|アボカド|グリーンピース|キュウリ
+zh|墨西哥鳄梨酱的主要原料是什么？|番茄|牛油果|豌豆|黄瓜
+#Q 121 2 2
+ru|Какой элемент обозначается символом Fe?|Фтор|Железо|Фосфор|Свинец
+en|Which element has the symbol Fe?|Fluorine|Iron|Phosphorus|Lead
+es|¿Qué elemento tiene el símbolo Fe?|Flúor|Hierro|Fósforo|Plomo
+ja|元素記号がFeの元素は？|フッ素|鉄|リン|鉛
+zh|元素符号Fe代表哪种元素？|氟|铁|磷|铅
+#Q 122 2 2
+ru|Какой химический символ у золота?|Ag|Au|Gd|Go
+en|What is the chemical symbol for gold?|Ag|Au|Gd|Go
+es|¿Cuál es el símbolo químico del oro?|Ag|Au|Gd|Go
+ja|金の元素記号は？|Ag|Au|Gd|Go
+zh|金的化学符号是什么？|Ag|Au|Gd|Go
+#Q 123 1 3
+ru|У какой страны больше всего часовых поясов, если считать заморские территории?|Франция|Россия|США|Китай
+en|Which country has the most time zones, counting overseas territories?|France|Russia|USA|China
+es|¿Qué país tiene más husos horarios, contando sus territorios de ultramar?|Francia|Rusia|Estados Unidos|China
+ja|海外領土を含めると、タイムゾーンが最も多い国は？|フランス|ロシア|アメリカ|中国
+zh|如果算上海外领土，哪个国家的时区最多？|法国|俄罗斯|美国|中国
+#Q 124 1 3
+ru|Какая планета вращается, как бы лёжа на боку?|Уран|Нептун|Сатурн|Венера
+en|Which planet spins almost on its side?|Uranus|Neptune|Saturn|Venus
+es|¿Qué planeta gira casi tumbado de lado?|Urano|Neptuno|Saturno|Venus
+ja|横倒しのような向きで自転している惑星は？|天王星|海王星|土星|金星
+zh|哪颗行星几乎是“躺着”自转的？|天王星|海王星|土星|金星
+#Q 125 4 3
+ru|Кровь какой группы считается универсальной донорской?|A (II) Rh+|B (III) Rh-|AB (IV) Rh+|0 (I) Rh-
+en|Which blood type is known as the universal donor?|A+|B-|AB+|O-
+es|¿Qué grupo sanguíneo se conoce como donante universal?|A+|B-|AB+|O-
+ja|「万能供血者」と呼ばれる血液型は？|A型Rh+|B型Rh-|AB型Rh+|O型Rh-
+zh|哪种血型被称为“万能献血者”？|A型Rh阳性|B型Rh阴性|AB型Rh阳性|O型Rh阴性
+#Q 126 2 3
+ru|С какой скоростью примерно распространяется звук в воздухе?|120 м/с|340 м/с|1000 м/с|3000 м/с
+en|Roughly how fast does sound travel in air?|120 m/s|340 m/s|1000 m/s|3000 m/s
+es|¿A qué velocidad viaja aproximadamente el sonido en el aire?|120 m/s|340 m/s|1000 m/s|3000 m/s
+ja|空気中を伝わる音の速さはおよそ？|秒速120 m|秒速340 m|秒速1000 m|秒速3000 m
+zh|声音在空气中的传播速度大约是多少？|120米/秒|340米/秒|1000米/秒|3000米/秒
+#Q 127 3 3
+ru|Какого химического элемента больше всего во Вселенной?|Кислорода|Гелия|Водорода|Углерода
+en|Which element is the most abundant in the universe?|Oxygen|Helium|Hydrogen|Carbon
+es|¿Cuál es el elemento más abundante del universo?|Oxígeno|Helio|Hidrógeno|Carbono
+ja|宇宙で最も多い元素は？|酸素|ヘリウム|水素|炭素
+zh|宇宙中含量最多的元素是什么？|氧|氦|氢|碳
+#Q 128 2 3
+ru|Какая планета самая горячая?|Меркурий|Венера|Марс|Юпитер
+en|Which planet is the hottest?|Mercury|Venus|Mars|Jupiter
+es|¿Cuál es el planeta más caliente?|Mercurio|Venus|Marte|Júpiter
+ja|最も高温の惑星は？|水星|金星|火星|木星
+zh|哪颗行星表面最热？|水星|金星|火星|木星
+#Q 129 1 3
+ru|У какого моря нет берегов?|Саргассово|Красное|Мёртвое|Коралловое
+en|Which sea has no coastline?|Sargasso Sea|Red Sea|Dead Sea|Coral Sea
+es|¿Qué mar no tiene costas?|Mar de los Sargazos|Mar Rojo|Mar Muerto|Mar del Coral
+ja|海岸線がない海は？|サルガッソ海|紅海|死海|サンゴ海
+zh|哪个海没有海岸线？|马尾藻海|红海|死海|珊瑚海
+#Q 130 1 3
+ru|Где находится самая низкая точка суши?|На берегу Мёртвого моря|В Долине Смерти|В Прикаспийской низменности|У озера Ассаль
+en|Where is the lowest point on dry land?|Dead Sea shore|Death Valley|Caspian Depression|Lake Assal
+es|¿Dónde está el punto más bajo de tierra firme?|Orilla del mar Muerto|Valle de la Muerte|Depresión del Caspio|Lago Assal
+ja|陸地で最も低い場所はどこ？|死海の湖岸|デスバレー|カスピ海沿岸低地|アッサル湖
+zh|陆地上最低的地方在哪里？|死海沿岸|死亡谷|里海低地|阿萨勒湖
+#Q 131 3 3
+ru|Что из этого с точки зрения ботаники не плод?|Помидор|Огурец|Морковь|Перец
+en|Which of these is not a fruit in botanical terms?|Tomato|Cucumber|Carrot|Bell pepper
+es|¿Cuál de estos no es un fruto en términos botánicos?|Tomate|Pepino|Zanahoria|Pimiento
+ja|植物学的に「果実」ではないのはどれ？|トマト|キュウリ|ニンジン|ピーマン
+zh|从植物学上看，下面哪个不是果实？|番茄|黄瓜|胡萝卜|甜椒
+#Q 132 1 3
+ru|Какое вещество делает перец чили острым?|Капсаицин|Кофеин|Ментол|Пиперин
+en|Which substance makes chili peppers hot?|Capsaicin|Caffeine|Menthol|Piperine
+es|¿Qué sustancia hace picante al chile?|Capsaicina|Cafeína|Mentol|Piperina
+ja|唐辛子の辛さのもとになる物質は？|カプサイシン|カフェイン|メントール|ピペリン
+zh|让辣椒变辣的物质是什么？|辣椒素|咖啡因|薄荷醇|胡椒碱
+#Q 133 1 3
+ru|На какой планете самые короткие сутки?|Юпитер|Сатурн|Земля|Марс
+en|Which planet has the shortest day?|Jupiter|Saturn|Earth|Mars
+es|¿Qué planeta tiene el día más corto?|Júpiter|Saturno|La Tierra|Marte
+ja|1日（自転周期）が最も短い惑星は？|木星|土星|地球|火星
+zh|哪颗行星的一天（自转周期）最短？|木星|土星|地球|火星
+#Q 134 2 3
+ru|Какой спутник самый большой в Солнечной системе?|Титан|Ганимед|Европа|Луна
+en|Which is the largest moon in the Solar System?|Titan|Ganymede|Europa|The Moon
+es|¿Cuál es la luna más grande del sistema solar?|Titán|Ganímedes|Europa|La Luna
+ja|太陽系で最も大きい衛星は？|タイタン|ガニメデ|エウロパ|月
+zh|太阳系中最大的卫星是哪颗？|土卫六（泰坦）|木卫三（盖尼米德）|木卫二（欧罗巴）|月球
+#Q 135 1 3
+ru|Кто получил Нобелевские премии по двум разным наукам?|Мария Кюри|Альберт Эйнштейн|Нильс Бор|Лайнус Полинг
+en|Who won Nobel Prizes in two different sciences?|Marie Curie|Albert Einstein|Niels Bohr|Linus Pauling
+es|¿Quién ganó premios Nobel en dos ciencias distintas?|Marie Curie|Albert Einstein|Niels Bohr|Linus Pauling
+ja|異なる2つの科学分野でノーベル賞を受けたのは？|マリー・キュリー|アインシュタイン|ボーア|ポーリング
+zh|谁在两个不同的科学领域获得了诺贝尔奖？|居里夫人|爱因斯坦|玻尔|鲍林
+#Q 136 1 3
+ru|В какой стране появилась древняя игра, из которой выросли шахматы?|Индия|Китай|Персия|Греция
+en|Where did the ancient game that became chess first appear?|India|China|Persia|Greece
+es|¿Dónde apareció el antiguo juego del que surgió el ajedrez?|India|China|Persia|Grecia
+ja|チェスの元になった古代のゲームが生まれた国は？|インド|中国|ペルシャ|ギリシャ
+zh|国际象棋的前身最早出现在哪里？|印度|中国|波斯|希腊
+#Q 137 2 3
+ru|Какого цвета на самом деле «чёрный ящик» самолёта?|Чёрного|Оранжевого|Красного|Жёлтого
+en|What colour is an aircraft's black box really?|Black|Orange|Red|Yellow
+es|¿De qué color es realmente la caja negra de un avión?|Negro|Naranja|Rojo|Amarillo
+ja|飛行機の「ブラックボックス」の本当の色は？|黒|オレンジ|赤|黄
+zh|飞机“黑匣子”实际上是什么颜色？|黑色|橙色|红色|黄色
+#Q 138 2 3
+ru|В какой стране находится гора Килиманджаро?|Кения|Танзания|Эфиопия|Уганда
+en|In which country is Mount Kilimanjaro?|Kenya|Tanzania|Ethiopia|Uganda
+es|¿En qué país está el monte Kilimanjaro?|Kenia|Tanzania|Etiopía|Uganda
+ja|キリマンジャロ山がある国は？|ケニア|タンザニア|エチオピア|ウガンダ
+zh|乞力马扎罗山位于哪个国家？|肯尼亚|坦桑尼亚|埃塞俄比亚|乌干达
+#Q 139 1 3
+ru|У какой страны самая длинная береговая линия?|Канада|Россия|Австралия|Индонезия
+en|Which country has the longest coastline?|Canada|Russia|Australia|Indonesia
+es|¿Qué país tiene la costa más larga?|Canadá|Rusia|Australia|Indonesia
+ja|海岸線が最も長い国は？|カナダ|ロシア|オーストラリア|インドネシア
+zh|哪个国家的海岸线最长？|加拿大|俄罗斯|澳大利亚|印度尼西亚
+#Q 140 3 3
+ru|Сколько часовых поясов в России?|9|10|11|12
+en|How many time zones does Russia have?|9|10|11|12
+es|¿Cuántos husos horarios tiene Rusia?|9|10|11|12
+ja|ロシアのタイムゾーンはいくつ？|9|10|11|12
+zh|俄罗斯有几个时区？|9个|10个|11个|12个
+#Q 141 2 3
+ru|В какой стране больше всего древних пирамид?|Египет|Судан|Мексика|Перу
+en|Which country has the most ancient pyramids?|Egypt|Sudan|Mexico|Peru
+es|¿Qué país tiene más pirámides antiguas?|Egipto|Sudán|México|Perú
+ja|古代のピラミッドが最も多い国は？|エジプト|スーダン|メキシコ|ペルー
+zh|哪个国家的古代金字塔数量最多？|埃及|苏丹|墨西哥|秘鲁
+#Q 142 3 3
+ru|Где находится самая маленькая кость человека?|В пальце ноги|В носу|В ухе|В запястье
+en|Where is the smallest bone in the human body?|In a toe|In the nose|In the ear|In the wrist
+es|¿Dónde está el hueso más pequeño del cuerpo humano?|En un dedo del pie|En la nariz|En el oído|En la muñeca
+ja|人体で最も小さい骨がある場所は？|足の指|鼻|耳|手首
+zh|人体最小的骨头位于哪里？|脚趾|鼻子|耳朵|手腕
+#Q 143 1 3
+ru|У какого животного отпечатки пальцев почти как у человека?|Коала|Собака|Кошка|Кенгуру
+en|Which animal has fingerprints very similar to humans'?|Koala|Dog|Cat|Kangaroo
+es|¿Qué animal tiene huellas dactilares muy parecidas a las humanas?|Koala|Perro|Gato|Canguro
+ja|人間とそっくりな指紋を持つ動物は？|コアラ|イヌ|ネコ|カンガルー
+zh|哪种动物的指纹和人类非常相似？|考拉|狗|猫|袋鼠
+#Q 144 3 3
+ru|Сколько глаз у пчелы?|2|3|5|8
+en|How many eyes does a honeybee have?|2|3|5|8
+es|¿Cuántos ojos tiene una abeja?|2|3|5|8
+ja|ミツバチの目はいくつ？|2つ|3つ|5つ|8つ
+zh|蜜蜂有几只眼睛？|2只|3只|5只|8只
+#Q 145 1 3
+ru|Какой океан самый солёный?|Атлантический|Тихий|Индийский|Северный Ледовитый
+en|Which ocean is the saltiest?|Atlantic|Pacific|Indian|Arctic
+es|¿Cuál es el océano más salado?|Atlántico|Pacífico|Índico|Ártico
+ja|最も塩分が濃い海洋は？|大西洋|太平洋|インド洋|北極海
+zh|哪个大洋的盐度最高？|大西洋|太平洋|印度洋|北冰洋
+#Q 146 1 3
+ru|В какой стране больше всего озёр?|Канада|Финляндия|Россия|США
+en|Which country has the most lakes?|Canada|Finland|Russia|USA
+es|¿Qué país tiene más lagos?|Canadá|Finlandia|Rusia|Estados Unidos
+ja|湖の数が最も多い国は？|カナダ|フィンランド|ロシア|アメリカ
+zh|哪个国家的湖泊数量最多？|加拿大|芬兰|俄罗斯|美国
+#Q 147 2 3
+ru|Плотность какой планеты меньше плотности воды?|Юпитер|Сатурн|Уран|Нептун
+en|Which planet is less dense than water?|Jupiter|Saturn|Uranus|Neptune
+es|¿Qué planeta es menos denso que el agua?|Júpiter|Saturno|Urano|Neptuno
+ja|水より密度が小さい惑星は？|木星|土星|天王星|海王星
+zh|哪颗行星的密度比水还小？|木星|土星|天王星|海王星
+#Q 148 2 3
+ru|В каком году пала Берлинская стена?|1987|1989|1991|1993
+en|In which year did the Berlin Wall fall?|1987|1989|1991|1993
+es|¿En qué año cayó el Muro de Berlín?|1987|1989|1991|1993
+ja|ベルリンの壁が崩壊したのは何年？|1987年|1989年|1991年|1993年
+zh|柏林墙在哪一年倒塌？|1987年|1989年|1991年|1993年
+#Q 149 3 3
+ru|В какой стране находится пустыня Атакама?|Перу|Аргентина|Чили|Боливия
+en|In which country is the Atacama Desert?|Peru|Argentina|Chile|Bolivia
+es|¿En qué país está el desierto de Atacama?|Perú|Argentina|Chile|Bolivia
+ja|アタカマ砂漠がある国は？|ペルー|アルゼンチン|チリ|ボリビア
+zh|阿塔卡马沙漠位于哪个国家？|秘鲁|阿根廷|智利|玻利维亚
+#Q 150 2 3
+ru|С какой скоростью примерно движется свет?|30 000 км/с|300 000 км/с|3 000 000 км/с|3000 км/с
+en|Roughly how fast does light travel?|30,000 km/s|300,000 km/s|3,000,000 km/s|3,000 km/s
+es|¿A qué velocidad viaja aproximadamente la luz?|30 000 km/s|300 000 km/s|3 000 000 km/s|3000 km/s
+ja|光の速さはおよそ？|秒速3万 km|秒速30万 km|秒速300万 km|秒速3000 km
+zh|光速大约是多少？|每秒3万公里|每秒30万公里|每秒300万公里|每秒3000公里
