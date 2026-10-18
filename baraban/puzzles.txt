@@ -1,0 +1,152 @@
+#BARABAN 1
+#VERSION 2026-10-18
+ru|1|Блюдо из теста с мясом, которое лепят и варят|ПЕЛЬМЕНИ
+ru|2|Самая большая планета Солнечной системы|ЮПИТЕР
+ru|3|Прибор, который показывает стороны света|КОМПАС
+ru|4|Морское животное с восемью щупальцами|ОСЬМИНОГ
+ru|5|Музыкальный инструмент с чёрными и белыми клавишами|ПИАНИНО
+ru|6|Птица, которая не летает и живёт в Антарктиде|ПИНГВИН
+ru|7|Самый большой океан на Земле|ТИХИЙ
+ru|8|Учёный, который изучает звёзды и планеты|АСТРОНОМ
+ru|9|Сладкое лакомство из какао-бобов|ШОКОЛАД
+ru|10|Самый твёрдый природный камень|АЛМАЗ
+ru|11|Тропический фрукт, который любят обезьяны|БАНАН
+ru|12|Столица Франции|ПАРИЖ
+ru|13|Подземная железная дорога в большом городе|МЕТРО
+ru|14|Машина с большим винтом сверху, которая умеет зависать в воздухе|ВЕРТОЛЕТ
+ru|15|Самое высокое животное на планете|ЖИРАФ
+ru|16|Детская игра: один водит, а остальные прячутся|ПРЯТКИ
+ru|17|Время года, когда желтеют и опадают листья|ОСЕНЬ
+ru|18|Самое глубокое озеро в мире|БАЙКАЛ
+ru|19|Школьный предмет о числах и фигурах|МАТЕМАТИКА
+ru|20|Деревянный мальчик с длинным носом из сказки Алексея Толстого|БУРАТИНО
+ru|21|Корабль, на котором Юрий Гагарин первым полетел в космос|ВОСТОК
+ru|22|Детёныш лошади|ЖЕРЕБЕНОК
+ru|23|Игра на доске 8 на 8, в которой главная фигура король|ШАХМАТЫ
+ru|24|Насекомое, которое делает мёд|ПЧЕЛА
+ru|25|Место, где смотрят фильмы на большом экране|КИНОТЕАТР
+ru|26|Белый человечек из снежных комов|СНЕГОВИК
+ru|27|Дуга из семи цветов на небе после дождя|РАДУГА
+ru|28|Самый быстрый зверь на суше|ГЕПАРД
+ru|29|Материк, где живут кенгуру и коалы|АВСТРАЛИЯ
+ru|30|Музыкальный инструмент с шестью струнами|ГИТАРА
+ru|31|Поэт, написавший «Евгения Онегина»|ПУШКИН
+ru|32|Огромная гробница фараона в Египте|ПИРАМИДА
+ru|33|Человек, который тушит пожары|ПОЖАРНЫЙ
+ru|34|Энциклопедия в интернете, которую пишут добровольцы|ВИКИПЕДИЯ
+ru|35|Ягода, из которой делают изюм|ВИНОГРАД
+ru|36|Крупный зверь Арктики с белой шерстью|БЕЛЫЙ МЕДВЕДЬ
+ru|37|Праздник, когда загадывают желание под бой курантов|НОВЫЙ ГОД
+ru|38|Сказка Пушкина о жадной старухе и разбитом корыте|СКАЗКА О РЫБАКЕ И РЫБКЕ
+ru|39|Место, откуда запускают космические ракеты|КОСМОДРОМ
+ru|40|Зелёный огр из мультфильма, который живёт на болоте|ШРЕК
+ru|41|Компьютерная игра из кубиков, где строят и выживают|МАЙНКРАФТ
+ru|42|Жёлтый электрический покемон|ПИКАЧУ
+ru|43|Командная игра на льду с шайбой и клюшками|ХОККЕЙ
+ru|44|Юный волшебник со шрамом в виде молнии|ГАРРИ ПОТТЕР
+ru|45|Газ, которым мы дышим|КИСЛОРОД
+ru|46|Книга с картами всего мира|АТЛАС
+ru|47|Холодный летний суп на квасе|ОКРОШКА
+ru|48|Часы, которые будят по утрам|БУДИЛЬНИК
+ru|49|Сказочная птица, которая возрождается из пепла|ФЕНИКС
+ru|50|Фильм, нарисованный художниками или на компьютере|МУЛЬТФИЛЬМ
+en|1|A dish of pasta sheets, meat sauce and cheese|LASAGNA
+en|2|The largest planet in the Solar System|JUPITER
+en|3|A tool that shows which way is north|COMPASS
+en|4|A sea animal with eight arms|OCTOPUS
+en|5|An instrument with black and white keys|PIANO
+en|6|A bird that cannot fly and lives in Antarctica|PENGUIN
+en|7|The largest ocean on Earth|PACIFIC
+en|8|A scientist who studies stars and planets|ASTRONOMER
+en|9|A sweet treat made from cocoa beans|CHOCOLATE
+en|10|The hardest natural gemstone|DIAMOND
+en|11|A long yellow fruit that monkeys love|BANANA
+en|12|The capital of France|PARIS
+en|13|The tallest animal in the world|GIRAFFE
+en|14|A flying machine with a big rotor on top|HELICOPTER
+en|15|A game where one player counts and the others hide|HIDE AND SEEK
+en|16|The season when leaves turn yellow and fall|AUTUMN
+en|17|The deepest lake in the world|BAIKAL
+en|18|The school subject about numbers and shapes|MATHEMATICS
+en|19|A wooden puppet whose nose grows when he lies|PINOCCHIO
+en|20|A figure made of big snowballs|SNOWMAN
+en|21|An arc of seven colors in the sky after rain|RAINBOW
+en|22|The fastest animal on land|CHEETAH
+en|23|The country where kangaroos and koalas live|AUSTRALIA
+en|24|A string instrument with six strings|GUITAR
+en|25|A board game where you must checkmate the king|CHESS
+en|26|A place where you watch films on a big screen|CINEMA
+en|27|A person whose job is to put out fires|FIREFIGHTER
+en|28|The platform from which rockets take off|LAUNCH PAD
+en|29|A green ogre who lives in a swamp|SHREK
+en|30|A game made of blocks where you build and survive|MINECRAFT
+en|31|A yellow electric Pokémon|PIKACHU
+en|32|A team sport on ice with a puck and sticks|HOCKEY
+en|33|A young wizard with a lightning-shaped scar|HARRY POTTER
+en|34|The gas we need to breathe|OXYGEN
+en|35|A book full of maps|ATLAS
+en|36|A clock that wakes you up in the morning|ALARM CLOCK
+en|37|A bird that rises again from its own ashes|PHOENIX
+en|38|A film made of drawings or computer animation|CARTOON
+en|39|The network that connects computers all over the world|INTERNET
+en|40|A free online encyclopedia written by volunteers|WIKIPEDIA
+en|41|A huge tomb of a pharaoh in Egypt|PYRAMID
+en|42|Dried grapes|RAISINS
+en|43|A big white bear of the Arctic|POLAR BEAR
+en|44|The holiday that starts on the first of January|NEW YEAR
+en|45|A girl who lost her glass slipper at the ball|CINDERELLA
+en|46|A flat round Italian dish baked with tomato and cheese|PIZZA
+en|47|A cold sweet dessert, often served in a cone|ICE CREAM
+en|48|A story by Lewis Carroll about a girl who falls down a rabbit hole|ALICE IN WONDERLAND
+en|49|A phone with a touch screen and apps|SMARTPHONE
+en|50|The famous clock tower in London|BIG BEN
+es|1|Plato italiano de capas de pasta, carne y queso|LASAÑA
+es|2|El planeta más grande del sistema solar|JUPITER
+es|3|Instrumento que indica dónde está el norte|BRUJULA
+es|4|Animal marino con ocho brazos|PULPO
+es|5|Instrumento musical con teclas blancas y negras|PIANO
+es|6|Ave que no vuela y vive en la Antártida|PINGUINO
+es|7|El océano más grande de la Tierra|PACIFICO
+es|8|Científico que estudia las estrellas y los planetas|ASTRONOMO
+es|9|Dulce hecho con granos de cacao|CHOCOLATE
+es|10|La piedra preciosa natural más dura|DIAMANTE
+es|11|Fruta roja o verde, como la que mordió Blancanieves|MANZANA
+es|12|La capital de Francia|PARIS
+es|13|El animal más alto del mundo|JIRAFA
+es|14|Aparato que vuela con una gran hélice encima|HELICOPTERO
+es|15|Juego de mesa con rey y reina en un tablero de 8 por 8|AJEDREZ
+es|16|Estación del año en que caen las hojas|OTOÑO
+es|17|El lago más profundo del mundo|BAIKAL
+es|18|Asignatura de números y figuras|MATEMATICAS
+es|19|Muñeco de madera al que le crece la nariz|PINOCHO
+es|20|Figura blanca hecha con bolas de nieve|MUÑECO DE NIEVE
+es|21|Arco de siete colores en el cielo después de la lluvia|ARCOIRIS
+es|22|El animal terrestre más rápido|GUEPARDO
+es|23|País donde viven los canguros y los koalas|AUSTRALIA
+es|24|Instrumento de seis cuerdas|GUITARRA
+es|25|Insecto que produce miel|ABEJA
+es|26|Edificio donde se guardan y exponen obras de arte|MUSEO
+es|27|Persona que apaga incendios|BOMBERO
+es|28|Ogro verde que vive en un pantano|SHREK
+es|29|Videojuego de bloques donde se construye y se sobrevive|MINECRAFT
+es|30|Pokémon amarillo y eléctrico|PIKACHU
+es|31|Deporte en hielo con disco y palos|HOCKEY
+es|32|Joven mago con una cicatriz en forma de rayo|HARRY POTTER
+es|33|El gas que necesitamos para respirar|OXIGENO
+es|34|Libro lleno de mapas|ATLAS
+es|35|Reloj que te despierta por la mañana|DESPERTADOR
+es|36|Ave que renace de sus propias cenizas|FENIX
+es|37|Películas hechas con dibujos o por ordenador|DIBUJOS ANIMADOS
+es|38|La red que conecta ordenadores de todo el mundo|INTERNET
+es|39|Enciclopedia libre en internet escrita por voluntarios|WIKIPEDIA
+es|40|Tumba gigante de un faraón en Egipto|PIRAMIDE
+es|41|Uvas secas|PASAS
+es|42|Gran oso blanco del Ártico|OSO POLAR
+es|43|Plato italiano redondo con tomate y queso, al horno|PIZZA
+es|44|Postre frío y dulce, a menudo en cucurucho|HELADO
+es|45|Joven que perdió su zapato de cristal en el baile|CENICIENTA
+es|46|Famosa torre de hierro de París|TORRE EIFFEL
+es|47|Plato de arroz con mariscos, típico de Valencia|PAELLA
+es|48|Novela de Cervantes sobre un caballero y su escudero Sancho|DON QUIJOTE
+es|49|Instrumento para ver cosas muy pequeñas|MICROSCOPIO
+es|50|El planeta conocido como el planeta rojo|MARTE
