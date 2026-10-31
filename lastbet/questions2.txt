@@ -1,6 +1,6 @@
 #LASTBET 1
 #LANGS ru en es ja zh
-#VERSION 2026-10-31-1208
+#VERSION 2026-10-31-1236
 #Q 1 1 1
 ru|Какой океан самый большой?|Тихий|Атлантический|Индийский|Северный Ледовитый
 en|Which ocean is the largest?|Pacific|Atlantic|Indian|Arctic
@@ -9601,3 +9601,2103 @@ en|Which British studio created Banjo-Kazooie and Donkey Kong Country?|Rare|Rock
 es|¿Qué estudio británico creó Banjo-Kazooie y Donkey Kong Country?|Rare|Rocksteady|Codemasters|Lionhead
 ja|「バンジョーとカズーイの大冒険」や「スーパードンキーコング」を作ったイギリスのスタジオは？|レア社|ロックステディ|コードマスターズ|ライオンヘッド
 zh|哪家英国工作室制作了《班卓熊大冒险》和《大金刚国度》？|Rare|Rocksteady|Codemasters|Lionhead
+#Q 2401 1 1 2
+ru|В какой деревне ниндзя живёт Наруто?|В Конохе (Деревне Скрытого Листа)|В Суне (Деревне Скрытого Песка)|В Кири (Деревне Скрытого Тумана)|В Иве (Деревне Скрытого Камня)
+en|Which ninja village does Naruto live in?|Konoha (the Hidden Leaf)|Suna (the Hidden Sand)|Kiri (the Hidden Mist)|Iwa (the Hidden Stone)
+es|¿En qué aldea ninja vive Naruto?|Konoha (la Aldea Oculta de la Hoja)|Suna (la Aldea Oculta de la Arena)|Kiri (la Aldea Oculta de la Niebla)|Iwa (la Aldea Oculta de la Roca)
+ja|ナルトが住んでいる忍の里は？|木ノ葉隠れの里|砂隠れの里|霧隠れの里|岩隠れの里
+zh|鸣人住在哪个忍者村？|木叶村|砂隐村|雾隐村|岩隐村
+#Q 2402 4 1 2
+ru|Кем мечтает стать Наруто Узумаки?|Королём пиратов|Героем номер один|Лучшим охотником|Хокаге
+en|What does Naruto Uzumaki dream of becoming?|King of the Pirates|The number one hero|The best hunter|Hokage
+es|¿Qué sueña con llegar a ser Naruto Uzumaki?|Rey de los Piratas|El héroe número uno|El mejor cazador|Hokage
+ja|うずまきナルトの夢は何になること？|海賊王|No.1ヒーロー|最強のハンター|火影
+zh|漩涡鸣人的梦想是成为什么？|海贼王|第一英雄|最强猎人|火影
+#Q 2403 4 1 2
+ru|Какое блюдо больше всего любит Наруто?|Суши|Онигири|Тэмпуру|Рамен
+en|What is Naruto's favorite food?|Sushi|Onigiri|Tempura|Ramen
+es|¿Cuál es la comida favorita de Naruto?|El sushi|El onigiri|La tempura|El ramen
+ja|ナルトの大好物は？|寿司|おにぎり|天ぷら|ラーメン
+zh|鸣人最爱吃什么？|寿司|饭团|天妇罗|拉面
+#Q 2404 2 1 2
+ru|Как зовут друга и соперника Наруто из клана Учиха?|Какаши|Саске|Неджи|Гаара
+en|What is the name of Naruto's friend and rival from the Uchiha clan?|Kakashi|Sasuke|Neji|Gaara
+es|¿Cómo se llama el amigo y rival de Naruto del clan Uchiha?|Kakashi|Sasuke|Neji|Gaara
+ja|ナルトの親友でありライバルでもある、うちは一族の少年は？|カカシ|サスケ|ネジ|我愛羅
+zh|鸣人那位出身宇智波一族的好友兼对手叫什么？|卡卡西|佐助|宁次|我爱罗
+#Q 2405 2 1 2
+ru|Кто учитель седьмой команды Наруто, Саске и Сакуры?|Джирайя|Какаши|Ирука|Гай
+en|Who is the teacher of Team 7, with Naruto, Sasuke and Sakura?|Jiraiya|Kakashi|Iruka|Guy
+es|¿Quién es el maestro del Equipo 7, el de Naruto, Sasuke y Sakura?|Jiraiya|Kakashi|Iruka|Gai
+ja|ナルト、サスケ、サクラの第七班の先生は？|自来也|カカシ|イルカ|ガイ
+zh|鸣人、佐助、小樱所在的第七班的老师是谁？|自来也|卡卡西|伊鲁卡|凯
+#Q 2406 4 1 2
+ru|Какого цвета волосы у Наруто?|Чёрные|Рыжие|Розовые|Светлые, жёлтые
+en|What color is Naruto's hair?|Black|Red|Pink|Blond yellow
+es|¿De qué color es el pelo de Naruto?|Negro|Pelirrojo|Rosa|Rubio amarillo
+ja|ナルトの髪の色は？|黒|赤|ピンク|金色（黄色）
+zh|鸣人的头发是什么颜色？|黑色|红色|粉色|金黄色
+#Q 2407 1 1 2
+ru|Как зовут сына Наруто, героя продолжения?|Боруто|Минато|Конохамару|Шикадай
+en|What is the name of Naruto's son, hero of the sequel?|Boruto|Minato|Konohamaru|Shikadai
+es|¿Cómo se llama el hijo de Naruto, protagonista de la continuación?|Boruto|Minato|Konohamaru|Shikadai
+ja|続編の主人公になったナルトの息子の名前は？|ボルト|ミナト|木ノ葉丸|シカダイ
+zh|鸣人的儿子、续作的主角叫什么？|博人|水门|木叶丸|鹿代
+#Q 2408 2 1 2
+ru|Какую шляпу всегда носит Луффи из «Ван-Пис»?|Ковбойскую|Соломенную|Цилиндр|Треуголку
+en|What kind of hat does Luffy from One Piece always wear?|A cowboy hat|A straw hat|A top hat|A tricorn hat
+es|¿Qué sombrero lleva siempre Luffy, de One Piece?|Un sombrero vaquero|Un sombrero de paja|Una chistera|Un tricornio
+ja|『ONE PIECE』のルフィがいつもかぶっている帽子は？|カウボーイハット|麦わら帽子|シルクハット|三角帽
+zh|《海贼王》中的路飞总是戴着什么帽子？|牛仔帽|草帽|礼帽|三角帽
+#Q 2409 3 1 2
+ru|Сколькими мечами одновременно сражается Зоро?|1|2|3|4
+en|How many swords does Zoro fight with at once?|1|2|3|4
+es|¿Con cuántas espadas a la vez lucha Zoro?|1|2|3|4
+ja|ゾロが同時に使う刀の本数は？|1本|2本|3本|4本
+zh|索隆同时用几把刀战斗？|1把|2把|3把|4把
+#Q 2410 1 1 2
+ru|Какую еду больше всего любит Луффи?|Мясо|Рыбу|Рис|Фрукты
+en|What food does Luffy love most?|Meat|Fish|Rice|Fruit
+es|¿Qué comida le gusta más a Luffy?|La carne|El pescado|El arroz|La fruta
+ja|ルフィの大好物は？|肉|魚|ご飯|果物
+zh|路飞最爱吃什么？|肉|鱼|米饭|水果
+#Q 2411 2 1 2
+ru|Как называется знаменитая атака Гоку, которую выпускают из сложенных ладоней?|Расенган|Камехамеха|Гэцуга Тэнсё|Хадокен
+en|What is Goku's famous attack, fired from cupped hands?|Rasengan|Kamehameha|Getsuga Tensho|Hadouken
+es|¿Cómo se llama el famoso ataque de Goku que se lanza con las manos juntas?|Rasengan|Kamehameha|Getsuga Tensho|Hadouken
+ja|悟空が両手を合わせて放つ有名な技は？|螺旋丸|かめはめ波|月牙天衝|波動拳
+zh|悟空双手合拢发出的著名招式叫什么？|螺旋丸|龟派气功|月牙天冲|波动拳
+#Q 2412 1 1 2
+ru|К какой расе относится Гоку из «Жемчуга дракона»?|Сайяны|Намекианцы|Земляне|Андроиды
+en|Which race does Goku from Dragon Ball belong to?|Saiyans|Namekians|Earthlings|Androids
+es|¿A qué raza pertenece Goku, de Dragon Ball?|Saiyan|Namekiano|Terrícola|Androide
+ja|「ドラゴンボール」の悟空はどの種族？|サイヤ人|ナメック星人|地球人|人造人間
+zh|《龙珠》中的悟空属于哪个种族？|赛亚人|那美克星人|地球人|人造人
+#Q 2413 4 1 2
+ru|Какого цвета становятся волосы Гоку, когда он превращается в Супер Сайяна?|Красными|Синими|Белыми|Золотыми
+en|What color does Goku's hair turn when he becomes a Super Saiyan?|Red|Blue|White|Golden
+es|¿De qué color se le pone el pelo a Goku al convertirse en Super Saiyan?|Rojo|Azul|Blanco|Dorado
+ja|悟空がスーパーサイヤ人になると、髪は何色になる？|赤|青|白|金色
+zh|悟空变成超级赛亚人时头发会变成什么颜色？|红色|蓝色|白色|金色
+#Q 2414 1 1 2
+ru|Как зовут гордого принца сайянов, вечного соперника Гоку?|Вегета|Пикколо|Фриза|Гохан
+en|What is the name of the proud Saiyan prince who is Goku's eternal rival?|Vegeta|Piccolo|Frieza|Gohan
+es|¿Cómo se llama el orgulloso príncipe saiyan, eterno rival de Goku?|Vegeta|Piccolo|Freezer|Gohan
+ja|悟空の永遠のライバルで、誇り高いサイヤ人の王子は？|ベジータ|ピッコロ|フリーザ|悟飯
+zh|悟空的永恒对手、骄傲的赛亚人王子叫什么？|贝吉塔|比克|弗利萨|悟饭
+#Q 2415 2 1 2
+ru|Как зовут девушку, которая всегда защищает Эрена в «Атаке титанов»?|Энни|Микаса|Саша|Хистория
+en|What is the name of the girl who always protects Eren in Attack on Titan?|Annie|Mikasa|Sasha|Historia
+es|¿Cómo se llama la chica que siempre protege a Eren en Ataque a los titanes?|Annie|Mikasa|Sasha|Historia
+ja|「進撃の巨人」で、いつもエレンを守っている少女は？|アニ|ミカサ|サシャ|ヒストリア
+zh|《进击的巨人》中总是保护艾伦的女孩叫什么？|阿尼|三笠|萨沙|希斯特利亚
+#Q 2416 3 1 2
+ru|Кем стала сестра Танджиро, Нэдзуко, в начале «Клинка, рассекающего демонов»?|Призраком|Лисицей-оборотнем|Демоном|Каменной статуей
+en|What did Tanjiro's sister Nezuko become at the start of Demon Slayer?|A ghost|A fox spirit|A demon|A stone statue
+es|¿En qué se convirtió Nezuko, la hermana de Tanjiro, al principio de Kimetsu no Yaiba?|En un fantasma|En un espíritu zorro|En un demonio|En una estatua de piedra
+ja|「鬼滅の刃」の冒頭で、炭治郎の妹・禰豆子は何になってしまった？|幽霊|狐の妖怪|鬼|石像
+zh|《鬼灭之刃》开头，炭治郎的妹妹祢豆子变成了什么？|幽灵|狐妖|鬼|石像
+#Q 2417 4 1 2
+ru|Что носит на голове Иноске из «Клинка, рассекающего демонов»?|Маску лисы|Маску тигра|Самурайский шлем|Голову кабана
+en|What does Inosuke from Demon Slayer wear on his head?|A fox mask|A tiger mask|A samurai helmet|A boar's head
+es|¿Qué lleva en la cabeza Inosuke, de Kimetsu no Yaiba?|Una máscara de zorro|Una máscara de tigre|Un casco de samurái|Una cabeza de jabalí
+ja|「鬼滅の刃」の伊之助が頭にかぶっているものは？|狐の面|虎の面|武士の兜|猪の頭
+zh|《鬼灭之刃》中的伊之助头上戴着什么？|狐狸面具|老虎面具|武士头盔|野猪头套
+#Q 2418 4 1 2
+ru|Какой фрукт обожает бог смерти Рюк из «Тетради смерти»?|Бананы|Виноград|Персики|Яблоки
+en|Which fruit does the death god Ryuk from Death Note adore?|Bananas|Grapes|Peaches|Apples
+es|¿Qué fruta adora el dios de la muerte Ryuk, de Death Note?|Los plátanos|Las uvas|Los melocotones|Las manzanas
+ja|「DEATH NOTE」の死神リュークの大好物の果物は？|バナナ|ブドウ|モモ|リンゴ
+zh|《死亡笔记》中的死神琉克最爱吃什么水果？|香蕉|葡萄|桃子|苹果
+#Q 2419 4 1 2
+ru|Чего не любит Пикачу Эша в аниме «Покемон»?|Летать|Купаться|Спать на улице|Сидеть в покеболе
+en|What does Ash's Pikachu dislike in the Pokémon anime?|Flying|Swimming|Sleeping outside|Staying inside a Poké Ball
+es|¿Qué no le gusta al Pikachu de Ash en el anime de Pokémon?|Volar|Bañarse|Dormir al aire libre|Estar dentro de una Poké Ball
+ja|アニメ「ポケモン」で、サトシのピカチュウが嫌がることは？|空を飛ぶこと|泳ぐこと|外で寝ること|モンスターボールに入ること
+zh|在动画《宝可梦》里，小智的皮卡丘不喜欢什么？|飞行|游泳|在外面睡觉|待在精灵球里
+#Q 2420 4 1 2
+ru|Какое лакомство обожает Дораэмон?|Моти|Данго|Тайяки|Дораяки
+en|Which treat does Doraemon adore?|Mochi|Dango|Taiyaki|Dorayaki
+es|¿Qué dulce adora Doraemon?|Mochi|Dango|Taiyaki|Dorayaki
+ja|ドラえもんの大好物は？|お餅|団子|たい焼き|どら焼き
+zh|哆啦A梦最爱吃什么？|年糕|团子|鲷鱼烧|铜锣烧
+#Q 2421 4 2 2
+ru|Какую технику Наруто выучил у Джирайи?|Чидори|Аматэрасу|Райкири|Расенган
+en|Which technique did Naruto learn from Jiraiya?|Chidori|Amaterasu|Raikiri|Rasengan
+es|¿Qué técnica aprendió Naruto de Jiraiya?|Chidori|Amaterasu|Raikiri|Rasengan
+ja|ナルトが自来也から教わった術は？|千鳥|天照|雷切|螺旋丸
+zh|鸣人从自来也那里学会的忍术是什么？|千鸟|天照|雷切|螺旋丸
+#Q 2422 1 2 2
+ru|Как называются особые глаза клана Учиха?|Шаринган|Бьякуган|Гиасс|Шесть глаз
+en|What are the special eyes of the Uchiha clan called?|Sharingan|Byakugan|Geass|Six Eyes
+es|¿Cómo se llaman los ojos especiales del clan Uchiha?|Sharingan|Byakugan|Geass|Seis Ojos
+ja|うちは一族が持つ特別な瞳の名前は？|写輪眼|白眼|ギアス|六眼
+zh|宇智波一族的特殊眼睛叫什么？|写轮眼|白眼|Geass|六眼
+#Q 2423 4 2 2
+ru|Из какой деревни ниндзя родом Гаара?|Из Деревни Скрытого Листа|Из Деревни Скрытого Тумана|Из Деревни Скрытого Облака|Из Деревни Скрытого Песка
+en|Which ninja village is Gaara from?|The Hidden Leaf|The Hidden Mist|The Hidden Cloud|The Hidden Sand
+es|¿De qué aldea ninja es Gaara?|De la Aldea Oculta de la Hoja|De la Aldea Oculta de la Niebla|De la Aldea Oculta de las Nubes|De la Aldea Oculta de la Arena
+ja|我愛羅の出身の里は？|木ノ葉隠れの里|霧隠れの里|雲隠れの里|砂隠れの里
+zh|我爱罗来自哪个忍者村？|木叶村|雾隐村|云隐村|砂隐村
+#Q 2424 4 2 2
+ru|Как зовут старшего брата Саске?|Обито|Мадара|Шисуи|Итачи
+en|What is the name of Sasuke's older brother?|Obito|Madara|Shisui|Itachi
+es|¿Cómo se llama el hermano mayor de Sasuke?|Obito|Madara|Shisui|Itachi
+ja|サスケの兄の名前は？|オビト|マダラ|シスイ|イタチ
+zh|佐助的哥哥叫什么名字？|带土|斑|止水|鼬
+#Q 2425 4 2 2
+ru|Какой узор украшает плащи организации Акацуки?|Чёрные молнии|Белые звёзды|Синие волны|Красные облака
+en|Which pattern decorates the cloaks of the Akatsuki?|Black lightning bolts|White stars|Blue waves|Red clouds
+es|¿Qué dibujo adorna las capas de Akatsuki?|Rayos negros|Estrellas blancas|Olas azules|Nubes rojas
+ja|「暁」のメンバーが着ているマントの模様は？|黒い稲妻|白い星|青い波|赤い雲
+zh|“晓”组织成员的斗篷上是什么图案？|黑色闪电|白色星星|蓝色波浪|红云
+#Q 2426 4 2 2
+ru|Кем работает Санджи в команде Луффи?|Штурманом|Врачом|Музыкантом|Коком
+en|What is Sanji's job on Luffy's crew?|Navigator|Doctor|Musician|Cook
+es|¿Qué función tiene Sanji en la tripulación de Luffy?|Navegante|Médico|Músico|Cocinero
+ja|ルフィの一味でサンジの役割は？|航海士|船医|音楽家|コック
+zh|山治在路飞的海贼团中担任什么？|航海士|船医|音乐家|厨师
+#Q 2427 3 2 2
+ru|Каким животным является доктор Чоппер из «Ван-Пис»?|Енотом|Медведем|Северным оленем|Собакой
+en|What animal is the doctor Chopper from One Piece?|A raccoon|A bear|A reindeer|A dog
+es|¿Qué animal es el médico Chopper, de One Piece?|Un mapache|Un oso|Un reno|Un perro
+ja|『ONE PIECE』の船医チョッパーは何の動物？|タヌキ|クマ|トナカイ|イヌ
+zh|《海贼王》中的船医乔巴是什么动物？|狸猫|熊|驯鹿|狗
+#Q 2428 4 2 2
+ru|Как звали Короля пиратов, чьё сокровище ищет Луффи?|Белоус|Шанкс|Чёрная Борода|Гол Д. Роджер
+en|Who was the King of the Pirates whose treasure Luffy is searching for?|Whitebeard|Shanks|Blackbeard|Gol D. Roger
+es|¿Quién era el Rey de los Piratas cuyo tesoro busca Luffy?|Barbablanca|Shanks|Barbanegra|Gol D. Roger
+ja|ルフィが探している財宝を残した「海賊王」は？|白ひげ|シャンクス|黒ひげ|ゴール・D・ロジャー
+zh|路飞在寻找的宝藏是哪位“海贼王”留下的？|白胡子|香克斯|黑胡子|哥尔·D·罗杰
+#Q 2429 4 2 2
+ru|Кто подарил Луффи его знаменитую шляпу?|Гарп|Эйс|Багги|Шанкс
+en|Who gave Luffy his famous hat?|Garp|Ace|Buggy|Shanks
+es|¿Quién le regaló a Luffy su famoso sombrero?|Garp|Ace|Buggy|Shanks
+ja|ルフィにあの有名な帽子を預けたのは誰？|ガープ|エース|バギー|シャンクス
+zh|是谁把那顶著名的帽子交给了路飞？|卡普|艾斯|巴基|香克斯
+#Q 2430 2 2 2
+ru|На чём летал маленький Гоку?|На драконе Шенроне|На волшебном облаке Кинто|На ковре-самолёте|На метле
+en|What did young Goku fly around on?|The dragon Shenron|The Flying Nimbus cloud|A magic carpet|A broomstick
+es|¿En qué volaba Goku de pequeño?|En el dragón Shenron|En la Nube Kinton|En una alfombra mágica|En una escoba
+ja|子どもの頃の悟空が乗って空を飛んでいたものは？|神龍|筋斗雲|空飛ぶじゅうたん|ほうき
+zh|小时候的悟空乘着什么飞来飞去？|神龙|筋斗云|魔毯|扫帚
+#Q 2431 3 2 2
+ru|Какой злодей уничтожил родную планету сайянов?|Селл|Буу|Фриза|Пикколо
+en|Which villain destroyed the Saiyans' home planet?|Cell|Buu|Frieza|Piccolo
+es|¿Qué villano destruyó el planeta natal de los saiyan?|Cell|Buu|Freezer|Piccolo
+ja|サイヤ人の故郷の星を滅ぼした悪役は？|セル|魔人ブウ|フリーザ|ピッコロ
+zh|哪个反派毁灭了赛亚人的母星？|沙鲁|魔人布欧|弗利萨|比克
+#Q 2432 4 2 2
+ru|Кто изобрёл радар для поиска жемчужин дракона?|Чичи|Крилин|Мастер Роши|Бульма
+en|Who invented the radar for finding the Dragon Balls?|Chi-Chi|Krillin|Master Roshi|Bulma
+es|¿Quién inventó el radar para encontrar las Bolas de Dragón?|Chichi|Krilin|el Maestro Roshi|Bulma
+ja|ドラゴンボールを探すための「ドラゴンレーダー」を発明したのは？|チチ|クリリン|亀仙人|ブルマ
+zh|是谁发明了寻找龙珠的龙珠雷达？|琪琪|克林|龟仙人|布尔玛
+#Q 2433 3 2 2
+ru|Как зовут капитана, которого называют сильнейшим солдатом человечества?|Эрвин|Ханджи|Леви|Райнер
+en|What is the name of the captain called humanity's strongest soldier?|Erwin|Hange|Levi|Reiner
+es|¿Cómo se llama el capitán al que llaman el soldado más fuerte de la humanidad?|Erwin|Hange|Levi|Reiner
+ja|「人類最強の兵士」と呼ばれる兵士長は？|エルヴィン|ハンジ|リヴァイ|ライナー
+zh|被称为“人类最强士兵”的兵长叫什么？|埃尔文|韩吉|利威尔|莱纳
+#Q 2434 3 2 2
+ru|Что съела Саша прямо на построении в «Атаке титанов», за что её запомнили все?|Хлеб|Кусок мяса|Картошку|Яблоко
+en|What did Sasha eat right in the middle of formation in Attack on Titan, which made her famous?|Bread|A piece of meat|A potato|An apple
+es|¿Qué se comió Sasha en plena formación en Ataque a los titanes, por lo que todos la recuerdan?|Pan|Un trozo de carne|Una patata|Una manzana
+ja|「進撃の巨人」で、サシャが整列中に食べて有名になったものは？|パン|肉|ふかした芋|リンゴ
+zh|《进击的巨人》中，萨沙在列队时吃了什么而让大家记住了她？|面包|一块肉|土豆|苹果
+#Q 2435 3 2 2
+ru|С помощью чего солдаты летают между домами в «Атаке титанов»?|Крыльев|Реактивных ранцев|Устройства пространственного маневрирования|Воздушных шаров
+en|What do the soldiers use to fly between buildings in Attack on Titan?|Wings|Jetpacks|Omni-directional mobility gear|Hot-air balloons
+es|¿Con qué vuelan los soldados entre los edificios en Ataque a los titanes?|Con alas|Con mochilas propulsoras|Con el equipo de maniobras tridimensionales|Con globos
+ja|「進撃の巨人」で、兵士たちが建物の間を飛び回るのに使う装備は？|翼|ジェットパック|立体機動装置|気球
+zh|《进击的巨人》中，士兵们用什么在建筑之间飞来飞去？|翅膀|喷气背包|立体机动装置|热气球
+#Q 2436 1 2 2
+ru|Какое Дыхание Танджиро освоил первым?|Дыхание воды|Дыхание пламени|Дыхание грома|Дыхание ветра
+en|Which Breathing style did Tanjiro master first?|Water Breathing|Flame Breathing|Thunder Breathing|Wind Breathing
+es|¿Qué Respiración dominó Tanjiro primero?|La Respiración del Agua|La Respiración de la Llama|La Respiración del Trueno|La Respiración del Viento
+ja|炭治郎が最初に身につけた呼吸は？|水の呼吸|炎の呼吸|雷の呼吸|風の呼吸
+zh|炭治郎最先掌握的是哪种呼吸法？|水之呼吸|炎之呼吸|雷之呼吸|风之呼吸
+#Q 2437 4 2 2
+ru|Каким Дыханием владеет трусливый Зеницу?|Дыханием воды|Дыханием пламени|Дыханием зверя|Дыханием грома
+en|Which Breathing style does the cowardly Zenitsu use?|Water Breathing|Flame Breathing|Beast Breathing|Thunder Breathing
+es|¿Qué Respiración usa el miedoso Zenitsu?|La Respiración del Agua|La Respiración de la Llama|La Respiración de la Bestia|La Respiración del Trueno
+ja|臆病な善逸が使う呼吸は？|水の呼吸|炎の呼吸|獣の呼吸|雷の呼吸
+zh|胆小的善逸使用哪种呼吸法？|水之呼吸|炎之呼吸|兽之呼吸|雷之呼吸
+#Q 2438 3 3 2
+ru|Как назывался первый корабль команды Луффи?|Таузенд Санни|Чёрная жемчужина|Гоинг Мерри|Моби Дик
+en|What was the name of the first ship of Luffy's crew?|Thousand Sunny|Black Pearl|Going Merry|Moby Dick
+es|¿Cómo se llamaba el primer barco de la tripulación de Luffy?|Thousand Sunny|Perla Negra|Going Merry|Moby Dick
+ja|ルフィたちの最初の海賊船の名前は？|サウザンド・サニー号|ブラックパール号|ゴーイング・メリー号|モビー・ディック号
+zh|路飞海贼团的第一艘船叫什么？|万里阳光号|黑珍珠号|黄金梅丽号|白鲸号
+#Q 2439 4 3 2
+ru|Кто автор манги «Наруто»?|Эйитиро Ода|Тайто Кубо|Ёсихиро Тогаси|Масаси Кисимото
+en|Who is the author of the Naruto manga?|Eiichiro Oda|Tite Kubo|Yoshihiro Togashi|Masashi Kishimoto
+es|¿Quién es el autor del manga Naruto?|Eiichiro Oda|Tite Kubo|Yoshihiro Togashi|Masashi Kishimoto
+ja|漫画『NARUTO』の作者は？|尾田栄一郎|久保帯人|冨樫義博|岸本斉史
+zh|漫画《火影忍者》的作者是谁？|尾田荣一郎|久保带人|富坚义博|岸本齐史
+#Q 2440 4 3 2
+ru|Кто автор манги «Ван-Пис»?|Масаси Кисимото|Акира Торияма|Хадзимэ Исаяма|Эйитиро Ода
+en|Who is the author of the One Piece manga?|Masashi Kishimoto|Akira Toriyama|Hajime Isayama|Eiichiro Oda
+es|¿Quién es el autor del manga One Piece?|Masashi Kishimoto|Akira Toriyama|Hajime Isayama|Eiichiro Oda
+ja|漫画『ONE PIECE』の作者は？|岸本斉史|鳥山明|諫山創|尾田栄一郎
+zh|漫画《海贼王》的作者是谁？|岸本齐史|鸟山明|谏山创|尾田荣一郎
+#Q 2441 2 3 2
+ru|Кто создал «Жемчуг дракона»?|Эйитиро Ода|Акира Торияма|Масаси Кисимото|Осаму Тэдзука
+en|Who created Dragon Ball?|Eiichiro Oda|Akira Toriyama|Masashi Kishimoto|Osamu Tezuka
+es|¿Quién creó Dragon Ball?|Eiichiro Oda|Akira Toriyama|Masashi Kishimoto|Osamu Tezuka
+ja|「ドラゴンボール」の作者は？|尾田栄一郎|鳥山明|岸本斉史|手塚治虫
+zh|《龙珠》的作者是谁？|尾田荣一郎|鸟山明|岸本齐史|手冢治虫
+#Q 2442 3 3 2
+ru|Кто автор манги «Атака титанов»?|Коёхару Готогэ|Гэгэ Акутами|Хадзимэ Исаяма|Цугуми Ооба
+en|Who is the author of the Attack on Titan manga?|Koyoharu Gotouge|Gege Akutami|Hajime Isayama|Tsugumi Ohba
+es|¿Quién es el autor del manga Ataque a los titanes?|Koyoharu Gotouge|Gege Akutami|Hajime Isayama|Tsugumi Ohba
+ja|漫画「進撃の巨人」の作者は？|吾峠呼世晴|芥見下々|諫山創|大場つぐみ
+zh|漫画《进击的巨人》的作者是谁？|吾峠呼世晴|芥见下下|谏山创|大场鸫
+#Q 2443 1 3 2
+ru|Кто автор манги «Клинок, рассекающий демонов»?|Коёхару Готогэ|Хадзимэ Исаяма|Гэгэ Акутами|Кохэй Хорикоси
+en|Who is the author of the Demon Slayer manga?|Koyoharu Gotouge|Hajime Isayama|Gege Akutami|Kohei Horikoshi
+es|¿Quién es el autor del manga Kimetsu no Yaiba?|Koyoharu Gotouge|Hajime Isayama|Gege Akutami|Kohei Horikoshi
+ja|漫画「鬼滅の刃」の作者は？|吾峠呼世晴|諫山創|芥見下々|堀越耕平
+zh|漫画《鬼灭之刃》的作者是谁？|吾峠呼世晴|谏山创|芥见下下|堀越耕平
+#Q 2444 2 3 2
+ru|Сколько Столпов в Корпусе истребителей демонов?|7|9|10|12
+en|How many Hashira are there in the Demon Slayer Corps?|7|9|10|12
+es|¿Cuántos Pilares hay en el Cuerpo de Cazadores de Demonios?|7|9|10|12
+ja|「鬼殺隊」の柱は何人？|7人|9人|10人|12人
+zh|鬼杀队中有几位“柱”？|7位|9位|10位|12位
+#Q 2445 3 3 2
+ru|Как зовут отца Наруто, Четвёртого Хокаге?|Хаширама|Тобирама|Минато|Хирузен
+en|What is the name of Naruto's father, the Fourth Hokage?|Hashirama|Tobirama|Minato|Hiruzen
+es|¿Cómo se llama el padre de Naruto, el Cuarto Hokage?|Hashirama|Tobirama|Minato|Hiruzen
+ja|ナルトの父親で、四代目火影は？|千手柱間|千手扉間|波風ミナト|猿飛ヒルゼン
+zh|鸣人的父亲、第四代火影叫什么？|千手柱间|千手扉间|波风水门|猿飞日斩
+#Q 2446 2 3 2
+ru|Сколько лет Луффи в самом начале «Ван-Пис»?|15|17|19|21
+en|How old is Luffy at the very start of One Piece?|15|17|19|21
+es|¿Cuántos años tiene Luffy al principio de One Piece?|15|17|19|21
+ja|『ONE PIECE』の物語の始まりで、ルフィは何歳？|15歳|17歳|19歳|21歳
+zh|《海贼王》故事开始时，路飞几岁？|15岁|17岁|19岁|21岁
+#Q 2447 1 3 2
+ru|Как зовут бога разрушения из Dragon Ball Super?|Бирус|Вис|Дзено|Хит
+en|What is the name of the God of Destruction in Dragon Ball Super?|Beerus|Whis|Zeno|Hit
+es|¿Cómo se llama el Dios de la Destrucción de Dragon Ball Super?|Beerus|Whis|Zeno|Hit
+ja|「ドラゴンボール超」の破壊神の名前は？|ビルス|ウイス|全王|ヒット
+zh|《龙珠超》中的破坏神叫什么？|比鲁斯|维斯|全王|希特
+#Q 2448 2 3 2
+ru|Какой титан выглядывает из-за стены в самой первой серии «Атаки титанов»?|Бронированный|Колоссальный|Звероподобный|Атакующий
+en|Which Titan peers over the wall in the very first episode of Attack on Titan?|The Armored Titan|The Colossal Titan|The Beast Titan|The Attack Titan
+es|¿Qué titán asoma por encima de la muralla en el primer episodio de Ataque a los titanes?|El Titán Acorazado|El Titán Colosal|El Titán Bestia|El Titán de Ataque
+ja|「進撃の巨人」の第1話で、壁の上から顔をのぞかせる巨人は？|鎧の巨人|超大型巨人|獣の巨人|進撃の巨人
+zh|《进击的巨人》第一集中，从城墙上方探出头来的是哪个巨人？|铠之巨人|超大型巨人|兽之巨人|进击的巨人
+#Q 2449 2 3 2
+ru|Какой синигами отдал Мисе Амане её тетрадь смерти?|Рюк|Рэм|Сидо|Джелас
+en|Which death god gave Misa Amane her Death Note?|Ryuk|Rem|Sidoh|Gelus
+es|¿Qué dios de la muerte le dio a Misa Amane su Death Note?|Ryuk|Rem|Sidoh|Gelus
+ja|弥海砂にデスノートを渡した死神は？|リューク|レム|シドウ|ジェラス
+zh|是哪位死神把死亡笔记交给了弥海砂？|琉克|雷姆|希多|杰拉斯
+#Q 2450 2 3 2
+ru|Какого цвета стал клинок Танджиро, когда он впервые взял его в руки?|Синего|Чёрного|Красного|Жёлтого
+en|What color did Tanjiro's sword turn when he first held it?|Blue|Black|Red|Yellow
+es|¿De qué color se volvió la espada de Tanjiro cuando la empuñó por primera vez?|Azul|Negro|Rojo|Amarillo
+ja|炭治郎が初めて日輪刀を握ったとき、刀は何色に変わった？|青|黒|赤|黄色
+zh|炭治郎第一次握住日轮刀时，刀身变成了什么颜色？|蓝色|黑色|红色|黄色
+#Q 2451 3 1 2
+ru|Какой покемон из Команды R умеет говорить по-человечески?|Пикачу|Псайдак|Мяут|Снорлакс
+en|Which Pokémon in Team Rocket can talk like a human?|Pikachu|Psyduck|Meowth|Snorlax
+es|¿Qué Pokémon del Team Rocket sabe hablar como un humano?|Pikachu|Psyduck|Meowth|Snorlax
+ja|ロケット団の中で、人間の言葉を話せるポケモンは？|ピカチュウ|コダック|ニャース|カビゴン
+zh|火箭队里会说人话的宝可梦是哪只？|皮卡丘|可达鸭|喵喵|卡比兽
+#Q 2452 1 1 2
+ru|Откуда Дораэмон достаёт свои изобретения?|Из кармана на животе|Из шляпы|Из рюкзака|Из ящика стола
+en|Where does Doraemon pull his gadgets from?|The pocket on his belly|His hat|A backpack|A desk drawer
+es|¿De dónde saca Doraemon sus inventos?|Del bolsillo de su barriga|De su sombrero|De una mochila|De un cajón
+ja|ドラえもんがひみつ道具を取り出すのはどこから？|おなかのポケット|帽子|リュックサック|机の引き出し
+zh|哆啦A梦从哪里拿出他的道具？|肚子上的口袋|帽子|背包|书桌抽屉
+#Q 2453 3 1 2
+ru|Как зовут мальчика, которому помогает Дораэмон?|Сидзука|Джайан|Нобита|Сунэо
+en|What is the name of the boy Doraemon helps?|Shizuka|Gian|Nobita|Suneo
+es|¿Cómo se llama el niño al que ayuda Doraemon?|Shizuka|Gigante|Nobita|Suneo
+ja|ドラえもんが助けている男の子の名前は？|しずか|ジャイアン|のび太|スネ夫
+zh|哆啦A梦帮助的那个男孩叫什么？|静香|胖虎|大雄|小夫
+#Q 2454 1 1 2
+ru|Какого цвета Дораэмон?|Синего с белым|Жёлтого|Красного|Зелёного
+en|What color is Doraemon?|Blue and white|Yellow|Red|Green
+es|¿De qué color es Doraemon?|Azul y blanco|Amarillo|Rojo|Verde
+ja|ドラえもんの体の色は？|青と白|黄色|赤|緑
+zh|哆啦A梦是什么颜色的？|蓝白色|黄色|红色|绿色
+#Q 2455 2 1 2
+ru|Какой знак появляется на лбу у Сейлор Мун?|Звезда|Полумесяц|Сердце|Капля
+en|Which symbol appears on Sailor Moon's forehead?|A star|A crescent moon|A heart|A teardrop
+es|¿Qué símbolo aparece en la frente de Sailor Moon?|Una estrella|Una luna creciente|Un corazón|Una gota
+ja|セーラームーンのおでこに現れるしるしは？|星|三日月|ハート|しずく
+zh|美少女战士水冰月的额头上会出现什么标志？|星星|新月|爱心|水滴
+#Q 2456 1 1 2
+ru|Кем была Усаги Цукино в обычной жизни?|Школьницей|Принцессой|Медсестрой|Певицей
+en|Who was Usagi Tsukino in everyday life?|A schoolgirl|A princess|A nurse|A singer
+es|¿Quién era Usagi Tsukino en su vida normal?|Una colegiala|Una princesa|Una enfermera|Una cantante
+ja|月野うさぎは、ふだんは何をしている？|中学生|お姫様|看護師|歌手
+zh|月野兔在平时是什么身份？|中学生|公主|护士|歌手
+#Q 2457 1 1 2
+ru|Какая причёска у Сейлор Мун?|Два пучка с длинными хвостами|Короткое каре|Одна толстая коса|Ирокез
+en|What hairstyle does Sailor Moon have?|Two buns with long pigtails|A short bob|One thick braid|A mohawk
+es|¿Qué peinado lleva Sailor Moon?|Dos moños con coletas largas|Una melena corta|Una trenza gruesa|Una cresta
+ja|セーラームーンの髪型は？|お団子が2つと長いツインテール|ショートボブ|太い三つ編み1本|モヒカン
+zh|美少女战士水冰月是什么发型？|两个发髻加长长的双马尾|短发波波头|一根粗辫子|莫西干头
+#Q 2458 1 1 2
+ru|На чём летает юная ведьма Кики из фильма Миядзаки?|На метле|На драконе|На облаке|На воздушном змее
+en|What does the young witch Kiki fly on in the Miyazaki film?|A broomstick|A dragon|A cloud|A kite
+es|¿En qué vuela la joven bruja Kiki, de la película de Miyazaki?|En una escoba|En un dragón|En una nube|En una cometa
+ja|宮崎駿の映画で、魔女のキキが空を飛ぶときに乗るものは？|ほうき|ドラゴン|雲|凧
+zh|宫崎骏电影里的小魔女琪琪骑着什么飞行？|扫帚|龙|云朵|风筝
+#Q 2459 3 1 2
+ru|Кем была Понё, прежде чем стать девочкой?|Котёнком|Птичкой|Рыбкой|Лягушкой
+en|What was Ponyo before she became a girl?|A kitten|A little bird|A little fish|A frog
+es|¿Qué era Ponyo antes de convertirse en niña?|Un gatito|Un pajarito|Un pececito|Una rana
+ja|ポニョは人間の女の子になる前は何だった？|子猫|小鳥|魚の子|カエル
+zh|波妞变成女孩之前是什么？|一只小猫|一只小鸟|一条小鱼|一只青蛙
+#Q 2460 2 1 2
+ru|Что случилось со школьником-сыщиком Синъити Кудо в начале «Детектива Конана»?|Он потерял память|Он превратился в ребёнка|Он стал невидимым|Он попал в прошлое
+en|What happened to teen detective Shinichi Kudo at the start of Detective Conan?|He lost his memory|He was turned into a child|He became invisible|He traveled back in time
+es|¿Qué le pasó al joven detective Shinichi Kudo al principio de Detective Conan?|Perdió la memoria|Se convirtió en un niño|Se volvió invisible|Viajó al pasado
+ja|「名探偵コナン」の始まりで、高校生探偵の工藤新一に起きたことは？|記憶を失った|体が子どもになった|透明人間になった|過去にタイムスリップした
+zh|《名侦探柯南》开头，高中生侦探工藤新一发生了什么事？|失去了记忆|身体变成了小孩|变成了隐形人|穿越回了过去
+#Q 2461 3 1 2
+ru|Что обычно закрывает глаза Годзё Сатору из «Магической битвы»?|Маска лисы|Бинты мумии|Чёрная повязка|Шлем
+en|What usually covers Satoru Gojo's eyes in Jujutsu Kaisen?|A fox mask|Mummy bandages|A black blindfold|A helmet
+es|¿Qué suele taparle los ojos a Satoru Gojo en Jujutsu Kaisen?|Una máscara de zorro|Vendas de momia|Una venda negra|Un casco
+ja|「呪術廻戦」の五条悟が、ふだん目を覆っているものは？|狐の面|ミイラの包帯|黒い目隠し|ヘルメット
+zh|《咒术回战》中的五条悟平时用什么遮住眼睛？|狐狸面具|木乃伊绷带|黑色眼罩|头盔
+#Q 2462 2 1 2
+ru|Что проглотил Юдзи Итадори в начале «Магической битвы»?|Дьявольский плод|Палец Сукуны|Жемчужину дракона|Глаз демона
+en|What did Yuji Itadori swallow at the start of Jujutsu Kaisen?|A Devil Fruit|One of Sukuna's fingers|A Dragon Ball|A demon's eye
+es|¿Qué se tragó Yuji Itadori al principio de Jujutsu Kaisen?|Una Fruta del Diablo|Un dedo de Sukuna|Una Bola de Dragón|Un ojo de demonio
+ja|「呪術廻戦」の始まりで、虎杖悠仁が飲み込んだものは？|悪魔の実|宿儺の指|ドラゴンボール|鬼の目玉
+zh|《咒术回战》开头，虎杖悠仁吞下了什么？|恶魔果实|宿傩的手指|龙珠|恶鬼的眼珠
+#Q 2463 4 1 2
+ru|Кого Изуку Мидория из «Моей геройской академии» считает своим кумиром?|Эндевора|Бакуго|Айзаву|Всемогущего
+en|Who is Izuku Midoriya's idol in My Hero Academia?|Endeavor|Bakugo|Aizawa|All Might
+es|¿Quién es el ídolo de Izuku Midoriya en My Hero Academia?|Endeavor|Bakugo|Aizawa|All Might
+ja|「僕のヒーローアカデミア」で、緑谷出久が憧れているヒーローは？|エンデヴァー|爆豪|相澤|オールマイト
+zh|《我的英雄学院》中，绿谷出久崇拜的英雄是谁？|安德瓦|爆豪|相泽|欧尔麦特
+#Q 2464 3 1 2
+ru|Какой способностью обладает девочка Аня из «Семьи шпиона»?|Становится невидимой|Летает|Читает мысли|Видит будущее
+en|What power does the little girl Anya from Spy x Family have?|She turns invisible|She flies|She reads minds|She sees the future
+es|¿Qué poder tiene la niña Anya de Spy x Family?|Se vuelve invisible|Vuela|Lee la mente|Ve el futuro
+ja|「SPY×FAMILY」のアーニャが持っている能力は？|透明になる|空を飛ぶ|人の心を読む|未来を見る
+zh|《间谍过家家》中的小女孩阿尼亚有什么能力？|隐身|飞行|读心|预知未来
+#Q 2465 4 1 2
+ru|Во что вселилась душа Альфонса Элрика в «Стальном алхимике»?|В куклу|В кота|В книгу|В пустые доспехи
+en|What is Alphonse Elric's soul bound to in Fullmetal Alchemist?|A doll|A cat|A book|An empty suit of armor
+es|¿A qué está ligada el alma de Alphonse Elric en Fullmetal Alchemist?|A un muñeco|A un gato|A un libro|A una armadura vacía
+ja|「鋼の錬金術師」で、アルフォンス・エルリックの魂が定着しているものは？|人形|猫|本|空っぽの鎧
+zh|《钢之炼金术师》中，阿尔冯斯·艾尔利克的灵魂附在什么上？|一个人偶|一只猫|一本书|一副空铠甲
+#Q 2466 1 1 2
+ru|Какого цвета волосы у виртуальной певицы Хацунэ Мику?|Бирюзовые|Розовые|Фиолетовые|Рыжие
+en|What color is the virtual singer Hatsune Miku's hair?|Turquoise|Pink|Purple|Orange
+es|¿De qué color es el pelo de la cantante virtual Hatsune Miku?|Turquesa|Rosa|Morado|Naranja
+ja|バーチャルシンガー初音ミクの髪の色は？|青緑（ターコイズ）|ピンク|紫|オレンジ
+zh|虚拟歌手初音未来的头发是什么颜色？|青绿色|粉色|紫色|橙色
+#Q 2467 2 1 2
+ru|Кого в аниме называют «семпай»?|Младшего брата|Старшего товарища по школе или работе|Учителя|Лучшего друга-ровесника
+en|Who is called "senpai" in anime?|A younger brother|An older schoolmate or colleague|A teacher|A best friend of the same age
+es|¿A quién se llama «senpai» en el anime?|A un hermano pequeño|A un compañero mayor del colegio o del trabajo|A un profesor|A un mejor amigo de la misma edad
+ja|アニメでよく聞く「先輩」とは？|弟|学校や職場で自分より上の人|先生|同い年の親友
+zh|动画里常说的“前辈（senpai）”指谁？|弟弟|学校或职场中比自己资历深的人|老师|同龄的好朋友
+#Q 2468 2 1 2
+ru|Что значит японское слово «каваий»?|Страшный|Милый|Вкусный|Смешной
+en|What does the Japanese word "kawaii" mean?|Scary|Cute|Tasty|Funny
+es|¿Qué significa la palabra japonesa «kawaii»?|Que da miedo|Mono, adorable|Sabroso|Gracioso
+ja|「かわいい」を英語で言うと？|scary|cute|tasty|funny
+zh|日语“卡哇伊（kawaii）”是什么意思？|可怕|可爱|好吃|好笑
+#Q 2469 1 1 2
+ru|Кого называют «отаку»?|Страстного фаната аниме, манги или игр|Мастера боевых искусств|Японского повара|Продавца комиксов
+en|Who is called an "otaku"?|A passionate fan of anime, manga or games|A martial arts master|A Japanese chef|A comic book seller
+es|¿A quién se llama «otaku»?|A un gran aficionado al anime, al manga o a los videojuegos|A un maestro de artes marciales|A un cocinero japonés|A un vendedor de cómics
+ja|「オタク」とは、主にどんな人のこと？|アニメや漫画、ゲームなどの熱心なファン|武術の達人|日本料理の料理人|漫画の販売員
+zh|“御宅族（otaku）”指的是什么人？|热衷于动漫或游戏的狂热粉丝|武术大师|日本厨师|漫画书商
+#Q 2470 3 1 2
+ru|В каком направлении обычно читают японскую мангу?|Слева направо|Снизу вверх|Справа налево|По кругу
+en|In which direction is Japanese manga usually read?|Left to right|Bottom to top|Right to left|In a circle
+es|¿En qué dirección se suele leer el manga japonés?|De izquierda a derecha|De abajo arriba|De derecha a izquierda|En círculo
+ja|日本の漫画は、ふつうどの向きに読み進める？|左から右|下から上|右から左|円を描くように
+zh|日本漫画通常按什么方向阅读？|从左到右|从下到上|从右到左|绕圈
+#Q 2471 2 2 2
+ru|Из какого века прибыл кот-робот Дораэмон?|Из XXI века|Из XXII века|Из XXV века|Из XXX века
+en|Which century did the robot cat Doraemon come from?|The 21st century|The 22nd century|The 25th century|The 30th century
+es|¿De qué siglo vino el gato robot Doraemon?|Del siglo XXI|Del siglo XXII|Del siglo XXV|Del siglo XXX
+ja|ネコ型ロボットのドラえもんは何世紀からやって来た？|21世紀|22世紀|25世紀|30世紀
+zh|猫型机器人哆啦A梦来自哪个世纪？|21世纪|22世纪|25世纪|30世纪
+#Q 2472 2 2 2
+ru|Из какого городка родом Эш в аниме «Покемон»?|Из Вермилиона|Из Паллет-Тауна|Из Пьютера|Из Селадона
+en|Which town is Ash from in the Pokémon anime?|Vermilion City|Pallet Town|Pewter City|Celadon City
+es|¿De qué pueblo es Ash en el anime de Pokémon?|Ciudad Carmín|Pueblo Paleta|Ciudad Plateada|Ciudad Azulona
+ja|アニメ「ポケモン」で、サトシの出身地は？|クチバシティ|マサラタウン|ニビシティ|タマムシシティ
+zh|在动画《宝可梦》中，小智来自哪里？|枯叶市|真新镇|深灰市|玉虹市
+#Q 2473 3 2 2
+ru|Как зовут чёрную кошку-советницу Сейлор Мун?|Артемис|Диана|Луна|Селена
+en|What is the name of Sailor Moon's black cat adviser?|Artemis|Diana|Luna|Selene
+es|¿Cómo se llama la gata negra consejera de Sailor Moon?|Artemis|Diana|Luna|Selene
+ja|セーラームーンを導く黒猫の名前は？|アルテミス|ダイアナ|ルナ|セレーネ
+zh|引导水冰月的黑猫叫什么名字？|阿提米斯|黛安娜|露娜|塞勒涅
+#Q 2474 2 2 2
+ru|Чего нет у Hello Kitty?|Ушей|Рта|Носа|Бантика
+en|What does Hello Kitty not have?|Ears|A mouth|A nose|A bow
+es|¿Qué no tiene Hello Kitty?|Orejas|Boca|Nariz|Lazo
+ja|ハローキティに描かれていないものは？|耳|口|鼻|リボン
+zh|凯蒂猫（Hello Kitty）没有什么？|耳朵|嘴巴|鼻子|蝴蝶结
+#Q 2475 2 2 2
+ru|Что нужно знать, чтобы убить человека Тетрадью смерти?|Только его имя|Его имя и лицо|Его адрес|Его день рождения
+en|What must you know to kill someone with the Death Note?|Only their name|Their name and face|Their address|Their birthday
+es|¿Qué hay que saber para matar a alguien con la Death Note?|Solo su nombre|Su nombre y su cara|Su dirección|Su cumpleaños
+ja|デスノートで人を殺すために必要なことは？|名前だけ|名前と顔|住所|誕生日
+zh|要用死亡笔记杀死一个人，需要知道什么？|只要名字|他的名字和长相|他的住址|他的生日
+#Q 2476 3 2 2
+ru|Куда нужно ударить титана, чтобы убить его?|В сердце|В глаза|В затылок, у основания шеи|В живот
+en|Where must you strike a Titan to kill it?|The heart|The eyes|The nape of the neck|The stomach
+es|¿Dónde hay que golpear a un titán para matarlo?|En el corazón|En los ojos|En la nuca|En el estómago
+ja|「進撃の巨人」で巨人を倒すために斬る場所は？|心臓|目|うなじ|おなか
+zh|《进击的巨人》中，要砍巨人哪里才能杀死它？|心脏|眼睛|后颈|肚子
+#Q 2477 1 2 2
+ru|Как зовут чёрного кота ведьмы Кики?|Дзидзи|Луна|Тоторо|Мяут
+en|What is the name of the witch Kiki's black cat?|Jiji|Luna|Totoro|Meowth
+es|¿Cómo se llama el gato negro de la bruja Kiki?|Jiji|Luna|Totoro|Meowth
+ja|魔女のキキが連れている黒猫の名前は？|ジジ|ルナ|トトロ|ニャース
+zh|小魔女琪琪的黑猫叫什么名字？|吉吉|露娜|龙猫|喵喵
+#Q 2478 2 2 2
+ru|В кого колдунья превратила юную Софи в «Ходячем замке»?|В кошку|В старушку|В пугало|В птицу
+en|What did a witch turn young Sophie into in Howl's Moving Castle?|A cat|An old woman|A scarecrow|A bird
+es|¿En qué convirtió una bruja a la joven Sophie en El castillo ambulante?|En una gata|En una anciana|En un espantapájaros|En un pájaro
+ja|「ハウルの動く城」で、若いソフィーが魔女にされた姿は？|猫|おばあさん|かかし|鳥
+zh|《哈尔的移动城堡》中，女巫把年轻的苏菲变成了什么？|猫|老奶奶|稻草人|鸟
+#Q 2479 3 2 2
+ru|Как зовут молчаливого духа в чёрном, который ходит за Тихиро?|Хаку|Юбаба|Безликий|Камадзи
+en|What is the name of the silent spirit in black who follows Chihiro?|Haku|Yubaba|No-Face|Kamaji
+es|¿Cómo se llama el espíritu silencioso vestido de negro que sigue a Chihiro?|Haku|Yubaba|Sin Cara|Kamaji
+ja|千尋の後をついてくる、黒い姿の無口な存在は？|ハク|湯婆婆|カオナシ|釜爺
+zh|一直跟着千寻的那个黑色沉默的妖怪叫什么？|白龙|汤婆婆|无脸男|锅炉爷爷
+#Q 2480 2 2 2
+ru|Сколько лет мальчику Синтяну из «Син-тян»?|3|5|7|10
+en|How old is the boy Shin-chan in Crayon Shin-chan?|3|5|7|10
+es|¿Cuántos años tiene Shin-chan?|3|5|7|10
+ja|「クレヨンしんちゃん」の野原しんのすけは何歳？|3歳|5歳|7歳|10歳
+zh|《蜡笔小新》中的野原新之助几岁？|3岁|5岁|7岁|10岁
+#Q 2481 2 2 2
+ru|Как в «Моей геройской академии» называют суперсилы людей?|Нэн|Причуды|Чакра|Стенды
+en|What are people's superpowers called in My Hero Academia?|Nen|Quirks|Chakra|Stands
+es|¿Cómo se llaman los superpoderes de la gente en My Hero Academia?|Nen|Dones|Chakra|Stands
+ja|「僕のヒーローアカデミア」で、人々が持つ特殊能力は何と呼ばれる？|念|個性|チャクラ|スタンド
+zh|《我的英雄学院》中，人们的超能力被称为什么？|念|个性|查克拉|替身
+#Q 2482 3 2 2
+ru|Кем тайно работает Йор Форджер из «Семьи шпиона»?|Шпионкой|Полицейской|Наёмной убийцей|Воровкой
+en|What is Yor Forger's secret job in Spy x Family?|Spy|Police officer|Assassin|Thief
+es|¿Cuál es el trabajo secreto de Yor Forger en Spy x Family?|Espía|Policía|Asesina a sueldo|Ladrona
+ja|「SPY×FAMILY」のヨル・フォージャーの裏の顔は？|スパイ|警察官|殺し屋|泥棒
+zh|《间谍过家家》中约尔·福杰的秘密身份是什么？|间谍|警察|杀手|小偷
+#Q 2483 3 2 2
+ru|Почему облысел Сайтама из «Ванпанчмена»?|Из-за проклятия|Он побрился сам|Из-за слишком тяжёлых тренировок|Из-за болезни
+en|Why did Saitama from One-Punch Man go bald?|Because of a curse|He shaved his head himself|From extremely hard training|Because of an illness
+es|¿Por qué se quedó calvo Saitama, de One Punch Man?|Por una maldición|Se rapó él mismo|Por un entrenamiento durísimo|Por una enfermedad
+ja|「ワンパンマン」のサイタマがハゲてしまった理由は？|呪いのせい|自分で剃ったから|過酷なトレーニングのせい|病気のせい
+zh|《一拳超人》中的埼玉为什么秃了？|因为中了诅咒|是他自己剃的|因为训练太艰苦|因为生病
+#Q 2484 4 2 2
+ru|Как зовут лучшего друга Гона из «Охотника × Охотника», мальчика из семьи убийц?|Курапика|Леорио|Хисока|Киллуа
+en|What is the name of Gon's best friend in Hunter x Hunter, a boy from a family of assassins?|Kurapika|Leorio|Hisoka|Killua
+es|¿Cómo se llama el mejor amigo de Gon en Hunter x Hunter, un chico de una familia de asesinos?|Kurapika|Leorio|Hisoka|Killua
+ja|「HUNTER×HUNTER」で、暗殺一家に生まれたゴンの親友は？|クラピカ|レオリオ|ヒソカ|キルア
+zh|《全职猎人》中，出身暗杀世家的小杰的好朋友叫什么？|酷拉皮卡|雷欧力|西索|奇牙
+#Q 2485 2 2 2
+ru|Какой главный закон алхимии в «Стальном алхимике»?|Сохранение энергии|Равноценный обмен|Сила притяжения|Закон трёх желаний
+en|What is the main law of alchemy in Fullmetal Alchemist?|Conservation of energy|Equivalent exchange|Gravity|The law of three wishes
+es|¿Cuál es la ley principal de la alquimia en Fullmetal Alchemist?|La conservación de la energía|El intercambio equivalente|La gravedad|La ley de los tres deseos
+ja|「鋼の錬金術師」の錬金術の基本の法則は？|エネルギー保存|等価交換|万有引力|三つの願いの法則
+zh|《钢之炼金术师》中炼金术的基本法则是什么？|能量守恒|等价交换|万有引力|三个愿望法则
+#Q 2486 1 2 2
+ru|Что потерял Эдвард Элрик, пытаясь вернуть маму?|Ногу, а потом руку|Глаз|Голос|Память
+en|What did Edward Elric lose trying to bring back his mother?|A leg, and then an arm|An eye|His voice|His memory
+es|¿Qué perdió Edward Elric al intentar resucitar a su madre?|Una pierna y luego un brazo|Un ojo|La voz|La memoria
+ja|母を生き返らせようとして、エドワード・エルリックが失ったものは？|片足、そして片腕|片目|声|記憶
+zh|爱德华·艾尔利克在试图复活母亲时失去了什么？|一条腿，然后是一只手臂|一只眼睛|声音|记忆
+#Q 2487 3 2 2
+ru|В честь какого писателя назвал себя Конан Эдогава?|Агаты Кристи|Эдгара По|Артура Конана Дойла|Жюля Верна
+en|Which writer did Conan Edogawa name himself after?|Agatha Christie|Edgar Allan Poe|Arthur Conan Doyle|Jules Verne
+es|¿En honor a qué escritor se puso su nombre Conan Edogawa?|Agatha Christie|Edgar Allan Poe|Arthur Conan Doyle|Julio Verne
+ja|江戸川コナンの「コナン」は、どの作家から取った名前？|アガサ・クリスティ|エドガー・アラン・ポー|アーサー・コナン・ドイル|ジュール・ヴェルヌ
+zh|江户川柯南的“柯南”取自哪位作家的名字？|阿加莎·克里斯蒂|埃德加·爱伦·坡|阿瑟·柯南·道尔|儒勒·凡尔纳
+#Q 2488 2 3 2
+ru|Какой композитор написал музыку к большинству фильмов Хаяо Миядзаки?|Юки Кадзиура|Дзё Хисаиси|Хироюки Савано|Рюити Сакамото
+en|Which composer wrote the music for most of Hayao Miyazaki's films?|Yuki Kajiura|Joe Hisaishi|Hiroyuki Sawano|Ryuichi Sakamoto
+es|¿Qué compositor escribió la música de la mayoría de las películas de Hayao Miyazaki?|Yuki Kajiura|Joe Hisaishi|Hiroyuki Sawano|Ryuichi Sakamoto
+ja|宮崎駿監督の映画の多くで音楽を担当した作曲家は？|梶浦由記|久石譲|澤野弘之|坂本龍一
+zh|为宫崎骏大部分电影配乐的作曲家是谁？|梶浦由记|久石让|泽野弘之|坂本龙一
+#Q 2489 4 3 2
+ru|Какое кодовое имя у шпиона Лойда Форджера?|Тень|Полночь|Ворон|Сумрак
+en|What is the code name of the spy Loid Forger?|Shadow|Midnight|Raven|Twilight
+es|¿Cuál es el nombre en clave del espía Loid Forger?|Shadow (Sombra)|Midnight (Medianoche)|Raven (Cuervo)|Twilight (Crepúsculo)
+ja|スパイのロイド・フォージャーのコードネームは？|影|真夜中|カラス|黄昏（たそがれ）
+zh|间谍劳埃德·福杰的代号是什么？|影子|午夜|乌鸦|黄昏
+#Q 2490 3 3 2
+ru|Как называется сила, которую учатся использовать герои «Охотника × Охотника»?|Чакра|Ки|Нэн|Хаки
+en|What is the power the heroes of Hunter x Hunter learn to use called?|Chakra|Ki|Nen|Haki
+es|¿Cómo se llama el poder que aprenden a usar los protagonistas de Hunter x Hunter?|Chakra|Ki|Nen|Haki
+ja|「HUNTER×HUNTER」で主人公たちが身につける力の名前は？|チャクラ|気|念|覇気
+zh|《全职猎人》中主角们学会使用的力量叫什么？|查克拉|气|念|霸气
+#Q 2491 1 3 2
+ru|Как называются духи-защитники в «Невероятных приключениях ДжоДжо»?|Стенды|Персоны|Сикигами|Причуды
+en|What are the guardian spirits in JoJo's Bizarre Adventure called?|Stands|Personas|Shikigami|Quirks
+es|¿Cómo se llaman los espíritus protectores de JoJo's Bizarre Adventure?|Stands|Personas|Shikigami|Dones
+ja|「ジョジョの奇妙な冒険」に登場する、守護霊のような能力の名前は？|スタンド|ペルソナ|式神|個性
+zh|《JOJO的奇妙冒险》中那种像守护灵一样的能力叫什么？|替身|人格面具|式神|个性
+#Q 2492 4 3 2
+ru|Какого мангаку, автора «Астробоя», называют «богом манги»?|Акиру Торияму|Хаяо Миядзаки|Наоко Такэути|Осаму Тэдзуку
+en|Which manga artist, creator of Astro Boy, is called the "God of Manga"?|Akira Toriyama|Hayao Miyazaki|Naoko Takeuchi|Osamu Tezuka
+es|¿A qué mangaka, creador de Astro Boy, llaman el «dios del manga»?|Akira Toriyama|Hayao Miyazaki|Naoko Takeuchi|Osamu Tezuka
+ja|「鉄腕アトム」の作者で「マンガの神様」と呼ばれるのは？|鳥山明|宮崎駿|武内直子|手塚治虫
+zh|《铁臂阿童木》的作者、被称为“漫画之神”的是谁？|鸟山明|宫崎骏|武内直子|手冢治虫
+#Q 2493 2 3 2
+ru|Какая студия сняла аниме «Магическая битва» и последний сезон «Атаки титанов»?|Ufotable|MAPPA|Kyoto Animation|Studio Ghibli
+en|Which studio made the Jujutsu Kaisen anime and the final season of Attack on Titan?|Ufotable|MAPPA|Kyoto Animation|Studio Ghibli
+es|¿Qué estudio hizo el anime de Jujutsu Kaisen y la última temporada de Ataque a los titanes?|Ufotable|MAPPA|Kyoto Animation|Studio Ghibli
+ja|アニメ「呪術廻戦」と「進撃の巨人」の最終シーズンを制作したスタジオは？|ufotable|MAPPA|京都アニメーション|スタジオジブリ
+zh|动画《咒术回战》和《进击的巨人》最终季是哪家工作室制作的？|ufotable|MAPPA|京都动画|吉卜力工作室
+#Q 2494 4 3 2
+ru|Какая студия сняла аниме «Клинок, рассекающий демонов»?|MAPPA|Toei Animation|Madhouse|Ufotable
+en|Which studio made the Demon Slayer anime?|MAPPA|Toei Animation|Madhouse|Ufotable
+es|¿Qué estudio hizo el anime de Kimetsu no Yaiba?|MAPPA|Toei Animation|Madhouse|Ufotable
+ja|アニメ「鬼滅の刃」を制作したスタジオは？|MAPPA|東映アニメーション|マッドハウス|ufotable
+zh|动画《鬼灭之刃》是哪家工作室制作的？|MAPPA|东映动画|疯房子|ufotable
+#Q 2495 1 3 2
+ru|Кто создатель и режиссёр «Евангелиона»?|Хидэаки Анно|Мамору Осии|Сатоси Кон|Синъитиро Ватанабэ
+en|Who is the creator and director of Evangelion?|Hideaki Anno|Mamoru Oshii|Satoshi Kon|Shinichiro Watanabe
+es|¿Quién es el creador y director de Evangelion?|Hideaki Anno|Mamoru Oshii|Satoshi Kon|Shinichiro Watanabe
+ja|「新世紀エヴァンゲリオン」の生みの親で監督なのは？|庵野秀明|押井守|今敏|渡辺信一郎
+zh|《新世纪福音战士》的创作者兼导演是谁？|庵野秀明|押井守|今敏|渡边信一郎
+#Q 2496 4 3 2
+ru|На сколько пальцев разделена сила Сукуны в «Магической битве»?|10|12|15|20
+en|Into how many fingers is Sukuna's power divided in Jujutsu Kaisen?|10|12|15|20
+es|¿En cuántos dedos está dividido el poder de Sukuna en Jujutsu Kaisen?|10|12|15|20
+ja|「呪術廻戦」で、宿儺の力は何本の指に分かれている？|10本|12本|15本|20本
+zh|《咒术回战》中，宿傩的力量被分散在几根手指里？|10根|12根|15根|20根
+#Q 2497 4 3 2
+ru|Как зовут киборга, ученика Сайтамы из «Ванпанчмена»?|Кинг|Бэнг|Сонник|Генос
+en|What is the name of the cyborg who is Saitama's disciple in One-Punch Man?|King|Bang|Sonic|Genos
+es|¿Cómo se llama el cíborg discípulo de Saitama en One Punch Man?|King|Bang|Sonic|Genos
+ja|「ワンパンマン」で、サイタマの弟子になったサイボーグは？|キング|バング|ソニック|ジェノス
+zh|《一拳超人》中拜埼玉为师的改造人叫什么？|King|邦古|音速索尼克|杰诺斯
+#Q 2498 3 3 2
+ru|Кто автор манги «Сейлор Мун»?|Румико Такахаси|CLAMP|Наоко Такэути|Ай Ядзава
+en|Who is the author of the Sailor Moon manga?|Rumiko Takahashi|CLAMP|Naoko Takeuchi|Ai Yazawa
+es|¿Quién es la autora del manga Sailor Moon?|Rumiko Takahashi|CLAMP|Naoko Takeuchi|Ai Yazawa
+ja|漫画「美少女戦士セーラームーン」の作者は？|高橋留美子|CLAMP|武内直子|矢沢あい
+zh|漫画《美少女战士》的作者是谁？|高桥留美子|CLAMP|武内直子|矢泽爱
+#Q 2499 1 3 2
+ru|Кем наконец стал Эш в аниме «Покемон: Путешествия»?|Чемпионом мира|Профессором покемонов|Лидером стадиона|Главой Команды R
+en|What did Ash finally become in Pokémon Journeys?|World Champion|A Pokémon Professor|A Gym Leader|The boss of Team Rocket
+es|¿En qué se convirtió por fin Ash en Viajes Pokémon?|En campeón mundial|En profesor Pokémon|En líder de gimnasio|En jefe del Team Rocket
+ja|アニメ「ポケットモンスター」（2019年版）で、サトシがついになったものは？|世界チャンピオン|ポケモン博士|ジムリーダー|ロケット団のボス
+zh|在动画《宝可梦旅途》中，小智最终成为了什么？|世界冠军|宝可梦博士|道馆馆主|火箭队首领
+#Q 2500 1 3 2
+ru|Как называется город, в котором происходит «Евангелион»?|Токио-3|Нео-Токио|Мегаполис|Айрон-Сити
+en|What is the city where Evangelion takes place called?|Tokyo-3|Neo-Tokyo|Metropolis|Iron City
+es|¿Cómo se llama la ciudad donde transcurre Evangelion?|Tokio-3|Neo-Tokio|Metrópolis|Iron City
+ja|「新世紀エヴァンゲリオン」の舞台となる都市は？|第3新東京市|ネオ東京|メトロポリス|アイアン・シティ
+zh|《新世纪福音战士》的故事发生在哪座城市？|第3新东京市|新东京|大都会|钢铁城
+#Q 2501 2 1 2
+ru|Какого роста Ариэтти и её семья в фильме студии Ghibli?|Великаны выше деревьев|Крошечные, с палец|Обычного человеческого роста|Ростом с кошку
+en|How tall are Arrietty and her family in the Studio Ghibli film?|Giants taller than trees|Tiny, the size of a finger|Normal human height|The size of a cat
+es|¿Qué tamaño tienen Arrietty y su familia en la película del Studio Ghibli?|Gigantes más altos que los árboles|Diminutos, como un dedo|De estatura humana normal|Del tamaño de un gato
+ja|ジブリ映画のアリエッティとその家族は、どのくらいの大きさ？|木より大きい巨人|指くらいの小人|ふつうの人間と同じ|猫くらい
+zh|吉卜力电影里的阿莉埃蒂一家有多大？|比树还高的巨人|像手指一样小|和普通人一样|像猫那么大
+#Q 2502 4 1 2
+ru|В какую ловушку попадают игроки в Sword Art Online?|Оказываются в теле своих персонажей в реальном мире|Теряют память|Застревают в прошлом|Не могут выйти из игры в виртуальной реальности
+en|What trap do the players fall into in Sword Art Online?|They end up in their characters' bodies in the real world|They lose their memories|They get stuck in the past|They can't log out of a virtual reality game
+es|¿En qué trampa caen los jugadores de Sword Art Online?|Acaban en el cuerpo de sus personajes en el mundo real|Pierden la memoria|Se quedan atrapados en el pasado|No pueden salir de un juego de realidad virtual
+ja|「ソードアート・オンライン」でプレイヤーたちが陥る状況は？|現実世界でキャラクターの体になる|記憶を失う|過去に閉じ込められる|VRゲームからログアウトできない
+zh|《刀剑神域》中玩家们陷入了什么困境？|在现实世界变成了游戏角色|失去了记忆|被困在过去|无法退出虚拟现实游戏
+#Q 2503 2 1 2
+ru|О чём истории в жанре «исекай»?|О школьной любви|О попадании героя в другой мир|О спортивных соревнованиях|О работе в офисе
+en|What are stories in the "isekai" genre about?|School romance|A hero who ends up in another world|Sports competitions|Office work
+es|¿De qué tratan las historias del género «isekai»?|De amores en el instituto|De un protagonista que acaba en otro mundo|De competiciones deportivas|Del trabajo en una oficina
+ja|「異世界もの」とはどんな物語？|学園の恋愛の話|主人公が別の世界へ行く話|スポーツの大会の話|会社勤めの話
+zh|“异世界”题材讲的是什么故事？|校园恋爱|主角来到另一个世界|体育比赛|上班族生活
+#Q 2504 1 1 2
+ru|Для кого в первую очередь рассчитана манга-сёнэн?|Для мальчиков-подростков|Для девочек-подростков|Для пожилых людей|Для малышей
+en|Who is shonen manga mainly aimed at?|Teenage boys|Teenage girls|Elderly people|Toddlers
+es|¿A quién va dirigido principalmente el manga shonen?|A chicos adolescentes|A chicas adolescentes|A personas mayores|A niños pequeños
+ja|「少年漫画」は主にどんな読者に向けた漫画？|10代の男の子|10代の女の子|お年寄り|幼児
+zh|“少年漫画”主要面向哪类读者？|十几岁的男孩|十几岁的女孩|老年人|幼儿
+#Q 2505 1 1 2
+ru|Что называют «меха» в аниме?|Огромных боевых роботов|Магических животных|Древние мечи|Летающие города
+en|What does "mecha" mean in anime?|Giant fighting robots|Magical animals|Ancient swords|Flying cities
+es|¿Qué significa «mecha» en el anime?|Robots gigantes de combate|Animales mágicos|Espadas antiguas|Ciudades voladoras
+ja|アニメで「メカ（ロボットアニメ）」と言えば、何が活躍する作品？|巨大な戦闘ロボット|魔法の動物|古代の剣|空飛ぶ都市
+zh|动画里说的“机甲”指什么？|巨大的战斗机器人|魔法动物|古代宝剑|飞行城市
+#Q 2506 1 1 2
+ru|Что такое «чиби»?|Маленькие милые версии персонажей с большой головой|Злые двойники героев|Японские сладости|Короткие серии аниме
+en|What is "chibi"?|Small cute versions of characters with big heads|Evil twins of the heroes|Japanese sweets|Short anime episodes
+es|¿Qué es el estilo «chibi»?|Versiones pequeñas y monas de los personajes con cabeza grande|Gemelos malvados de los héroes|Dulces japoneses|Episodios cortos de anime
+ja|「ちびキャラ（SDキャラ）」とは？|頭が大きく小さくかわいく描いたキャラクター|主人公の悪い双子|和菓子|短いアニメの回
+zh|“Q版（chibi）”是什么？|头大身小、可爱化的角色形象|主角的邪恶双胞胎|日本点心|很短的动画集数
+#Q 2507 3 1 2
+ru|Что такое косплей?|Рисование манги|Озвучка аниме|Переодевание в костюм любимого персонажа|Пение караоке
+en|What is cosplay?|Drawing manga|Voicing anime|Dressing up as a favorite character|Singing karaoke
+es|¿Qué es el cosplay?|Dibujar manga|Doblar anime|Disfrazarse de un personaje favorito|Cantar karaoke
+ja|「コスプレ」とは？|漫画を描くこと|アニメの声をあてること|好きなキャラクターの衣装を着て扮すること|カラオケで歌うこと
+zh|“角色扮演（cosplay）”是什么？|画漫画|给动画配音|穿上喜欢的角色的服装扮成他们|唱卡拉OK
+#Q 2508 4 1 2
+ru|Как называют песню в самом начале каждой серии аниме?|Эндинг|Филлер|Спешл|Опенинг
+en|What is the song at the very start of each anime episode called?|The ending|A filler|A special|The opening
+es|¿Cómo se llama la canción del principio de cada episodio de anime?|Ending|Relleno|Especial|Opening
+ja|アニメの毎回の始まりに流れる歌を何という？|エンディング|アニメオリジナル回|特別編|オープニング
+zh|每集动画开头播放的歌曲叫什么？|片尾曲（ED）|填充集|特别篇|片头曲（OP）
+#Q 2509 4 1 2
+ru|Во что играют герои «Югио!»?|В шахматы|В бейсбол|В видеоигру на приставке|В карточную игру
+en|What do the heroes of Yu-Gi-Oh! play?|Chess|Baseball|A console video game|A card game
+es|¿A qué juegan los protagonistas de Yu-Gi-Oh!?|Al ajedrez|Al béisbol|A un videojuego de consola|A un juego de cartas
+ja|「遊☆戯☆王」の主人公たちが対戦するのは？|チェス|野球|家庭用ゲーム|カードゲーム
+zh|《游戏王》的主角们玩的是什么？|国际象棋|棒球|主机游戏|卡牌游戏
+#Q 2510 2 1 2
+ru|Что запускают на арене герои «Бейблэйда»?|Самолётики|Волчки|Шарики|Машинки
+en|What do the heroes of Beyblade launch into the arena?|Paper planes|Spinning tops|Marbles|Toy cars
+es|¿Qué lanzan a la arena los protagonistas de Beyblade?|Aviones de papel|Peonzas|Canicas|Cochecitos
+ja|「ベイブレード」でキャラクターたちが対戦に使うのは？|紙飛行機|コマ|ビー玉|ミニカー
+zh|《战斗陀螺》中角色们在赛场上发射什么？|纸飞机|陀螺|弹珠|玩具车
+#Q 2511 4 1 2
+ru|Кто такие дигимоны?|Духи леса|Роботы-пилоты|Морские драконы|Цифровые монстры
+en|What are Digimon?|Forest spirits|Robot pilots|Sea dragons|Digital monsters
+es|¿Qué son los Digimon?|Espíritus del bosque|Pilotos de robots|Dragones marinos|Monstruos digitales
+ja|「デジモン」とは何？|森の精霊|ロボットのパイロット|海の竜|デジタルの世界に住むモンスター
+zh|“数码宝贝”是什么？|森林精灵|机器人驾驶员|海龙|数码世界里的怪兽
+#Q 2512 3 1 2
+ru|Каким животным является Хамтаро?|Мышонком|Белкой|Хомяком|Кроликом
+en|What animal is Hamtaro?|A mouse|A squirrel|A hamster|A rabbit
+es|¿Qué animal es Hamtaro?|Un ratón|Una ardilla|Un hámster|Un conejo
+ja|「とっとこハム太郎」のハム太郎は何の動物？|ネズミ|リス|ハムスター|ウサギ
+zh|哈姆太郎是什么动物？|老鼠|松鼠|仓鼠|兔子
+#Q 2513 2 1 2
+ru|Каким спортом занимается Цубаса Одзора из «Капитана Цубасы»?|Бейсболом|Футболом|Баскетболом|Волейболом
+en|Which sport does Tsubasa Ozora from Captain Tsubasa play?|Baseball|Football (soccer)|Basketball|Volleyball
+es|¿Qué deporte practica Oliver Atom (Tsubasa Ozora) en Oliver y Benji?|Béisbol|Fútbol|Baloncesto|Voleibol
+ja|「キャプテン翼」の大空翼が打ち込んでいるスポーツは？|野球|サッカー|バスケットボール|バレーボール
+zh|大空翼从事的是哪项运动？|棒球|足球|篮球|排球
+#Q 2514 2 1 2
+ru|Что случилось со всем человечеством в начале «Доктора Стоуна»?|Все уснули на сто лет|Все люди окаменели|Все стали невидимыми|Все улетели в космос
+en|What happened to all of humanity at the start of Dr. Stone?|Everyone fell asleep for a hundred years|Everyone was turned to stone|Everyone became invisible|Everyone flew off into space
+es|¿Qué le pasó a toda la humanidad al principio de Dr. Stone?|Todos se durmieron cien años|Todos se convirtieron en piedra|Todos se volvieron invisibles|Todos se fueron al espacio
+ja|「Dr.STONE」の始まりで、全人類に起きたことは？|全員が百年眠った|全員が石になった|全員が透明になった|全員が宇宙へ飛び立った
+zh|《石纪元》开头，全人类发生了什么？|所有人都沉睡了一百年|所有人都变成了石头|所有人都隐身了|所有人都飞向了太空
+#Q 2515 4 1 2
+ru|Как называют японские комиксы?|Аниме|Манхва|Ранобэ|Манга
+en|What are Japanese comics called?|Anime|Manhwa|Light novels|Manga
+es|¿Cómo se llaman los cómics japoneses?|Anime|Manhwa|Novelas ligeras|Manga
+ja|日本のコミックを何と呼ぶ？|アニメ|マンファ|ライトノベル|漫画（マンガ）
+zh|日本的连环画叫什么？|动画|韩漫|轻小说|漫画
+#Q 2516 3 1 2
+ru|Кто подарил Эшу его первого покемона, Пикачу?|Брок|Мисти|Профессор Оук|Гэри
+en|Who gave Ash his first Pokémon, Pikachu?|Brock|Misty|Professor Oak|Gary
+es|¿Quién le dio a Ash su primer Pokémon, Pikachu?|Brock|Misty|El profesor Oak|Gary
+ja|サトシに最初のポケモン、ピカチュウを渡したのは？|タケシ|カスミ|オーキド博士|シゲル
+zh|是谁把第一只宝可梦皮卡丘交给了小智？|小刚|小霞|大木博士|小茂
+#Q 2517 3 1 2
+ru|Как выглядит Почита из «Человека-бензопилы»?|Как кот|Как птица|Как маленькая собачка|Как дракон
+en|What does Pochita from Chainsaw Man look like?|A cat|A bird|A little dog|A dragon
+es|¿A qué se parece Pochita, de Chainsaw Man?|A un gato|A un pájaro|A un perrito|A un dragón
+ja|「チェンソーマン」のポチタはどんな姿？|猫|鳥|小さな犬|竜
+zh|《电锯人》中的波奇塔长得像什么？|猫|鸟|小狗|龙
+#Q 2518 2 1 2
+ru|Что носят на лбу ниндзя в «Наруто»?|Корону|Повязку с металлической пластиной со знаком деревни|Венок из листьев|Перо
+en|What do the ninjas in Naruto wear on their foreheads?|A crown|A headband with a metal plate bearing their village symbol|A wreath of leaves|A feather
+es|¿Qué llevan en la frente los ninjas de Naruto?|Una corona|Una banda con una placa de metal con el símbolo de su aldea|Una corona de hojas|Una pluma
+ja|『NARUTO』の忍たちが額につけているものは？|王冠|里のマークが入った額当て|葉っぱの冠|羽根
+zh|《火影忍者》里的忍者额头上戴着什么？|王冠|刻有村子标志的护额|树叶花环|羽毛
+#Q 2519 1 1 2
+ru|Какого цвета дракон Шенрон из «Жемчуга дракона»?|Зелёного|Красного|Синего|Золотого
+en|What color is the dragon Shenron in Dragon Ball?|Green|Red|Blue|Golden
+es|¿De qué color es el dragón Shenron de Dragon Ball?|Verde|Rojo|Azul|Dorado
+ja|「ドラゴンボール」の神龍の体の色は？|緑|赤|青|金色
+zh|《龙珠》里的神龙是什么颜色的？|绿色|红色|蓝色|金色
+#Q 2520 4 1 2
+ru|Кем приходятся друг другу Сацуки и Мэй из «Моего соседа Тоторо»?|Подругами|Мамой и дочкой|Соседками|Сёстрами
+en|How are Satsuki and Mei from My Neighbor Totoro related?|They are friends|Mother and daughter|Neighbors|They are sisters
+es|¿Qué relación tienen Satsuki y Mei, de Mi vecino Totoro?|Son amigas|Madre e hija|Vecinas|Son hermanas
+ja|「となりのトトロ」のサツキとメイの関係は？|友達|母と娘|お隣さん|姉妹
+zh|《龙猫》中的小月和小梅是什么关系？|朋友|母女|邻居|姐妹
+#Q 2521 4 2 2
+ru|Как зовут главного героя Sword Art Online, сражающегося двумя мечами?|Асуна|Субару|Кадзума|Кирито
+en|What is the name of the Sword Art Online hero who fights with two swords?|Asuna|Subaru|Kazuma|Kirito
+es|¿Cómo se llama el protagonista de Sword Art Online que lucha con dos espadas?|Asuna|Subaru|Kazuma|Kirito
+ja|「ソードアート・オンライン」で二刀流で戦う主人公は？|アスナ|スバル|カズマ|キリト
+zh|《刀剑神域》中使用双剑的主角叫什么？|亚丝娜|昴|和真|桐人
+#Q 2522 3 2 2
+ru|Кого в аниме называют «цундэрэ»?|Вечно сонного персонажа|Злодея в маске|Персонажа, который грубит, но в душе нежен|Молчаливого гения
+en|Who is called a "tsundere" in anime?|A character who is always sleepy|A masked villain|A character who acts harsh but is soft inside|A silent genius
+es|¿A quién se llama «tsundere» en el anime?|A un personaje siempre dormido|A un villano enmascarado|A un personaje que parece arisco pero es tierno por dentro|A un genio callado
+ja|アニメで「ツンデレ」と呼ばれるのはどんなキャラ？|いつも眠そうなキャラ|仮面の悪役|ふだんは冷たいが本当は優しいキャラ|無口な天才
+zh|动画里的“傲娇”指什么样的角色？|总是很困的角色|戴面具的反派|表面冷淡、内心温柔的角色|沉默寡言的天才
+#Q 2523 2 2 2
+ru|Кто такие сэйю?|Художники манги|Японские актёры озвучки|Японские повара|Певцы опенингов
+en|Who are "seiyuu"?|Manga artists|Japanese voice actors|Japanese chefs|Opening singers
+es|¿Quiénes son los «seiyuu»?|Dibujantes de manga|Actores de doblaje japoneses|Cocineros japoneses|Cantantes de openings
+ja|「声優」とは？|漫画家|声で演じる俳優|料理人|主題歌の歌手
+zh|“声优”是什么人？|漫画家|配音演员|厨师|主题曲歌手
+#Q 2524 2 2 2
+ru|Какой район Токио знаменит как рай для фанатов аниме и электроники?|Сибуя|Акихабара|Гиндза|Асакуса
+en|Which Tokyo district is famous as a paradise for anime and electronics fans?|Shibuya|Akihabara|Ginza|Asakusa
+es|¿Qué barrio de Tokio es famoso como paraíso de los fans del anime y la electrónica?|Shibuya|Akihabara|Ginza|Asakusa
+ja|アニメと電気街で有名な東京の街は？|渋谷|秋葉原|銀座|浅草
+zh|东京哪个区以动漫和电器街闻名？|涩谷|秋叶原|银座|浅草
+#Q 2525 3 2 2
+ru|В каком журнале выходили «Наруто», «Ван-Пис» и «Жемчуг дракона»?|Weekly Shonen Magazine|Nakayoshi|Weekly Shonen Jump|Weekly Shonen Sunday
+en|In which magazine were Naruto, One Piece and Dragon Ball published?|Weekly Shonen Magazine|Nakayoshi|Weekly Shonen Jump|Weekly Shonen Sunday
+es|¿En qué revista se publicaron Naruto, One Piece y Dragon Ball?|Weekly Shonen Magazine|Nakayoshi|Weekly Shonen Jump|Weekly Shonen Sunday
+ja|『NARUTO』『ONE PIECE』「ドラゴンボール」が連載された雑誌は？|週刊少年マガジン|なかよし|週刊少年ジャンプ|週刊少年サンデー
+zh|《火影忍者》《海贼王》《龙珠》都在哪本杂志上连载？|周刊少年Magazine|好朋友|周刊少年Jump|周刊少年Sunday
+#Q 2526 1 2 2
+ru|Что такое филлер в аниме?|Серии, которых нет в манге|Самые важные серии|Серии с повтором прошлых событий|Последняя серия сезона
+en|What is a "filler" in anime?|Episodes that are not in the manga|The most important episodes|Recap episodes|The last episode of a season
+es|¿Qué es el «relleno» en el anime?|Episodios que no están en el manga|Los episodios más importantes|Episodios de resumen|El último episodio de una temporada
+ja|アニメで「アニメオリジナル回（フィラー）」とは？|原作の漫画にない話|最も重要な話|総集編|シーズン最終話
+zh|动画中的“填充集（filler）”是什么？|原作漫画里没有的剧集|最重要的剧集|总集篇|一季的最后一集
+#Q 2527 3 2 2
+ru|Что происходит с Ранмой из «Ранмы ½», если облить его холодной водой?|Он засыпает|Он становится котом|Он превращается в девушку|Он теряет силу
+en|What happens to Ranma from Ranma ½ when he's splashed with cold water?|He falls asleep|He turns into a cat|He turns into a girl|He loses his strength
+es|¿Qué le pasa a Ranma, de Ranma ½, cuando le echan agua fría?|Se queda dormido|Se convierte en gato|Se convierte en chica|Pierde su fuerza
+ja|「らんま1/2」で、乱馬が水をかぶるとどうなる？|眠ってしまう|猫になる|女の子になる|力を失う
+zh|《乱马1/2》中，乱马被泼了冷水会怎样？|睡着|变成猫|变成女孩|失去力量
+#Q 2528 3 2 2
+ru|Каким спортом занимаются герои «Синей тюрьмы» (Blue Lock)?|Бейсболом|Волейболом|Футболом|Плаванием
+en|Which sport do the heroes of Blue Lock play?|Baseball|Volleyball|Football (soccer)|Swimming
+es|¿Qué deporte practican los protagonistas de Blue Lock?|Béisbol|Voleibol|Fútbol|Natación
+ja|「ブルーロック」で描かれるスポーツは？|野球|バレーボール|サッカー|水泳
+zh|《蓝色监狱》的主角们从事什么运动？|棒球|排球|足球|游泳
+#Q 2529 4 2 2
+ru|Кем является волшебница Фрирен?|Демоницей|Драконом|Вампиршей|Эльфийкой
+en|What is the mage Frieren?|A demon|A dragon|A vampire|An elf
+es|¿Qué es la maga Frieren?|Una demonio|Un dragón|Una vampira|Una elfa
+ja|「葬送のフリーレン」の魔法使いフリーレンは何者？|魔族|竜|吸血鬼|エルフ
+zh|《葬送的芙莉莲》中的魔法使芙莉莲是什么种族？|魔族|龙|吸血鬼|精灵
+#Q 2530 4 2 2
+ru|На каком инструменте играет застенчивая Хитори Гото из «Одинокого рокера»?|На барабанах|На клавишных|На скрипке|На гитаре
+en|Which instrument does shy Hitori Gotoh from Bocchi the Rock! play?|Drums|Keyboard|Violin|Guitar
+es|¿Qué instrumento toca la tímida Hitori Gotoh de Bocchi the Rock!?|La batería|El teclado|El violín|La guitarra
+ja|「ぼっち・ざ・ろっく！」の後藤ひとりが弾いている楽器は？|ドラム|キーボード|バイオリン|ギター
+zh|《孤独摇滚！》中害羞的后藤一里弹奏什么乐器？|架子鼓|键盘|小提琴|吉他
+#Q 2531 2 2 2
+ru|Чем занимается Вайолет Эвергарден после войны?|Лечит раненых|Пишет письма за других людей|Учит детей|Охраняет короля
+en|What does Violet Evergarden do after the war?|Treats the wounded|Writes letters for other people|Teaches children|Guards the king
+es|¿A qué se dedica Violet Evergarden después de la guerra?|Cura a los heridos|Escribe cartas para otras personas|Enseña a niños|Protege al rey
+ja|戦争が終わったあと、ヴァイオレット・エヴァーガーデンが就いた仕事は？|けが人の治療|人の代わりに手紙を書く仕事|子どもたちの先生|王様の護衛
+zh|战争结束后，薇尔莉特·伊芙加登从事什么工作？|救治伤员|替别人写信|教孩子们读书|护卫国王
+#Q 2532 2 2 2
+ru|Какую силу дал гиасс Лелушу из «Кода Гиасс»?|Читать мысли|Отдавать приказ, которому человек обязан подчиниться|Останавливать время|Становиться невидимым
+en|What power did the Geass give Lelouch in Code Geass?|To read minds|To give an order that a person must obey|To stop time|To turn invisible
+es|¿Qué poder le dio el Geass a Lelouch en Code Geass?|Leer la mente|Dar una orden que la persona debe obedecer|Detener el tiempo|Volverse invisible
+ja|「コードギアス 反逆のルルーシュ」で、ルルーシュのギアスの力は？|心を読む|相手に絶対に従わせる命令を下す|時間を止める|透明になる
+zh|《叛逆的鲁路修》中，鲁路修的Geass是什么能力？|读心|下达对方必须服从的命令|停止时间|隐身
+#Q 2533 2 2 2
+ru|Что происходит с Субару из Re:Zero каждый раз, когда он погибает?|Он возрождается в другом мире|Он возвращается назад во времени|Он становится призраком|Он теряет память
+en|What happens to Subaru from Re:Zero every time he dies?|He is reborn in another world|He goes back in time|He becomes a ghost|He loses his memory
+es|¿Qué le pasa a Subaru, de Re:Zero, cada vez que muere?|Renace en otro mundo|Vuelve atrás en el tiempo|Se convierte en fantasma|Pierde la memoria
+ja|「Re:ゼロから始める異世界生活」のスバルは、死ぬたびにどうなる？|別の世界に生まれ変わる|時間が巻き戻って生き返る|幽霊になる|記憶を失う
+zh|《Re:从零开始的异世界生活》中，昴每次死亡后会怎样？|在另一个世界转生|时间倒流回到过去|变成幽灵|失去记忆
+#Q 2534 2 2 2
+ru|Кого Кадзума взял с собой в другой мир в «Коносубе»?|Свою сестру|Богиню Акву|Дракона|Робота
+en|Who did Kazuma take with him to the other world in KonoSuba?|His sister|The goddess Aqua|A dragon|A robot
+es|¿A quién se llevó Kazuma al otro mundo en KonoSuba?|A su hermana|A la diosa Aqua|A un dragón|A un robot
+ja|「この素晴らしい世界に祝福を！」で、カズマが異世界へ一緒に連れて行ったのは？|自分の妹|女神アクア|ドラゴン|ロボット
+zh|《为美好的世界献上祝福！》中，和真把谁一起带到了异世界？|他的妹妹|女神阿克娅|一条龙|一个机器人
+#Q 2535 4 2 2
+ru|Какую страшную тайну скрывает приют в «Обещанном Неверленде»?|Дети на самом деле роботы|Приют находится на Луне|Воспитательница - инопланетянка|Детей растят на корм демонам
+en|What terrible secret does the orphanage in The Promised Neverland hide?|The children are really robots|The orphanage is on the Moon|The caretaker is an alien|The children are raised as food for demons
+es|¿Qué terrible secreto esconde el orfanato de The Promised Neverland?|Los niños son robots|El orfanato está en la Luna|La cuidadora es una extraterrestre|Crían a los niños como comida para demonios
+ja|「約束のネバーランド」の孤児院に隠された恐ろしい秘密は？|子どもたちは実はロボット|孤児院は月にある|ママは宇宙人|子どもたちは鬼の食料として育てられている
+zh|《约定的梦幻岛》里的孤儿院隐藏着什么可怕的秘密？|孩子们其实是机器人|孤儿院在月球上|妈妈是外星人|孩子们被当作鬼的食物来饲养
+#Q 2536 1 2 2
+ru|Кем является Люпен III?|Вором-джентльменом|Детективом|Пиратом|Самураем
+en|Who is Lupin III?|A gentleman thief|A detective|A pirate|A samurai
+es|¿Quién es Lupin III?|Un ladrón de guante blanco|Un detective|Un pirata|Un samurái
+ja|「ルパン三世」のルパンの正体は？|大泥棒|探偵|海賊|侍
+zh|鲁邦三世是什么人？|怪盗|侦探|海盗|武士
+#Q 2537 1 2 2
+ru|Чего не могут делать те, кто съел дьявольский плод в «Ван-Пис»?|Плавать|Летать|Спать|Есть мясо
+en|What can people who have eaten a Devil Fruit in One Piece not do?|Swim|Fly|Sleep|Eat meat
+es|¿Qué no pueden hacer quienes han comido una Fruta del Diablo en One Piece?|Nadar|Volar|Dormir|Comer carne
+ja|『ONE PIECE』で、悪魔の実を食べた者ができなくなることは？|泳ぐこと|空を飛ぶこと|眠ること|肉を食べること
+zh|《海贼王》中，吃了恶魔果实的人不能做什么？|游泳|飞行|睡觉|吃肉
+#Q 2538 2 3 2
+ru|Как зовут жёлтого зверька-хранителя, помощника Сакуры в «Сакуре - собирательнице карт»?|Луна|Керо|Мокона|Пикачу
+en|What is the name of the little yellow guardian beast who helps Sakura in Cardcaptor Sakura?|Luna|Kero|Mokona|Pikachu
+es|¿Cómo se llama la pequeña bestia guardiana amarilla que ayuda a Sakura en Sakura, cazadora de cartas?|Luna|Kero|Mokona|Pikachu
+ja|「カードキャプターさくら」で、さくらを助ける黄色い封印の獣は？|ルナ|ケロちゃん|モコナ|ピカチュウ
+zh|《魔卡少女樱》中帮助小樱的黄色守护兽叫什么？|露娜|小可|摩可拿|皮卡丘
+#Q 2539 4 3 2
+ru|Во что превращаются члены семьи Сома из «Корзинки фруктов», если их обнимет человек противоположного пола?|В детей|В статуи|В птиц|В животных китайского зодиака
+en|What do members of the Sohma family in Fruits Basket turn into when hugged by someone of the opposite sex?|Children|Statues|Birds|Animals of the Chinese zodiac
+es|¿En qué se transforman los miembros de la familia Soma de Fruits Basket cuando los abraza alguien del sexo opuesto?|En niños|En estatuas|En pájaros|En animales del zodiaco chino
+ja|「フルーツバスケット」の草摩家の人々は、異性に抱きつかれると何に変身する？|子ども|石像|鳥|十二支の動物
+zh|《水果篮子》中草摩家的人被异性拥抱时会变成什么？|小孩|石像|鸟|十二生肖的动物
+#Q 2540 4 3 2
+ru|Какую богиню защищают Рыцари Зодиака?|Геру|Артемиду|Афродиту|Афину
+en|Which goddess do the Knights of the Zodiac (Saint Seiya) protect?|Hera|Artemis|Aphrodite|Athena
+es|¿A qué diosa protegen los Caballeros del Zodiaco?|A Hera|A Artemisa|A Afrodita|A Atenea
+ja|「聖闘士星矢」の聖闘士たちが守っている女神は？|ヘラ|アルテミス|アフロディーテ|アテナ
+zh|《圣斗士星矢》中的圣斗士们守护的是哪位女神？|赫拉|阿尔忒弥斯|阿佛洛狄忒|雅典娜
+#Q 2541 2 3 2
+ru|Как зовут героя, после смерти которого Фрирен снова отправляется в путь?|Хайтер|Химмель|Айзен|Штарк
+en|What is the name of the hero after whose death Frieren sets out on a journey again?|Heiter|Himmel|Eisen|Stark
+es|¿Cómo se llama el héroe tras cuya muerte Frieren vuelve a emprender el viaje?|Heiter|Himmel|Eisen|Stark
+ja|フリーレンが再び旅に出るきっかけとなった、亡くなった勇者の名前は？|ハイター|ヒンメル|アイゼン|シュタルク
+zh|芙莉莲在哪位勇者去世后再次踏上旅途？|海塔|欣梅尔|艾泽|修塔尔克
+#Q 2542 4 3 2
+ru|Кем перерождаются главные герои аниме «Звёздное дитя» (Oshi no Ko)?|Котами|Принцами другого мира|Демонами|Детьми своей любимой певицы-айдола
+en|Who are the main characters of Oshi no Ko reborn as?|Cats|Princes of another world|Demons|The children of their favorite idol singer
+es|¿En quién renacen los protagonistas de Oshi no Ko?|En gatos|En príncipes de otro mundo|En demonios|En los hijos de su ídolo favorita
+ja|「【推しの子】」の主人公たちは何に生まれ変わる？|猫|異世界の王子|悪魔|推しのアイドルの子ども
+zh|《我推的孩子》的主角们转生成了什么？|猫|异世界的王子|恶魔|自己最喜欢的偶像的孩子
+#Q 2543 4 3 2
+ru|Какой бытовой прибор помог героям «Врат Штейна» (Steins Gate) отправлять сообщения в прошлое?|Холодильник|Стиральная машина|Пылесос|Микроволновка
+en|Which household appliance helped the heroes of Steins Gate send messages into the past?|A fridge|A washing machine|A vacuum cleaner|A microwave
+es|¿Qué electrodoméstico ayudó a los protagonistas de Steins Gate a enviar mensajes al pasado?|Una nevera|Una lavadora|Una aspiradora|Un microondas
+ja|「シュタインズ・ゲート」で、過去にメールを送るのに使われた家電は？|冷蔵庫|洗濯機|掃除機|電子レンジ
+zh|《命运石之门》中，主角们利用什么家电向过去发送短信？|冰箱|洗衣机|吸尘器|微波炉
+#Q 2544 3 3 2
+ru|Что означает число в названии «Моб Психо 100»?|Возраст Моба|Число его врагов|Шкалу чувств Моба: на 100% его сила вырывается наружу|Номер его школы
+en|What does the number in the title Mob Psycho 100 mean?|Mob's age|The number of his enemies|Mob's emotion meter: at 100% his power bursts out|His school number
+es|¿Qué significa el número del título Mob Psycho 100?|La edad de Mob|El número de sus enemigos|El medidor de emociones de Mob: al 100% su poder estalla|El número de su colegio
+ja|「モブサイコ100」の「100」とは何を表している？|モブの年齢|敵の数|モブの感情のメーター。100％で力が爆発する|学校の番号
+zh|《灵能百分百》中的“百分百”代表什么？|茂夫的年龄|敌人的数量|茂夫的情绪值，达到100%时力量会爆发|学校的编号
+#Q 2545 3 3 2
+ru|Как зовут мечника с огромным мечом из «Берсерка»?|Гриффит|Кирито|Гатс|Зоро
+en|What is the name of the swordsman with a gigantic sword in Berserk?|Griffith|Kirito|Guts|Zoro
+es|¿Cómo se llama el espadachín con una espada gigantesca de Berserk?|Griffith|Kirito|Guts|Zoro
+ja|「ベルセルク」で巨大な剣を振るう剣士は？|グリフィス|キリト|ガッツ|ゾロ
+zh|《剑风传奇》中挥舞巨剑的剑士叫什么？|格里菲斯|桐人|格斯|索隆
+#Q 2546 1 3 2
+ru|Кем работают герои аниме «Ковбой Бибоп»?|Охотниками за головами|Пилотами гонок|Полицейскими|Торговцами
+en|What do the heroes of Cowboy Bebop do for a living?|They are bounty hunters|They are race pilots|They are police officers|They are merchants
+es|¿A qué se dedican los protagonistas de Cowboy Bebop?|Son cazarrecompensas|Son pilotos de carreras|Son policías|Son comerciantes
+ja|「カウボーイビバップ」の主人公たちの仕事は？|賞金稼ぎ|レーサー|警察官|商人
+zh|《星际牛仔》的主角们是做什么的？|赏金猎人|赛车手|警察|商人
+#Q 2547 4 3 2
+ru|Чем знаменит Канэда из аниме «Акира»?|Синим мечом|Чёрным плащом|Белым драконом|Красным мотоциклом
+en|What is Kaneda from Akira famous for?|His blue sword|His black cloak|His white dragon|His red motorcycle
+es|¿Por qué es famoso Kaneda, de Akira?|Por su espada azul|Por su capa negra|Por su dragón blanco|Por su moto roja
+ja|「AKIRA」の金田といえば、何で有名？|青い剣|黒いマント|白い竜|赤いバイク
+zh|《阿基拉》中的金田以什么著称？|蓝色宝剑|黑色斗篷|白龙|红色摩托车
+#Q 2548 1 3 2
+ru|За какой фильм Хаяо Миядзаки получил второй «Оскар» в 2024 году?|«Мальчик и птица»|«Ветер крепчает»|«Рыбка Поньо на утёсе»|«Ходячий замок»
+en|For which film did Hayao Miyazaki win his second Oscar in 2024?|The Boy and the Heron|The Wind Rises|Ponyo|Howl's Moving Castle
+es|¿Por qué película ganó Hayao Miyazaki su segundo Óscar en 2024?|El chico y la garza|El viento se levanta|Ponyo en el acantilado|El castillo ambulante
+ja|2024年、宮崎駿監督に2度目のアカデミー賞をもたらした作品は？|君たちはどう生きるか|風立ちぬ|崖の上のポニョ|ハウルの動く城
+zh|2024年，宫崎骏凭借哪部电影第二次获得奥斯卡奖？|你想活出怎样的人生|起风了|悬崖上的金鱼姬|哈尔的移动城堡
+#Q 2549 2 3 2
+ru|Кто снял аниме-фильмы «Волчьи дети Амэ и Юки» и «Девочка, покорившая время»?|Макото Синкай|Мамору Хосода|Хаяо Миядзаки|Сатоси Кон
+en|Who directed the anime films Wolf Children and The Girl Who Leapt Through Time?|Makoto Shinkai|Mamoru Hosoda|Hayao Miyazaki|Satoshi Kon
+es|¿Quién dirigió las películas de anime Wolf Children y La chica que saltaba a través del tiempo?|Makoto Shinkai|Mamoru Hosoda|Hayao Miyazaki|Satoshi Kon
+ja|「おおかみこどもの雨と雪」「時をかける少女」のアニメ映画の監督は？|新海誠|細田守|宮崎駿|今敏
+zh|动画电影《狼的孩子雨和雪》和《穿越时空的少女》的导演是谁？|新海诚|细田守|宫崎骏|今敏
+#Q 2550 4 3 2
+ru|Что падает со скоростью пять сантиметров в секунду в фильме Макото Синкая?|Снежинки|Капли дождя|Звёзды|Лепестки сакуры
+en|What falls at five centimeters per second in Makoto Shinkai's film?|Snowflakes|Raindrops|Stars|Cherry blossom petals
+es|¿Qué cae a cinco centímetros por segundo en la película de Makoto Shinkai?|Copos de nieve|Gotas de lluvia|Estrellas|Pétalos de cerezo
+ja|新海誠監督の映画で「秒速5センチメートル」で落ちてくるものは？|雪|雨粒|星|桜の花びら
+zh|新海诚的电影里，以每秒5厘米的速度飘落的是什么？|雪花|雨滴|星星|樱花花瓣
+#Q 2551 3 1 2
+ru|Какого цвета волосы у Зоро из «Ван-Пис»?|Чёрные|Рыжие|Зелёные|Белые
+en|What color is Zoro's hair in One Piece?|Black|Orange|Green|White
+es|¿De qué color es el pelo de Zoro en One Piece?|Negro|Naranja|Verde|Blanco
+ja|『ONE PIECE』のゾロの髪の色は？|黒|オレンジ|緑|白
+zh|《海贼王》中索隆的头发是什么颜色？|黑色|橙色|绿色|白色
+#Q 2552 1 1 2
+ru|Чем известен Усопп из команды Луффи?|Длинным носом и любовью к выдумкам|Огромной силой|Умением готовить|Тремя мечами
+en|What is Usopp from Luffy's crew known for?|His long nose and tall tales|His huge strength|His cooking|His three swords
+es|¿Por qué es conocido Usopp, de la tripulación de Luffy?|Por su nariz larga y sus mentiras|Por su enorme fuerza|Por cocinar|Por sus tres espadas
+ja|ルフィの仲間ウソップの特徴は？|長い鼻とホラ話|すごい怪力|料理の腕|三本の刀
+zh|路飞的伙伴乌索普以什么出名？|长鼻子和爱吹牛|巨大的力气|厨艺|三把刀
+#Q 2553 3 1 2
+ru|Какого цвета кожа у Пикколо из «Жемчуга дракона»?|Синего|Красного|Зелёного|Фиолетового
+en|What color is Piccolo's skin in Dragon Ball?|Blue|Red|Green|Purple
+es|¿De qué color es la piel de Piccolo en Dragon Ball?|Azul|Roja|Verde|Morada
+ja|「ドラゴンボール」のピッコロの肌の色は？|青|赤|緑|紫
+zh|《龙珠》中比克的皮肤是什么颜色？|蓝色|红色|绿色|紫色
+#Q 2554 3 1 2
+ru|В кого умеет превращаться Эрен Йегер?|В дракона|В волка|В титана|В демона
+en|What can Eren Yeager transform into?|A dragon|A wolf|A Titan|A demon
+es|¿En qué puede transformarse Eren Jaeger?|En un dragón|En un lobo|En un titán|En un demonio
+ja|エレン・イェーガーが変身できるものは？|竜|オオカミ|巨人|鬼
+zh|艾伦·耶格尔能变身成什么？|龙|狼|巨人|恶魔
+#Q 2555 1 1 2
+ru|Чего смертельно боятся демоны в «Клинке, рассекающем демонов»?|Солнечного света|Воды|Чеснока|Громкой музыки
+en|What are the demons in Demon Slayer deathly afraid of?|Sunlight|Water|Garlic|Loud music
+es|¿A qué le tienen un miedo mortal los demonios de Kimetsu no Yaiba?|A la luz del sol|Al agua|Al ajo|A la música alta
+ja|「鬼滅の刃」の鬼が何より恐れるものは？|太陽の光|水|ニンニク|大きな音楽
+zh|《鬼灭之刃》里的鬼最害怕什么？|阳光|水|大蒜|吵闹的音乐
+#Q 2556 4 1 2
+ru|В чём Танджиро носит сестру Нэдзуко днём?|В корзине|В мешке|На руках|В деревянном ящике за спиной
+en|What does Tanjiro carry his sister Nezuko in during the day?|A basket|A sack|In his arms|A wooden box on his back
+es|¿En qué lleva Tanjiro a su hermana Nezuko durante el día?|En una cesta|En un saco|En brazos|En una caja de madera a la espalda
+ja|炭治郎が昼間、禰豆子を運んでいる入れ物は？|かご|袋|自分の腕の中|背負った木箱
+zh|白天炭治郎用什么背着妹妹祢豆子？|篮子|麻袋|抱在怀里|背上的木箱
+#Q 2557 2 1 2
+ru|Что постоянно ест гениальный сыщик L из «Тетради смерти»?|Яблоки|Сладости|Рамен|Рисовые шарики
+en|What does the genius detective L from Death Note constantly eat?|Apples|Sweets|Ramen|Rice balls
+es|¿Qué come constantemente el genial detective L de Death Note?|Manzanas|Dulces|Ramen|Bolas de arroz
+ja|「DEATH NOTE」の天才探偵Lがいつも食べているものは？|リンゴ|甘いお菓子|ラーメン|おにぎり
+zh|《死亡笔记》中的天才侦探L总是在吃什么？|苹果|甜食|拉面|饭团
+#Q 2558 2 1 2
+ru|Какое лакомство обожает Аня из «Семьи шпиона»?|Шоколад|Арахис|Клубнику|Печенье
+en|Which treat does Anya from Spy x Family love?|Chocolate|Peanuts|Strawberries|Cookies
+es|¿Qué golosina le encanta a Anya, de Spy x Family?|El chocolate|Los cacahuetes|Las fresas|Las galletas
+ja|「SPY×FAMILY」のアーニャの大好物は？|チョコレート|ピーナッツ|イチゴ|クッキー
+zh|《间谍过家家》中的阿尼亚最爱吃什么？|巧克力|花生|草莓|饼干
+#Q 2559 1 1 2
+ru|Что делает бамбукоптер Дораэмона?|Позволяет летать|Делает невидимым|Переводит с любых языков|Останавливает время
+en|What does Doraemon's Bamboo Copter do?|Lets you fly|Makes you invisible|Translates any language|Stops time
+es|¿Qué hace el gorrocóptero de Doraemon?|Te permite volar|Te hace invisible|Traduce cualquier idioma|Detiene el tiempo
+ja|ドラえもんのひみつ道具「タケコプター」の効果は？|空を飛べる|透明になれる|どんな言葉も通じる|時間を止める
+zh|哆啦A梦的“竹蜻蜓”有什么作用？|让人飞起来|让人隐身|能翻译任何语言|让时间停止
+#Q 2560 1 1 2
+ru|Что происходит с Таки и Мицухой во сне в фильме «Твоё имя»?|Они меняются телами|Они путешествуют в прошлое|Они становятся птицами|Они видят будущее
+en|What happens to Taki and Mitsuha in their sleep in Your Name?|They swap bodies|They travel into the past|They turn into birds|They see the future
+es|¿Qué les pasa a Taki y Mitsuha mientras duermen en Your Name?|Se intercambian los cuerpos|Viajan al pasado|Se convierten en pájaros|Ven el futuro
+ja|映画「君の名は。」で、眠っている間に瀧と三葉に起きることは？|体が入れ替わる|過去へ旅する|鳥になる|未来が見える
+zh|电影《你的名字。》中，泷和三叶在睡梦中会发生什么？|互换身体|穿越到过去|变成鸟|看到未来
+#Q 2561 3 1 2
+ru|Что умеет девушка Хина в фильме «Дитя погоды»?|Разговаривать с животными|Становиться невидимой|Вызывать солнце в дождь|Летать
+en|What can the girl Hina do in Weathering with You?|Talk to animals|Turn invisible|Make the sun come out in the rain|Fly
+es|¿Qué puede hacer la chica Hina en El tiempo contigo?|Hablar con los animales|Volverse invisible|Hacer que salga el sol cuando llueve|Volar
+ja|映画「天気の子」で、陽菜ができることは？|動物と話す|透明になる|雨の日に晴れを呼ぶ|空を飛ぶ
+zh|电影《天气之子》中，阳菜能做什么？|和动物说话|隐身|在雨天让太阳出来|飞行
+#Q 2562 1 1 2
+ru|Какого цвета волосы у Сакуры Харуно?|Розовые|Светлые|Чёрные|Синие
+en|What color is Sakura Haruno's hair?|Pink|Blonde|Black|Blue
+es|¿De qué color es el pelo de Sakura Haruno?|Rosa|Rubio|Negro|Azul
+ja|春野サクラの髪の色は？|ピンク|金色|黒|青
+zh|春野樱的头发是什么颜色？|粉色|金色|黑色|蓝色
+#Q 2563 1 1 2
+ru|Какого цвета щёки у Пикачу?|Красные|Синие|Зелёные|Белые
+en|What color are Pikachu's cheeks?|Red|Blue|Green|White
+es|¿De qué color son las mejillas de Pikachu?|Rojas|Azules|Verdes|Blancas
+ja|ピカチュウのほっぺの色は？|赤|青|緑|白
+zh|皮卡丘的脸颊是什么颜色？|红色|蓝色|绿色|白色
+#Q 2564 1 1 2
+ru|Что висит на ошейнике у Дораэмона?|Колокольчик|Медальон|Ключ|Монета
+en|What hangs on Doraemon's collar?|A bell|A locket|A key|A coin
+es|¿Qué cuelga del collar de Doraemon?|Un cascabel|Un medallón|Una llave|Una moneda
+ja|ドラえもんの首輪についているものは？|鈴|ロケット（ペンダント）|カギ|コイン
+zh|哆啦A梦的项圈上挂着什么？|铃铛|吊坠|钥匙|硬币
+#Q 2565 2 1 2
+ru|Кто такие титаны в «Атаке титанов»?|Древние боги|Огромные существа, которые едят людей|Боевые роботы|Великаны-защитники людей
+en|What are the Titans in Attack on Titan?|Ancient gods|Huge creatures that eat people|Combat robots|Giants who protect people
+es|¿Qué son los titanes de Ataque a los titanes?|Dioses antiguos|Criaturas enormes que se comen a las personas|Robots de combate|Gigantes que protegen a la gente
+ja|「進撃の巨人」の巨人とは？|古代の神々|人間を食べる巨大な存在|戦闘ロボット|人間を守る巨人
+zh|《进击的巨人》中的巨人是什么？|古代神灵|吃人的巨大生物|战斗机器人|保护人类的巨人
+#Q 2566 2 1 2
+ru|В какой класс пошёл уменьшившийся Конан?|В детский сад|В первый класс начальной школы|В пятый класс|В старшую школу
+en|Which grade did the shrunken Conan join?|Kindergarten|First grade of elementary school|Fifth grade|High school
+es|¿A qué curso fue Conan después de encogerse?|A la guardería|A primero de primaria|A quinto de primaria|Al instituto
+ja|小さくなったコナンが通い始めたのは？|幼稚園|小学1年生のクラス|小学5年生のクラス|高校
+zh|变小后的柯南上了几年级？|幼儿园|小学一年级|小学五年级|高中
+#Q 2567 3 1 2
+ru|Кто главный задира, который обижает Нобиту в «Дораэмоне»?|Сунэо|Дэкисуги|Джайан|Сидзука
+en|Who is the main bully who picks on Nobita in Doraemon?|Suneo|Dekisugi|Gian|Shizuka
+es|¿Quién es el principal abusón que se mete con Nobita en Doraemon?|Suneo|Dekisugi|Gigante|Shizuka
+ja|「ドラえもん」で、のび太をいじめるガキ大将は？|スネ夫|出木杉|ジャイアン|しずか
+zh|《哆啦A梦》中经常欺负大雄的孩子王是谁？|小夫|出木杉|胖虎|静香
+#Q 2568 1 1 2
+ru|Как выглядит учитель Коро-сэнсэй из «Класса убийц»?|Как жёлтый осьминог|Как огромный кот|Как скелет|Как робот
+en|What does the teacher Koro-sensei from Assassination Classroom look like?|A yellow octopus|A huge cat|A skeleton|A robot
+es|¿Qué aspecto tiene el profesor Koro-sensei de Assassination Classroom?|Un pulpo amarillo|Un gato enorme|Un esqueleto|Un robot
+ja|「暗殺教室」の殺せんせーはどんな姿？|黄色いタコのよう|大きな猫|ガイコツ|ロボット
+zh|《暗杀教室》中的杀老师长什么样？|像一只黄色章鱼|一只大猫|骷髅|机器人
+#Q 2569 4 1 2
+ru|Какого цвета волосы у Гоку в обычном облике?|Золотые|Синие|Рыжие|Чёрные
+en|What color is Goku's hair in his normal form?|Golden|Blue|Red|Black
+es|¿De qué color es el pelo de Goku en su forma normal?|Dorado|Azul|Pelirrojo|Negro
+ja|ふだんの姿の悟空の髪の色は？|金色|青|赤|黒
+zh|悟空平时的头发是什么颜色？|金色|蓝色|红色|黑色
+#Q 2570 1 1 2
+ru|Какого цвета бантик у Hello Kitty?|Красного|Синего|Жёлтого|Зелёного
+en|What color is Hello Kitty's bow?|Red|Blue|Yellow|Green
+es|¿De qué color es el lazo de Hello Kitty?|Rojo|Azul|Amarillo|Verde
+ja|ハローキティのリボンの色は？|赤|青|黄色|緑
+zh|凯蒂猫（Hello Kitty）的蝴蝶结是什么颜色？|红色|蓝色|黄色|绿色
+#Q 2571 2 2 2
+ru|Какой символ изображён на плащах Разведкорпуса?|Единорог|Крылья свободы|Розы|Дракон
+en|Which emblem is on the cloaks of the Survey Corps?|A unicorn|The Wings of Freedom|Roses|A dragon
+es|¿Qué emblema llevan las capas de la Legión de Reconocimiento?|Un unicornio|Las Alas de la Libertad|Rosas|Un dragón
+ja|「調査兵団」のマントに描かれている紋章は？|ユニコーン|自由の翼|バラ|竜
+zh|调查兵团的斗篷上画的是什么标志？|独角兽|自由之翼|玫瑰|龙
+#Q 2572 1 2 2
+ru|Кого призывает в бою Мэгуми Фусигуро из «Магической битвы»?|Сикигами в облике зверей|Демонов-лис|Мёртвых самураев|Огненных птиц
+en|What does Megumi Fushiguro summon in battle in Jujutsu Kaisen?|Shikigami in the form of beasts|Fox demons|Dead samurai|Fire birds
+es|¿Qué invoca Megumi Fushiguro en combate en Jujutsu Kaisen?|Shikigami con forma de bestias|Demonios zorro|Samuráis muertos|Pájaros de fuego
+ja|「呪術廻戦」の伏黒恵が戦いで呼び出すのは？|動物の姿の式神|狐の妖怪|死んだ侍|火の鳥
+zh|《咒术回战》中的伏黑惠在战斗中召唤什么？|动物形态的式神|狐妖|死去的武士|火鸟
+#Q 2573 2 2 2
+ru|Что Сацуки даёт Тоторо на автобусной остановке под дождём?|Яблоко|Зонтик|Шапку|Фонарик
+en|What does Satsuki give Totoro at the bus stop in the rain?|An apple|An umbrella|A hat|A lantern
+es|¿Qué le da Satsuki a Totoro en la parada del autobús bajo la lluvia?|Una manzana|Un paraguas|Un sombrero|Un farolillo
+ja|雨のバス停で、サツキがトトロに貸してあげたものは？|リンゴ|傘|帽子|ちょうちん
+zh|雨中的公交车站，小月把什么借给了龙猫？|苹果|雨伞|帽子|灯笼
+#Q 2574 2 2 2
+ru|Как называется школа героев, в которой учится Изуку Мидория?|Карасуно|Юэй|Сэйрин|Хогвартс
+en|What is the hero school Izuku Midoriya attends called?|Karasuno High|U.A. High|Seirin High|Hogwarts
+es|¿Cómo se llama la escuela de héroes a la que va Izuku Midoriya?|Karasuno|U.A.|Seirin|Hogwarts
+ja|緑谷出久が通うヒーロー科のある高校は？|烏野高校|雄英高校|誠凛高校|ホグワーツ
+zh|绿谷出久就读的英雄学校叫什么？|乌野高中|雄英高中|诚凛高中|霍格沃茨
+#Q 2575 1 2 2
+ru|Какой способностью обладает пёс Бонд из «Семьи шпиона»?|Видит будущее|Читает мысли|Говорит по-человечески|Становится невидимым
+en|What power does the dog Bond in Spy x Family have?|He can see the future|He reads minds|He talks like a human|He turns invisible
+es|¿Qué poder tiene el perro Bond de Spy x Family?|Ve el futuro|Lee la mente|Habla como un humano|Se vuelve invisible
+ja|「SPY×FAMILY」の犬のボンドが持っている能力は？|未来が見える|心が読める|人間の言葉を話す|透明になる
+zh|《间谍过家家》中的狗狗彭德有什么能力？|预知未来|读心|说人话|隐身
+#Q 2576 2 2 2
+ru|Что бросает в бою Такседо Маск из «Сейлор Мун»?|Кинжал|Розу|Сюрикен|Карту
+en|What does Tuxedo Mask throw in battle in Sailor Moon?|A dagger|A rose|A shuriken|A playing card
+es|¿Qué lanza en combate el señor del antifaz (Tuxedo Mask) en Sailor Moon?|Una daga|Una rosa|Un shuriken|Una carta
+ja|「セーラームーン」のタキシード仮面が戦いで投げるものは？|短剣|バラ|手裏剣|トランプ
+zh|《美少女战士》中的夜礼服假面在战斗中扔什么？|匕首|玫瑰|手里剑|扑克牌
+#Q 2577 4 2 2
+ru|Чем Конан усыпляет сыщика Когоро Мори?|Снотворным в чае|Гипнозом|Ударом по затылку|Иглой из наручных часов
+en|What does Conan use to put detective Kogoro Mouri to sleep?|Sleeping pills in tea|Hypnosis|A blow to the head|A dart from his wristwatch
+es|¿Con qué duerme Conan al detective Kogoro Mouri?|Con somnífero en el té|Con hipnosis|Con un golpe en la nuca|Con un dardo de su reloj de pulsera
+ja|コナンが毛利小五郎を眠らせるのに使う道具は？|お茶に入れた睡眠薬|催眠術|首への手刀|腕時計型麻酔銃
+zh|柯南用什么让毛利小五郎睡着？|茶里的安眠药|催眠术|手刀打后颈|手表型麻醉枪
+#Q 2578 2 2 2
+ru|Как называют преступников, которые уменьшили Синъити Кудо?|Акацуки|Чёрная организация|Команда R|Призрачная труппа
+en|What are the criminals who shrank Shinichi Kudo called?|The Akatsuki|The Black Organization|Team Rocket|The Phantom Troupe
+es|¿Cómo se llama la banda de criminales que encogió a Shinichi Kudo?|Akatsuki|La Organización de los Hombres de Negro|Team Rocket|La Compañía del Fantasma
+ja|工藤新一を小さくした犯罪者たちは何と呼ばれる？|暁|黒ずくめの組織|ロケット団|幻影旅団
+zh|把工藤新一变小的犯罪集团叫什么？|晓|黑衣组织|火箭队|幻影旅团
+#Q 2579 3 2 2
+ru|Кем на самом деле является Хаку из «Унесённых призраками»?|Сыном колдуньи|Заколдованным принцем-котом|Духом реки, белым драконом|Призраком мальчика
+en|Who is Haku really in Spirited Away?|The witch's son|A cursed cat prince|The spirit of a river, a white dragon|The ghost of a boy
+es|¿Quién es Haku en realidad en El viaje de Chihiro?|El hijo de la bruja|Un príncipe gato hechizado|El espíritu de un río, un dragón blanco|El fantasma de un niño
+ja|「千と千尋の神隠し」のハクの正体は？|湯婆婆の息子|呪われた猫の王子|川の神様（白い竜）|少年の幽霊
+zh|《千与千寻》中白龙的真实身份是什么？|汤婆婆的儿子|被诅咒的猫王子|河神，一条白龙|一个男孩的幽灵
+#Q 2580 3 2 2
+ru|Кто вырастил девушку Сан из «Принцессы Мононоке»?|Медведи|Олени|Волки|Обезьяны
+en|Who raised the girl San in Princess Mononoke?|Bears|Deer|Wolves|Monkeys
+es|¿Quién crio a la joven San en La princesa Mononoke?|Los osos|Los ciervos|Los lobos|Los monos
+ja|「もののけ姫」のサンを育てたのは？|クマ|シカ|山犬（オオカミ）|サル
+zh|《幽灵公主》中的小桑是被谁养大的？|熊|鹿|狼|猴子
+#Q 2581 1 2 2
+ru|Какое небесное тело падает на родной город Мицухи в «Твоём имени»?|Комета|Луна|Спутник|Солнце
+en|What falls on Mitsuha's hometown in Your Name?|A comet|The Moon|A satellite|The Sun
+es|¿Qué cae sobre el pueblo de Mitsuha en Your Name?|Un cometa|La Luna|Un satélite|El Sol
+ja|「君の名は。」で、三葉の住む町に落ちてくるものは？|彗星|月|人工衛星|太陽
+zh|《你的名字。》中，什么掉落到了三叶的家乡？|彗星|月亮|人造卫星|太阳
+#Q 2582 2 2 2
+ru|Какого цвета волосы у Рей Аянами из «Евангелиона»?|Рыжие|Голубые|Чёрные|Розовые
+en|What color is Rei Ayanami's hair in Evangelion?|Red|Light blue|Black|Pink
+es|¿De qué color es el pelo de Rei Ayanami en Evangelion?|Pelirrojo|Azul claro|Negro|Rosa
+ja|「エヴァンゲリオン」の綾波レイの髪の色は？|赤|水色|黒|ピンク
+zh|《新世纪福音战士》中绫波丽的头发是什么颜色？|红色|浅蓝色|黑色|粉色
+#Q 2583 1 2 2
+ru|Чем Аста из «Чёрного клевера» отличается от всех жителей своего королевства?|У него совсем нет магии|Он умеет летать|Он бессмертен|Он видит духов
+en|How is Asta from Black Clover different from everyone else in his kingdom?|He has no magic at all|He can fly|He is immortal|He can see spirits
+es|¿En qué se diferencia Asta, de Black Clover, de todos los habitantes de su reino?|No tiene nada de magia|Puede volar|Es inmortal|Ve a los espíritus
+ja|「ブラッククローバー」のアスタが、王国のほかの人たちと違うところは？|魔力がまったくない|空を飛べる|不死身|霊が見える
+zh|《黑色五叶草》中的阿斯塔和王国里其他人有什么不同？|完全没有魔力|会飞|不会死|能看见灵魂
+#Q 2584 2 2 2
+ru|На ком в итоге женился Наруто?|На Сакуре|На Хинате|На Ино|На Тэнтэн
+en|Who did Naruto eventually marry?|Sakura|Hinata|Ino|Tenten
+es|¿Con quién se casó finalmente Naruto?|Con Sakura|Con Hinata|Con Ino|Con Tenten
+ja|ナルトが最終的に結婚した相手は？|サクラ|ヒナタ|いの|テンテン
+zh|鸣人最后和谁结婚了？|小樱|雏田|井野|天天
+#Q 2585 1 2 2
+ru|Как называется морская армия, которая охотится на пиратов в «Ван-Пис»?|Дозор|Акацуки|Разведкорпус|Шинсэнгуми
+en|What is the navy that hunts pirates in One Piece called?|The Marines|The Akatsuki|The Survey Corps|The Shinsengumi
+es|¿Cómo se llama la armada que caza piratas en One Piece?|La Marina|Akatsuki|La Legión de Reconocimiento|El Shinsengumi
+ja|『ONE PIECE』で海賊を取り締まる組織は？|海軍|暁|調査兵団|真選組
+zh|《海贼王》中追捕海贼的组织叫什么？|海军|晓|调查兵团|真选组
+#Q 2586 3 2 2
+ru|Кем является музыкант Брук из команды Луффи?|Роботом|Рыбочеловеком|Живым скелетом|Призраком-девушкой
+en|What is the musician Brook from Luffy's crew?|A robot|A fishman|A living skeleton|A ghost girl
+es|¿Qué es el músico Brook, de la tripulación de Luffy?|Un robot|Un hombre pez|Un esqueleto viviente|Una chica fantasma
+ja|ルフィの仲間の音楽家ブルックの正体は？|ロボット|魚人|生きているガイコツ|幽霊の少女
+zh|路飞伙伴中的音乐家布鲁克是什么？|机器人|鱼人|活着的骷髅|幽灵少女
+#Q 2587 4 2 2
+ru|Что делает боб сэндзу в «Жемчуге дракона»?|Даёт умение летать|Превращает в Супер Сайяна|Призывает дракона|Полностью восстанавливает силы и раны
+en|What does a Senzu Bean do in Dragon Ball?|Lets you fly|Turns you Super Saiyan|Summons the dragon|Fully heals wounds and restores strength
+es|¿Qué hace una semilla del ermitaño (Senzu) en Dragon Ball?|Permite volar|Te convierte en Super Saiyan|Invoca al dragón|Cura del todo las heridas y devuelve la fuerza
+ja|「ドラゴンボール」の仙豆を食べるとどうなる？|空を飛べる|スーパーサイヤ人になる|神龍を呼べる|ケガが治り体力がすべて回復する
+zh|《龙珠》里的仙豆有什么作用？|能飞起来|变成超级赛亚人|召唤神龙|伤势和体力完全恢复
+#Q 2588 1 3 2
+ru|Какие серьги носит Танджиро Камадо?|Ханафуда с солнцем|Золотые кольца|Жемчужины|Маленькие колокольчики
+en|What earrings does Tanjiro Kamado wear?|Hanafuda cards with a sun|Gold hoops|Pearls|Little bells
+es|¿Qué pendientes lleva Tanjiro Kamado?|Cartas hanafuda con un sol|Aros de oro|Perlas|Cascabeles
+ja|竈門炭治郎がつけている耳飾りは？|太陽が描かれた花札のような耳飾り|金の輪|真珠|小さな鈴
+zh|灶门炭治郎戴的是什么耳饰？|画着太阳的花札耳饰|金耳环|珍珠|小铃铛
+#Q 2589 3 3 2
+ru|Каким демоном является Пауэр из «Человека-бензопилы»?|Демоном огня|Демоном тьмы|Демоном крови|Демоном страха
+en|What kind of devil is Power in Chainsaw Man?|The Fire Devil|The Darkness Devil|The Blood Fiend|The Fear Devil
+es|¿Qué clase de demonio es Power en Chainsaw Man?|El demonio del fuego|El demonio de la oscuridad|La demonio de la sangre|El demonio del miedo
+ja|「チェンソーマン」のパワーは何の魔人？|火の悪魔|闇の悪魔|血の魔人|恐怖の悪魔
+zh|《电锯人》中的帕瓦是什么恶魔？|火之恶魔|暗之恶魔|血之魔人|恐惧恶魔
+#Q 2590 3 3 2
+ru|В каком классе героев начинал Сайтама из «Ванпанчмена»?|B|A|C|S
+en|In which hero class did Saitama from One-Punch Man start?|B|A|C|S
+es|¿En qué clase de héroe empezó Saitama, de One Punch Man?|B|A|C|S
+ja|「ワンパンマン」のサイタマが最初に登録されたヒーローのクラスは？|B級|A級|C級|S級
+zh|《一拳超人》中的埼玉一开始是哪个级别的英雄？|B级|A级|C级|S级
+#Q 2591 4 3 2
+ru|Как зовут маленького покемона, вылупившегося из яйца, которого носила Мисти?|Псайдак|Пичу|Азурилл|Тогепи
+en|What is the name of the little Pokémon that hatched from an egg and was carried around by Misty?|Psyduck|Pichu|Azurill|Togepi
+es|¿Cómo se llama el pequeño Pokémon que salió de un huevo y llevaba Misty en brazos?|Psyduck|Pichu|Azurill|Togepi
+ja|タマゴからかえり、カスミが抱いていた小さなポケモンは？|コダック|ピチュー|ルリリ|トゲピー
+zh|从蛋里孵出来、被小霞抱在怀里的小宝可梦叫什么？|可达鸭|皮丘|露力丽|波克比
+#Q 2592 3 3 2
+ru|Как называются огромные насекомые из фильма «Навсикая из Долины ветров»?|Кодама|Тоторо|Оому|Дзидзи
+en|What are the giant insects in Nausicaä of the Valley of the Wind called?|Kodama|Totoro|Ohmu|Jiji
+es|¿Cómo se llaman los insectos gigantes de Nausicaä del Valle del Viento?|Kodama|Totoro|Ohmu|Jiji
+ja|「風の谷のナウシカ」に登場する巨大な虫は？|コダマ|トトロ|王蟲|ジジ
+zh|《风之谷》中出现的巨大昆虫叫什么？|木灵|龙猫|王虫|吉吉
+#Q 2593 3 3 2
+ru|Кем является майор Мотоко Кусанаги из «Призрака в доспехах»?|Призраком|Андроидом из прошлого|Киборгом|Обычным человеком
+en|What is Major Motoko Kusanagi in Ghost in the Shell?|A ghost|An android from the past|A cyborg|An ordinary human
+es|¿Qué es la mayor Motoko Kusanagi en Ghost in the Shell?|Un fantasma|Una androide del pasado|Una cíborg|Una humana normal
+ja|「攻殻機動隊」の草薙素子少佐は何者？|幽霊|過去から来たアンドロイド|全身義体のサイボーグ|ふつうの人間
+zh|《攻壳机动队》中的草薙素子少佐是什么？|幽灵|来自过去的机器人|改造人（全身义体）|普通人
+#Q 2594 2 3 2
+ru|Кто снял аниме-фильм «Могила светлячков»?|Хаяо Миядзаки|Исао Такахата|Мамору Хосода|Макото Синкай
+en|Who directed the anime film Grave of the Fireflies?|Hayao Miyazaki|Isao Takahata|Mamoru Hosoda|Makoto Shinkai
+es|¿Quién dirigió la película de anime La tumba de las luciérnagas?|Hayao Miyazaki|Isao Takahata|Mamoru Hosoda|Makoto Shinkai
+ja|アニメ映画「火垂るの墓」の監督は？|宮崎駿|高畑勲|細田守|新海誠
+zh|动画电影《萤火虫之墓》的导演是谁？|宫崎骏|高畑勋|细田守|新海诚
+#Q 2595 1 3 2
+ru|Какую фразу снова и снова повторяет себе Синдзи Икари?|«Нельзя убегать»|«Я стану сильнее»|«Это моя судьба»|«Верь в себя»
+en|Which phrase does Shinji Ikari repeat to himself over and over?|"I mustn't run away"|"I will get stronger"|"This is my destiny"|"Believe in yourself"
+es|¿Qué frase se repite Shinji Ikari una y otra vez?|«No debo huir»|«Me haré más fuerte»|«Es mi destino»|«Cree en ti mismo»
+ja|碇シンジが何度も自分に言い聞かせる言葉は？|「逃げちゃダメだ」|「強くなるんだ」|「これが運命だ」|「自分を信じろ」
+zh|碇真嗣一遍又一遍对自己说的话是什么？|“不能逃避”|“我要变强”|“这就是命运”|“相信自己”
+#Q 2596 1 3 2
+ru|Какая знаменитая серия про боевых роботов началась в 1979 году?|«Гандам»|«Евангелион»|«Макросс»|«Гуррен-Лаганн»
+en|Which famous series about fighting robots began in 1979?|Gundam|Evangelion|Macross|Gurren Lagann
+es|¿Qué famosa saga de robots de combate empezó en 1979?|Gundam|Evangelion|Macross|Gurren Lagann
+ja|1979年に始まった、ロボットアニメの有名なシリーズは？|機動戦士ガンダム|エヴァンゲリオン|マクロス|天元突破グレンラガン
+zh|1979年开始的著名机器人动画系列是哪个？|机动战士高达|新世纪福音战士|超时空要塞|天元突破红莲螺岩
+#Q 2597 1 3 2
+ru|Из какой страны изначально пришла история «Поднятие уровня в одиночку» (Solo Leveling)?|Из Южной Кореи|Из Японии|Из Китая|Из США
+en|Which country did Solo Leveling originally come from?|South Korea|Japan|China|USA
+es|¿De qué país procede originalmente Solo Leveling?|De Corea del Sur|De Japón|De China|De Estados Unidos
+ja|「俺だけレベルアップな件」の原作はどこの国の作品？|韓国|日本|中国|アメリカ
+zh|《我独自升级》的原作来自哪个国家？|韩国|日本|中国|美国
+#Q 2598 2 3 2
+ru|Как зовут двух преемников L в «Тетради смерти»?|Рюк и Рэм|Ниа и Мэлло|Лайт и Миса|Ватари и Мацуда
+en|What are the names of L's two successors in Death Note?|Ryuk and Rem|Near and Mello|Light and Misa|Watari and Matsuda
+es|¿Cómo se llaman los dos sucesores de L en Death Note?|Ryuk y Rem|Near y Mello|Light y Misa|Watari y Matsuda
+ja|「DEATH NOTE」でLの後継者となった2人は？|リュークとレム|ニアとメロ|月とミサ|ワタリと松田
+zh|《死亡笔记》中L的两位继承者是谁？|琉克和雷姆|尼亚和梅洛|夜神月和弥海砂|渡和松田
+#Q 2599 1 3 2
+ru|Как зовут воина, который получается при слиянии Гоку и Вегеты с помощью особого танца?|Гогета|Веджито|Готенкс|Гохан
+en|What is the name of the warrior formed when Goku and Vegeta fuse using the special dance?|Gogeta|Vegito|Gotenks|Gohan
+es|¿Cómo se llama el guerrero que surge cuando Goku y Vegeta se fusionan con el baile especial?|Gogeta|Vegetto|Gotenks|Gohan
+ja|悟空とベジータが「フュージョン」のポーズで合体した戦士は？|ゴジータ|ベジット|ゴテンクス|悟飯
+zh|悟空和贝吉塔用合体舞融合后的战士叫什么？|悟吉塔|贝吉特|悟天克斯|悟饭
+#Q 2600 1 3 2
+ru|Каких животных призывает в бою Джирайя из «Наруто»?|Жаб|Змей|Слизней|Собак
+en|Which animals does Jiraiya summon in battle in Naruto?|Toads|Snakes|Slugs|Dogs
+es|¿Qué animales invoca Jiraiya en combate en Naruto?|Sapos|Serpientes|Babosas|Perros
+ja|『NARUTO』の自来也が口寄せの術で呼び出す動物は？|ガマ（カエル）|ヘビ|ナメクジ|イヌ
+zh|《火影忍者》中的自来也用通灵术召唤什么动物？|蛤蟆|蛇|蛞蝓|狗
+#Q 2601 4 1 2
+ru|Кем работает Нами в команде Луффи?|Коком|Врачом|Плотником|Штурманом
+en|What is Nami's job on Luffy's crew?|Cook|Doctor|Shipwright|Navigator
+es|¿Qué función tiene Nami en la tripulación de Luffy?|Cocinera|Médica|Carpintera|Navegante
+ja|ルフィの一味でナミの役割は？|コック|船医|船大工|航海士
+zh|娜美在路飞的海贼团中担任什么？|厨师|船医|船匠|航海士
+#Q 2602 4 1 2
+ru|Какого цвета волосы у Нами из «Ван-Пис»?|Чёрные|Синие|Зелёные|Рыжие
+en|What color is Nami's hair in One Piece?|Black|Blue|Green|Orange
+es|¿De qué color es el pelo de Nami en One Piece?|Negro|Azul|Verde|Naranja
+ja|『ONE PIECE』のナミの髪の色は？|黒|青|緑|オレンジ
+zh|《海贼王》中娜美的头发是什么颜色？|黑色|蓝色|绿色|橙色
+#Q 2603 2 1 2
+ru|Какого цвета знаменитый костюм Наруто?|Синего|Оранжевого|Зелёного|Белого
+en|What color is Naruto's famous jumpsuit?|Blue|Orange|Green|White
+es|¿De qué color es el famoso traje de Naruto?|Azul|Naranja|Verde|Blanco
+ja|ナルトのおなじみの服の色は？|青|オレンジ|緑|白
+zh|鸣人那身标志性的衣服是什么颜色？|蓝色|橙色|绿色|白色
+#Q 2604 4 1 2
+ru|Что нарисовано на щеках у Наруто?|Звёзды|Сердечки|Ничего|По три полоски, похожие на усы
+en|What is on Naruto's cheeks?|Stars|Hearts|Nothing|Three whisker-like marks on each
+es|¿Qué tiene Naruto en las mejillas?|Estrellas|Corazones|Nada|Tres marcas como bigotes en cada una
+ja|ナルトのほっぺにあるものは？|星|ハート|何もない|ヒゲのような3本の線
+zh|鸣人的脸颊上有什么？|星星|爱心|什么也没有|像胡须一样的三道纹
+#Q 2605 2 1 2
+ru|Как зовут лысого друга Гоку с шестью точками на лбу?|Ямча|Крилин|Тенсинхан|Пикколо
+en|What is the name of Goku's bald friend with six dots on his forehead?|Yamcha|Krillin|Tien|Piccolo
+es|¿Cómo se llama el amigo calvo de Goku con seis puntos en la frente?|Yamcha|Krilin|Ten Shin Han|Piccolo
+ja|額に6つの点がある、悟空の坊主頭の親友は？|ヤムチャ|クリリン|天津飯|ピッコロ
+zh|悟空那位光头、额头上有六个点的好朋友叫什么？|雅木茶|克林|天津饭|比克
+#Q 2606 2 1 2
+ru|Какого цвета Маджин Буу из «Жемчуга дракона»?|Зелёного|Розового|Синего|Жёлтого
+en|What color is Majin Buu in Dragon Ball?|Green|Pink|Blue|Yellow
+es|¿De qué color es Majin Buu en Dragon Ball?|Verde|Rosa|Azul|Amarillo
+ja|「ドラゴンボール」の魔人ブウの体の色は？|緑|ピンク|青|黄色
+zh|《龙珠》中的魔人布欧是什么颜色的？|绿色|粉色|蓝色|黄色
+#Q 2607 3 1 2
+ru|Какого цвета волосы у Ичиго Куросаки из «Блича»?|Чёрные|Белые|Оранжевые|Синие
+en|What color is Ichigo Kurosaki's hair in Bleach?|Black|White|Orange|Blue
+es|¿De qué color es el pelo de Ichigo Kurosaki en Bleach?|Negro|Blanco|Naranja|Azul
+ja|「BLEACH」の黒崎一護の髪の色は？|黒|白|オレンジ|青
+zh|《死神》中黑崎一护的头发是什么颜色？|黑色|白色|橙色|蓝色
+#Q 2608 2 1 2
+ru|Чем питаются гули из «Токийского гуля»?|Овощами|Человеческим мясом|Только кровью|Душами
+en|What do the ghouls in Tokyo Ghoul feed on?|Vegetables|Human flesh|Only blood|Souls
+es|¿De qué se alimentan los ghouls de Tokyo Ghoul?|De verduras|De carne humana|Solo de sangre|De almas
+ja|「東京喰種」の喰種（グール）が食べるものは？|野菜|人間の肉|血だけ|魂
+zh|《东京喰种》中的喰种以什么为食？|蔬菜|人肉|只喝血|灵魂
+#Q 2609 1 1 2
+ru|Каким спортом занимается Сёё Хината из аниме Haikyu!!?|Волейболом|Баскетболом|Футболом|Теннисом
+en|Which sport does Shoyo Hinata play in Haikyu!!?|Volleyball|Basketball|Football (soccer)|Tennis
+es|¿Qué deporte practica Shoyo Hinata en Haikyu!!?|Voleibol|Baloncesto|Fútbol|Tenis
+ja|日向翔陽が打ち込んでいるスポーツは？|バレーボール|バスケットボール|サッカー|テニス
+zh|日向翔阳从事的是哪项运动？|排球|篮球|足球|网球
+#Q 2610 2 1 2
+ru|Что кричит Эш, выпуская покемона в бой?|«Вперёд, к победе!»|«Я выбираю тебя!»|«Сила, проснись!»|«Время дуэли!»
+en|What does Ash shout when sending a Pokémon into battle?|"Onward to victory!"|"I choose you!"|"Power, awaken!"|"It's time to duel!"
+es|¿Qué grita Ash al enviar a un Pokémon al combate?|«¡A por la victoria!»|«¡Yo te elijo!»|«¡Despierta, poder!»|«¡Es hora del duelo!»
+ja|サトシがポケモンをバトルに出すときに叫ぶ言葉は？|「勝利へ進め！」|「きみにきめた！」|「目覚めよ、力！」|「デュエルの時間だ！」
+zh|小智派宝可梦出战时会喊什么？|“向胜利前进！”|“就决定是你了！”|“力量，觉醒吧！”|“决斗时间到！”
+#Q 2611 2 1 2
+ru|Какого цвета шерсть у Тоторо?|Белая|Серая|Коричневая|Рыжая
+en|What color is Totoro's fur?|White|Gray|Brown|Orange
+es|¿De qué color es el pelaje de Totoro?|Blanco|Gris|Marrón|Naranja
+ja|トトロの毛の色は？|白|灰色|茶色|オレンジ
+zh|龙猫的毛是什么颜色？|白色|灰色|棕色|橙色
+#Q 2612 4 1 2
+ru|Чем знаменит аппетит Гоку?|Он почти ничего не ест|Он ест только сладкое|Он питается солнечным светом|Он съедает горы еды
+en|What is Goku's appetite famous for?|He hardly eats at all|He eats only sweets|He feeds on sunlight|He eats mountains of food
+es|¿Por qué es famoso el apetito de Goku?|Casi no come nada|Solo come dulces|Se alimenta de luz solar|Come montañas de comida
+ja|悟空の食欲で有名なのは？|ほとんど食べない|甘い物しか食べない|太陽の光で生きている|山のような量を食べる
+zh|悟空的饭量以什么出名？|几乎不吃东西|只吃甜食|靠阳光生存|能吃下堆成山的食物
+#Q 2613 2 1 2
+ru|В каком фильме Ghibli девочка работает в бане для духов?|«Мой сосед Тоторо»|«Унесённые призраками»|«Ходячий замок»|«Ведьмина служба доставки»
+en|In which Ghibli film does a girl work in a bathhouse for spirits?|My Neighbor Totoro|Spirited Away|Howl's Moving Castle|Kiki's Delivery Service
+es|¿En qué película de Ghibli una niña trabaja en una casa de baños para espíritus?|Mi vecino Totoro|El viaje de Chihiro|El castillo ambulante|Nicky, la aprendiz de bruja
+ja|少女が神様たちの湯屋で働くジブリ映画は？|となりのトトロ|千と千尋の神隠し|ハウルの動く城|魔女の宅急便
+zh|哪部吉卜力电影里，女孩在神灵们的澡堂里打工？|龙猫|千与千寻|哈尔的移动城堡|魔女宅急便
+#Q 2614 4 1 2
+ru|Какой персонаж изображён на логотипе студии Ghibli?|Безликий|Кики|Понё|Тоторо
+en|Which character is on the Studio Ghibli logo?|No-Face|Kiki|Ponyo|Totoro
+es|¿Qué personaje aparece en el logotipo del Studio Ghibli?|Sin Cara|Kiki|Ponyo|Totoro
+ja|スタジオジブリのロゴに描かれているキャラクターは？|カオナシ|キキ|ポニョ|トトロ
+zh|吉卜力工作室的标志上画的是哪个角色？|无脸男|琪琪|波妞|龙猫
+#Q 2615 4 1 2
+ru|Какое прозвище у Изуку Мидории из «Моей геройской академии»?|Каччан|Шото|Тэнья|Деку
+en|What is Izuku Midoriya's nickname in My Hero Academia?|Kacchan|Shoto|Tenya|Deku
+es|¿Cuál es el apodo de Izuku Midoriya en My Hero Academia?|Kacchan|Shoto|Tenya|Deku
+ja|「僕のヒーローアカデミア」の緑谷出久のあだ名は？|かっちゃん|ショート|天哉|デク
+zh|《我的英雄学院》中绿谷出久的外号是什么？|小胜|焦冻|天哉|废久
+#Q 2616 3 1 2
+ru|Что поклялся сделать Эрен в начале «Атаки титанов»?|Стать королём|Найти сокровище|Уничтожить всех титанов|Уплыть за море
+en|What did Eren vow to do at the start of Attack on Titan?|Become king|Find a treasure|Wipe out every Titan|Sail across the sea
+es|¿Qué juró hacer Eren al principio de Ataque a los titanes?|Llegar a ser rey|Encontrar un tesoro|Acabar con todos los titanes|Cruzar el mar
+ja|「進撃の巨人」の始まりで、エレンが誓ったことは？|王になる|宝を見つける|巨人を一匹残らず駆逐する|海の向こうへ船出する
+zh|《进击的巨人》开头，艾伦发誓要做什么？|成为国王|找到宝藏|消灭所有巨人|扬帆出海
+#Q 2617 2 1 2
+ru|Кого в «Магической битве» называют Королём проклятий?|Годзё|Сукуну|Махито|Гэто
+en|Who is called the King of Curses in Jujutsu Kaisen?|Gojo|Sukuna|Mahito|Geto
+es|¿A quién llaman el Rey de las Maldiciones en Jujutsu Kaisen?|A Gojo|A Sukuna|A Mahito|A Geto
+ja|「呪術廻戦」で「呪いの王」と呼ばれるのは？|五条悟|両面宿儺|真人|夏油傑
+zh|《咒术回战》中被称为“诅咒之王”的是谁？|五条悟|两面宿傩|真人|夏油杰
+#Q 2618 3 1 2
+ru|Каким животным является Мяут из Команды R?|Собакой|Мышью|Котом|Лисой
+en|What animal is Meowth from Team Rocket?|A dog|A mouse|A cat|A fox
+es|¿Qué animal es Meowth, del Team Rocket?|Un perro|Un ratón|Un gato|Un zorro
+ja|ロケット団のニャースは何の動物？|犬|ネズミ|猫|キツネ
+zh|火箭队的喵喵是什么动物？|狗|老鼠|猫|狐狸
+#Q 2619 2 1 2
+ru|Что рассказывает Эшу покедекс?|Прогноз погоды|Сведения о покемонах|Дорогу домой|Новости
+en|What does the Pokédex tell Ash?|The weather forecast|Information about Pokémon|The way home|The news
+es|¿Qué le dice la Pokédex a Ash?|El tiempo|Información sobre los Pokémon|El camino a casa|Las noticias
+ja|ポケモン図鑑がサトシに教えてくれるのは？|天気予報|ポケモンの情報|家への道|ニュース
+zh|宝可梦图鉴会告诉小智什么？|天气预报|宝可梦的资料|回家的路|新闻
+#Q 2620 2 1 2
+ru|Какого цвета глаза с шаринганом?|Синие|Красные|Белые|Золотые
+en|What color are eyes with the Sharingan?|Blue|Red|White|Golden
+es|¿De qué color son los ojos con el Sharingan?|Azules|Rojos|Blancos|Dorados
+ja|写輪眼の瞳の色は？|青|赤|白|金色
+zh|写轮眼是什么颜色的？|蓝色|红色|白色|金色
+#Q 2621 1 2 2
+ru|Кем притворяется шпион Лойд Форджер в мирной жизни?|Психиатром|Учителем|Пекарем|Журналистом
+en|What does the spy Loid Forger pretend to be in everyday life?|A psychiatrist|A teacher|A baker|A journalist
+es|¿Qué finge ser el espía Loid Forger en su vida cotidiana?|Psiquiatra|Profesor|Panadero|Periodista
+ja|スパイのロイド・フォージャーが表向きに就いている仕事は？|精神科医|教師|パン屋|記者
+zh|间谍劳埃德·福杰表面上的职业是什么？|精神科医生|老师|面包师|记者
+#Q 2622 1 2 2
+ru|Кем является плотник Фрэнки из команды Луффи?|Киборгом|Рыбочеловеком|Скелетом|Оленем
+en|What is the shipwright Franky from Luffy's crew?|A cyborg|A fishman|A skeleton|A reindeer
+es|¿Qué es el carpintero Franky, de la tripulación de Luffy?|Un cíborg|Un hombre pez|Un esqueleto|Un reno
+ja|ルフィの一味の船大工フランキーは何者？|サイボーグ|魚人|ガイコツ|トナカイ
+zh|路飞伙伴中的船匠弗兰奇是什么？|改造人|鱼人|骷髅|驯鹿
+#Q 2623 4 2 2
+ru|Что Гаара носит за спиной?|Свиток|Меч|Колчан со стрелами|Огромную тыкву-флягу с песком
+en|What does Gaara carry on his back?|A scroll|A sword|A quiver of arrows|A huge gourd full of sand
+es|¿Qué lleva Gaara a la espalda?|Un pergamino|Una espada|Un carcaj con flechas|Una enorme calabaza llena de arena
+ja|我愛羅が背負っているものは？|巻物|刀|矢筒|砂の入った大きなひょうたん
+zh|我爱罗背上背着什么？|卷轴|刀|箭筒|装着沙子的大葫芦
+#Q 2624 2 2 2
+ru|Чем особенен ниндзя Рок Ли из «Наруто»?|Он умеет летать|Он не владеет ниндзюцу и сражается только кулаками|Он невидимка|Он лучший целитель деревни
+en|What is special about the ninja Rock Lee in Naruto?|He can fly|He can't use ninjutsu and fights only with taijutsu|He is invisible|He is the village's best healer
+es|¿Qué tiene de especial el ninja Rock Lee en Naruto?|Puede volar|No puede usar ninjutsu y solo lucha con taijutsu|Es invisible|Es el mejor curandero de la aldea
+ja|『NARUTO』のロック・リーの特徴は？|空を飛べる|忍術が使えず体術だけで戦う|姿が見えない|里一番の医療忍者
+zh|《火影忍者》中的洛克·李有什么特别之处？|会飞|不会忍术，只用体术战斗|是隐形人|是村里最好的医疗忍者
+#Q 2625 1 2 2
+ru|Как зовут светловолосого друга детства Эрена и Микасы?|Армин|Жан|Конни|Райнер
+en|What is the name of Eren and Mikasa's blond childhood friend?|Armin|Jean|Connie|Reiner
+es|¿Cómo se llama el amigo rubio de la infancia de Eren y Mikasa?|Armin|Jean|Connie|Reiner
+ja|エレンとミカサの幼なじみで、金髪の少年は？|アルミン|ジャン|コニー|ライナー
+zh|艾伦和三笠那位金发的青梅竹马叫什么？|阿尔敏|让|柯尼|莱纳
+#Q 2626 4 2 2
+ru|Какой Столп защищает пассажиров в арке «Бесконечный поезд»?|Гию Томиока|Тэнгэн Удзуй|Синобу Кочо|Кёдзюро Ренгоку
+en|Which Hashira protects the passengers in the Mugen Train arc?|Giyu Tomioka|Tengen Uzui|Shinobu Kocho|Kyojuro Rengoku
+es|¿Qué Pilar protege a los pasajeros en el arco del Tren Infinito?|Giyu Tomioka|Tengen Uzui|Shinobu Kocho|Kyojuro Rengoku
+ja|「無限列車編」で乗客を守って戦った柱は？|冨岡義勇|宇髄天元|胡蝶しのぶ|煉獄杏寿郎
+zh|《无限列车篇》中守护乘客的柱是谁？|富冈义勇|宇髓天元|蝴蝶忍|炼狱杏寿郎
+#Q 2627 2 2 2
+ru|Зачем Гон из «Охотника × Охотника» стал охотником?|Чтобы отомстить|Чтобы найти своего отца|Чтобы разбогатеть|Чтобы спасти сестру
+en|Why did Gon from Hunter x Hunter become a Hunter?|To get revenge|To find his father|To get rich|To save his sister
+es|¿Por qué se hizo cazador Gon, de Hunter x Hunter?|Para vengarse|Para encontrar a su padre|Para hacerse rico|Para salvar a su hermana
+ja|「HUNTER×HUNTER」のゴンがハンターを目指した理由は？|復讐のため|父親を探すため|お金持ちになるため|妹を救うため
+zh|《全职猎人》中的小杰为什么要成为猎人？|为了复仇|为了找到父亲|为了发财|为了救妹妹
+#Q 2628 3 2 2
+ru|Как зовут злодея-вампира из «ДжоДжо», который кричит «ZA WARUDO!»?|Ёсикагэ Кира|Карс|Дио Брандо|Диаволо
+en|What is the name of the vampire villain in JoJo who shouts "ZA WARUDO!"?|Yoshikage Kira|Kars|Dio Brando|Diavolo
+es|¿Cómo se llama el villano vampiro de JoJo que grita «ZA WARUDO!»?|Yoshikage Kira|Kars|Dio Brando|Diavolo
+ja|「ジョジョ」で「ザ・ワールド！」と叫ぶ吸血鬼の悪役は？|吉良吉影|カーズ|DIO（ディオ・ブランドー）|ディアボロ
+zh|《JOJO》中喊着“ZA WARUDO!”的吸血鬼反派是谁？|吉良吉影|卡兹|迪奥·布兰度|迪亚波罗
+#Q 2629 3 2 2
+ru|Каким спортом занимается хулиган Ханамити Сакураги?|Бейсболом|Боксом|Баскетболом|Регби
+en|Which sport does the delinquent Hanamichi Sakuragi play?|Baseball|Boxing|Basketball|Rugby
+es|¿Qué deporte practica el pandillero Hanamichi Sakuragi?|Béisbol|Boxeo|Baloncesto|Rugby
+ja|不良少年の桜木花道が始めたスポーツは？|野球|ボクシング|バスケットボール|ラグビー
+zh|不良少年樱木花道从事的是哪项运动？|棒球|拳击|篮球|橄榄球
+#Q 2630 4 2 2
+ru|Через что Кагомэ из «Инуяси» попадает в эпоху Сэнгоку?|Через зеркало|Через шкаф|Через ворота храма|Через старый колодец
+en|How does Kagome from Inuyasha get to the Sengoku era?|Through a mirror|Through a wardrobe|Through a shrine gate|Through an old well
+es|¿Cómo llega Kagome, de Inuyasha, a la era Sengoku?|Por un espejo|Por un armario|Por la puerta de un santuario|Por un pozo antiguo
+ja|「犬夜叉」のかごめが戦国時代へ行く通り道は？|鏡|押し入れ|神社の鳥居|古い井戸
+zh|《犬夜叉》中的戈薇是通过什么去到战国时代的？|镜子|衣柜|神社的鸟居|一口古井
+#Q 2631 4 2 2
+ru|Что собрал Юги Муто, получив вторую личность?|Кубик Рубика|Жемчуг дракона|Магический кристалл|Тысячелетнюю головоломку
+en|What did Yugi Muto put together, gaining a second personality?|A Rubik's Cube|The Dragon Balls|A magic crystal|The Millennium Puzzle
+es|¿Qué completó Yugi Muto, consiguiendo así una segunda personalidad?|Un cubo de Rubik|Las Bolas de Dragón|Un cristal mágico|El Rompecabezas del Milenio
+ja|武藤遊戯が組み立てて、もう一つの人格を得たものは？|ルービックキューブ|ドラゴンボール|魔法の水晶|千年パズル
+zh|武藤游戏拼好了什么，从而拥有了另一个人格？|魔方|龙珠|魔法水晶|千年积木
+#Q 2632 2 2 2
+ru|Какая любимая карта Сэто Кайбы из «Югио!»?|Тёмный маг|Синеглазый белый дракон|Красноглазый чёрный дракон|Экзодия
+en|What is Seto Kaiba's favorite card in Yu-Gi-Oh!?|Dark Magician|Blue-Eyes White Dragon|Red-Eyes Black Dragon|Exodia
+es|¿Cuál es la carta favorita de Seto Kaiba en Yu-Gi-Oh!?|Mago Oscuro|Dragón Blanco de Ojos Azules|Dragón Negro de Ojos Rojos|Exodia
+ja|「遊☆戯☆王」の海馬瀬人が一番大切にしているカードは？|ブラック・マジシャン|青眼の白龍|真紅眼の黒竜|エクゾディア
+zh|《游戏王》中海马濑人最喜爱的卡片是什么？|黑魔导|青眼白龙|真红眼黑龙|艾克佐迪亚
+#Q 2633 1 2 2
+ru|Как зовут оранжевого динозаврика, партнёра Таити в «Дигимоне»?|Агумон|Габумон|Патамон|Гомамон
+en|What is the name of the little orange dinosaur who is Tai's partner in Digimon?|Agumon|Gabumon|Patamon|Gomamon
+es|¿Cómo se llama el pequeño dinosaurio naranja compañero de Tai en Digimon?|Agumon|Gabumon|Patamon|Gomamon
+ja|「デジモンアドベンチャー」で太一のパートナーのオレンジ色の恐竜は？|アグモン|ガブモン|パタモン|ゴマモン
+zh|《数码宝贝》中太一的搭档、那只橙色小恐龙叫什么？|亚古兽|加布兽|巴达兽|哥玛兽
+#Q 2634 4 2 2
+ru|Под каким именем Лелуш сражается в маске?|Кира|Сумрак|Ночная Тень|Зеро
+en|What name does Lelouch use when fighting in his mask?|Kira|Twilight|Nightshade|Zero
+es|¿Qué nombre usa Lelouch cuando lucha con la máscara?|Kira|Twilight|Sombra Nocturna|Zero
+ja|ルルーシュが仮面をつけて戦うときの名前は？|キラ|黄昏|ナイトシェード|ゼロ
+zh|鲁路修戴上面具战斗时用的是什么名字？|基拉|黄昏|夜影|Zero
+#Q 2635 3 2 2
+ru|Как зовут огненного демона, который приводит в движение замок Хаула?|Безликий|Кодама|Кальцифер|Дзидзи
+en|What is the name of the fire demon who powers Howl's castle?|No-Face|Kodama|Calcifer|Jiji
+es|¿Cómo se llama el demonio de fuego que mueve el castillo de Howl?|Sin Cara|Kodama|Calcifer|Jiji
+ja|ハウルの城を動かしている火の悪魔の名前は？|カオナシ|コダマ|カルシファー|ジジ
+zh|驱动哈尔城堡的火恶魔叫什么名字？|无脸男|木灵|卡西法|吉吉
+#Q 2636 1 2 2
+ru|Какое единственное заклинание использует Мегумин из «Коносубы»?|Взрыв|Ледяную стрелу|Исцеление|Телепорт
+en|What is the only spell Megumin uses in KonoSuba?|Explosion|Ice Arrow|Healing|Teleport
+es|¿Cuál es el único hechizo que usa Megumin en KonoSuba?|Explosión|Flecha de hielo|Curación|Teletransporte
+ja|「このすば」のめぐみんが使う唯一の魔法は？|爆裂魔法|氷の矢|回復魔法|テレポート
+zh|《为美好的世界献上祝福！》中惠惠唯一使用的魔法是什么？|爆裂魔法|冰箭|治疗魔法|传送
+#Q 2637 2 2 2
+ru|Что развозит на машине Такуми Фудзивара из Initial D?|Газеты|Тофу|Пиццу|Молоко
+en|What does Takumi Fujiwara deliver by car in Initial D?|Newspapers|Tofu|Pizza|Milk
+es|¿Qué reparte en coche Takumi Fujiwara en Initial D?|Periódicos|Tofu|Pizza|Leche
+ja|「頭文字D」で藤原拓海が車で配達しているものは？|新聞|豆腐|ピザ|牛乳
+zh|《头文字D》中藤原拓海开车送的是什么？|报纸|豆腐|披萨|牛奶
+#Q 2638 4 3 2
+ru|Как зовут величайшего фехтовальщика мира, которого хочет превзойти Зоро?|Шанкс|Кайдо|Белоус|Михоук
+en|What is the name of the world's greatest swordsman whom Zoro wants to surpass?|Shanks|Kaido|Whitebeard|Mihawk
+es|¿Cómo se llama el mejor espadachín del mundo al que Zoro quiere superar?|Shanks|Kaido|Barbablanca|Mihawk
+ja|ゾロが超えたいと願う「世界最強の剣士」は？|シャンクス|カイドウ|白ひげ|ジュラキュール・ミホーク
+zh|索隆想要超越的“世界第一大剑豪”是谁？|香克斯|凯多|白胡子|乔拉可尔·米霍克
+#Q 2639 3 3 2
+ru|Как называется самая внешняя из трёх стен в «Атаке титанов»?|Стена Роза|Стена Сина|Стена Мария|Шиганшина
+en|What is the outermost of the three walls in Attack on Titan called?|Wall Rose|Wall Sina|Wall Maria|Shiganshina
+es|¿Cómo se llama la más exterior de las tres murallas en Ataque a los titanes?|Muralla Rose|Muralla Sina|Muralla María|Shiganshina
+ja|「進撃の巨人」の3つの壁のうち、一番外側の壁は？|ウォール・ローゼ|ウォール・シーナ|ウォール・マリア|シガンシナ区
+zh|《进击的巨人》三道城墙中最外面的是哪一道？|罗塞之墙|希娜之墙|玛利亚之墙|希甘希纳区
+#Q 2640 2 3 2
+ru|Как называется сильнейшая техника магов, создающая особое пространство, в «Магической битве»?|Банкай|Расширение территории|Гир Секонд|Сусаноо
+en|What is the ultimate sorcerer technique that creates a special space in Jujutsu Kaisen called?|Bankai|Domain Expansion|Gear Second|Susanoo
+es|¿Cómo se llama la técnica definitiva de los hechiceros que crea un espacio especial en Jujutsu Kaisen?|Bankai|Expansión de Dominio|Gear Second|Susanoo
+ja|「呪術廻戦」で、術師が自分だけの空間を作り出す奥義は？|卍解|領域展開|ギア2|須佐能乎
+zh|《咒术回战》中，咒术师创造出特殊空间的终极招式叫什么？|卍解|领域展开|二档|须佐能乎
+#Q 2641 3 3 2
+ru|Как называется высшая форма меча синигами в «Бличе»?|Шикай|Сусаноо|Банкай|Гир Секонд
+en|What is the highest form of a Soul Reaper's sword in Bleach called?|Shikai|Susanoo|Bankai|Gear Second
+es|¿Cómo se llama la forma más alta de la espada de un shinigami en Bleach?|Shikai|Susanoo|Bankai|Gear Second
+ja|「BLEACH」で、死神の斬魄刀の最終形態は？|始解|須佐能乎|卍解|ギア2
+zh|《死神》中死神斩魄刀的最终形态叫什么？|始解|须佐能乎|卍解|二档
+#Q 2642 1 3 2
+ru|Какой боевой клич у стенда Джотаро Кудзё?|«Ора-ора-ора!»|«Муда-муда-муда!»|«Ари-ари-ари!»|«Дора-ра-ра!»
+en|What is the battle cry of Jotaro Kujo's Stand?|"Ora ora ora!"|"Muda muda muda!"|"Ari ari ari!"|"Dorarara!"
+es|¿Cuál es el grito de batalla del Stand de Jotaro Kujo?|«¡Ora ora ora!»|«¡Muda muda muda!»|«¡Ari ari ari!»|«¡Dorarara!»
+ja|空条承太郎のスタンドが攻撃するときの掛け声は？|オラオラオラ|無駄無駄無駄|アリアリアリ|ドラララ
+zh|空条承太郎的替身攻击时的喊声是什么？|欧拉欧拉欧拉|木大木大木大|阿里阿里阿里|多拉拉拉
+#Q 2643 2 3 2
+ru|Чем начинается история «Отчёта о буйстве духов» (Yu Yu Hakusho)?|Юскэ находит волшебный меч|Юскэ погибает, спасая ребёнка от машины|Юскэ попадает в другой мир через игру|Юскэ становится демоном
+en|How does the story of Yu Yu Hakusho begin?|Yusuke finds a magic sword|Yusuke dies saving a child from a car|Yusuke enters another world through a game|Yusuke becomes a demon
+es|¿Cómo empieza la historia de Yu Yu Hakusho?|Yusuke encuentra una espada mágica|Yusuke muere al salvar a un niño de un coche|Yusuke entra en otro mundo a través de un juego|Yusuke se convierte en demonio
+ja|「幽☆遊☆白書」の物語はどう始まる？|幽助が魔法の剣を見つける|幽助が子どもを車から助けて死ぬ|幽助がゲームから異世界へ入る|幽助が妖怪になる
+zh|《幽游白书》的故事是怎样开始的？|幽助找到一把魔剑|幽助为了救小孩被车撞死|幽助通过游戏进入异世界|幽助变成了妖怪
+#Q 2644 3 3 2
+ru|Сколько карт Экзодии нужно собрать в руке, чтобы сразу победить?|3|4|5|7
+en|How many Exodia cards must you hold in your hand to win instantly?|3|4|5|7
+es|¿Cuántas cartas de Exodia hay que tener en la mano para ganar al instante?|3|4|5|7
+ja|手札にそろえると即勝利になるエクゾディアのカードは何枚？|3枚|4枚|5枚|7枚
+zh|手里集齐几张艾克佐迪亚卡片就能直接获胜？|3张|4张|5张|7张
+#Q 2645 2 3 2
+ru|Во что превращается Сота в фильме «Судзумэ, закрывающая двери»?|В кота|В детский стульчик на трёх ножках|В ключ|В птицу
+en|What does Souta turn into in the film Suzume?|A cat|A three-legged child's chair|A key|A bird
+es|¿En qué se convierte Souta en la película Suzume?|En un gato|En una sillita infantil de tres patas|En una llave|En un pájaro
+ja|映画「すずめの戸締まり」で、草太が姿を変えられてしまうものは？|猫|3本脚の子ども用の椅子|鍵|鳥
+zh|电影《铃芽之旅》中，草太变成了什么？|一只猫|一把三条腿的儿童椅|一把钥匙|一只鸟
+#Q 2646 1 3 2
+ru|Что носит на шее Сита из «Небесного замка Лапута»?|Летающий камень|Ключ от замка|Компас|Свисток
+en|What does Sheeta wear around her neck in Castle in the Sky?|A levitation stone|The key to the castle|A compass|A whistle
+es|¿Qué lleva Sheeta colgado del cuello en El castillo en el cielo?|Una piedra voladora|La llave del castillo|Una brújula|Un silbato
+ja|「天空の城ラピュタ」のシータが首にかけているものは？|飛行石|城の鍵|方位磁石|笛
+zh|《天空之城》中的希达脖子上戴着什么？|飞行石|城堡的钥匙|指南针|哨子
+#Q 2647 4 3 2
+ru|Как зовут юную ученицу волшебницы Фрирен?|Аура|Убель|Ланд|Ферн
+en|What is the name of the mage Frieren's young apprentice?|Aura|Übel|Land|Fern
+es|¿Cómo se llama la joven aprendiz de la maga Frieren?|Aura|Übel|Land|Fern
+ja|魔法使いフリーレンの若い弟子の名前は？|アウラ|ユーベル|ラント|フェルン
+zh|魔法使芙莉莲的年轻弟子叫什么？|阿乌拉|尤贝尔|兰特|菲伦
+#Q 2648 1 3 2
+ru|Как называется клуб, который создала Харухи Судзумия?|Бригада SOS|Клуб лёгкой музыки|Клуб любителей мистики|Отряд «Чёрные рыцари»
+en|What is the club founded by Haruhi Suzumiya called?|The SOS Brigade|The Light Music Club|The Occult Club|The Black Knights
+es|¿Cómo se llama el club que fundó Haruhi Suzumiya?|La Brigada SOS|El Club de Música Ligera|El Club de lo Oculto|Los Caballeros Negros
+ja|涼宮ハルヒが作った部活（団）の名前は？|SOS団|軽音部|オカルト研究会|黒の騎士団
+zh|凉宫春日创立的社团叫什么？|SOS团|轻音部|灵异研究会|黑色骑士团
+#Q 2649 3 3 2
+ru|Кто такие CLAMP, создавшие «Сакуру - собирательницу карт»?|Один художник под псевдонимом|Отдел студии Ghibli|Группа женщин-мангак|Музыкальная группа
+en|Who are CLAMP, the creators of Cardcaptor Sakura?|A single artist using a pen name|A department of Studio Ghibli|A group of women manga artists|A music band
+es|¿Quiénes son CLAMP, las creadoras de Sakura, cazadora de cartas?|Un solo dibujante con seudónimo|Un departamento del Studio Ghibli|Un grupo de mujeres mangakas|Un grupo musical
+ja|「カードキャプターさくら」を生んだCLAMPとは？|ペンネームを使う一人の漫画家|スタジオジブリの部署|女性漫画家たちのグループ|音楽バンド
+zh|创作《魔卡少女樱》的CLAMP是什么？|一位用笔名的画家|吉卜力工作室的一个部门|一个由女性漫画家组成的团体|一个乐队
+#Q 2650 2 3 2
+ru|Почему Столп Насекомых Синобу Кочо сражается ядом?|Её клинок сломан|Ей не хватает сил отрубить демону голову|Ей запретили брать меч|Так велел её учитель
+en|Why does the Insect Hashira Shinobu Kocho fight with poison?|Her sword is broken|She isn't strong enough to cut off a demon's head|She was forbidden to use a sword|Her teacher told her to
+es|¿Por qué la Pilar del Insecto, Shinobu Kocho, lucha con veneno?|Su espada está rota|No tiene fuerza suficiente para cortar la cabeza de un demonio|Le prohibieron usar espada|Se lo ordenó su maestro
+ja|蟲柱の胡蝶しのぶが毒で戦う理由は？|刀が折れているから|鬼の首を斬る力がないから|刀を持つことを禁じられたから|師匠に言われたから
+zh|虫柱蝴蝶忍为什么用毒来战斗？|她的刀断了|她没有足够的力气砍下鬼的头|她被禁止用刀|是师父的命令
+#Q 2651 3 1 2
+ru|Какой электрический приём чаще всего использует Пикачу?|Огнемёт|Водомёт|Удар молнии (Thunderbolt)|Листовой клинок
+en|Which electric move does Pikachu use most often?|Flamethrower|Water Gun|Thunderbolt|Leaf Blade
+es|¿Qué movimiento eléctrico usa Pikachu con más frecuencia?|Lanzallamas|Pistola Agua|Impactrueno|Hoja Aguda
+ja|ピカチュウがよく使うでんきタイプの技は？|かえんほうしゃ|みずでっぽう|10まんボルト|リーフブレード
+zh|皮卡丘最常用的电系招式是什么？|喷射火焰|水枪|十万伏特|叶刃
+#Q 2652 4 1 2
+ru|Что любит всем показывать озорной Синтян?|Свои рисунки|Фокусы с картами|Свою коллекцию жуков|Свою попу
+en|What does the cheeky Shin-chan love showing everyone?|His drawings|Card tricks|His bug collection|His bottom
+es|¿Qué le encanta enseñar a todo el mundo al travieso Shin-chan?|Sus dibujos|Trucos de cartas|Su colección de bichos|Su trasero
+ja|いたずら好きのしんちゃんが、みんなによく見せるものは？|自分の絵|トランプの手品|虫のコレクション|おしり
+zh|调皮的小新最喜欢给大家看什么？|自己的画|扑克魔术|昆虫收藏|自己的屁股
+#Q 2653 1 1 2
+ru|Для кого в первую очередь рассчитана манга-сёдзё?|Для девочек-подростков|Для мальчиков-подростков|Для взрослых мужчин|Для малышей
+en|Who is shojo manga mainly aimed at?|Teenage girls|Teenage boys|Grown men|Toddlers
+es|¿A quién va dirigido principalmente el manga shojo?|A chicas adolescentes|A chicos adolescentes|A hombres adultos|A niños pequeños
+ja|「少女漫画」は主にどんな読者に向けた漫画？|10代の女の子|10代の男の子|大人の男性|幼児
+zh|“少女漫画”主要面向哪类读者？|十几岁的女孩|十几岁的男孩|成年男性|幼儿
+#Q 2654 3 1 2
+ru|Что выражает японская приставка к имени «-тян»?|Строгое уважение|Обращение к учителю|Ласковое обращение|Обращение к врагу
+en|What does the Japanese name suffix "-chan" express?|Strict respect|Addressing a teacher|Affection|Addressing an enemy
+es|¿Qué expresa el sufijo japonés «-chan» tras un nombre?|Respeto estricto|Que se habla a un profesor|Cariño|Que se habla a un enemigo
+ja|名前のあとにつける「〜ちゃん」が表すのは？|かしこまった敬意|先生への呼びかけ|親しみやかわいらしさ|敵への呼びかけ
+zh|日语名字后面加上“酱（-chan）”表示什么？|严格的敬意|称呼老师|亲昵和可爱|称呼敌人
+#Q 2655 1 1 2
+ru|Что значит японское слово «сэнсэй»?|Учитель|Ученик|Старший брат|Друг
+en|What does the Japanese word "sensei" mean?|Teacher|Student|Older brother|Friend
+es|¿Qué significa la palabra japonesa «sensei»?|Maestro|Alumno|Hermano mayor|Amigo
+ja|日本語の「先生」は、英語で言うと？|teacher|student|big brother|friend
+zh|日语“先生（sensei）”在动漫里通常指什么？|老师|学生|哥哥|朋友
+#Q 2656 3 1 2
+ru|В кого переродился Сатору Миками в аниме «О моём перерождении в слизь»?|В дракона|В кота|В слайма|В меч
+en|What was Satoru Mikami reborn as in That Time I Got Reincarnated as a Slime?|A dragon|A cat|A slime|A sword
+es|¿En qué renació Satoru Mikami en Moriré siendo un slime?|En un dragón|En un gato|En un slime|En una espada
+ja|「転生したらスライムだった件」で、三上悟が生まれ変わったのは？|ドラゴン|猫|スライム|剣
+zh|《关于我转生变成史莱姆这档事》中，三上悟转生成了什么？|龙|猫|史莱姆|剑
+#Q 2657 3 1 2
+ru|Кто учит Юдзи Итадори в техникуме магии?|Какаши Хатакэ|Всемогущий|Сатору Годзё|Мастер Роши
+en|Who teaches Yuji Itadori at Jujutsu High?|Kakashi Hatake|All Might|Satoru Gojo|Master Roshi
+es|¿Quién es el profesor de Yuji Itadori en la escuela de hechicería?|Kakashi Hatake|All Might|Satoru Gojo|el Maestro Roshi
+ja|呪術高専で虎杖悠仁の先生をしているのは？|はたけカカシ|オールマイト|五条悟|亀仙人
+zh|在咒术高专，虎杖悠仁的老师是谁？|旗木卡卡西|欧尔麦特|五条悟|龟仙人
+#Q 2658 3 1 2
+ru|Что говорят японцы перед едой, как часто видно в аниме?|«Готисосама»|«Оясуми»|«Итадакимас»|«Иттэкимас»
+en|What do Japanese people say before eating, as often seen in anime?|"Gochisosama"|"Oyasumi"|"Itadakimasu"|"Ittekimasu"
+es|¿Qué dicen los japoneses antes de comer, como se ve a menudo en el anime?|«Gochisosama»|«Oyasumi»|«Itadakimasu»|«Ittekimasu»
+ja|食事を始める前に言うあいさつは？|ごちそうさま|おやすみなさい|いただきます|いってきます
+zh|日本人在开始吃饭前会说什么？|我吃饱了|晚安|我开动了|我出门了
+#Q 2659 4 1 2
+ru|Что значит японское «бака», которое часто кричат в аниме?|Молодец|Беги|Осторожно|Дурак
+en|What does the Japanese word "baka", often shouted in anime, mean?|Well done|Run|Watch out|Idiot
+es|¿Qué significa la palabra japonesa «baka», que se grita mucho en el anime?|Bien hecho|Corre|Cuidado|Tonto
+ja|アニメでよく聞く「バカ」は英語で言うと？|well done|run|watch out|idiot
+zh|动画里经常听到的“八嘎（baka）”是什么意思？|干得好|快跑|小心|笨蛋
+#Q 2660 3 1 2
+ru|Как переводится с японского слово «нэко»?|Собака|Лиса|Кошка|Птица
+en|What does the Japanese word "neko" mean?|Dog|Fox|Cat|Bird
+es|¿Qué significa la palabra japonesa «neko»?|Perro|Zorro|Gato|Pájaro
+ja|「ねこ」は英語で何と言う？|dog|fox|cat|bird
+zh|日语“neko（ねこ）”指的是什么动物？|狗|狐狸|猫|鸟
+#Q 2661 3 1 2
+ru|Как называется превращение дигимона в более сильную форму?|Мегатрансформация|Перерождение|Дигиэволюция|Слияние
+en|What is it called when a Digimon transforms into a stronger form?|Megatransformation|Rebirth|Digivolution|Fusion
+es|¿Cómo se llama cuando un Digimon se transforma en una forma más fuerte?|Megatransformación|Renacimiento|Digievolución|Fusión
+ja|デジモンがより強い姿に変わることを何という？|メガ変身|転生|進化|合体
+zh|数码宝贝变成更强的形态叫什么？|超级变身|转生|进化|合体
+#Q 2662 4 1 2
+ru|Как называется японский обед в коробочке, который герои аниме часто берут в школу?|Рамен|Суши|Такояки|Бэнто
+en|What is the Japanese boxed lunch that anime characters often take to school called?|Ramen|Sushi|Takoyaki|Bento
+es|¿Cómo se llama la comida japonesa en caja que los personajes de anime suelen llevar al colegio?|Ramen|Sushi|Takoyaki|Bento
+ja|アニメのキャラクターがよく学校に持っていく、箱に詰めたお昼ごはんは？|ラーメン|寿司|たこ焼き|弁当
+zh|动画角色常带去学校的日式盒装午饭叫什么？|拉面|寿司|章鱼烧|便当
+#Q 2663 4 1 2
+ru|Кого фанаты аниме называют «вайфу»?|Свою настоящую жену|Злодейку|Мать главного героя|Свою любимую героиню
+en|Who do anime fans call their "waifu"?|Their real wife|A female villain|The hero's mother|Their favorite female character
+es|¿A quién llaman los fans del anime su «waifu»?|A su esposa real|A una villana|A la madre del protagonista|A su personaje femenino favorito
+ja|アニメファンが言う「嫁（waifu）」とは？|本当の奥さん|女性の悪役|主人公の母親|一番好きな女性キャラクター
+zh|动漫迷说的“老婆（waifu）”指的是什么？|现实中的妻子|女反派|主角的母亲|自己最喜欢的女性角色
+#Q 2664 3 1 2
+ru|Какой узор на хаори Танджиро?|Красные полоски|Белые журавли|Зелёно-чёрная клетка|Синие волны
+en|What is the pattern on Tanjiro's haori?|Red stripes|White cranes|Green and black checks|Blue waves
+es|¿Qué dibujo tiene el haori de Tanjiro?|Rayas rojas|Grullas blancas|Cuadros verdes y negros|Olas azules
+ja|炭治郎の羽織の柄は？|赤いしま模様|白い鶴|緑と黒の市松模様|青い波
+zh|炭治郎羽织上的花纹是什么？|红色条纹|白鹤|绿黑相间的方格|蓝色波浪
+#Q 2665 1 1 2
+ru|В кого превращается Кафка Хибино из «Кайдзю номер восемь»?|В кайдзю, гигантского монстра|В робота|В волка|В призрака
+en|What does Kafka Hibino from Kaiju No. 8 turn into?|A kaiju, a giant monster|A robot|A wolf|A ghost
+es|¿En qué se convierte Kafka Hibino, de Kaiju No. 8?|En un kaiju, un monstruo gigante|En un robot|En un lobo|En un fantasma
+ja|「怪獣8号」の日比野カフカが変身するのは？|怪獣|ロボット|オオカミ|幽霊
+zh|《怪兽8号》中的日比野卡夫卡会变成什么？|怪兽|机器人|狼|幽灵
+#Q 2666 4 2 2
+ru|Как зовут жену Гоку?|Бульма|Видел|Андроид 18|Чичи
+en|What is the name of Goku's wife?|Bulma|Videl|Android 18|Chi-Chi
+es|¿Cómo se llama la esposa de Goku?|Bulma|Videl|C-18|Chichi
+ja|悟空の奥さんの名前は？|ブルマ|ビーデル|人造人間18号|チチ
+zh|悟空的妻子叫什么名字？|布尔玛|比迪丽|人造人18号|琪琪
+#Q 2667 3 2 2
+ru|Как зовут младшего сына Гоку?|Гохан|Транкс|Готэн|Пан
+en|What is the name of Goku's younger son?|Gohan|Trunks|Goten|Pan
+es|¿Cómo se llama el hijo menor de Goku?|Gohan|Trunks|Goten|Pan
+ja|悟空の次男の名前は？|悟飯|トランクス|悟天|パン
+zh|悟空的小儿子叫什么名字？|悟饭|特兰克斯|悟天|小芳
+#Q 2668 3 2 2
+ru|Какой магией владеет Нацу Драгнил из «Хвоста феи»?|Ледяной магией|Магией звёздных духов|Огненной магией убийцы драконов|Магией теней
+en|What kind of magic does Natsu Dragneel from Fairy Tail use?|Ice magic|Celestial Spirit magic|Fire Dragon Slayer magic|Shadow magic
+es|¿Qué magia usa Natsu Dragneel, de Fairy Tail?|Magia de hielo|Magia de espíritus celestiales|Magia del Dragon Slayer de fuego|Magia de sombras
+ja|「FAIRY TAIL」のナツ・ドラグニルが使う魔法は？|氷の造形魔法|星霊魔法|炎の滅竜魔法|影の魔法
+zh|《妖精的尾巴》中纳兹·多拉格尼尔使用什么魔法？|冰之造形魔法|星灵魔法|火之灭龙魔法|影子魔法
+#Q 2669 4 2 2
+ru|Какой покемон Эша долго отказывался его слушаться?|Пикачу|Бульбазавр|Сквиртл|Чаризард
+en|Which of Ash's Pokémon refused to obey him for a long time?|Pikachu|Bulbasaur|Squirtle|Charizard
+es|¿Qué Pokémon de Ash se negó a obedecerle durante mucho tiempo?|Pikachu|Bulbasaur|Squirtle|Charizard
+ja|サトシのポケモンで、長い間言うことを聞かなかったのは？|ピカチュウ|フシギダネ|ゼニガメ|リザードン
+zh|小智的哪只宝可梦很长时间都不听他的话？|皮卡丘|妙蛙种子|杰尼龟|喷火龙
+#Q 2670 1 2 2
+ru|Кем приходится Сейлор Мун девочка Чибиуса из будущего?|Дочерью|Сестрой|Племянницей|Подругой
+en|How is the girl Chibiusa from the future related to Sailor Moon?|Her daughter|Her sister|Her niece|Her friend
+es|¿Qué relación tiene la niña Chibiusa, que viene del futuro, con Sailor Moon?|Es su hija|Es su hermana|Es su sobrina|Es su amiga
+ja|未来から来たちびうさは、セーラームーンにとってどんな存在？|娘|妹|姪|友達
+zh|从未来来的小小兔是水冰月的什么人？|女儿|妹妹|侄女|朋友
+#Q 2671 1 2 2
+ru|Кем работает отец Лайта Ягами?|Полицейским, главой следствия|Учителем|Врачом|Судьёй
+en|What does Light Yagami's father do for a living?|He is a police chief|He is a teacher|He is a doctor|He is a judge
+es|¿A qué se dedica el padre de Light Yagami?|Es jefe de policía|Es profesor|Es médico|Es juez
+ja|夜神月の父親の職業は？|警察官（捜査本部長）|教師|医者|裁判官
+zh|夜神月的父亲是做什么的？|警察（搜查本部长）|老师|医生|法官
+#Q 2672 1 2 2
+ru|С кем сражаются Евангелионы?|С Ангелами|С титанами|С демонами|С пришельцами-кайдзю
+en|Who do the Evangelions fight?|The Angels|The Titans|Demons|Alien kaiju
+es|¿Contra quién luchan los Evangelion?|Contra los Ángeles|Contra los titanes|Contra demonios|Contra kaijus alienígenas
+ja|エヴァンゲリオンが戦う敵は？|使徒|巨人|鬼|宇宙怪獣
+zh|EVA在与什么战斗？|使徒|巨人|恶鬼|外星怪兽
+#Q 2673 4 2 2
+ru|Кто такие Рем и Рам из Re:Zero?|Две ведьмы|Демоны-братья|Принцессы-соперницы|Сёстры-близнецы, горничные
+en|Who are Rem and Ram in Re:Zero?|Two witches|Demon brothers|Rival princesses|Twin sisters working as maids
+es|¿Quiénes son Rem y Ram en Re:Zero?|Dos brujas|Hermanos demonio|Princesas rivales|Hermanas gemelas que trabajan de criadas
+ja|「Re:ゼロから始める異世界生活」のレムとラムは？|2人の魔女|鬼の兄弟|ライバルの王女|メイドをしている双子の姉妹
+zh|《Re:从零开始的异世界生活》中的雷姆和拉姆是什么人？|两个魔女|鬼族兄弟|对立的公主|当女仆的双胞胎姐妹
+#Q 2674 4 2 2
+ru|Как зовут возлюбленную Кирито из Sword Art Online?|Синон|Лифа|Юи|Асуна
+en|What is the name of Kirito's beloved in Sword Art Online?|Sinon|Leafa|Yui|Asuna
+es|¿Cómo se llama la amada de Kirito en Sword Art Online?|Sinon|Leafa|Yui|Asuna
+ja|「ソードアート・オンライン」でキリトの恋人は？|シノン|リーファ|ユイ|アスナ
+zh|《刀剑神域》中桐人的恋人是谁？|诗乃|莉法|结衣|亚丝娜
+#Q 2675 3 2 2
+ru|Где работает Йор Форджер, скрывая, что она убийца?|В больнице|В школе|В мэрии|В пекарне
+en|Where does Yor Forger work while hiding that she is an assassin?|At a hospital|At a school|At City Hall|At a bakery
+es|¿Dónde trabaja Yor Forger mientras oculta que es asesina?|En un hospital|En una escuela|En el ayuntamiento|En una panadería
+ja|殺し屋であることを隠しているヨル・フォージャーの表の職場は？|病院|学校|市役所|パン屋
+zh|约尔·福杰隐瞒杀手身份时在哪里上班？|医院|学校|市政厅|面包店
+#Q 2676 1 2 2
+ru|Кем является Нико Робин из команды Луффи?|Археологом|Пилотом|Поваром|Кузнецом
+en|What is Nico Robin's role on Luffy's crew?|Archaeologist|Pilot|Cook|Blacksmith
+es|¿Qué es Nico Robin en la tripulación de Luffy?|Arqueóloga|Piloto|Cocinera|Herrera
+ja|ルフィの一味のニコ・ロビンの役割は？|考古学者|操縦士|コック|鍛冶屋
+zh|路飞伙伴中的妮可·罗宾担任什么？|考古学家|驾驶员|厨师|铁匠
+#Q 2677 2 2 2
+ru|Как выглядит пират Багги из «Ван-Пис»?|Как скелет|Как клоун|Как рыбочеловек|Как великан
+en|What does the pirate Buggy from One Piece look like?|A skeleton|A clown|A fishman|A giant
+es|¿Qué aspecto tiene el pirata Buggy de One Piece?|De esqueleto|De payaso|De hombre pez|De gigante
+ja|『ONE PIECE』の海賊バギーはどんな見た目？|ガイコツ|ピエロ|魚人|巨人
+zh|《海贼王》中的海贼巴基长什么样？|像骷髅|像小丑|像鱼人|像巨人
+#Q 2678 4 2 2
+ru|Чем сражается кок Санджи?|Мечами|Пистолетом|Кулинарными ножами|Только ногами
+en|What does the cook Sanji fight with?|Swords|A pistol|Kitchen knives|Only his legs
+es|¿Con qué lucha el cocinero Sanji?|Con espadas|Con una pistola|Con cuchillos de cocina|Solo con las piernas
+ja|コックのサンジは何を使って戦う？|刀|拳銃|包丁|足技だけ
+zh|厨师山治用什么战斗？|刀|手枪|菜刀|只用腿
+#Q 2679 2 2 2
+ru|У кого юные Гоку и Крилин учились боевым искусствам, живя на острове?|У Пикколо|У Мастера Роши|У Вегеты|У Бируса
+en|Who trained young Goku and Krillin in martial arts while they lived on an island?|Piccolo|Master Roshi|Vegeta|Beerus
+es|¿Quién entrenó en artes marciales a Goku y Krilin de jóvenes en una isla?|Piccolo|El Maestro Roshi|Vegeta|Beerus
+ja|子どもの悟空とクリリンが島で修行した師匠は？|ピッコロ|亀仙人|ベジータ|ビルス
+zh|年少的悟空和克林在小岛上跟谁学武？|比克|龟仙人|贝吉塔|比鲁斯
+#Q 2680 3 2 2
+ru|Чем одержим капитан Леви из «Атаки титанов»?|Чаем со сладостями|Коллекционированием мечей|Чистотой и уборкой|Книгами
+en|What is Captain Levi from Attack on Titan obsessed with?|Tea and sweets|Collecting swords|Cleanliness|Books
+es|¿Con qué está obsesionado el capitán Levi de Ataque a los titanes?|Con el té y los dulces|Con coleccionar espadas|Con la limpieza|Con los libros
+ja|「進撃の巨人」のリヴァイ兵長がこだわっていることは？|お茶とお菓子|刀集め|掃除と清潔さ|読書
+zh|《进击的巨人》中的利威尔兵长对什么特别执着？|喝茶吃点心|收集刀剑|打扫和干净|看书
+#Q 2681 2 2 2
+ru|Какое чувство особенно развито у Танджиро Камадо?|Слух|Обоняние|Осязание|Зрение
+en|Which sense is especially sharp in Tanjiro Kamado?|Hearing|Smell|Touch|Sight
+es|¿Qué sentido tiene especialmente desarrollado Tanjiro Kamado?|El oído|El olfato|El tacto|La vista
+ja|竈門炭治郎が特に優れている感覚は？|聴覚|嗅覚|触覚|視覚
+zh|灶门炭治郎哪种感觉特别灵敏？|听觉|嗅觉|触觉|视觉
+#Q 2682 1 2 2
+ru|Когда трусливый Зеницу сражается лучше всего?|Когда засыпает или теряет сознание|Когда злится|Когда рядом Нэдзуко|Когда светит солнце
+en|When does the cowardly Zenitsu fight at his best?|When he falls asleep or passes out|When he's angry|When Nezuko is nearby|When the sun is shining
+es|¿Cuándo lucha mejor el miedoso Zenitsu?|Cuando se duerme o se desmaya|Cuando se enfada|Cuando Nezuko está cerca|Cuando brilla el sol
+ja|臆病な善逸がいちばん強いのはどんなとき？|眠ったり気絶したりしたとき|怒ったとき|禰豆子がそばにいるとき|太陽が出ているとき
+zh|胆小的善逸什么时候战斗力最强？|睡着或昏过去的时候|生气的时候|祢豆子在身边的时候|太阳出来的时候
+#Q 2683 3 2 2
+ru|Как называется причуда, которую Всемогущий передал Деку?|All For One («Все за одного»)|«Взрыв»|One For All («Один за всех»)|«Полухолод-полужар»
+en|What is the Quirk that All Might passed on to Deku called?|All For One|Explosion|One For All|Half-Cold Half-Hot
+es|¿Cómo se llama el Don que All Might le pasó a Deku?|All For One|Explosión|One For All|Mitad frío, mitad calor
+ja|オールマイトがデクに受け継がせた個性は？|オール・フォー・ワン|爆破|ワン・フォー・オール|半冷半燃
+zh|欧尔麦特传给迪库的个性叫什么？|All For One|爆破|One For All|半冷半燃
+#Q 2684 1 2 2
+ru|Как Дэндзи превращается в Человека-бензопилу?|Дёргает шнур на груди|Кричит заклинание|Надевает маску|Съедает яблоко
+en|How does Denji turn into Chainsaw Man?|He pulls a cord on his chest|He shouts a spell|He puts on a mask|He eats an apple
+es|¿Cómo se convierte Denji en Chainsaw Man?|Tira de un cordón que tiene en el pecho|Grita un conjuro|Se pone una máscara|Se come una manzana
+ja|デンジがチェンソーマンに変身する方法は？|胸のスターターロープを引く|呪文を叫ぶ|仮面をつける|リンゴを食べる
+zh|电次怎样变身成电锯人？|拉动胸口的启动绳|大喊咒语|戴上面具|吃一个苹果
+#Q 2685 3 2 2
+ru|Кто передал Ичиго Куросаки силу синигами?|Орихимэ Иноуэ|Урахара Кискэ|Рукия Кучики|Ёруичи
+en|Who passed Soul Reaper powers on to Ichigo Kurosaki?|Orihime Inoue|Kisuke Urahara|Rukia Kuchiki|Yoruichi
+es|¿Quién le transmitió los poderes de shinigami a Ichigo Kurosaki?|Orihime Inoue|Kisuke Urahara|Rukia Kuchiki|Yoruichi
+ja|黒崎一護に死神の力を与えたのは？|井上織姫|浦原喜助|朽木ルキア|夜一
+zh|是谁把死神的力量交给了黑崎一护？|井上织姬|浦原喜助|朽木露琪亚|夜一
+#Q 2686 3 2 2
+ru|Почему Эдварда Элрика прозвали Стальным алхимиком?|Из-за стальных нервов|Из-за доспехов брата|Из-за его металлических руки и ноги|Он работает на сталелитейном заводе
+en|Why is Edward Elric called the Fullmetal Alchemist?|Because of his nerves of steel|Because of his brother's armor|Because of his metal arm and leg|He works at a steel plant
+es|¿Por qué llaman a Edward Elric el Alquimista de Acero?|Por sus nervios de acero|Por la armadura de su hermano|Por su brazo y su pierna de metal|Trabaja en una acería
+ja|エドワード・エルリックが「鋼の錬金術師」と呼ばれるわけは？|鋼のような強い心だから|弟の鎧のせい|腕と脚が機械鎧（金属）だから|製鉄所で働いているから
+zh|爱德华·艾尔利克为什么被称为“钢之炼金术师”？|因为他意志如钢铁|因为弟弟的铠甲|因为他的手臂和腿是金属义肢|因为他在炼钢厂工作
+#Q 2687 3 2 2
+ru|Какого цвета Евангелион и костюм пилота у Аски?|Фиолетового|Синего|Красного|Белого
+en|What color are Asuka's Evangelion and plugsuit?|Purple|Blue|Red|White
+es|¿De qué color son el Evangelion y el traje de piloto de Asuka?|Morado|Azul|Rojo|Blanco
+ja|アスカのエヴァとプラグスーツの色は？|紫|青|赤|白
+zh|明日香的EVA和驾驶服是什么颜色？|紫色|蓝色|红色|白色
+#Q 2688 1 2 2
+ru|Чьим внуком является Люпен III?|Арсена Люпена|Шерлока Холмса|Капитана Немо|Робин Гуда
+en|Whose grandson is Lupin III?|Arsène Lupin's|Sherlock Holmes's|Captain Nemo's|Robin Hood's
+es|¿De quién es nieto Lupin III?|De Arsène Lupin|De Sherlock Holmes|Del capitán Nemo|De Robin Hood
+ja|ルパン三世は誰の孫？|アルセーヌ・ルパン|シャーロック・ホームズ|ネモ船長|ロビン・フッド
+zh|鲁邦三世是谁的孙子？|亚森·罗宾|夏洛克·福尔摩斯|尼摩船长|罗宾汉
+#Q 2689 2 3 2
+ru|Какой хвостатый зверь запечатан в Гааре?|Девятихвостый Курама|Однохвостый Шукаку|Восьмихвостый Гюки|Трёххвостый Исобу
+en|Which tailed beast is sealed inside Gaara?|The Nine-Tailed Kurama|The One-Tailed Shukaku|The Eight-Tailed Gyuki|The Three-Tailed Isobu
+es|¿Qué bestia con colas está sellada en Gaara?|Kurama, el de nueve colas|Shukaku, el de una cola|Gyuki, el de ocho colas|Isobu, el de tres colas
+ja|我愛羅の中に封印されている尾獣は？|九尾・九喇嘛|一尾・守鶴|八尾・牛鬼|三尾・磯撫
+zh|我爱罗体内封印着哪只尾兽？|九尾九喇嘛|一尾守鹤|八尾牛鬼|三尾矶抚
+#Q 2690 4 3 2
+ru|Какую книгу постоянно читает Какаши?|Свиток техник Конохи|Книгу о собаках|Дневник Обито|«Ича-Ича» Джирайи
+en|Which book does Kakashi constantly read?|The Leaf's scroll of techniques|A book about dogs|Obito's diary|Jiraiya's Icha Icha series
+es|¿Qué libro lee Kakashi constantemente?|El pergamino de técnicas de la Hoja|Un libro sobre perros|El diario de Obito|Icha Icha, de Jiraiya
+ja|カカシがいつも読んでいる本は？|木ノ葉の術の巻物|犬についての本|オビトの日記|自来也の「イチャイチャ」シリーズ
+zh|卡卡西总是在看什么书？|木叶的忍术卷轴|一本关于狗的书|带土的日记|自来也写的《亲热天堂》系列
+#Q 2691 3 3 2
+ru|Как прозвали пирата Трафальгара Ло?|Король пиратов|Огненный кулак|Хирург смерти|Охотник на пиратов
+en|What is the pirate Trafalgar Law's nickname?|The King of the Pirates|Fire Fist|The Surgeon of Death|The Pirate Hunter
+es|¿Cuál es el apodo del pirata Trafalgar Law?|El Rey de los Piratas|Puño de Fuego|El Cirujano de la Muerte|El Cazador de Piratas
+ja|海賊トラファルガー・ローの異名は？|海賊王|火拳|死の外科医|海賊狩り
+zh|海贼特拉法尔加·罗的外号是什么？|海贼王|火拳|死亡外科医生|海贼猎人
+#Q 2692 3 3 2
+ru|С каким божеством оказался связан дьявольский плод Луффи?|С богом грома Энэру|С морским королём|С богом солнца Никой|С драконом Шенроном
+en|Which deity did Luffy's Devil Fruit turn out to be linked to?|The thunder god Enel|The Sea King|The Sun God Nika|The dragon Shenron
+es|¿Con qué deidad resultó estar relacionada la Fruta del Diablo de Luffy?|Con el dios del trueno Enel|Con el Rey del Mar|Con el dios del sol Nika|Con el dragón Shenron
+ja|ルフィの悪魔の実と関係していることがわかった神は？|雷神エネル|海王類|太陽の神ニカ|神龍
+zh|路飞的恶魔果实后来被揭示与哪位神有关？|雷神艾尼路|海王类|太阳神尼卡|神龙
+#Q 2693 1 3 2
+ru|На ком женился Крилин?|На Андроиде 18|На Бульме|На Видел|На Чичи
+en|Who did Krillin marry?|Android 18|Bulma|Videl|Chi-Chi
+es|¿Con quién se casó Krilin?|Con C-18|Con Bulma|Con Videl|Con Chichi
+ja|クリリンが結婚した相手は？|人造人間18号|ブルマ|ビーデル|チチ
+zh|克林和谁结婚了？|人造人18号|布尔玛|比迪丽|琪琪
+#Q 2694 4 3 2
+ru|В честь кого Гоку назвал своего сына Гохана?|В честь Мастера Роши|В честь отца|В честь Пикколо|В честь приёмного дедушки
+en|Who did Goku name his son Gohan after?|Master Roshi|His father|Piccolo|His adoptive grandfather
+es|¿En honor a quién llamó Goku a su hijo Gohan?|Al Maestro Roshi|A su padre|A Piccolo|A su abuelo adoptivo
+ja|悟空が息子に「悟飯」と名付けたのは誰にちなんで？|亀仙人|実の父|ピッコロ|育ての親のじいちゃん
+zh|悟空给儿子取名“悟饭”是为了纪念谁？|龟仙人|亲生父亲|比克|养育自己的爷爷
+#Q 2695 4 3 2
+ru|Как называется техника Годзё, из-за которой его невозможно коснуться?|Абсолютный щит|Сусаноо|Стенд|Бесконечность
+en|What is Gojo's technique that makes him impossible to touch called?|Absolute Shield|Susanoo|Stand|Infinity
+es|¿Cómo se llama la técnica de Gojo que hace imposible tocarlo?|Escudo Absoluto|Susanoo|Stand|Infinito
+ja|五条悟に誰も触れられない理由となっている術は？|絶対の盾|須佐能乎|スタンド|無下限（無限）
+zh|让人无法碰到五条悟的术式叫什么？|绝对之盾|须佐能乎|替身|无下限（无限）
+#Q 2696 1 3 2
+ru|Во что Киллуа превращает свой нэн?|В электричество|В огонь|В лёд|В воду
+en|What does Killua transform his Nen into?|Electricity|Fire|Ice|Water
+es|¿En qué transforma Killua su Nen?|En electricidad|En fuego|En hielo|En agua
+ja|キルアが念を何に変化させて戦う？|電気|炎|氷|水
+zh|奇牙把自己的念转化成什么？|电|火|冰|水
+#Q 2697 4 3 2
+ru|Чем сражается Курапика из «Охотника × Охотника»?|Луком|Кинжалами|Посохом|Цепями
+en|What does Kurapika from Hunter x Hunter fight with?|A bow|Daggers|A staff|Chains
+es|¿Con qué lucha Kurapika, de Hunter x Hunter?|Con un arco|Con dagas|Con un bastón|Con cadenas
+ja|「HUNTER×HUNTER」のクラピカが戦いに使うのは？|弓|短剣|杖|鎖
+zh|《全职猎人》中的酷拉皮卡用什么战斗？|弓|匕首|法杖|锁链
+#Q 2698 4 3 2
+ru|В честь чего названы гомункулы в «Стальном алхимике»?|Семи чудес света|Дней недели|Планет|Семи смертных грехов
+en|What are the homunculi in Fullmetal Alchemist named after?|The seven wonders of the world|The days of the week|The planets|The seven deadly sins
+es|¿En honor a qué se llaman los homúnculos de Fullmetal Alchemist?|A las siete maravillas del mundo|A los días de la semana|A los planetas|A los siete pecados capitales
+ja|「鋼の錬金術師」のホムンクルスたちの名前の由来は？|世界の七不思議|曜日|惑星|七つの大罪
+zh|《钢之炼金术师》中人造人的名字来源于什么？|世界七大奇迹|一周七天|行星|七宗罪
+#Q 2699 4 3 2
+ru|Как зовут пилота самого первого Гандама?|Синдзи Икари|Сэйя|Кира Ямато|Амуро Рэй
+en|What is the name of the pilot of the very first Gundam?|Shinji Ikari|Seiya|Kira Yamato|Amuro Ray
+es|¿Cómo se llama el piloto del primer Gundam?|Shinji Ikari|Seiya|Kira Yamato|Amuro Ray
+ja|最初の「機動戦士ガンダム」でガンダムに乗るパイロットは？|碇シンジ|星矢|キラ・ヤマト|アムロ・レイ
+zh|第一部《机动战士高达》中驾驶高达的是谁？|碇真嗣|星矢|基拉·大和|阿姆罗·雷
+#Q 2700 1 3 2
+ru|Как зовут охотника за головами, главного героя «Ковбоя Бибопа»?|Спайк Шпигель|Джет Блэк|Вишес|Лупин
+en|What is the name of the bounty hunter who is the hero of Cowboy Bebop?|Spike Spiegel|Jet Black|Vicious|Lupin
+es|¿Cómo se llama el cazarrecompensas protagonista de Cowboy Bebop?|Spike Spiegel|Jet Black|Vicious|Lupin
+ja|「カウボーイビバップ」の主人公の賞金稼ぎは？|スパイク・スピーゲル|ジェット・ブラック|ビシャス|ルパン
+zh|《星际牛仔》中的主角赏金猎人叫什么？|斯派克·斯皮格尔|杰特·布莱克|比西斯|鲁邦
+#Q 2701 1 1 2
+ru|Какого цвета волосы у Луффи?|Чёрные|Рыжие|Светлые|Зелёные
+en|What color is Luffy's hair?|Black|Red|Blonde|Green
+es|¿De qué color es el pelo de Luffy?|Negro|Pelirrojo|Rubio|Verde
+ja|ルフィの髪の色は？|黒|赤|金色|緑
+zh|路飞的头发是什么颜色？|黑色|红色|金色|绿色
+#Q 2702 4 1 2
+ru|Что Эш почти всегда носит на голове?|Бандану|Шляпу с пером|Очки для полётов|Кепку
+en|What does Ash almost always wear on his head?|A bandana|A feathered hat|Flying goggles|A cap
+es|¿Qué lleva Ash casi siempre en la cabeza?|Un pañuelo|Un sombrero con pluma|Unas gafas de aviador|Una gorra
+ja|サトシがいつも頭にかぶっているものは？|バンダナ|羽根つきの帽子|飛行用ゴーグル|帽子（キャップ）
+zh|小智头上几乎总是戴着什么？|头巾|插着羽毛的帽子|飞行护目镜|鸭舌帽
+#Q 2703 4 1 2
+ru|Кем мечтает стать Эш из аниме «Покемон»?|Профессором|Лидером стадиона|Медсестрой покецентра|Мастером покемонов
+en|What does Ash dream of becoming in the Pokémon anime?|A professor|A Gym Leader|A Pokémon Center nurse|A Pokémon Master
+es|¿Qué sueña con llegar a ser Ash en el anime de Pokémon?|Profesor|Líder de gimnasio|Enfermera del Centro Pokémon|Maestro Pokémon
+ja|アニメ「ポケモン」のサトシの夢は？|博士になること|ジムリーダーになること|ポケモンセンターで働くこと|ポケモンマスターになること
+zh|动画《宝可梦》中小智的梦想是成为什么？|博士|道馆馆主|宝可梦中心的护士|宝可梦大师
+#Q 2704 1 1 2
+ru|Какого цвета боевое кимоно Гоку?|Оранжевого|Синего|Зелёного|Белого
+en|What color is Goku's fighting gi?|Orange|Blue|Green|White
+es|¿De qué color es el traje de combate de Goku?|Naranja|Azul|Verde|Blanco
+ja|悟空の道着の色は？|オレンジ|青|緑|白
+zh|悟空的武道服是什么颜色？|橙色|蓝色|绿色|白色
+#Q 2705 3 1 2
+ru|Как учится в школе Нобита из «Дораэмона»?|Лучше всех в классе|Средне|Очень плохо|Он не ходит в школу
+en|How does Nobita from Doraemon do at school?|Best in his class|About average|Very badly|He doesn't go to school
+es|¿Qué tal le va en el colegio a Nobita, de Doraemon?|Es el mejor de la clase|Regular|Muy mal|No va al colegio
+ja|「ドラえもん」ののび太の学校の成績は？|クラスで一番|ふつう|とても悪い|学校に行っていない
+zh|《哆啦A梦》中大雄在学校的成绩怎么样？|全班第一|一般|非常差|他不上学
+#Q 2706 4 1 2
+ru|Из чего сделана голова японского супергероя Анпанмана?|Из рисового шарика|Из шоколада|Из тыквы|Из булочки с бобовой пастой
+en|What is the head of the Japanese superhero Anpanman made of?|A rice ball|Chocolate|A pumpkin|A bun filled with bean paste
+es|¿De qué está hecha la cabeza del superhéroe japonés Anpanman?|De una bola de arroz|De chocolate|De una calabaza|De un bollo relleno de pasta de judías
+ja|アンパンマンの顔は何でできている？|おにぎり|チョコレート|カボチャ|あんパン
+zh|日本超级英雄面包超人的头是用什么做的？|饭团|巧克力|南瓜|红豆面包
+#Q 2707 3 1 2
+ru|Что носит Конан Эдогава, чтобы его не узнали?|Маску|Шляпу|Очки|Парик
+en|What does Conan Edogawa wear so that no one recognizes him?|A mask|A hat|Glasses|A wig
+es|¿Qué lleva Conan Edogawa para que nadie lo reconozca?|Una máscara|Un sombrero|Gafas|Una peluca
+ja|江戸川コナンが正体を隠すためにかけているものは？|仮面|帽子|メガネ|かつら
+zh|江户川柯南戴着什么来避免被人认出？|面具|帽子|眼镜|假发
+#Q 2708 3 1 2
+ru|На что похож хвост Пикачу?|На сердечко|На звезду|На молнию|На листок
+en|What does Pikachu's tail look like?|A heart|A star|A lightning bolt|A leaf
+es|¿A qué se parece la cola de Pikachu?|A un corazón|A una estrella|A un rayo|A una hoja
+ja|ピカチュウのしっぽはどんな形？|ハートの形|星の形|稲妻の形|葉っぱの形
+zh|皮卡丘的尾巴像什么？|爱心|星星|闪电|树叶
+#Q 2709 1 1 2
+ru|Где у Танджиро Камадо шрам?|На лбу|На щеке|На подбородке|На руке
+en|Where is Tanjiro Kamado's scar?|On his forehead|On his cheek|On his chin|On his arm
+es|¿Dónde tiene la cicatriz Tanjiro Kamado?|En la frente|En la mejilla|En la barbilla|En el brazo
+ja|竈門炭治郎のあざ（傷）があるのはどこ？|額|ほお|あご|腕
+zh|灶门炭治郎的伤疤在哪里？|额头|脸颊|下巴|手臂
+#Q 2710 1 1 2
+ru|Какого цвета волосы у Сатору Годзё?|Белые|Чёрные|Рыжие|Синие
+en|What color is Satoru Gojo's hair?|White|Black|Red|Blue
+es|¿De qué color es el pelo de Satoru Gojo?|Blanco|Negro|Pelirrojo|Azul
+ja|五条悟の髪の色は？|白|黒|赤|青
+zh|五条悟的头发是什么颜色？|白色|黑色|红色|蓝色
+#Q 2711 2 1 2
+ru|Какую вещь, подаренную Эреном, всегда носит Микаса?|Серебряное кольцо|Красный шарф|Деревянный меч|Синюю ленту
+en|Which gift from Eren does Mikasa always wear?|A silver ring|A red scarf|A wooden sword|A blue ribbon
+es|¿Qué regalo de Eren lleva Mikasa siempre?|Un anillo de plata|Una bufanda roja|Una espada de madera|Una cinta azul
+ja|ミカサがいつも身につけている、エレンにもらったものは？|銀の指輪|赤いマフラー|木刀|青いリボン
+zh|三笠总是戴着艾伦送她的什么？|银戒指|红围巾|木刀|蓝丝带
+#Q 2712 2 1 2
+ru|Какого цвета волосы у Ани Форджер?|Светлые|Розовые|Чёрные|Рыжие
+en|What color is Anya Forger's hair?|Blonde|Pink|Black|Red
+es|¿De qué color es el pelo de Anya Forger?|Rubio|Rosa|Negro|Pelirrojo
+ja|アーニャ・フォージャーの髪の色は？|金色|ピンク|黒|赤
+zh|阿尼亚·福杰的头发是什么颜色？|金色|粉色|黑色|红色
+#Q 2713 3 1 2
+ru|Как называют японскую анимацию?|Манга|Мультиплекс|Аниме|Кабуки
+en|What is Japanese animation called?|Manga|Multiplex|Anime|Kabuki
+es|¿Cómo se llama la animación japonesa?|Manga|Multiplex|Anime|Kabuki
+ja|日本のアニメーションを海外では何と呼ぶ？|MANGA（漫画）|マルチプレックス|ANIME（アニメ）|歌舞伎
+zh|日本的动画片在国外通常被称为什么？|Manga（漫画）|多厅影院|Anime（动漫）|歌舞伎
+#Q 2714 4 1 2
+ru|Какого цвета плащ у Сайтамы из «Ванпанчмена»?|Красного|Чёрного|Жёлтого|Белого
+en|What color is Saitama's cape in One-Punch Man?|Red|Black|Yellow|White
+es|¿De qué color es la capa de Saitama en One Punch Man?|Roja|Negra|Amarilla|Blanca
+ja|「ワンパンマン」のサイタマのマントの色は？|赤|黒|黄色|白
+zh|《一拳超人》中埼玉的披风是什么颜色？|红色|黑色|黄色|白色
+#Q 2715 2 1 2
+ru|На что похож костюм воинов в «Сейлор Мун»?|На доспехи рыцаря|На школьную форму-матроску|На кимоно|На костюм ниндзя
+en|What do the warriors' outfits in Sailor Moon look like?|Knight's armor|A sailor-style school uniform|A kimono|A ninja suit
+es|¿A qué se parecen los trajes de las guerreras de Sailor Moon?|A una armadura de caballero|A un uniforme escolar de marinera|A un kimono|A un traje ninja
+ja|セーラー戦士たちのコスチュームのもとになっているのは？|騎士のよろい|セーラー服|着物|忍者の装束
+zh|水手战士们的战斗服是以什么为原型的？|骑士铠甲|水手服式的校服|和服|忍者服
+#Q 2716 3 2 2
+ru|Кем является Кайто Кид из «Детектива Конана»?|Полицейским|Учёным|Вором-фокусником|Певцом
+en|Who is Kaito Kid in Detective Conan?|A police officer|A scientist|A phantom thief and magician|A singer
+es|¿Quién es Kaito Kid en Detective Conan?|Un policía|Un científico|Un ladrón mago|Un cantante
+ja|「名探偵コナン」の怪盗キッドとは？|警察官|科学者|マジシャンの怪盗|歌手
+zh|《名侦探柯南》中的怪盗基德是什么人？|警察|科学家|会魔术的怪盗|歌手
+#Q 2717 2 2 2
+ru|Сколько лет Эшу почти на протяжении всего аниме «Покемон»?|8|10|12|14
+en|How old is Ash for almost the whole Pokémon anime?|8|10|12|14
+es|¿Cuántos años tiene Ash durante casi todo el anime de Pokémon?|8|10|12|14
+ja|アニメ「ポケモン」でサトシはずっと何歳？|8歳|10歳|12歳|14歳
+zh|在动画《宝可梦》中，小智几乎一直是几岁？|8岁|10岁|12岁|14岁
+#Q 2718 1 2 2
+ru|На каком инструменте играет Каори Миядзоно из «Твоей апрельской лжи»?|На скрипке|На фортепиано|На флейте|На гитаре
+en|Which instrument does Kaori Miyazono play in Your Lie in April?|Violin|Piano|Flute|Guitar
+es|¿Qué instrumento toca Kaori Miyazono en Your Lie in April?|El violín|El piano|La flauta|La guitarra
+ja|「四月は君の嘘」の宮園かをりが演奏する楽器は？|バイオリン|ピアノ|フルート|ギター
+zh|《四月是你的谎言》中宫园薰演奏什么乐器？|小提琴|钢琴|长笛|吉他
+#Q 2719 3 2 2
+ru|На каком языке общается глухая Сёко из «Формы голоса»?|На азбуке Морзе|Только письмами|На языке жестов|На языке танца
+en|How does deaf Shoko communicate in A Silent Voice?|Morse code|Only by letters|Sign language|Through dance
+es|¿Cómo se comunica la sorda Shoko en A Silent Voice?|Con código morse|Solo con cartas|Con lengua de signos|Bailando
+ja|「聲の形」で耳の聞こえない硝子が主に使って話すものは？|モールス信号|手紙だけ|手話|ダンス
+zh|《声之形》中听不见声音的硝子主要用什么交流？|摩斯电码|只靠写信|手语|跳舞
+#Q 2720 3 2 2
+ru|Кого в аниме называют «яндэрэ»?|Вечно ленивого персонажа|Персонажа, который всё время смеётся|Персонажа, чья любовь доходит до опасной одержимости|Старого мудреца
+en|Who is called a "yandere" in anime?|A forever lazy character|A character who laughs all the time|A character whose love turns into dangerous obsession|A wise old man
+es|¿A quién se llama «yandere» en el anime?|A un personaje siempre perezoso|A un personaje que se ríe todo el tiempo|A un personaje cuyo amor se vuelve una obsesión peligrosa|A un viejo sabio
+ja|アニメで「ヤンデレ」と呼ばれるのはどんなキャラ？|いつも怠けているキャラ|ずっと笑っているキャラ|愛情が行き過ぎて危険なほど病的になるキャラ|年老いた賢者
+zh|动画里的“病娇”指什么样的角色？|总是很懒的角色|一直在笑的角色|爱到病态、危险地步的角色|年迈的智者
+#Q 2721 1 2 2
+ru|Что такое ранобэ?|Лёгкие романы с иллюстрациями в стиле аниме|Короткие аниме-серии|Японские комиксы на четыре кадра|Песни из аниме
+en|What are "light novels"?|Easy-to-read novels with anime-style illustrations|Short anime episodes|Four-panel Japanese comics|Anime songs
+es|¿Qué son las «novelas ligeras»?|Novelas fáciles de leer con ilustraciones de estilo anime|Episodios cortos de anime|Cómics japoneses de cuatro viñetas|Canciones de anime
+ja|「ライトノベル」とは？|アニメ風の挿絵が入った読みやすい小説|短いアニメ|4コマ漫画|アニメソング
+zh|“轻小说”是什么？|带有动漫风格插图、轻松易读的小说|很短的动画|四格漫画|动画歌曲
+#Q 2722 4 2 2
+ru|Какой стриминговый сервис специализируется на аниме?|Spotify|Twitch|Duolingo|Crunchyroll
+en|Which streaming service specializes in anime?|Spotify|Twitch|Duolingo|Crunchyroll
+es|¿Qué plataforma de streaming está especializada en anime?|Spotify|Twitch|Duolingo|Crunchyroll
+ja|アニメ専門の動画配信サービスとして世界的に知られているのは？|Spotify|Twitch|Duolingo|Crunchyroll
+zh|哪个流媒体服务专门提供动画？|Spotify|Twitch|Duolingo|Crunchyroll
+#Q 2723 1 2 2
+ru|Что умеет Такэмити из «Токийских мстителей»?|Возвращаться в прошлое|Читать мысли|Летать|Останавливать время
+en|What can Takemichi from Tokyo Revengers do?|Travel back to the past|Read minds|Fly|Stop time
+es|¿Qué puede hacer Takemichi, de Tokyo Revengers?|Volver al pasado|Leer la mente|Volar|Detener el tiempo
+ja|「東京リベンジャーズ」の花垣武道ができることは？|過去にタイムリープする|心を読む|空を飛ぶ|時間を止める
+zh|《东京复仇者》中的花垣武道能做什么？|穿越回过去|读心|飞行|停止时间
+#Q 2724 2 2 2
+ru|Как зовут девятихвостого лиса, запечатанного в Наруто?|Шукаку|Курама|Мататаби|Гюки
+en|What is the name of the Nine-Tailed Fox sealed inside Naruto?|Shukaku|Kurama|Matatabi|Gyuki
+es|¿Cómo se llama el Zorro de Nueve Colas sellado en Naruto?|Shukaku|Kurama|Matatabi|Gyuki
+ja|ナルトの中に封印されている九尾の名前は？|守鶴|九喇嘛|又旅|牛鬼
+zh|封印在鸣人体内的九尾叫什么名字？|守鹤|九喇嘛|又旅|牛鬼
+#Q 2725 1 2 2
+ru|С каких слов начинаются названия приёмов Луффи?|«Гому-гому»|«Ора-ора»|«Ками-ками»|«Бака-бака»
+en|Which words do the names of Luffy's attacks begin with?|"Gomu Gomu"|"Ora Ora"|"Kami Kami"|"Baka Baka"
+es|¿Con qué palabras empiezan los nombres de los ataques de Luffy?|«Gomu Gomu»|«Ora Ora»|«Kami Kami»|«Baka Baka»
+ja|ルフィの技の名前の頭につく言葉は？|ゴムゴムの|オラオラの|カミカミの|バカバカの
+zh|路飞的招式名称都以什么开头？|橡胶橡胶|欧拉欧拉|神神|笨蛋笨蛋
+#Q 2726 1 2 2
+ru|Как зовут командира Разведкорпуса, который кричит «Посвятите свои сердца!»?|Эрвин Смит|Леви Аккерман|Ханджи Зоэ|Кит Шадис
+en|What is the name of the Survey Corps commander who shouts "Dedicate your hearts!"?|Erwin Smith|Levi Ackerman|Hange Zoë|Keith Shadis
+es|¿Cómo se llama el comandante de la Legión de Reconocimiento que grita «¡Entregad vuestros corazones!»?|Erwin Smith|Levi Ackerman|Hange Zoë|Keith Shadis
+ja|「心臓を捧げよ！」と叫ぶ調査兵団の団長は？|エルヴィン・スミス|リヴァイ・アッカーマン|ハンジ・ゾエ|キース・シャーディス
+zh|高喊“献出心脏！”的调查兵团团长是谁？|埃尔文·史密斯|利威尔·阿克曼|韩吉·佐耶|基斯·夏迪斯
+#Q 2727 2 2 2
+ru|Что восторженно восклицает Аня из «Семьи шпиона»?|«Сугой!»|«Вакувака!»|«Даттебаё!»|«Ора-ора!»
+en|What does Anya from Spy x Family exclaim when excited?|"Sugoi!"|"Waku waku!"|"Dattebayo!"|"Ora ora!"
+es|¿Qué exclama Anya, de Spy x Family, cuando está emocionada?|«¡Sugoi!»|«¡Waku waku!»|«¡Dattebayo!»|«¡Ora ora!»
+ja|「SPY×FAMILY」のアーニャが興奮したときに言う言葉は？|すごい|わくわく|だってばよ|オラオラ
+zh|《间谍过家家》中的阿尼亚兴奋时会说什么？|Sugoi!|Waku waku!|Dattebayo!|Ora ora!
+#Q 2728 4 2 2
+ru|Как зовут начальницу Дэндзи, которую он обожает?|Пауэр|Химэно|Рэдзэ|Макима
+en|What is the name of Denji's boss whom he adores?|Power|Himeno|Reze|Makima
+es|¿Cómo se llama la jefa de Denji a la que él adora?|Power|Himeno|Reze|Makima
+ja|デンジが憧れている上司の女性は？|パワー|姫野|レゼ|マキマ
+zh|电次崇拜的女上司叫什么名字？|帕瓦|姬野|蕾塞|玛奇玛
+#Q 2729 2 2 2
+ru|Какой алхимией владеет полковник Рой Мустанг?|Ледяной|Огненной|Каменной|Водной
+en|What kind of alchemy does Colonel Roy Mustang use?|Ice|Fire|Stone|Water
+es|¿Qué tipo de alquimia usa el coronel Roy Mustang?|De hielo|De fuego|De piedra|De agua
+ja|ロイ・マスタング大佐が得意とする錬金術は？|氷|炎|石|水
+zh|罗伊·马斯坦上校擅长哪种炼金术？|冰|火焰|石头|水
+#Q 2730 4 2 2
+ru|Кто делает механические протезы для Эдварда Элрика?|Рой Мустанг|Альфонс|Риза Хоукай|Уинри Рокбелл
+en|Who makes Edward Elric's mechanical limbs?|Roy Mustang|Alphonse|Riza Hawkeye|Winry Rockbell
+es|¿Quién fabrica las prótesis mecánicas de Edward Elric?|Roy Mustang|Alphonse|Riza Hawkeye|Winry Rockbell
+ja|エドワード・エルリックの機械鎧（オートメイル）を作っているのは？|ロイ・マスタング|アルフォンス|リザ・ホークアイ|ウィンリィ・ロックベル
+zh|是谁为爱德华·艾尔利克制作机械铠？|罗伊·马斯坦|阿尔冯斯|莉莎·霍克爱|温莉·洛克贝尔
+#Q 2731 1 2 2
+ru|С кем сражаются синигами в «Бличе»?|С пустыми, злыми духами|С титанами|С ангелами|С пиратами
+en|Who do the Soul Reapers fight in Bleach?|Hollows, evil spirits|Titans|Angels|Pirates
+es|¿Contra quién luchan los shinigami en Bleach?|Contra los hollows, espíritus malignos|Contra titanes|Contra ángeles|Contra piratas
+ja|「BLEACH」で死神たちが戦う相手は？|虚（ホロウ）|巨人|天使|海賊
+zh|《死神》中死神们在和什么战斗？|虚（恶灵）|巨人|天使|海盗
+#Q 2732 1 2 2
+ru|Что в конце почти каждой серии происходит с Командой R?|Их отбрасывает в небо, и они исчезают звёздочкой|Их сажают в тюрьму|Они побеждают Эша|Они засыпают
+en|What happens to Team Rocket at the end of almost every episode?|They get blasted into the sky and vanish with a twinkle|They go to prison|They beat Ash|They fall asleep
+es|¿Qué le pasa al Team Rocket al final de casi cada episodio?|Salen volando por los aires y desaparecen como un destello|Van a la cárcel|Vencen a Ash|Se quedan dormidos
+ja|ほとんど毎回の終わりに、ロケット団はどうなる？|空のかなたへ吹っ飛ばされてキラリと消える|刑務所に入れられる|サトシに勝つ|眠ってしまう
+zh|几乎每集最后，火箭队会怎样？|被打飞到天上，化作一颗星星消失|被关进监狱|打败小智|睡着了
+#Q 2733 1 2 2
+ru|В честь чего названы воины в матросках из «Сейлор Мун»?|В честь планет|В честь цветов|В честь драгоценных камней|В честь времён года
+en|What are the Sailor Guardians in Sailor Moon named after?|Planets|Flowers|Gemstones|Seasons
+es|¿En honor a qué se llaman las guerreras de Sailor Moon?|A los planetas|A las flores|A las piedras preciosas|A las estaciones del año
+ja|セーラー戦士たちの名前の由来は？|惑星|花|宝石|季節
+zh|美少女战士中水手战士们的名字来自什么？|行星|花朵|宝石|季节
+#Q 2734 4 2 2
+ru|Какое любимое блюдо таинственной C.C. из «Кода Гиасс»?|Суши|Рамен|Торт|Пицца
+en|What is the mysterious C.C.'s favorite food in Code Geass?|Sushi|Ramen|Cake|Pizza
+es|¿Cuál es la comida favorita de la misteriosa C.C. en Code Geass?|El sushi|El ramen|La tarta|La pizza
+ja|「コードギアス」の謎の少女C.C.の大好物は？|寿司|ラーメン|ケーキ|ピザ
+zh|《叛逆的鲁路修》中神秘少女C.C.最爱吃什么？|寿司|拉面|蛋糕|披萨
+#Q 2735 1 2 2
+ru|Как в Японии зовут Астробоя, робота-мальчика Осаму Тэдзуки?|Атом|Аран|Тэцуо|Кэн
+en|What is Astro Boy, Osamu Tezuka's robot boy, called in Japan?|Atom|Aran|Tetsuo|Ken
+es|¿Cómo se llama en Japón Astro Boy, el niño robot de Osamu Tezuka?|Atom|Aran|Tetsuo|Ken
+ja|手塚治虫の「アストロボーイ」の日本での名前は？|アトム|アラン|鉄雄|ケン
+zh|手冢治虫笔下的机器人男孩Astro Boy在日本叫什么？|阿童木|阿兰|铁雄|阿健
+#Q 2736 4 2 2
+ru|Кем является Айнз Оал Гоун из «Повелителя» (Overlord)?|Драконом|Эльфом|Рыцарем-человеком|Скелетом-магом из нежити
+en|What is Ainz Ooal Gown in Overlord?|A dragon|An elf|A human knight|An undead skeleton mage
+es|¿Qué es Ainz Ooal Gown en Overlord?|Un dragón|Un elfo|Un caballero humano|Un mago esqueleto no muerto
+ja|「オーバーロード」のアインズ・ウール・ゴウンは何者？|ドラゴン|エルフ|人間の騎士|アンデッドの骸骨の魔法使い
+zh|《不死者之王》中的安兹·乌尔·恭是什么？|龙|精灵|人类骑士|不死族骷髅魔法师
+#Q 2737 4 2 2
+ru|Какая главная трудность у Сёё Хинаты в волейболе?|Плохое зрение|Боязнь мяча|Он левша|Маленький рост
+en|What is Shoyo Hinata's biggest problem in volleyball?|Poor eyesight|He is afraid of the ball|He is left-handed|He is short
+es|¿Cuál es el mayor problema de Shoyo Hinata en el voleibol?|Ve mal|Tiene miedo al balón|Es zurdo|Es bajito
+ja|日向翔陽がバレーボールで抱えているいちばんの弱点は？|目が悪い|ボールが怖い|左利き|背が低い
+zh|日向翔阳打排球最大的难题是什么？|视力不好|害怕球|是左撇子|个子矮
+#Q 2738 3 3 2
+ru|Каким единоборством занимается Ран Мори из «Детектива Конана»?|Дзюдо|Кендо|Карате|Айкидо
+en|Which martial art does Ran Mouri from Detective Conan practice?|Judo|Kendo|Karate|Aikido
+es|¿Qué arte marcial practica Ran Mouri en Detective Conan?|Judo|Kendo|Kárate|Aikido
+ja|「名探偵コナン」の毛利蘭が得意な武道は？|柔道|剣道|空手|合気道
+zh|《名侦探柯南》中的毛利兰擅长哪种武术？|柔道|剑道|空手道|合气道
+#Q 2739 2 3 2
+ru|Кем является Алукард из «Хеллсинга»?|Оборотнем|Вампиром|Ангелом|Призраком
+en|What is Alucard in Hellsing?|A werewolf|A vampire|An angel|A ghost
+es|¿Qué es Alucard en Hellsing?|Un hombre lobo|Un vampiro|Un ángel|Un fantasma
+ja|「HELLSING」のアーカードの正体は？|狼男|吸血鬼|天使|幽霊
+zh|《皇家国教骑士团》中的阿卡多是什么？|狼人|吸血鬼|天使|幽灵
+#Q 2740 1 3 2
+ru|Что потеряла Вайолет Эвергарден на войне?|Обе руки|Голос|Зрение|Память
+en|What did Violet Evergarden lose in the war?|Both her arms|Her voice|Her sight|Her memory
+es|¿Qué perdió Violet Evergarden en la guerra?|Los dos brazos|La voz|La vista|La memoria
+ja|ヴァイオレット・エヴァーガーデンが戦争で失ったものは？|両腕|声|視力|記憶
+zh|薇尔莉特·伊芙加登在战争中失去了什么？|双臂|声音|视力|记忆
+#Q 2741 3 3 2
+ru|В какую ловушку снова и снова попадается волшебница Фрирен?|В волшебную яму|В зеркало-портал|В сундук-мимик|В сеть паука
+en|Which trap does the mage Frieren fall for again and again?|A magic pit|A portal mirror|A mimic treasure chest|A spider's web
+es|¿En qué trampa cae una y otra vez la maga Frieren?|En un foso mágico|En un espejo portal|En un cofre mímico|En una telaraña
+ja|魔法使いフリーレンが何度も引っかかってしまう罠は？|魔法の落とし穴|鏡のポータル|宝箱のミミック|クモの巣
+zh|魔法使芙莉莲一次又一次中的陷阱是什么？|魔法陷坑|镜子传送门|宝箱怪|蜘蛛网
+#Q 2742 3 3 2
+ru|Какая студия сняла аниме «Вайолет Эвергарден»?|MAPPA|Toei Animation|Kyoto Animation|Studio Ghibli
+en|Which studio made the anime Violet Evergarden?|MAPPA|Toei Animation|Kyoto Animation|Studio Ghibli
+es|¿Qué estudio hizo el anime Violet Evergarden?|MAPPA|Toei Animation|Kyoto Animation|Studio Ghibli
+ja|アニメ「ヴァイオレット・エヴァーガーデン」を制作したスタジオは？|MAPPA|東映アニメーション|京都アニメーション|スタジオジブリ
+zh|动画《紫罗兰永恒花园》是哪家工作室制作的？|MAPPA|东映动画|京都动画|吉卜力工作室
+#Q 2743 3 3 2
+ru|Какая студия много лет снимает аниме «Ван-Пис»?|Studio Pierrot|Madhouse|Toei Animation|Ufotable
+en|Which studio has been making the One Piece anime for many years?|Studio Pierrot|Madhouse|Toei Animation|Ufotable
+es|¿Qué estudio lleva muchos años haciendo el anime de One Piece?|Studio Pierrot|Madhouse|Toei Animation|Ufotable
+ja|長年アニメ『ONE PIECE』を制作しているスタジオは？|スタジオぴえろ|マッドハウス|東映アニメーション|ufotable
+zh|多年来一直制作动画《海贼王》的是哪家工作室？|Studio Pierrot|疯房子|东映动画|ufotable
+#Q 2744 2 3 2
+ru|Как называют четырёх самых могущественных пиратов в «Ван-Пис»?|Шичибукай|Ёнко (Четыре императора)|Адмиралы|Сверхновые
+en|What are the four most powerful pirates in One Piece called?|The Seven Warlords|The Four Emperors (Yonko)|The Admirals|The Supernovas
+es|¿Cómo se llama a los cuatro piratas más poderosos de One Piece?|Los Siete Señores de la Guerra|Los Cuatro Emperadores (Yonko)|Los Almirantes|Las Supernovas
+ja|『ONE PIECE』で最も強大な4人の海賊は何と呼ばれる？|王下七武海|四皇|海軍大将|最悪の世代
+zh|《海贼王》中最强大的四位海贼被称为什么？|七武海|四皇|海军大将|最恶世代
+#Q 2745 3 3 2
+ru|Какого цвета волосы у Гоку в форме «Ультраинстинкт»?|Золотые|Синие|Серебряные|Красные
+en|What color is Goku's hair in his Ultra Instinct form?|Golden|Blue|Silver|Red
+es|¿De qué color es el pelo de Goku en su forma Ultra Instinto?|Dorado|Azul|Plateado|Rojo
+ja|悟空が「身勝手の極意」になったときの髪の色は？|金色|青|銀色|赤
+zh|悟空进入“自在极意功”时头发是什么颜色？|金色|蓝色|银色|红色
+#Q 2746 2 3 2
+ru|Какое Дыхание было самым первым, от которого произошли все остальные?|Дыхание воды|Дыхание солнца|Дыхание грома|Дыхание луны
+en|Which Breathing style was the very first, from which all others came?|Water Breathing|Sun Breathing|Thunder Breathing|Moon Breathing
+es|¿Qué Respiración fue la primera, de la que surgieron todas las demás?|La Respiración del Agua|La Respiración del Sol|La Respiración del Trueno|La Respiración de la Luna
+ja|「鬼滅の刃」で、すべての呼吸の始まりとなった呼吸は？|水の呼吸|日の呼吸|雷の呼吸|月の呼吸
+zh|《鬼灭之刃》中，所有呼吸法的起源是哪一种？|水之呼吸|日之呼吸|雷之呼吸|月之呼吸
+#Q 2747 2 3 2
+ru|Как зовут главу Лиги злодеев из «Моей геройской академии»?|Даби|Томура Шигараки|Тога Химико|Стейн
+en|What is the name of the leader of the League of Villains in My Hero Academia?|Dabi|Tomura Shigaraki|Himiko Toga|Stain
+es|¿Cómo se llama el líder de la Liga de Villanos de My Hero Academia?|Dabi|Tomura Shigaraki|Himiko Toga|Stain
+ja|「僕のヒーローアカデミア」の敵連合のリーダーは？|荼毘|死柄木弔|トガヒミコ|ステイン
+zh|《我的英雄学院》中敌联盟的首领是谁？|荼毘|死柄木弔|渡我被身子|斯坦因
+#Q 2748 3 3 2
+ru|О ком рассказывает фильм Миядзаки «Ветер крепчает»?|О моряке|О художнике|О конструкторе самолётов|О ведьме
+en|Who is Miyazaki's film The Wind Rises about?|A sailor|A painter|An airplane designer|A witch
+es|¿Sobre quién trata la película de Miyazaki El viento se levanta?|Sobre un marinero|Sobre un pintor|Sobre un diseñador de aviones|Sobre una bruja
+ja|宮崎駿監督の「風立ちぬ」の主人公は？|船乗り|画家|飛行機の設計者|魔女
+zh|宫崎骏的电影《起风了》讲的是谁的故事？|水手|画家|飞机设计师|女巫
+#Q 2749 2 3 2
+ru|Через сколько секунд после записи имени в тетрадь смерти наступает сердечный приступ?|10|40|60|100
+en|How many seconds after a name is written in the Death Note does the heart attack happen?|10|40|60|100
+es|¿Cuántos segundos después de escribir un nombre en la Death Note llega el ataque al corazón?|10|40|60|100
+ja|デスノートに名前を書いてから心臓麻痺が起きるまで何秒？|10秒|40秒|60秒|100秒
+zh|在死亡笔记上写下名字后，过多少秒会心脏麻痹？|10秒|40秒|60秒|100秒
+#Q 2750 1 3 2
+ru|Какого цвета был Дораэмон изначально, пока не лишился ушей?|Жёлтого|Розового|Зелёного|Белого
+en|What color was Doraemon originally, before he lost his ears?|Yellow|Pink|Green|White
+es|¿De qué color era Doraemon originalmente, antes de perder las orejas?|Amarillo|Rosa|Verde|Blanco
+ja|耳をなくす前、もともとドラえもんは何色だった？|黄色|ピンク|緑|白
+zh|在失去耳朵之前，哆啦A梦原本是什么颜色的？|黄色|粉色|绿色|白色
