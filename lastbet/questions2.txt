@@ -1,6 +1,6 @@
 #LASTBET 1
 #LANGS ru en es ja zh
-#VERSION 2026-10-31-1236
+#VERSION 2026-10-31-1305
 #Q 1 1 1
 ru|Какой океан самый большой?|Тихий|Атлантический|Индийский|Северный Ледовитый
 en|Which ocean is the largest?|Pacific|Atlantic|Indian|Arctic
@@ -11701,3 +11701,2103 @@ en|What color was Doraemon originally, before he lost his ears?|Yellow|Pink|Gree
 es|¿De qué color era Doraemon originalmente, antes de perder las orejas?|Amarillo|Rosa|Verde|Blanco
 ja|耳をなくす前、もともとドラえもんは何色だった？|黄色|ピンク|緑|白
 zh|在失去耳朵之前，哆啦A梦原本是什么颜色的？|黄色|粉色|绿色|白色
+#Q 2751 2 1 3
+ru|Как зовут большого лохматого друга Хана Соло из «Звёздных войн»?|Йода|Чубакка|Джабба|Эвок
+en|What is the name of Han Solo's big furry friend in Star Wars?|Yoda|Chewbacca|Jabba|Wicket
+es|¿Cómo se llama el gran amigo peludo de Han Solo en Star Wars?|Yoda|Chewbacca|Jabba|Wicket
+ja|「スター・ウォーズ」で、ハン・ソロの毛むくじゃらの大きな相棒は？|ヨーダ|チューバッカ|ジャバ|ウィケット
+zh|《星球大战》中汉·索罗那位毛茸茸的大个子伙伴叫什么？|尤达|楚巴卡|贾巴|威克特
+#Q 2752 2 1 3
+ru|Кто такие R2-D2 и C-3PO в «Звёздных войнах»?|Джедаи|Дроиды|Ситхи|Пилоты
+en|What are R2-D2 and C-3PO in Star Wars?|Jedi|Droids|Sith|Pilots
+es|¿Qué son R2-D2 y C-3PO en Star Wars?|Jedi|Droides|Sith|Pilotos
+ja|「スター・ウォーズ」のR2-D2とC-3POは何？|ジェダイ|ドロイド（ロボット）|シス|パイロット
+zh|《星球大战》中的R2-D2和C-3PO是什么？|绝地武士|机器人|西斯|飞行员
+#Q 2753 1 1 3
+ru|Как называется боевая станция Империи, способная уничтожить целую планету?|Звезда Смерти|Тысячелетний сокол|Энтерпрайз|Нормандия
+en|What is the Empire's battle station that can destroy a whole planet called?|The Death Star|The Millennium Falcon|The Enterprise|The Normandy
+es|¿Cómo se llama la estación de combate del Imperio capaz de destruir un planeta entero?|La Estrella de la Muerte|El Halcón Milenario|La Enterprise|La Normandy
+ja|惑星をまるごと破壊できる帝国の宇宙要塞は？|デス・スター|ミレニアム・ファルコン|エンタープライズ号|ノルマンディー
+zh|能摧毁整颗星球的帝国战斗空间站叫什么？|死星|千年隼号|企业号|诺曼底号
+#Q 2754 2 1 3
+ru|Закончите фразу из «Звёздных войн»: «Да пребудет с тобой...»|Удача|Сила|Свет|Мудрость
+en|Finish the Star Wars phrase: "May the... be with you"|Luck|Force|Light|Wisdom
+es|Completa la frase de Star Wars: «Que la... te acompañe»|Suerte|Fuerza|Luz|Sabiduría
+ja|「スター・ウォーズ」の名セリフ「＿＿と共にあらんことを」。空欄に入るのは？|幸運|フォース|光|知恵
+zh|《星球大战》名句“愿＿＿与你同在”，空格处是什么？|好运|原力|光明|智慧
+#Q 2755 2 1 3
+ru|Какая знаменитая причёска у принцессы Леи?|Короткая стрижка|Два пучка-«булочки» по бокам головы|Длинная коса до пола|Ирокез
+en|What is Princess Leia's famous hairstyle?|A pixie cut|Two side buns|A floor-length braid|A mohawk
+es|¿Cuál es el famoso peinado de la princesa Leia?|Un pelo muy corto|Dos moños a los lados de la cabeza|Una trenza hasta el suelo|Una cresta
+ja|レイア姫のおなじみの髪型は？|ベリーショート|頭の両側の大きなお団子|床まで届く三つ編み|モヒカン
+zh|莱娅公主标志性的发型是什么？|超短发|头两侧各盘一个发髻|拖到地面的长辫子|莫西干头
+#Q 2756 2 1 3
+ru|Как зрители прозвали Грогу из сериала «Мандалорец»?|Мини-Вейдер|Малыш Йода|Зелёный эвок|Джедай-младший
+en|What did viewers nickname Grogu from The Mandalorian?|Mini Vader|Baby Yoda|Green Ewok|Junior Jedi
+es|¿Qué apodo le pusieron los espectadores a Grogu de The Mandalorian?|Mini Vader|Baby Yoda|Ewok verde|Jedi junior
+ja|ドラマ「マンダロリアン」のグローグーは、ファンから何と呼ばれた？|ミニ・ベイダー|ベビーヨーダ|緑のイウォーク|ジュニア・ジェダイ
+zh|剧集《曼达洛人》中的格罗古被观众称为什么？|迷你维达|尤达宝宝|绿色伊沃克|小绝地
+#Q 2757 4 1 3
+ru|Какого цвета броня штурмовиков Империи?|Чёрного|Красного|Серебряного|Белого
+en|What color is the armor of the Empire's stormtroopers?|Black|Red|Silver|White
+es|¿De qué color es la armadura de los soldados de asalto del Imperio?|Negra|Roja|Plateada|Blanca
+ja|帝国軍のストームトルーパーのよろいの色は？|黒|赤|銀色|白
+zh|帝国冲锋队的盔甲是什么颜色？|黑色|红色|银色|白色
+#Q 2758 2 1 3
+ru|Какую единственную фразу говорит Грут из «Стражей Галактики»?|«Я - дерево»|«Я есть Грут»|«Мы - стражи»|«Я голоден»
+en|What is the only phrase Groot says in Guardians of the Galaxy?|"I am a tree"|"I am Groot"|"We are guardians"|"I am hungry"
+es|¿Cuál es la única frase que dice Groot en Guardianes de la Galaxia?|«Soy un árbol»|«Yo soy Groot»|«Somos guardianes»|«Tengo hambre»
+ja|「ガーディアンズ・オブ・ギャラクシー」のグルートが話す唯一の言葉は？|「僕は木だ」|「僕はグルート」|「我々はガーディアンズ」|「お腹がすいた」
+zh|《银河护卫队》中格鲁特唯一会说的话是什么？|“我是一棵树”|“我是格鲁特”|“我们是护卫队”|“我饿了”
+#Q 2759 2 1 3
+ru|Каким животным является Ракета из «Стражей Галактики»?|Лисой|Енотом|Барсуком|Белкой
+en|What animal is Rocket from Guardians of the Galaxy?|A fox|A raccoon|A badger|A squirrel
+es|¿Qué animal es Rocket, de Guardianes de la Galaxia?|Un zorro|Un mapache|Un tejón|Una ardilla
+ja|「ガーディアンズ・オブ・ギャラクシー」のロケットは何の動物？|キツネ|アライグマ|アナグマ|リス
+zh|《银河护卫队》中的火箭是什么动物？|狐狸|浣熊|獾|松鼠
+#Q 2760 1 1 3
+ru|Каким оружием сражается Соколиный глаз из «Мстителей»?|Луком|Молотом|Щитом|Мечом
+en|What weapon does Hawkeye from the Avengers fight with?|A bow|A hammer|A shield|A sword
+es|¿Con qué arma lucha Ojo de Halcón, de Los Vengadores?|Con un arco|Con un martillo|Con un escudo|Con una espada
+ja|「アベンジャーズ」のホークアイが使う武器は？|弓矢|ハンマー|盾|剣
+zh|《复仇者联盟》中的鹰眼用什么武器战斗？|弓箭|锤子|盾牌|剑
+#Q 2761 3 1 3
+ru|Кем приходится Локи Тору в фильмах Marvel?|Отцом|Сыном|Сводным братом|Двоюродным дедом
+en|How is Loki related to Thor in the Marvel films?|He is his father|He is his son|He is his adoptive brother|He is his great-uncle
+es|¿Qué relación tiene Loki con Thor en las películas de Marvel?|Es su padre|Es su hijo|Es su hermano adoptivo|Es su tío abuelo
+ja|マーベル映画で、ロキはソーにとってどんな存在？|父親|息子|義理の弟|大叔父
+zh|在漫威电影中，洛基是雷神索尔的什么人？|父亲|儿子|养兄弟|叔公
+#Q 2762 3 1 3
+ru|Какой актёр много лет играл Росомаху в «Людях Икс»?|Райан Рейнольдс|Крис Эванс|Хью Джекман|Джейсон Момоа
+en|Which actor played Wolverine in the X-Men films for many years?|Ryan Reynolds|Chris Evans|Hugh Jackman|Jason Momoa
+es|¿Qué actor interpretó durante muchos años a Lobezno en X-Men?|Ryan Reynolds|Chris Evans|Hugh Jackman|Jason Momoa
+ja|「X-MEN」シリーズで長年ウルヴァリンを演じた俳優は？|ライアン・レイノルズ|クリス・エヴァンス|ヒュー・ジャックマン|ジェイソン・モモア
+zh|在《X战警》系列中长期饰演金刚狼的演员是谁？|瑞安·雷诺兹|克里斯·埃文斯|休·杰克曼|杰森·莫玛
+#Q 2763 4 1 3
+ru|Какой актёр играет Дэдпула?|Хью Джекман|Крис Пратт|Том Харди|Райан Рейнольдс
+en|Which actor plays Deadpool?|Hugh Jackman|Chris Pratt|Tom Hardy|Ryan Reynolds
+es|¿Qué actor interpreta a Deadpool?|Hugh Jackman|Chris Pratt|Tom Hardy|Ryan Reynolds
+ja|デッドプールを演じている俳優は？|ヒュー・ジャックマン|クリス・プラット|トム・ハーディ|ライアン・レイノルズ
+zh|饰演死侍的演员是谁？|休·杰克曼|克里斯·帕拉特|汤姆·哈迪|瑞安·雷诺兹
+#Q 2764 4 1 3
+ru|Какой актёр сыграл Человека-паука в фильме «Человек-паук: Возвращение домой»?|Тоби Магуайр|Эндрю Гарфилд|Тимоти Шаламе|Том Холланд
+en|Which actor played Spider-Man in Spider-Man: Homecoming?|Tobey Maguire|Andrew Garfield|Timothée Chalamet|Tom Holland
+es|¿Qué actor interpretó a Spider-Man en Spider-Man: Homecoming?|Tobey Maguire|Andrew Garfield|Timothée Chalamet|Tom Holland
+ja|映画「スパイダーマン：ホームカミング」で主役を演じたのは？|トビー・マグワイア|アンドリュー・ガーフィールド|ティモシー・シャラメ|トム・ホランド
+zh|在《蜘蛛侠：英雄归来》中饰演主角蜘蛛侠的是谁？|托比·马奎尔|安德鲁·加菲尔德|提莫西·查拉梅|汤姆·赫兰德
+#Q 2765 4 1 3
+ru|Что сделал Танос щелчком пальцев в «Мстителях: Войне бесконечности»?|Остановил время|Разрушил Землю|Стал невидимым|Уничтожил половину всего живого
+en|What did Thanos do with a snap of his fingers in Avengers: Infinity War?|Stopped time|Destroyed the Earth|Became invisible|Wiped out half of all life
+es|¿Qué hizo Thanos con un chasquido de dedos en Vengadores: Infinity War?|Detuvo el tiempo|Destruyó la Tierra|Se volvió invisible|Eliminó a la mitad de todos los seres vivos
+ja|「アベンジャーズ／インフィニティ・ウォー」で、サノスが指を鳴らして起こしたことは？|時間を止めた|地球を破壊した|透明になった|全宇宙の生命の半分を消した
+zh|在《复仇者联盟3：无限战争》中，灭霸打了个响指做了什么？|让时间停止|摧毁了地球|变成了隐身|消灭了宇宙一半的生命
+#Q 2766 3 1 3
+ru|Какой актёр сыграл Тора в фильмах Marvel?|Крис Эванс|Крис Пратт|Крис Хемсворт|Том Хиддлстон
+en|Which actor played Thor in the Marvel films?|Chris Evans|Chris Pratt|Chris Hemsworth|Tom Hiddleston
+es|¿Qué actor interpretó a Thor en las películas de Marvel?|Chris Evans|Chris Pratt|Chris Hemsworth|Tom Hiddleston
+ja|マーベル映画でソーを演じた俳優は？|クリス・エヴァンス|クリス・プラット|クリス・ヘムズワース|トム・ヒドルストン
+zh|在漫威电影中饰演雷神索尔的演员是谁？|克里斯·埃文斯|克里斯·帕拉特|克里斯·海姆斯沃斯|汤姆·希德勒斯顿
+#Q 2767 4 1 3
+ru|Какой актёр сыграл Тони Старка в фильмах Marvel?|Марк Руффало|Бенедикт Камбербэтч|Джереми Реннер|Роберт Дауни-младший
+en|Which actor played Tony Stark in the Marvel films?|Mark Ruffalo|Benedict Cumberbatch|Jeremy Renner|Robert Downey Jr.
+es|¿Qué actor interpretó a Tony Stark en las películas de Marvel?|Mark Ruffalo|Benedict Cumberbatch|Jeremy Renner|Robert Downey Jr.
+ja|マーベル映画でトニー・スタークを演じた俳優は？|マーク・ラファロ|ベネディクト・カンバーバッチ|ジェレミー・レナー|ロバート・ダウニー・Jr.
+zh|在漫威电影中饰演托尼·斯塔克的演员是谁？|马克·鲁法洛|本尼迪克特·康伯巴奇|杰瑞米·雷纳|小罗伯特·唐尼
+#Q 2768 4 1 3
+ru|Каким подводным королевством правит Аквамен?|Асгардом|Вакандой|Фемискирой|Атлантидой
+en|Which underwater kingdom does Aquaman rule?|Asgard|Wakanda|Themyscira|Atlantis
+es|¿Qué reino submarino gobierna Aquaman?|Asgard|Wakanda|Temiscira|Atlantis
+ja|アクアマンが治める海底の王国は？|アスガルド|ワカンダ|セミッシラ|アトランティス
+zh|海王统治着哪个海底王国？|阿斯加德|瓦坎达|天堂岛|亚特兰蒂斯
+#Q 2769 1 1 3
+ru|Какая главная сила у Флэша?|Сверхскорость|Невидимость|Полёт|Чтение мыслей
+en|What is the Flash's main power?|Super speed|Invisibility|Flight|Mind reading
+es|¿Cuál es el poder principal de Flash?|La supervelocidad|La invisibilidad|Volar|Leer la mente
+ja|フラッシュの主な能力は？|超高速で走る力|透明になる力|空を飛ぶ力|心を読む力
+zh|闪电侠的主要能力是什么？|超级速度|隐身|飞行|读心
+#Q 2770 1 1 3
+ru|Как зовут дворецкого Брюса Уэйна?|Альфред|Джарвис|Себастьян|Бэрримор
+en|What is the name of Bruce Wayne's butler?|Alfred|Jarvis|Sebastian|Barrymore
+es|¿Cómo se llama el mayordomo de Bruce Wayne?|Alfred|Jarvis|Sebastián|Barrymore
+ja|ブルース・ウェインの執事の名前は？|アルフレッド|ジャーヴィス|セバスチャン|バリモア
+zh|布鲁斯·韦恩的管家叫什么名字？|阿尔弗雷德|贾维斯|塞巴斯蒂安|白瑞摩
+#Q 2771 4 2 3
+ru|Как называется корабль Хана Соло?|Звезда Смерти|Энтерпрайз|Нормандия|Тысячелетний сокол
+en|What is the name of Han Solo's ship?|The Death Star|The Enterprise|The Normandy|The Millennium Falcon
+es|¿Cómo se llama la nave de Han Solo?|La Estrella de la Muerte|La Enterprise|La Normandy|El Halcón Milenario
+ja|ハン・ソロの宇宙船の名前は？|デス・スター|エンタープライズ号|ノルマンディー|ミレニアム・ファルコン
+zh|汉·索罗的飞船叫什么？|死星|企业号|诺曼底号|千年隼号
+#Q 2772 3 2 3
+ru|Какого цвета световые мечи у ситхов?|Синего|Зелёного|Красного|Фиолетового
+en|What color are the Sith's lightsabers?|Blue|Green|Red|Purple
+es|¿De qué color son los sables de luz de los Sith?|Azul|Verde|Rojo|Morado
+ja|シスのライトセーバーの色は？|青|緑|赤|紫
+zh|西斯的光剑是什么颜色？|蓝色|绿色|红色|紫色
+#Q 2773 1 2 3
+ru|На какой пустынной планете с двумя солнцами вырос Люк Скайуокер?|Татуин|Набу|Хот|Эндор
+en|On which desert planet with two suns did Luke Skywalker grow up?|Tatooine|Naboo|Hoth|Endor
+es|¿En qué planeta desértico con dos soles se crio Luke Skywalker?|Tatooine|Naboo|Hoth|Endor
+ja|ルーク・スカイウォーカーが育った、太陽が2つある砂漠の惑星は？|タトゥイーン|ナブー|ホス|エンドア
+zh|卢克·天行者是在哪颗有两个太阳的沙漠星球上长大的？|塔图因|纳布|霍斯|恩多
+#Q 2774 2 2 3
+ru|Кто такие эвоки из «Звёздных войн»?|Роботы-шпионы|Маленькие пушистые жители лесной луны Эндор|Солдаты Империи|Огромные пустынные черви
+en|Who are the Ewoks in Star Wars?|Spy robots|Small furry natives of the forest moon of Endor|Imperial soldiers|Giant desert worms
+es|¿Quiénes son los ewoks en Star Wars?|Robots espía|Pequeños seres peludos de la luna boscosa de Endor|Soldados del Imperio|Gusanos gigantes del desierto
+ja|「スター・ウォーズ」のイウォークとは？|スパイロボット|森の衛星エンドアに住む小さな毛むくじゃらの種族|帝国軍の兵士|巨大な砂漠の虫
+zh|《星球大战》中的伊沃克人是什么？|间谍机器人|生活在森林卫星恩多上的毛茸茸小个子种族|帝国士兵|巨型沙漠虫
+#Q 2775 2 2 3
+ru|Как по-настоящему зовут Чёрную вдову?|Ванда Максимофф|Наташа Романофф|Кэрол Дэнверс|Пеппер Поттс
+en|What is Black Widow's real name?|Wanda Maximoff|Natasha Romanoff|Carol Danvers|Pepper Potts
+es|¿Cuál es el verdadero nombre de la Viuda Negra?|Wanda Maximoff|Natasha Romanoff|Carol Danvers|Pepper Potts
+ja|ブラック・ウィドウの本名は？|ワンダ・マキシモフ|ナターシャ・ロマノフ|キャロル・ダンヴァース|ペッパー・ポッツ
+zh|黑寡妇的真名叫什么？|旺达·马克西莫夫|娜塔莎·罗曼诺夫|卡罗尔·丹弗斯|佩珀·波茨
+#Q 2776 3 2 3
+ru|Что носит на лице Ник Фьюри?|Маску|Очки ночного видения|Повязку на одном глазу|Бинты
+en|What does Nick Fury wear on his face?|A mask|Night-vision goggles|A patch over one eye|Bandages
+es|¿Qué lleva Nick Fury en la cara?|Una máscara|Gafas de visión nocturna|Un parche en un ojo|Vendas
+ja|ニック・フューリーが顔につけているものは？|仮面|暗視ゴーグル|片目の眼帯|包帯
+zh|尼克·弗瑞脸上戴着什么？|面具|夜视镜|单眼眼罩|绷带
+#Q 2777 1 2 3
+ru|Какой создатель комиксов Marvel появлялся в небольших ролях почти во всех фильмах студии?|Стэн Ли|Джек Кирби|Стив Дитко|Боб Кейн
+en|Which Marvel comics creator made small cameo appearances in almost all the studio's films?|Stan Lee|Jack Kirby|Steve Ditko|Bob Kane
+es|¿Qué creador de cómics de Marvel hacía pequeños cameos en casi todas las películas del estudio?|Stan Lee|Jack Kirby|Steve Ditko|Bob Kane
+ja|マーベル映画のほとんどにカメオ出演していたコミックの生みの親は？|スタン・リー|ジャック・カービー|スティーヴ・ディッコ|ボブ・ケイン
+zh|哪位漫威漫画的创作者几乎在每部漫威电影里都客串露面？|斯坦·李|杰克·科比|史蒂夫·迪特寇|鲍勃·凯恩
+#Q 2778 2 2 3
+ru|Из какого металла сделан щит Капитана Америки в фильмах Marvel?|Из адамантия|Из вибраниума|Из титана|Из уру
+en|What metal is Captain America's shield made of in the Marvel films?|Adamantium|Vibranium|Titanium|Uru
+es|¿De qué metal está hecho el escudo del Capitán América en las películas de Marvel?|Adamantium|Vibranio|Titanio|Uru
+ja|マーベル映画で、キャプテン・アメリカの盾の素材は？|アダマンチウム|ヴィブラニウム|チタン|ウル
+zh|漫威电影中，美国队长的盾牌是用什么金属做的？|艾德曼合金|振金|钛|乌鲁金属
+#Q 2779 4 2 3
+ru|Почему Стив Роджерс, Капитан Америка, оказался в XXI веке?|Он прилетел из космоса|Его отправили машиной времени|Он спал в волшебном сне|Он десятилетиями пролежал замороженным во льду
+en|Why did Steve Rogers, Captain America, end up in the 21st century?|He came from space|He was sent by a time machine|He slept under a magic spell|He was frozen in ice for decades
+es|¿Por qué Steve Rogers, el Capitán América, acabó en el siglo XXI?|Vino del espacio|Lo envió una máquina del tiempo|Durmió bajo un hechizo|Pasó décadas congelado en el hielo
+ja|キャプテン・アメリカことスティーブ・ロジャースが21世紀にいる理由は？|宇宙から来たから|タイムマシンで送られたから|魔法で眠っていたから|何十年も氷の中で凍っていたから
+zh|美国队长史蒂夫·罗杰斯为什么会出现在21世纪？|他来自外太空|被时间机器送来|中了魔法沉睡|他在冰里被冻了几十年
+#Q 2780 4 2 3
+ru|Как зовут искусственный интеллект, помогавший Тони Старку?|Альтрон|Пятница|Кортана|Джарвис
+en|What is the name of the AI that helped Tony Stark in the first Iron Man films?|Ultron|Karen|Cortana|J.A.R.V.I.S.
+es|¿Cómo se llama la inteligencia artificial que ayudaba a Tony Stark en las primeras películas de Iron Man?|Ultrón|Karen|Cortana|J.A.R.V.I.S.
+ja|初期の「アイアンマン」で、トニー・スタークを助けた人工知能は？|ウルトロン|カレン|コルタナ|ジャーヴィス
+zh|在最初的《钢铁侠》电影中，帮助托尼·斯塔克的人工智能叫什么？|奥创|凯伦|科塔娜|贾维斯
+#Q 2781 1 2 3
+ru|Чем знаменит Дэдпул среди других героев?|Шутит и разговаривает прямо со зрителями|Никогда не говорит|Умеет летать быстрее всех|Носит золотую броню
+en|What is Deadpool famous for among other heroes?|He jokes and talks directly to the audience|He never speaks|He flies faster than anyone|He wears golden armor
+es|¿Por qué es famoso Deadpool entre los demás héroes?|Bromea y habla directamente al público|Nunca habla|Vuela más rápido que nadie|Lleva una armadura dorada
+ja|デッドプールがほかのヒーローと違うところは？|冗談ばかり言い、観客に直接話しかける|まったくしゃべらない|誰よりも速く飛ぶ|金色のよろいを着ている
+zh|死侍和其他英雄相比以什么出名？|爱开玩笑，还直接跟观众说话|从不说话|飞得比谁都快|穿金色盔甲
+#Q 2782 4 2 3
+ru|Какое волшебное оружие заставляет пленников Чудо-женщины говорить правду?|Молот Мьёльнир|Кольцо Зелёного Фонаря|Перчатка бесконечности|Лассо истины
+en|Which magic weapon of Wonder Woman forces captives to tell the truth?|The hammer Mjolnir|The Green Lantern ring|The Infinity Gauntlet|The Lasso of Truth
+es|¿Qué arma mágica de Wonder Woman obliga a decir la verdad?|El martillo Mjolnir|El anillo de Linterna Verde|El Guantelete del Infinito|El Lazo de la Verdad
+ja|捕らえた相手に真実を話させる、ワンダーウーマンの魔法の武器は？|ムジョルニア|グリーン・ランタンの指輪|インフィニティ・ガントレット|真実の投げ縄
+zh|神奇女侠能让俘虏说出真话的魔法武器是什么？|雷神之锤|绿灯侠的戒指|无限手套|真言套索
+#Q 2783 4 2 3
+ru|Какой силой обладает Профессор Икс из «Людей Икс»?|Управлением погодой|Сверхсилой|Невидимостью|Телепатией
+en|What power does Professor X from X-Men have?|Weather control|Super strength|Invisibility|Telepathy
+es|¿Qué poder tiene el Profesor X de X-Men?|Controlar el clima|Superfuerza|Invisibilidad|Telepatía
+ja|「X-MEN」のプロフェッサーXの能力は？|天候を操る力|怪力|透明になる力|テレパシー
+zh|《X战警》中X教授拥有什么能力？|控制天气|超级力量|隐身|心灵感应
+#Q 2784 3 2 3
+ru|С кем живёт Питер Паркер в фильмах про Человека-паука?|С бабушкой|С отцом|С тётей Мэй|Со старшим братом
+en|Who does Peter Parker live with in the Spider-Man films?|His grandmother|His father|His Aunt May|His older brother
+es|¿Con quién vive Peter Parker en las películas de Spider-Man?|Con su abuela|Con su padre|Con su tía May|Con su hermano mayor
+ja|映画「スパイダーマン」で、ピーター・パーカーが一緒に暮らしているのは？|おばあちゃん|父親|メイおばさん|兄
+zh|在蜘蛛侠电影中，彼得·帕克和谁住在一起？|奶奶|爸爸|梅姨|哥哥
+#Q 2785 4 2 3
+ru|В какой газете работает Кларк Кент?|«Дейли Бьюгл»|«Готэм Таймс»|«Нью-Йорк Таймс»|«Дейли Плэнет»
+en|Which newspaper does Clark Kent work for?|The Daily Bugle|The Gotham Times|The New York Times|The Daily Planet
+es|¿En qué periódico trabaja Clark Kent?|El Daily Bugle|El Gotham Times|El New York Times|El Daily Planet
+ja|クラーク・ケントが働いている新聞社は？|デイリー・ビューグル|ゴッサム・タイムズ|ニューヨーク・タイムズ|デイリー・プラネット
+zh|克拉克·肯特在哪家报社工作？|号角日报|哥谭时报|纽约时报|星球日报
+#Q 2786 4 2 3
+ru|Как зовут лысого гения, заклятого врага Супермена?|Джокер|Бэйн|Локи|Лекс Лютор
+en|What is the name of the bald genius who is Superman's archenemy?|The Joker|Bane|Loki|Lex Luthor
+es|¿Cómo se llama el genio calvo, archienemigo de Superman?|El Joker|Bane|Loki|Lex Luthor
+ja|スーパーマンの宿敵で、スキンヘッドの天才は？|ジョーカー|ベイン|ロキ|レックス・ルーサー
+zh|超人那位光头天才宿敌叫什么？|小丑|贝恩|洛基|莱克斯·卢瑟
+#Q 2787 3 2 3
+ru|Кто получил «Оскар» за роль Джокера в фильме 2019 года?|Хит Леджер|Джаред Лето|Хоакин Феникс|Джек Николсон
+en|Who won an Oscar for playing the Joker in the 2019 film?|Heath Ledger|Jared Leto|Joaquin Phoenix|Jack Nicholson
+es|¿Quién ganó un Óscar por interpretar al Joker en la película de 2019?|Heath Ledger|Jared Leto|Joaquin Phoenix|Jack Nicholson
+ja|2019年の映画「ジョーカー」でアカデミー主演男優賞を受賞したのは？|ヒース・レジャー|ジャレッド・レト|ホアキン・フェニックス|ジャック・ニコルソン
+zh|谁凭借2019年电影《小丑》中的小丑一角获得了奥斯卡奖？|希斯·莱杰|杰瑞德·莱托|杰昆·菲尼克斯|杰克·尼科尔森
+#Q 2788 4 3 3
+ru|Во что заморозили Хана Соло в «Империя наносит ответный удар»?|В лёд|В янтарь|В стекло|В карбонит
+en|What was Han Solo frozen in during The Empire Strikes Back?|Ice|Amber|Glass|Carbonite
+es|¿En qué congelaron a Han Solo en El Imperio contraataca?|En hielo|En ámbar|En cristal|En carbonita
+ja|「帝国の逆襲」でハン・ソロが閉じ込められて凍らされたものは？|氷|琥珀|ガラス|カーボナイト
+zh|在《帝国反击战》中，汉·索罗被冻在了什么里面？|冰|琥珀|玻璃|碳酸盐
+#Q 2789 2 3 3
+ru|Кем приходится Кайло Рену Дарт Вейдер?|Отцом|Дедушкой|Дядей|Учителем
+en|How is Darth Vader related to Kylo Ren?|He is his father|He is his grandfather|He is his uncle|He is his teacher
+es|¿Qué relación tiene Darth Vader con Kylo Ren?|Es su padre|Es su abuelo|Es su tío|Es su maestro
+ja|カイロ・レンにとってダース・ベイダーはどんな存在？|父|祖父|おじ|師匠
+zh|达斯·维达是凯洛·伦的什么人？|父亲|祖父|叔叔|师父
+#Q 2790 4 3 3
+ru|Кто написал музыку к «Звёздным войнам»?|Ханс Циммер|Говард Шор|Эннио Морриконе|Джон Уильямс
+en|Who composed the music for Star Wars?|Hans Zimmer|Howard Shore|Ennio Morricone|John Williams
+es|¿Quién compuso la música de Star Wars?|Hans Zimmer|Howard Shore|Ennio Morricone|John Williams
+ja|「スター・ウォーズ」の音楽を作曲したのは？|ハンス・ジマー|ハワード・ショア|エンニオ・モリコーネ|ジョン・ウィリアムズ
+zh|《星球大战》的配乐是谁创作的？|汉斯·季默|霍华德·肖|埃尼奥·莫里康内|约翰·威廉姆斯
+#Q 2791 2 3 3
+ru|В каком году вышел самый первый фильм «Звёздные войны»?|1971|1977|1983|1989
+en|In which year was the very first Star Wars film released?|1971|1977|1983|1989
+es|¿En qué año se estrenó la primera película de Star Wars?|1971|1977|1983|1989
+ja|最初の「スター・ウォーズ」が公開されたのは何年？|1971年|1977年|1983年|1989年
+zh|第一部《星球大战》电影是哪一年上映的？|1971年|1977年|1983年|1989年
+#Q 2792 4 3 3
+ru|У какого ситха двусторонний красный световой меч?|У Дарта Вейдера|У графа Дуку|У Кайло Рена|У Дарта Мола
+en|Which Sith wields a double-bladed red lightsaber?|Darth Vader|Count Dooku|Kylo Ren|Darth Maul
+es|¿Qué Sith empuña un sable de luz rojo de doble hoja?|Darth Vader|El conde Dooku|Kylo Ren|Darth Maul
+ja|両側に刃がある赤いライトセーバーを使うシスは？|ダース・ベイダー|ドゥークー伯爵|カイロ・レン|ダース・モール
+zh|哪位西斯使用双刃红色光剑？|达斯·维达|杜库伯爵|凯洛·伦|达斯·摩尔
+#Q 2793 1 3 3
+ru|Какой Камень бесконечности хранил Доктор Стрэндж в амулете?|Камень времени|Камень души|Камень силы|Камень разума
+en|Which Infinity Stone did Doctor Strange keep in his amulet?|The Time Stone|The Soul Stone|The Power Stone|The Mind Stone
+es|¿Qué Gema del Infinito guardaba Doctor Strange en su amuleto?|La Gema del Tiempo|La Gema del Alma|La Gema del Poder|La Gema de la Mente
+ja|ドクター・ストレンジがペンダントに守っていたインフィニティ・ストーンは？|タイム・ストーン|ソウル・ストーン|パワー・ストーン|マインド・ストーン
+zh|奇异博士的护身符里藏着哪颗无限宝石？|时间宝石|灵魂宝石|力量宝石|心灵宝石
+#Q 2794 2 3 3
+ru|Кто стал Зимним солдатом в фильмах Marvel?|Сэм Уилсон|Баки Барнс|Ник Фьюри|Клинт Бартон
+en|Who became the Winter Soldier in the Marvel films?|Sam Wilson|Bucky Barnes|Nick Fury|Clint Barton
+es|¿Quién se convirtió en el Soldado de Invierno en las películas de Marvel?|Sam Wilson|Bucky Barnes|Nick Fury|Clint Barton
+ja|マーベル映画でウィンター・ソルジャーになったのは？|サム・ウィルソン|バッキー・バーンズ|ニック・フューリー|クリント・バートン
+zh|在漫威电影中，谁成为了冬兵？|山姆·威尔逊|巴基·巴恩斯|尼克·弗瑞|克林特·巴顿
+#Q 2795 4 3 3
+ru|Кем является Веном?|Мутантом-вампиром|Роботом|Демоном из ада|Инопланетным симбиотом
+en|What is Venom?|A mutant vampire|A robot|A demon from hell|An alien symbiote
+es|¿Qué es Venom?|Un vampiro mutante|Un robot|Un demonio del infierno|Un simbionte alienígena
+ja|ヴェノムの正体は？|ミュータントの吸血鬼|ロボット|地獄の悪魔|地球外の寄生生命体（シンビオート）
+zh|毒液是什么？|变种吸血鬼|机器人|地狱恶魔|外星共生体
+#Q 2796 1 3 3
+ru|Что слушает Звёздный Лорд на своём плеере?|Кассету с песнями 70-х и 80-х|Классическую музыку|Космические радиосигналы|Записи голоса мамы-инопланетянки
+en|What does Star-Lord listen to on his player?|A tape of songs from the 70s and 80s|Classical music|Space radio signals|Recordings of his alien mother's voice
+es|¿Qué escucha Star-Lord en su reproductor?|Una cinta con canciones de los 70 y 80|Música clásica|Señales de radio del espacio|Grabaciones de la voz de su madre alienígena
+ja|スター・ロードがプレーヤーで聞いているものは？|70〜80年代のヒット曲を集めたカセット|クラシック音楽|宇宙の電波|宇宙人の母親の声
+zh|星爵用随身听听的是什么？|一盘收录七八十年代歌曲的磁带|古典音乐|太空无线电信号|外星母亲的录音
+#Q 2797 1 3 3
+ru|Кем приходится Гамора Таносу?|Приёмной дочерью|Сестрой|Женой|Генералом-предательницей
+en|How is Gamora related to Thanos?|She is his adopted daughter|She is his sister|She is his wife|She is his traitor general
+es|¿Qué relación tiene Gamora con Thanos?|Es su hija adoptiva|Es su hermana|Es su esposa|Es su general traidora
+ja|ガモーラはサノスにとってどんな存在？|養女|妹|妻|裏切った将軍
+zh|卡魔拉是灭霸的什么人？|养女|妹妹|妻子|背叛的将军
+#Q 2798 2 3 3
+ru|Как называется остров амазонок, где выросла Чудо-женщина?|Атлантида|Фемискира|Асгард|Авалон
+en|What is the island of the Amazons where Wonder Woman grew up called?|Atlantis|Themyscira|Asgard|Avalon
+es|¿Cómo se llama la isla de las amazonas donde creció Wonder Woman?|Atlantis|Temiscira|Asgard|Ávalon
+ja|ワンダーウーマンが育ったアマゾン族の島は？|アトランティス|セミッシラ|アスガルド|アヴァロン
+zh|神奇女侠长大的亚马逊人之岛叫什么？|亚特兰蒂斯|天堂岛|阿斯加德|阿瓦隆
+#Q 2799 4 3 3
+ru|Какой актёр сыграл Бэтмена в фильме «Бэтмен» 2022 года?|Кристиан Бейл|Бен Аффлек|Майкл Китон|Роберт Паттинсон
+en|Which actor played Batman in the 2022 film The Batman?|Christian Bale|Ben Affleck|Michael Keaton|Robert Pattinson
+es|¿Qué actor interpretó a Batman en la película The Batman de 2022?|Christian Bale|Ben Affleck|Michael Keaton|Robert Pattinson
+ja|2022年の映画「THE BATMAN－ザ・バットマン－」でバットマンを演じたのは？|クリスチャン・ベール|ベン・アフレック|マイケル・キートン|ロバート・パティンソン
+zh|在2022年的电影《新蝙蝠侠》中饰演蝙蝠侠的是谁？|克里斯蒂安·贝尔|本·阿弗莱克|迈克尔·基顿|罗伯特·帕丁森
+#Q 2800 4 3 3
+ru|Какой злодей сломал Бэтмену спину в фильме «Тёмный рыцарь: Возрождение легенды»?|Джокер|Пингвин|Двуликий|Бэйн
+en|Which villain broke Batman's back in The Dark Knight Rises?|The Joker|The Penguin|Two-Face|Bane
+es|¿Qué villano le rompió la espalda a Batman en El caballero oscuro: La leyenda renace?|El Joker|El Pingüino|Dos Caras|Bane
+ja|映画「ダークナイト ライジング」でバットマンの背骨を折った悪役は？|ジョーカー|ペンギン|トゥーフェイス|ベイン
+zh|在《蝙蝠侠：黑暗骑士崛起》中，哪个反派打断了蝙蝠侠的脊背？|小丑|企鹅人|双面人|贝恩
+#Q 2801 1 1 3
+ru|Что распределяет первокурсников Хогвартса по факультетам?|Распределяющая шляпа|Волшебное зеркало|Говорящий портрет|Кубок огня
+en|What sorts first-year Hogwarts students into their houses?|The Sorting Hat|A magic mirror|A talking portrait|The Goblet of Fire
+es|¿Qué reparte a los alumnos de primero de Hogwarts en las casas?|El Sombrero Seleccionador|Un espejo mágico|Un retrato que habla|El Cáliz de Fuego
+ja|ホグワーツの新入生を寮に振り分けるものは？|組分け帽子|魔法の鏡|しゃべる肖像画|炎のゴブレット
+zh|是什么把霍格沃茨的新生分进各个学院？|分院帽|魔镜|会说话的肖像|火焰杯
+#Q 2802 4 1 3
+ru|Как называется маленький золотой мячик с крылышками в квиддиче?|Квоффл|Бладжер|Кнат|Золотой снитч
+en|What is the little golden winged ball in Quidditch called?|The Quaffle|The Bludger|The Knut|The Golden Snitch
+es|¿Cómo se llama la pequeña pelota dorada con alas del quidditch?|La quaffle|La bludger|El knut|La snitch dorada
+ja|クィディッチで使われる、羽のついた小さな金色のボールは？|クアッフル|ブラッジャー|クヌート|金のスニッチ
+zh|魁地奇中那个长着翅膀的金色小球叫什么？|鬼飞球|游走球|纳特|金色飞贼
+#Q 2803 1 1 3
+ru|Какой напиток любят пить ученики Хогвартса в Хогсмиде?|Сливочное пиво|Тыквенный лимонад|Медовый чай|Драконье молоко
+en|What drink do Hogwarts students love in Hogsmeade?|Butterbeer|Pumpkin lemonade|Honey tea|Dragon milk
+es|¿Qué bebida les encanta a los alumnos de Hogwarts en Hogsmeade?|La cerveza de mantequilla|La limonada de calabaza|El té de miel|La leche de dragón
+ja|ホグワーツの生徒たちがホグズミードで好んで飲む飲み物は？|バタービール|かぼちゃレモネード|はちみつ紅茶|ドラゴンのミルク
+zh|霍格沃茨的学生们在霍格莫德最爱喝什么？|黄油啤酒|南瓜柠檬水|蜂蜜茶|龙奶
+#Q 2804 1 1 3
+ru|Кто охраняет волшебную тюрьму Азкабан?|Дементоры|Гоблины|Драконы|Тролли
+en|Who guards the wizard prison Azkaban?|Dementors|Goblins|Dragons|Trolls
+es|¿Quién vigila la prisión mágica de Azkaban?|Los dementores|Los duendes|Los dragones|Los trols
+ja|魔法使いの監獄アズカバンを見張っているのは？|吸魂鬼（ディメンター）|小鬼（ゴブリン）|ドラゴン|トロール
+zh|谁在看守巫师监狱阿兹卡班？|摄魂怪|妖精|火龙|巨怪
+#Q 2805 1 1 3
+ru|Что делает заклинание «Вингардиум Левиоса»?|Поднимает предметы в воздух|Открывает замки|Зажигает свет|Обезоруживает врага
+en|What does the spell "Wingardium Leviosa" do?|Makes objects float in the air|Opens locks|Lights up a wand|Disarms an enemy
+es|¿Qué hace el hechizo «Wingardium Leviosa»?|Hace levitar los objetos|Abre cerraduras|Enciende una luz|Desarma al enemigo
+ja|呪文「ウィンガーディアム・レヴィオーサ」の効果は？|物を宙に浮かせる|鍵を開ける|杖の先に明かりをともす|相手の武器を奪う
+zh|咒语“羽加迪姆勒维奥萨”有什么作用？|让物体飘浮起来|打开锁|点亮魔杖|缴械敌人
+#Q 2806 2 1 3
+ru|Какого цвета волосы у всех членов семьи Уизли?|Чёрные|Рыжие|Светлые|Каштановые
+en|What color is the hair of everyone in the Weasley family?|Black|Red|Blonde|Brown
+es|¿De qué color es el pelo de todos los Weasley?|Negro|Pelirrojo|Rubio|Castaño
+ja|ウィーズリー家の人たちの髪の色は？|黒|赤毛|金髪|茶色
+zh|韦斯莱家的人都是什么发色？|黑色|红色|金色|棕色
+#Q 2807 1 1 3
+ru|Как зовут школьного соперника Гарри со Слизерина?|Драко Малфой|Невилл Долгопупс|Седрик Диггори|Симус Финниган
+en|What is the name of Harry's school rival from Slytherin?|Draco Malfoy|Neville Longbottom|Cedric Diggory|Seamus Finnigan
+es|¿Cómo se llama el rival de Harry en el colegio, de Slytherin?|Draco Malfoy|Neville Longbottom|Cedric Diggory|Seamus Finnigan
+ja|ハリーのライバルで、スリザリンの生徒は？|ドラコ・マルフォイ|ネビル・ロングボトム|セドリック・ディゴリー|シェーマス・フィネガン
+zh|哈利在学校里那位来自斯莱特林的对手叫什么？|德拉科·马尔福|纳威·隆巴顿|塞德里克·迪戈里|西莫·斐尼甘
+#Q 2808 3 1 3
+ru|Какого цвета Хогвартс-экспресс?|Зелёного|Чёрного|Красного|Синего
+en|What color is the Hogwarts Express?|Green|Black|Red|Blue
+es|¿De qué color es el expreso de Hogwarts?|Verde|Negro|Rojo|Azul
+ja|ホグワーツ特急の車体の色は？|緑|黒|赤|青
+zh|霍格沃茨特快列车是什么颜色？|绿色|黑色|红色|蓝色
+#Q 2809 3 1 3
+ru|Сколько факультетов в Хогвартсе?|2|3|4|5
+en|How many houses are there at Hogwarts?|2|3|4|5
+es|¿Cuántas casas hay en Hogwarts?|2|3|4|5
+ja|ホグワーツの寮はいくつある？|2つ|3つ|4つ|5つ
+zh|霍格沃茨一共有几个学院？|2个|3个|4个|5个
+#Q 2810 1 1 3
+ru|Кто такой Леголас из «Властелина колец»?|Эльф-лучник|Гном с топором|Волшебник|Король людей
+en|Who is Legolas in The Lord of the Rings?|An elf archer|A dwarf with an axe|A wizard|A king of men
+es|¿Quién es Legolas en El señor de los anillos?|Un elfo arquero|Un enano con hacha|Un mago|Un rey de los hombres
+ja|「ロード・オブ・ザ・リング」のレゴラスとは？|弓の名手のエルフ|斧を持ったドワーフ|魔法使い|人間の王
+zh|《指环王》中的莱戈拉斯是什么人？|精灵弓箭手|拿斧头的矮人|巫师|人类国王
+#Q 2811 3 1 3
+ru|Каким оружием сражается гном Гимли?|Луком|Посохом|Топором|Кинжалом
+en|What weapon does the dwarf Gimli fight with?|A bow|A staff|An axe|A dagger
+es|¿Con qué arma lucha el enano Gimli?|Con un arco|Con un bastón|Con un hacha|Con una daga
+ja|ドワーフのギムリが使う武器は？|弓|杖|斧|短剣
+zh|矮人吉姆利用什么武器战斗？|弓|法杖|斧头|匕首
+#Q 2812 2 1 3
+ru|Как зовут верного друга Фродо, который идёт с ним до самого конца?|Пиппин|Сэм|Мерри|Боромир
+en|What is the name of Frodo's loyal friend who goes with him to the very end?|Pippin|Sam|Merry|Boromir
+es|¿Cómo se llama el fiel amigo de Frodo que lo acompaña hasta el final?|Pippin|Sam|Merry|Boromir
+ja|最後までフロドについていく忠実な友は？|ピピン|サム|メリー|ボロミア
+zh|一直陪伴佛罗多到最后的忠实朋友叫什么？|皮平|山姆|梅里|波罗莫
+#Q 2813 2 1 3
+ru|Чем примечательны ноги хоббитов?|Они очень длинные|Они большие, волосатые, и хоббиты ходят босиком|Они с когтями|У хоббитов по шесть пальцев
+en|What is special about hobbits' feet?|They are very long|They are big and hairy, and hobbits go barefoot|They have claws|Hobbits have six toes
+es|¿Qué tienen de especial los pies de los hobbits?|Son muy largos|Son grandes y peludos, y van descalzos|Tienen garras|Tienen seis dedos
+ja|ホビットの足の特徴は？|とても長い|大きくて毛深く、靴をはかない|かぎ爪がある|指が6本ある
+zh|霍比特人的脚有什么特别之处？|特别长|又大又多毛，而且他们光着脚走路|长着爪子|有六根脚趾
+#Q 2814 1 1 3
+ru|Как зовут хоббита, который нашёл Кольцо задолго до Фродо?|Бильбо|Сэм|Голлум|Мерри
+en|What is the name of the hobbit who found the Ring long before Frodo?|Bilbo|Sam|Gollum|Merry
+es|¿Cómo se llama el hobbit que encontró el Anillo mucho antes que Frodo?|Bilbo|Sam|Gollum|Merry
+ja|フロドよりずっと前に指輪を手に入れたホビットは？|ビルボ|サム|ゴラム|メリー
+zh|比佛罗多早很多年得到魔戒的霍比特人叫什么？|比尔博|山姆|咕噜|梅里
+#Q 2815 2 1 3
+ru|Кем является Эдвард Каллен из «Сумерек»?|Оборотнем|Вампиром|Ангелом|Призраком
+en|What is Edward Cullen in Twilight?|A werewolf|A vampire|An angel|A ghost
+es|¿Qué es Edward Cullen en Crepúsculo?|Un hombre lobo|Un vampiro|Un ángel|Un fantasma
+ja|「トワイライト」のエドワード・カレンの正体は？|狼男|吸血鬼|天使|幽霊
+zh|《暮光之城》中的爱德华·卡伦是什么？|狼人|吸血鬼|天使|幽灵
+#Q 2816 2 1 3
+ru|В кого превращается Джейкоб из «Сумерек»?|В летучую мышь|В волка|В медведя|В орла
+en|What does Jacob from Twilight turn into?|A bat|A wolf|A bear|An eagle
+es|¿En qué se transforma Jacob, de Crepúsculo?|En murciélago|En lobo|En oso|En águila
+ja|「トワイライト」のジェイコブが変身するのは？|コウモリ|オオカミ|クマ|ワシ
+zh|《暮光之城》中的雅各布会变成什么？|蝙蝠|狼|熊|鹰
+#Q 2817 1 1 3
+ru|Каким оружием сражается Китнисс Эвердин в «Голодных играх»?|Луком|Мечом|Копьём|Ножами
+en|What weapon does Katniss Everdeen fight with in The Hunger Games?|A bow|A sword|A spear|Knives
+es|¿Con qué arma lucha Katniss Everdeen en Los juegos del hambre?|Con un arco|Con una espada|Con una lanza|Con cuchillos
+ja|「ハンガー・ゲーム」のカットニス・エバディーンが使う武器は？|弓|剣|槍|ナイフ
+zh|《饥饿游戏》中的凯特尼斯·伊夫狄恩用什么武器？|弓|剑|长矛|刀
+#Q 2818 3 1 3
+ru|Какой актёр сыграл Рона Уизли в фильмах о Гарри Поттере?|Том Фелтон|Мэттью Льюис|Руперт Гринт|Элайджа Вуд
+en|Which actor played Ron Weasley in the Harry Potter films?|Tom Felton|Matthew Lewis|Rupert Grint|Elijah Wood
+es|¿Qué actor interpretó a Ron Weasley en las películas de Harry Potter?|Tom Felton|Matthew Lewis|Rupert Grint|Elijah Wood
+ja|映画「ハリー・ポッター」でロン・ウィーズリーを演じたのは？|トム・フェルトン|マシュー・ルイス|ルパート・グリント|イライジャ・ウッド
+zh|在《哈利·波特》电影中饰演罗恩·韦斯莱的是谁？|汤姆·费尔顿|马修·刘易斯|鲁伯特·格林特|伊利亚·伍德
+#Q 2819 2 1 3
+ru|Кто такой Гэндальф во «Властелине колец»?|Эльф|Волшебник|Гном|Король Гондора
+en|Who is Gandalf in The Lord of the Rings?|An elf|A wizard|A dwarf|The king of Gondor
+es|¿Quién es Gandalf en El señor de los anillos?|Un elfo|Un mago|Un enano|El rey de Gondor
+ja|「ロード・オブ・ザ・リング」のガンダルフとは？|エルフ|魔法使い|ドワーフ|ゴンドールの王
+zh|《指环王》中的甘道夫是什么人？|精灵|巫师|矮人|刚铎国王
+#Q 2820 2 1 3
+ru|Кто такой Фродо Бэггинс?|Эльф|Хоббит|Гном|Человек
+en|What is Frodo Baggins?|An elf|A hobbit|A dwarf|A human
+es|¿Qué es Frodo Bolsón?|Un elfo|Un hobbit|Un enano|Un humano
+ja|フロド・バギンズは何族？|エルフ|ホビット|ドワーフ|人間
+zh|佛罗多·巴金斯是什么种族？|精灵|霍比特人|矮人|人类
+#Q 2821 2 2 3
+ru|На какой позиции Гарри Поттер играет в квиддич?|Вратарь|Ловец|Охотник|Загонщик
+en|Which position does Harry Potter play in Quidditch?|Keeper|Seeker|Chaser|Beater
+es|¿En qué posición juega Harry Potter al quidditch?|Guardián|Buscador|Cazador|Golpeador
+ja|ハリー・ポッターのクィディッチのポジションは？|キーパー|シーカー|チェイサー|ビーター
+zh|哈利·波特在魁地奇中打什么位置？|守门员|找球手|追球手|击球手
+#Q 2822 2 2 3
+ru|Какое животное - символ факультета Пуффендуй?|Орёл|Барсук|Лев|Змея
+en|Which animal is the symbol of Hufflepuff house?|An eagle|A badger|A lion|A snake
+es|¿Qué animal es el símbolo de la casa Hufflepuff?|El águila|El tejón|El león|La serpiente
+ja|ハッフルパフ寮のシンボルの動物は？|ワシ|アナグマ|ライオン|ヘビ
+zh|赫奇帕奇学院的象征动物是什么？|鹰|獾|狮子|蛇
+#Q 2823 2 2 3
+ru|Как называется волшебная улица в Лондоне, где покупают палочки и мантии?|Лютный переулок|Косой переулок|Тисовая улица|Площадь Гриммо
+en|What is the magical London street where wands and robes are bought?|Knockturn Alley|Diagon Alley|Privet Drive|Grimmauld Place
+es|¿Cómo se llama la calle mágica de Londres donde se compran varitas y túnicas?|El callejón Knockturn|El callejón Diagon|Privet Drive|Grimmauld Place
+ja|魔法の杖やローブを買う、ロンドンの魔法の通りは？|夜の闇（ノクターン）横丁|ダイアゴン横丁|プリベット通り|グリモールド・プレイス
+zh|在伦敦购买魔杖和长袍的魔法街道叫什么？|翻倒巷|对角巷|女贞路|格里莫广场
+#Q 2824 2 2 3
+ru|Кто работает в волшебном банке «Гринготтс»?|Эльфы-домовики|Гоблины|Кентавры|Великаны
+en|Who works at the wizarding bank Gringotts?|House-elves|Goblins|Centaurs|Giants
+es|¿Quién trabaja en el banco mágico Gringotts?|Los elfos domésticos|Los duendes|Los centauros|Los gigantes
+ja|魔法界の銀行グリンゴッツで働いているのは？|屋敷しもべ妖精|小鬼（ゴブリン）|ケンタウルス|巨人
+zh|在巫师银行古灵阁工作的是谁？|家养小精灵|妖精|马人|巨人
+#Q 2825 3 2 3
+ru|Сколько голов у пса Пушка, охранявшего философский камень?|1|2|3|7
+en|How many heads does Fluffy, the dog guarding the Philosopher's Stone, have?|1|2|3|7
+es|¿Cuántas cabezas tiene Fluffy, el perro que vigilaba la piedra filosofal?|1|2|3|7
+ja|賢者の石を守っていた犬フラッフィーの頭はいくつ？|1つ|2つ|3つ|7つ
+zh|守护魔法石的大狗路威有几个头？|1个|2个|3个|7个
+#Q 2826 2 2 3
+ru|Какой предмет позволял Гермионе бывать на нескольких уроках одновременно?|Мантия-невидимка|Маховик времени|Летучий порох|Омут памяти
+en|Which item let Hermione attend several classes at the same time?|The Invisibility Cloak|A Time-Turner|Floo powder|A Pensieve
+es|¿Qué objeto permitía a Hermione asistir a varias clases a la vez?|La capa de invisibilidad|Un giratiempo|Polvos flu|Un pensadero
+ja|ハーマイオニーが同じ時間に複数の授業に出るために使った道具は？|透明マント|逆転時計|煙突飛行粉|憂いの篩
+zh|赫敏靠什么东西同时去上好几门课？|隐形衣|时间转换器|飞路粉|冥想盆
+#Q 2827 1 2 3
+ru|Что показывает Карта Мародёров?|Где находится каждый человек в Хогвартсе|Дорогу в Запретный лес|Будущее|Спрятанные сокровища
+en|What does the Marauder's Map show?|Where everyone is at Hogwarts|The way into the Forbidden Forest|The future|Hidden treasure
+es|¿Qué muestra el mapa del merodeador?|Dónde está cada persona en Hogwarts|El camino al Bosque Prohibido|El futuro|Tesoros escondidos
+ja|「忍びの地図」に映し出されるものは？|ホグワーツの中で誰がどこにいるか|禁じられた森への道|未来|隠された宝
+zh|《哈利·波特》中的“掠夺者地图”能显示什么？|霍格沃茨里每个人的位置|去禁林的路|未来|隐藏的宝藏
+#Q 2828 2 2 3
+ru|В какое животное умеет превращаться Сириус Блэк?|В крысу|В большого чёрного пса|В оленя|В кошку
+en|What animal can Sirius Black turn into?|A rat|A big black dog|A stag|A cat
+es|¿En qué animal puede transformarse Sirius Black?|En una rata|En un gran perro negro|En un ciervo|En un gato
+ja|シリウス・ブラックが変身できる動物は？|ネズミ|大きな黒い犬|牡鹿|猫
+zh|小天狼星布莱克能变成什么动物？|老鼠|一条大黑狗|雄鹿|猫
+#Q 2829 2 2 3
+ru|Кем оказался профессор Римус Люпин?|Вампиром|Оборотнем|Призраком|Великаном
+en|What turned out to be Professor Remus Lupin's secret?|He is a vampire|He is a werewolf|He is a ghost|He is a giant
+es|¿Qué secreto tenía el profesor Remus Lupin?|Es un vampiro|Es un hombre lobo|Es un fantasma|Es un gigante
+ja|リーマス・ルーピン先生の秘密は？|吸血鬼であること|狼人間であること|幽霊であること|巨人であること
+zh|莱姆斯·卢平教授的秘密是什么？|他是吸血鬼|他是狼人|他是幽灵|他是巨人
+#Q 2830 4 2 3
+ru|Каким заклинанием прогоняют дементоров?|«Экспеллиармус»|«Люмос»|«Алохомора»|«Экспекто патронум»
+en|Which spell drives away Dementors?|"Expelliarmus"|"Lumos"|"Alohomora"|"Expecto Patronum"
+es|¿Qué hechizo ahuyenta a los dementores?|«Expelliarmus»|«Lumos»|«Alohomora»|«Expecto patronum»
+ja|吸魂鬼（ディメンター）を追い払う呪文は？|エクスペリアームス|ルーモス|アロホモーラ|エクスペクト・パトローナム
+zh|哪个咒语可以驱赶摄魂怪？|除你武器|荧光闪烁|阿拉霍洞开|呼神护卫
+#Q 2831 4 2 3
+ru|Как по-настоящему зовут Волан-де-Морта?|Геллерт Грин-де-Вальд|Северус Снегг|Люциус Малфой|Том Реддл
+en|What is Voldemort's real name?|Gellert Grindelwald|Severus Snape|Lucius Malfoy|Tom Riddle
+es|¿Cuál es el verdadero nombre de Voldemort?|Gellert Grindelwald|Severus Snape|Lucius Malfoy|Tom Ryddle
+ja|ヴォルデモートの本名は？|ゲラート・グリンデルバルド|セブルス・スネイプ|ルシウス・マルフォイ|トム・リドル
+zh|伏地魔的真名叫什么？|盖勒特·格林德沃|西弗勒斯·斯内普|卢修斯·马尔福|汤姆·里德尔
+#Q 2832 4 2 3
+ru|Как зовут змею Волан-де-Морта?|Василиск|Арагог|Клювокрыл|Нагайна
+en|What is the name of Voldemort's snake?|Basilisk|Aragog|Buckbeak|Nagini
+es|¿Cómo se llama la serpiente de Voldemort?|Basilisco|Aragog|Buckbeak|Nagini
+ja|ヴォルデモートのヘビの名前は？|バジリスク|アラゴグ|バックビーク|ナギニ
+zh|伏地魔的蛇叫什么名字？|蛇怪|阿拉戈克|巴克比克|纳吉尼
+#Q 2833 1 2 3
+ru|Что дал Гарри эльфу Добби, чтобы тот стал свободным?|Носок|Шарф|Перчатку|Шляпу
+en|What did Harry give Dobby the house-elf to set him free?|A sock|A scarf|A glove|A hat
+es|¿Qué le dio Harry al elfo Dobby para liberarlo?|Un calcetín|Una bufanda|Un guante|Un sombrero
+ja|ハリーがドビーを自由にするために渡したものは？|靴下|マフラー|手袋|帽子
+zh|哈利给了家养小精灵多比什么东西，让他获得了自由？|一只袜子|一条围巾|一只手套|一顶帽子
+#Q 2834 3 2 3
+ru|Каким стал Гэндальф Серый, вернувшись после битвы с Балрогом?|Чёрным|Синим|Белым|Золотым
+en|What did Gandalf the Grey become after returning from his fight with the Balrog?|Gandalf the Black|Gandalf the Blue|Gandalf the White|Gandalf the Gold
+es|¿En qué se convirtió Gandalf el Gris tras volver de su lucha con el Balrog?|En Gandalf el Negro|En Gandalf el Azul|En Gandalf el Blanco|En Gandalf el Dorado
+ja|バルログとの戦いから戻った灰色のガンダルフは、何色のガンダルフになった？|黒のガンダルフ|青のガンダルフ|白のガンダルフ|金のガンダルフ
+zh|灰袍甘道夫与炎魔大战后归来，变成了什么？|黑袍甘道夫|蓝袍甘道夫|白袍甘道夫|金袍甘道夫
+#Q 2835 1 2 3
+ru|Кому Гэндальф кричит: «Ты не пройдёшь!»?|Балрогу|Саурону|Смаугу|Голлуму
+en|To whom does Gandalf shout "You shall not pass!"?|The Balrog|Sauron|Smaug|Gollum
+es|¿A quién le grita Gandalf «¡No puedes pasar!»?|Al Balrog|A Sauron|A Smaug|A Gollum
+ja|ガンダルフが「ここは通さん！」と叫んだ相手は？|バルログ|サウロン|スマウグ|ゴラム
+zh|甘道夫对谁大喊“你不能过去！”？|炎魔|索伦|史矛革|咕噜
+#Q 2836 1 2 3
+ru|Кто снял трилогию «Властелин колец»?|Питер Джексон|Стивен Спилберг|Джордж Лукас|Ридли Скотт
+en|Who directed The Lord of the Rings trilogy?|Peter Jackson|Steven Spielberg|George Lucas|Ridley Scott
+es|¿Quién dirigió la trilogía de El señor de los anillos?|Peter Jackson|Steven Spielberg|George Lucas|Ridley Scott
+ja|「ロード・オブ・ザ・リング」三部作の監督は？|ピーター・ジャクソン|スティーヴン・スピルバーグ|ジョージ・ルーカス|リドリー・スコット
+zh|《指环王》三部曲的导演是谁？|彼得·杰克逊|史蒂文·斯皮尔伯格|乔治·卢卡斯|雷德利·斯科特
+#Q 2837 3 2 3
+ru|Как зовут дракона из «Хоббита»?|Балрог|Дрогон|Смауг|Беззубик
+en|What is the name of the dragon in The Hobbit?|Balrog|Drogon|Smaug|Toothless
+es|¿Cómo se llama el dragón de El hobbit?|Balrog|Drogon|Smaug|Desdentao
+ja|「ホビット」に登場するドラゴンの名前は？|バルログ|ドロゴン|スマウグ|トゥース
+zh|《霍比特人》中的巨龙叫什么名字？|炎魔|卓耿|史矛革|无牙仔
+#Q 2838 3 3 3
+ru|Кем на самом деле оказалась крыса Рона, Короста?|Сириусом Блэком|Драко Малфоем|Питером Петтигрю|Регулусом Блэком
+en|Who did Ron's rat Scabbers turn out to be?|Sirius Black|Draco Malfoy|Peter Pettigrew|Regulus Black
+es|¿Quién resultó ser en realidad Scabbers, la rata de Ron?|Sirius Black|Draco Malfoy|Peter Pettigrew|Regulus Black
+ja|ロンのネズミ、スキャバーズの正体は？|シリウス・ブラック|ドラコ・マルフォイ|ピーター・ペティグリュー|レギュラス・ブラック
+zh|罗恩的老鼠斑斑的真实身份是谁？|小天狼星布莱克|德拉科·马尔福|小矮星彼得|雷古勒斯·布莱克
+#Q 2839 4 3 3
+ru|Как Хагрид назвал вылупившегося у него дракона?|Клювокрыл|Арагог|Фоукс|Норберт
+en|What did Hagrid name the baby dragon that hatched at his hut?|Buckbeak|Aragog|Fawkes|Norbert
+es|¿Cómo llamó Hagrid al dragoncito que nació en su cabaña?|Buckbeak|Aragog|Fawkes|Norberto
+ja|ハグリッドの小屋で生まれたドラゴンの赤ちゃんの名前は？|バックビーク|アラゴグ|フォークス|ノーバート
+zh|海格在小屋里孵出的小火龙叫什么名字？|巴克比克|阿拉戈克|福克斯|诺伯
+#Q 2840 4 3 3
+ru|Что показывает Зеркало Еиналеж?|Будущее|Прошлое|Правду о человеке|Самое заветное желание смотрящего
+en|What does the Mirror of Erised show?|The future|The past|The truth about a person|The deepest desire of the person looking
+es|¿Qué muestra el espejo de Oesed?|El futuro|El pasado|La verdad sobre una persona|El deseo más profundo de quien se mira
+ja|「みぞの鏡」に映るものは？|未来|過去|その人の本当の姿|見る人のいちばん強い望み
+zh|厄里斯魔镜能照出什么？|未来|过去|一个人的真面目|照镜子的人内心最深的渴望
+#Q 2841 3 3 3
+ru|Что из этого НЕ входит в Дары Смерти?|Бузинная палочка|Воскрешающий камень|Распределяющая шляпа|Мантия-невидимка
+en|Which of these is NOT one of the Deathly Hallows?|The Elder Wand|The Resurrection Stone|The Sorting Hat|The Invisibility Cloak
+es|¿Cuál de estos NO es una de las Reliquias de la Muerte?|La varita de saúco|La piedra de la resurrección|El Sombrero Seleccionador|La capa de invisibilidad
+ja|次のうち「死の秘宝」でないものは？|ニワトコの杖|蘇りの石|組分け帽子|透明マント
+zh|以下哪一个不是死亡圣器？|老魔杖|复活石|分院帽|隐形衣
+#Q 2842 1 3 3
+ru|Каким словом Северус Снегг отвечает Дамблдору на вопрос «После стольких лет?»|«Всегда»|«Никогда»|«Всё кончено»|«Ради Гарри»
+en|What word does Severus Snape answer when Dumbledore asks "After all this time?"|"Always"|"Never"|"It's over"|"For Harry"
+es|¿Qué palabra responde Severus Snape cuando Dumbledore le pregunta «¿Después de tanto tiempo?»?|«Siempre»|«Nunca»|«Se acabó»|«Por Harry»
+ja|ダンブルドアに「これほどの年月が経っても？」と問われ、スネイプが答えた一言は？|「永遠に」|「決して」|「もう終わりだ」|「ハリーのために」
+zh|邓布利多问“这么多年了？”时，斯内普回答了哪个词？|“一直如此”|“从不”|“都结束了”|“为了哈利”
+#Q 2843 4 3 3
+ru|Какой облик у Патронуса Северуса Снегга?|Олень|Феникс|Выдра|Лань
+en|What form does Severus Snape's Patronus take?|A stag|A phoenix|An otter|A doe
+es|¿Qué forma tiene el patronus de Severus Snape?|Un ciervo|Un fénix|Una nutria|Una cierva
+ja|セブルス・スネイプの守護霊の姿は？|牡鹿|不死鳥|カワウソ|雌鹿
+zh|西弗勒斯·斯内普的守护神是什么形状？|雄鹿|凤凰|水獭|牝鹿
+#Q 2844 3 3 3
+ru|Как зовут рыжего кота Гермионы?|Короста|Миссис Норрис|Живоглот|Арабелла
+en|What is the name of Hermione's ginger cat?|Scabbers|Mrs Norris|Crookshanks|Arabella
+es|¿Cómo se llama el gato pelirrojo de Hermione?|Scabbers|la señora Norris|Crookshanks|Arabella
+ja|ハーマイオニーの赤茶色の猫の名前は？|スキャバーズ|ミセス・ノリス|クルックシャンクス|アラベラ
+zh|赫敏那只姜黄色的猫叫什么名字？|斑斑|洛丽丝夫人|克鲁克山|阿拉贝拉
+#Q 2845 2 3 3
+ru|Кто убил Сириуса Блэка?|Волан-де-Морт|Беллатриса Лестрейндж|Люциус Малфой|Питер Петтигрю
+en|Who killed Sirius Black?|Voldemort|Bellatrix Lestrange|Lucius Malfoy|Peter Pettigrew
+es|¿Quién mató a Sirius Black?|Voldemort|Bellatrix Lestrange|Lucius Malfoy|Peter Pettigrew
+ja|シリウス・ブラックを死に追いやったのは？|ヴォルデモート|ベラトリックス・レストレンジ|ルシウス・マルフォイ|ピーター・ペティグリュー
+zh|是谁杀死了小天狼星布莱克？|伏地魔|贝拉特里克斯·莱斯特兰奇|卢修斯·马尔福|小矮星彼得
+#Q 2846 3 3 3
+ru|Сколько участников было в Братстве Кольца?|5|7|9|12
+en|How many members were there in the Fellowship of the Ring?|5|7|9|12
+es|¿Cuántos miembros tenía la Comunidad del Anillo?|5|7|9|12
+ja|「旅の仲間」は全部で何人？|5人|7人|9人|12人
+zh|护戒同盟一共有几名成员？|5名|7名|9名|12名
+#Q 2847 1 3 3
+ru|Какой актёр сыграл Гэндальфа во «Властелине колец»?|Иэн Маккеллен|Кристофер Ли|Майкл Гэмбон|Энтони Хопкинс
+en|Which actor played Gandalf in The Lord of the Rings?|Ian McKellen|Christopher Lee|Michael Gambon|Anthony Hopkins
+es|¿Qué actor interpretó a Gandalf en El señor de los anillos?|Ian McKellen|Christopher Lee|Michael Gambon|Anthony Hopkins
+ja|「ロード・オブ・ザ・リング」でガンダルフを演じた俳優は？|イアン・マッケラン|クリストファー・リー|マイケル・ガンボン|アンソニー・ホプキンス
+zh|在《指环王》中饰演甘道夫的演员是谁？|伊恩·麦克莱恩|克里斯托弗·李|迈克尔·刚本|安东尼·霍普金斯
+#Q 2848 4 3 3
+ru|Какой актёр сыграл эльфа Леголаса?|Вигго Мортенсен|Элайджа Вуд|Шон Бин|Орландо Блум
+en|Which actor played the elf Legolas?|Viggo Mortensen|Elijah Wood|Sean Bean|Orlando Bloom
+es|¿Qué actor interpretó al elfo Legolas?|Viggo Mortensen|Elijah Wood|Sean Bean|Orlando Bloom
+ja|エルフのレゴラスを演じた俳優は？|ヴィゴ・モーテンセン|イライジャ・ウッド|ショーン・ビーン|オーランド・ブルーム
+zh|饰演精灵莱戈拉斯的演员是谁？|维果·莫滕森|伊利亚·伍德|肖恩·宾|奥兰多·布鲁姆
+#Q 2849 3 3 3
+ru|Сколько назгулов служат Саурону?|3|7|9|13
+en|How many Nazgûl serve Sauron?|3|7|9|13
+es|¿Cuántos nazgûl sirven a Sauron?|3|7|9|13
+ja|サウロンに仕えるナズグルは何人？|3人|7人|9人|13人
+zh|侍奉索伦的戒灵有几个？|3个|7个|9个|13个
+#Q 2850 3 3 3
+ru|Из какого дистрикта Китнисс Эвердин?|1|7|12|13
+en|Which district is Katniss Everdeen from?|1|7|12|13
+es|¿De qué distrito es Katniss Everdeen?|1|7|12|13
+ja|カットニス・エバディーンの出身は第何地区？|第1地区|第7地区|第12地区|第13地区
+zh|凯特尼斯·伊夫狄恩来自第几区？|第1区|第7区|第12区|第13区
+#Q 2851 1 1 3
+ru|Сколько глаз у Майка Вазовски из «Корпорации монстров»?|1|2|3|4
+en|How many eyes does Mike Wazowski from Monsters, Inc. have?|1|2|3|4
+es|¿Cuántos ojos tiene Mike Wazowski, de Monstruos, S.A.?|1|2|3|4
+ja|「モンスターズ・インク」のマイク・ワゾウスキの目はいくつ？|1つ|2つ|3つ|4つ
+zh|《怪兽电力公司》中的麦克·华斯基有几只眼睛？|1只|2只|3只|4只
+#Q 2852 2 1 3
+ru|Какая эмоция синего цвета в мультфильме «Головоломка»?|Радость|Печаль|Гнев|Страх
+en|Which emotion is blue in Inside Out?|Joy|Sadness|Anger|Fear
+es|¿Qué emoción es azul en Del revés (Inside Out)?|Alegría|Tristeza|Ira|Miedo
+ja|映画「インサイド・ヘッド」で青い色の感情は？|ヨロコビ|カナシミ|イカリ|ビビリ
+zh|《头脑特工队》中哪种情绪是蓝色的？|乐乐|忧忧|怒怒|怕怕
+#Q 2853 1 1 3
+ru|Каким животным является Сид из «Ледникового периода»?|Ленивцем|Мамонтом|Белкой|Саблезубым тигром
+en|What animal is Sid in Ice Age?|A sloth|A mammoth|A squirrel|A saber-toothed tiger
+es|¿Qué animal es Sid en Ice Age: La edad de hielo?|Un perezoso|Un mamut|Una ardilla|Un tigre dientes de sable
+ja|「アイス・エイジ」のシドは何の動物？|ナマケモノ|マンモス|リス|サーベルタイガー
+zh|《冰川时代》中的希德是什么动物？|树懒|猛犸象|松鼠|剑齿虎
+#Q 2854 1 1 3
+ru|Кем работает крольчиха Джуди Хопс в «Зверополисе»?|Полицейской|Врачом|Учительницей|Журналисткой
+en|What is the rabbit Judy Hopps's job in Zootopia?|Police officer|Doctor|Teacher|Journalist
+es|¿En qué trabaja la coneja Judy Hopps en Zootrópolis?|Es policía|Es médica|Es maestra|Es periodista
+ja|「ズートピア」のウサギ、ジュディ・ホップスの職業は？|警察官|医者|先生|記者
+zh|《疯狂动物城》中的兔子朱迪·霍普斯是做什么的？|警察|医生|老师|记者
+#Q 2855 3 1 3
+ru|Каким животным является Ник Уайлд из «Зверополиса»?|Волком|Енотом|Лисом|Койотом
+en|What animal is Nick Wilde in Zootopia?|A wolf|A raccoon|A fox|A coyote
+es|¿Qué animal es Nick Wilde en Zootrópolis?|Un lobo|Un mapache|Un zorro|Un coyote
+ja|「ズートピア」のニック・ワイルドは何の動物？|オオカミ|アライグマ|キツネ|コヨーテ
+zh|《疯狂动物城》中的尼克·王尔德是什么动物？|狼|浣熊|狐狸|郊狼
+#Q 2856 3 1 3
+ru|Кем является Беймакс из «Города героев»?|Роботом-полицейским|Роботом-поваром|Роботом-медбратом|Боевым дроидом
+en|What is Baymax from Big Hero 6?|A police robot|A cooking robot|A healthcare robot|A battle droid
+es|¿Qué es Baymax, de Big Hero 6?|Un robot policía|Un robot cocinero|Un robot enfermero|Un droide de combate
+ja|映画「ベイマックス」のベイマックスは、もともとどんなロボット？|警察ロボット|料理ロボット|ケアロボット（看護ロボット）|戦闘用ドロイド
+zh|《超能陆战队》中的大白本来是什么机器人？|警察机器人|厨师机器人|医护机器人|战斗机器人
+#Q 2857 4 1 3
+ru|О чём больше всего мечтает снеговик Олаф из «Холодного сердца»?|О Рождестве|О снегопаде|О морковке|О лете
+en|What does the snowman Olaf from Frozen dream of most?|Christmas|A snowstorm|A carrot|Summer
+es|¿Con qué sueña sobre todo el muñeco de nieve Olaf, de Frozen?|Con la Navidad|Con una nevada|Con una zanahoria|Con el verano
+ja|「アナと雪の女王」の雪だるまオラフがいちばん憧れているものは？|クリスマス|吹雪|ニンジン|夏
+zh|《冰雪奇缘》中的雪人雪宝最向往的是什么？|圣诞节|暴风雪|胡萝卜|夏天
+#Q 2858 3 1 3
+ru|Каким животным является Свен, друг Кристоффа из «Холодного сердца»?|Лошадью|Лосём|Северным оленем|Медведем
+en|What animal is Sven, Kristoff's friend in Frozen?|A horse|A moose|A reindeer|A bear
+es|¿Qué animal es Sven, el amigo de Kristoff en Frozen?|Un caballo|Un alce|Un reno|Un oso
+ja|「アナと雪の女王」でクリストフの相棒スヴェンは何の動物？|ウマ|ヘラジカ|トナカイ|クマ
+zh|《冰雪奇缘》中克里斯托夫的伙伴斯文是什么动物？|马|驼鹿|驯鹿|熊
+#Q 2859 2 1 3
+ru|Какую песню поёт Эльза, убегая в горы в «Холодном сердце»?|«Хакуна Матата»|«Отпусти и забудь» (Let It Go)|«Под водой» (Under the Sea)|«Что меня ждёт» (How Far I'll Go)
+en|Which song does Elsa sing as she runs off into the mountains in Frozen?|Hakuna Matata|Let It Go|Under the Sea|How Far I'll Go
+es|¿Qué canción canta Elsa al huir a las montañas en Frozen?|Hakuna Matata|¡Suéltalo! (Let It Go)|Bajo el mar|¿Qué hay más allá?
+ja|「アナと雪の女王」で、エルサが山へ逃げながら歌う曲は？|ハクナ・マタタ|レット・イット・ゴー〜ありのままで〜|アンダー・ザ・シー|どこまでも〜How Far I'll Go〜
+zh|《冰雪奇缘》中艾莎逃进山里时唱的是哪首歌？|哈库那玛塔塔|随它吧|在海底|海洋之心
+#Q 2860 4 1 3
+ru|В каком городе происходит действие мультфильма «Рататуй»?|В Риме|В Лондоне|В Нью-Йорке|В Париже
+en|In which city is the film Ratatouille set?|Rome|London|New York|Paris
+es|¿En qué ciudad transcurre Ratatouille?|Roma|Londres|Nueva York|París
+ja|映画「レミーのおいしいレストラン」の舞台となる都市は？|ローマ|ロンドン|ニューヨーク|パリ
+zh|电影《料理鼠王》的故事发生在哪座城市？|罗马|伦敦|纽约|巴黎
+#Q 2861 4 1 3
+ru|Кем является Джесси из «Истории игрушек»?|Космическим рейнджером|Динозавром|Плюшевым медведем|Куклой-ковбойшей
+en|What kind of toy is Jessie in Toy Story?|A space ranger|A dinosaur|A teddy bear|A cowgirl doll
+es|¿Qué juguete es Jessie en Toy Story?|Un guardián espacial|Un dinosaurio|Un osito de peluche|Una muñeca vaquera
+ja|「トイ・ストーリー」のジェシーはどんなおもちゃ？|スペース・レンジャー|恐竜|クマのぬいぐるみ|カウガールの人形
+zh|《玩具总动员》中的翠丝是什么玩具？|太空骑警|恐龙|泰迪熊|女牛仔玩偶
+#Q 2862 4 1 3
+ru|Какая знаменитая фраза у Базза Лайтера?|«Я вернусь!»|«Да пребудет с тобой Сила!»|«Хьюстон, у нас проблема!»|«Бесконечность - не предел!»
+en|What is Buzz Lightyear's famous catchphrase?|"I'll be back!"|"May the Force be with you!"|"Houston, we have a problem!"|"To infinity and beyond!"
+es|¿Cuál es la famosa frase de Buzz Lightyear?|«¡Volveré!»|«¡Que la Fuerza te acompañe!»|«¡Houston, tenemos un problema!»|«¡Hasta el infinito y más allá!»
+ja|バズ・ライトイヤーの決めゼリフは？|「アイル・ビー・バック」|「フォースと共にあらんことを」|「ヒューストン、問題が発生した」|「無限の彼方へ、さあ行くぞ！」
+zh|巴斯光年的经典台词是什么？|“我会回来的！”|“愿原力与你同在！”|“休斯敦，我们有麻烦了！”|“飞向宇宙，浩瀚无垠！”
+#Q 2863 3 1 3
+ru|Из чего сделан Вилкинс (Forky) из «Истории игрушек 4»?|Из носка|Из картонной коробки|Из пластиковой ложки-вилки|Из пробки
+en|What is Forky from Toy Story 4 made from?|A sock|A cardboard box|A plastic spork|A cork
+es|¿De qué está hecho Forky, de Toy Story 4?|De un calcetín|De una caja de cartón|De un tenedor-cuchara de plástico|De un corcho
+ja|「トイ・ストーリー4」のフォーキーは何からできている？|靴下|段ボール箱|プラスチックの先割れスプーン|コルク
+zh|《玩具总动员4》中的叉叉是用什么做的？|袜子|纸箱|塑料叉勺|软木塞
+#Q 2864 4 1 3
+ru|Кем приходится Шрам Симбе в «Короле Льве»?|Отцом|Старшим братом|Дедушкой|Дядей
+en|How is Scar related to Simba in The Lion King?|He is his father|He is his older brother|He is his grandfather|He is his uncle
+es|¿Qué relación tiene Scar con Simba en El rey león?|Es su padre|Es su hermano mayor|Es su abuelo|Es su tío
+ja|「ライオン・キング」でスカーはシンバにとって何にあたる？|父|兄|祖父|おじ
+zh|《狮子王》中的刀疤是辛巴的什么人？|父亲|哥哥|爷爷|叔叔
+#Q 2865 3 1 3
+ru|Каким животным является Тимон из «Короля Льва»?|Мангустом|Лемуром|Сурикатом|Белкой
+en|What animal is Timon in The Lion King?|A mongoose|A lemur|A meerkat|A squirrel
+es|¿Qué animal es Timón en El rey león?|Una mangosta|Un lémur|Un suricato|Una ardilla
+ja|「ライオン・キング」のティモンは何の動物？|マングース|キツネザル|ミーアキャット|リス
+zh|《狮子王》中的丁满是什么动物？|黄鼠狼|狐猴|猫鼬|松鼠
+#Q 2866 4 1 3
+ru|На чём летают Аладдин и Жасмин во время песни «Волшебный мир»?|На драконе|На облаке|На воздушном шаре|На ковре-самолёте
+en|What do Aladdin and Jasmine fly on during the song "A Whole New World"?|A dragon|A cloud|A hot-air balloon|A magic carpet
+es|¿En qué vuelan Aladdín y Jasmine durante la canción «Un mundo ideal»?|En un dragón|En una nube|En un globo|En una alfombra mágica
+ja|「ホール・ニュー・ワールド」を歌いながら、アラジンとジャスミンが乗って飛ぶものは？|ドラゴン|雲|気球|魔法のじゅうたん
+zh|唱《新世界》时，阿拉丁和茉莉公主乘着什么飞翔？|龙|云朵|热气球|魔毯
+#Q 2867 2 1 3
+ru|Каким животным является Себастьян из «Русалочки»?|Рыбкой|Крабом|Осьминогом|Морским коньком
+en|What animal is Sebastian in The Little Mermaid?|A fish|A crab|An octopus|A seahorse
+es|¿Qué animal es Sebastián en La sirenita?|Un pez|Un cangrejo|Un pulpo|Un caballito de mar
+ja|「リトル・マーメイド」のセバスチャンは何の生き物？|魚|カニ|タコ|タツノオトシゴ
+zh|《小美人鱼》中的塞巴斯蒂安是什么动物？|鱼|螃蟹|章鱼|海马
+#Q 2868 1 1 3
+ru|На каком острове живут Лило и Стич?|На Гавайях|На Ямайке|На Мадагаскаре|На Сицилии
+en|On which islands do Lilo and Stitch live?|Hawaii|Jamaica|Madagascar|Sicily
+es|¿En qué islas viven Lilo y Stitch?|En Hawái|En Jamaica|En Madagascar|En Sicilia
+ja|リロとスティッチが暮らしている島は？|ハワイ|ジャマイカ|マダガスカル|シチリア
+zh|莉萝和史迪奇住在哪个岛上？|夏威夷|牙买加|马达加斯加|西西里
+#Q 2869 4 1 3
+ru|До какого часа действует волшебство феи-крёстной Золушки?|До рассвета|До полудня|До девяти вечера|До полуночи
+en|Until what time does the fairy godmother's magic last for Cinderella?|Dawn|Noon|Nine in the evening|Midnight
+es|¿Hasta qué hora dura la magia del hada madrina de Cenicienta?|Hasta el amanecer|Hasta el mediodía|Hasta las nueve de la noche|Hasta medianoche
+ja|シンデレラの魔法が解けてしまう時刻は？|夜明け|お昼の12時|夜の9時|夜中の12時
+zh|灰姑娘的魔法到什么时候会消失？|黎明|中午|晚上九点|午夜十二点
+#Q 2870 4 1 3
+ru|Что помогает слонёнку Дамбо летать?|Хобот|Крылья|Воздушные шары|Огромные уши
+en|What helps the baby elephant Dumbo fly?|His trunk|Wings|Balloons|His huge ears
+es|¿Qué ayuda a volar al elefantito Dumbo?|Su trompa|Unas alas|Unos globos|Sus enormes orejas
+ja|子ゾウのダンボが空を飛べるのは何のおかげ？|鼻|翼|風船|大きな耳
+zh|小象丹波靠什么飞起来？|长鼻子|翅膀|气球|大耳朵
+#Q 2871 2 2 3
+ru|Откуда монстры из «Корпорации монстров» получают энергию для своего города?|Из солнечного света|Из детских криков|Из снов людей|Из молний
+en|Where do the monsters in Monsters, Inc. get the energy for their city?|From sunlight|From children's screams|From people's dreams|From lightning
+es|¿De dónde sacan los monstruos de Monstruos, S.A. la energía para su ciudad?|De la luz del sol|De los gritos de los niños|De los sueños de la gente|De los rayos
+ja|「モンスターズ・インク」で、モンスターの街のエネルギー源は？|太陽の光|子どもの悲鳴|人間の夢|雷
+zh|《怪兽电力公司》中，怪兽城的能源来自哪里？|阳光|孩子们的尖叫声|人类的梦|闪电
+#Q 2872 3 2 3
+ru|Какая суперсила у Фиалки Парр из «Суперсемейки»?|Сверхскорость|Растягивание тела|Невидимость и силовые поля|Сверхсила
+en|What superpower does Violet Parr from The Incredibles have?|Super speed|Stretching her body|Invisibility and force fields|Super strength
+es|¿Qué superpoder tiene Violeta Parr de Los Increíbles?|Supervelocidad|Estirar su cuerpo|Invisibilidad y campos de fuerza|Superfuerza
+ja|「Mr.インクレディブル」のヴァイオレットの能力は？|超スピード|体が伸びること|透明になることとバリア|怪力
+zh|《超人总动员》中的小倩拥有什么超能力？|超级速度|身体伸缩|隐身和防护罩|超级力量
+#Q 2873 2 2 3
+ru|Кем является Мэтр, лучший друг Молнии Маккуина?|Пожарной машиной|Ржавым эвакуатором|Полицейской машиной|Самолётом
+en|What is Mater, Lightning McQueen's best friend?|A fire engine|A rusty tow truck|A police car|A plane
+es|¿Qué es Mate, el mejor amigo de Rayo McQueen?|Un camión de bomberos|Una grúa oxidada|Un coche de policía|Un avión
+ja|ライトニング・マックィーンの親友メーターは何の車？|消防車|さびたレッカー車|パトカー|飛行機
+zh|闪电麦昆的好朋友板牙是什么车？|消防车|生锈的拖车|警车|飞机
+#Q 2874 2 2 3
+ru|Кто работает в отделе транспорта в «Зверополисе» и делает всё ужасно медленно?|Черепахи|Ленивцы|Улитки|Коалы
+en|Who works at the DMV in Zootopia and does everything terribly slowly?|Turtles|Sloths|Snails|Koalas
+es|¿Quién trabaja en la oficina de tráfico de Zootrópolis y lo hace todo lentísimo?|Las tortugas|Los perezosos|Los caracoles|Los koalas
+ja|「ズートピア」の免許センターで、何をするにもとても遅い職員は何の動物？|カメ|ナマケモノ|カタツムリ|コアラ
+zh|《疯狂动物城》中，在车管所工作、做什么都慢得要命的是什么动物？|乌龟|树懒|蜗牛|考拉
+#Q 2875 4 2 3
+ru|Во что превратилась мама принцессы Мериды из «Храброй сердцем»?|В лису|В ворону|В лошадь|В медведицу
+en|What did Princess Merida's mother turn into in Brave?|A fox|A crow|A horse|A bear
+es|¿En qué se convirtió la madre de la princesa Mérida en Brave (Indomable)?|En una zorra|En un cuervo|En un caballo|En una osa
+ja|「メリダとおそろしの森」で、メリダの母親が変えられてしまった姿は？|キツネ|カラス|ウマ|クマ
+zh|《勇敢传说》中，梅莉达公主的母亲变成了什么？|狐狸|乌鸦|马|熊
+#Q 2876 1 2 3
+ru|Кто оказался злодеем в первом «Холодном сердце»?|Принц Ханс|Герцог Варавский|Кристофф|Тролль Пабби
+en|Who turned out to be the villain in the first Frozen?|Prince Hans|The Duke of Weselton|Kristoff|The troll Pabbie
+es|¿Quién resultó ser el villano en la primera Frozen?|El príncipe Hans|El duque de Weselton|Kristoff|El trol Pabbie
+ja|1作目の「アナと雪の女王」で、悪役だとわかったのは？|ハンス王子|ウェーゼルトン公爵|クリストフ|トロールのパビー
+zh|在第一部《冰雪奇缘》中，最后发现谁是反派？|汉斯王子|威悉顿公爵|克里斯托夫|山怪帕比
+#Q 2877 1 2 3
+ru|О ком «не говорят» в семье Мадригаль из мультфильма «Энканто»?|О Бруно|О Мирабель|О бабушке Альме|О Луизе
+en|Who does the Madrigal family "not talk about" in Encanto?|Bruno|Mirabel|Abuela Alma|Luisa
+es|¿De quién «no se habla» en la familia Madrigal de Encanto?|De Bruno|De Mirabel|De la abuela Alma|De Luisa
+ja|「ミラベルと魔法だらけの家」で、マドリガル家で「話してはいけない」人物は？|ブルーノ|ミラベル|アルマおばあちゃん|ルイーサ
+zh|《魔法满屋》中，马德里加尔家族“不提起”的是谁？|布鲁诺|米拉贝|阿尔玛奶奶|路易莎
+#Q 2878 2 2 3
+ru|Как разговаривает пёс Даг из мультфильма «Вверх»?|С помощью табличек|Через особый ошейник-переводчик|Он умеет говорить сам|Через рацию
+en|How does the dog Dug talk in the film Up?|With signs|Through a special translator collar|He can talk on his own|Through a walkie-talkie
+es|¿Cómo habla el perro Dug en la película Up?|Con carteles|Con un collar traductor especial|Sabe hablar solo|Con un walkie-talkie
+ja|「カールじいさんの空飛ぶ家」の犬ダグが話せるのはなぜ？|看板を使うから|特別な翻訳首輪をつけているから|もともと話せるから|無線機を使うから
+zh|《飞屋环游记》中的狗狗小逗是怎么说话的？|用牌子|戴着特殊的翻译项圈|它本来就会说话|用对讲机
+#Q 2879 1 2 3
+ru|Как зовут белого робота, в которую влюбился ВАЛЛ-И?|ЕВА|Бэймакс|R2-D2|ЭМО
+en|What is the name of the white robot WALL-E falls in love with?|EVE|Baymax|R2-D2|M-O
+es|¿Cómo se llama la robot blanca de la que se enamora WALL·E?|EVA|Baymax|R2-D2|M-O
+ja|ウォーリーが恋をした白いロボットの名前は？|イヴ|ベイマックス|R2-D2|モー
+zh|瓦力爱上的那台白色机器人叫什么名字？|伊娃|大白|R2-D2|M-O
+#Q 2880 2 2 3
+ru|Каким животным является мудрый Рафики из «Короля Льва»?|Шимпанзе|Мандрилом|Гориллой|Орангутаном
+en|What animal is the wise Rafiki in The Lion King?|A chimpanzee|A mandrill|A gorilla|An orangutan
+es|¿Qué animal es el sabio Rafiki de El rey león?|Un chimpancé|Un mandril|Un gorila|Un orangután
+ja|「ライオン・キング」の賢いラフィキは何の動物？|チンパンジー|マンドリル|ゴリラ|オランウータン
+zh|《狮子王》中睿智的拉飞奇是什么动物？|黑猩猩|山魈|大猩猩|猩猩
+#Q 2881 4 2 3
+ru|Что Ариэль отдала морской ведьме Урсуле за человеческие ноги?|Свои волосы|Свой хвост|Свою корону|Свой голос
+en|What did Ariel give the sea witch Ursula in exchange for human legs?|Her hair|Her tail|Her crown|Her voice
+es|¿Qué le dio Ariel a la bruja del mar Úrsula a cambio de unas piernas?|Su pelo|Su cola|Su corona|Su voz
+ja|アリエルが人間の足と引きかえに魔女アースラに渡したものは？|髪|しっぽ|王冠|声
+zh|爱丽儿用什么跟海巫婆乌苏拉换来了人类的双腿？|她的头发|她的鱼尾|她的王冠|她的声音
+#Q 2882 1 2 3
+ru|Во что заколдован Люмьер из «Красавицы и Чудовища»?|В подсвечник|В часы|В чайник|В метлу
+en|What is Lumière enchanted into in Beauty and the Beast?|A candelabra|A clock|A teapot|A broom
+es|¿En qué está hechizado Lumière en La bella y la bestia?|En un candelabro|En un reloj|En una tetera|En una escoba
+ja|「美女と野獣」のルミエールは何に変えられている？|燭台|置き時計|ティーポット|ほうき
+zh|《美女与野兽》中的卢米埃被变成了什么？|烛台|时钟|茶壶|扫帚
+#Q 2883 3 2 3
+ru|В кого превращалась принцесса Фиона каждую ночь в «Шреке»?|В дракониху|В лягушку|В людоедку-огра|В кошку
+en|What did Princess Fiona turn into every night in Shrek?|A dragon|A frog|An ogre|A cat
+es|¿En qué se convertía la princesa Fiona cada noche en Shrek?|En una dragona|En una rana|En una ogra|En una gata
+ja|「シュレック」のフィオナ姫が毎晩変わってしまう姿は？|ドラゴン|カエル|怪物（オーガ）|猫
+zh|《怪物史瑞克》中的菲奥娜公主每到夜晚会变成什么？|母龙|青蛙|食人魔怪物|猫
+#Q 2884 2 2 3
+ru|Каким животным является мастер Шифу из «Кунг-фу Панды»?|Тигром|Малой (красной) пандой|Обезьяной|Журавлём
+en|What animal is Master Shifu in Kung Fu Panda?|A tiger|A red panda|A monkey|A crane
+es|¿Qué animal es el maestro Shifu de Kung Fu Panda?|Un tigre|Un panda rojo|Un mono|Una grulla
+ja|「カンフー・パンダ」のシーフー老師は何の動物？|トラ|レッサーパンダ|サル|ツル
+zh|《功夫熊猫》中的师父是什么动物？|老虎|小熊猫|猴子|仙鹤
+#Q 2885 4 2 3
+ru|На ком женился Осёл из «Шрека»?|На Фионе|На Золушке|На лошади|На драконихе
+en|Who did Donkey from Shrek marry?|Fiona|Cinderella|A horse|Dragon
+es|¿Con quién se casó Asno, de Shrek?|Con Fiona|Con Cenicienta|Con una yegua|Con Dragona
+ja|「シュレック」のドンキーが結婚した相手は？|フィオナ|シンデレラ|ウマ|ドラゴン
+zh|《怪物史瑞克》中的驴子和谁结婚了？|菲奥娜|灰姑娘|一匹马|母龙
+#Q 2886 3 2 3
+ru|Как зовут чёрного дракона Иккинга из «Как приручить дракона»?|Смауг|Дрогон|Беззубик|Норберт
+en|What is the name of Hiccup's black dragon in How to Train Your Dragon?|Smaug|Drogon|Toothless|Norbert
+es|¿Cómo se llama el dragón negro de Hipo en Cómo entrenar a tu dragón?|Smaug|Drogon|Desdentao|Norberto
+ja|「ヒックとドラゴン」で、ヒックの黒いドラゴンの名前は？|スマウグ|ドロゴン|トゥース|ノーバート
+zh|《驯龙高手》中小嗝嗝的黑色龙叫什么？|史矛革|卓耿|无牙仔|诺伯
+#Q 2887 1 2 3
+ru|Как зовут трёх главных героев мультфильма «Миньоны»?|Кевин, Стюарт и Боб|Джерри, Дэйв и Тим|Карл, Фил и Марк|Грю, Нефарио и Вектор
+en|What are the names of the three main heroes of Minions?|Kevin, Stuart and Bob|Jerry, Dave and Tim|Carl, Phil and Mark|Gru, Nefario and Vector
+es|¿Cómo se llaman los tres protagonistas de Los Minions?|Kevin, Stuart y Bob|Jerry, Dave y Tim|Carl, Phil y Mark|Gru, Nefario y Vector
+ja|映画「ミニオンズ」の主人公の3人は？|ケビン、スチュアート、ボブ|ジェリー、デイブ、ティム|カール、フィル、マーク|グルー、ネファリオ、ベクター
+zh|电影《小黄人大眼萌》的三位主角叫什么？|凯文、斯图尔特和鲍勃|杰瑞、戴夫和蒂姆|卡尔、菲尔和马克|格鲁、纳法利奥和维克托
+#Q 2888 4 3 3
+ru|Против чего категорически выступает модельер Эдна Мод из «Суперсемейки»?|Против масок|Против розового цвета|Против высоких каблуков|Против плащей у супергероев
+en|What is the designer Edna Mode from The Incredibles strongly against?|Masks|The color pink|High heels|Capes on superheroes
+es|¿A qué se opone rotundamente la diseñadora Edna Moda de Los Increíbles?|A las máscaras|Al color rosa|A los tacones altos|A las capas en los superhéroes
+ja|「Mr.インクレディブル」のデザイナー、エドナ・モードが絶対に反対しているものは？|マスク|ピンク色|ハイヒール|ヒーローのマント
+zh|《超人总动员》中的设计师衣夫人坚决反对什么？|面具|粉红色|高跟鞋|超级英雄穿披风
+#Q 2889 1 3 3
+ru|Какая новая эмоция захватила пульт управления в «Головоломке 2»?|Тревожность|Зависть|Скука|Смущение
+en|Which new emotion took over the control panel in Inside Out 2?|Anxiety|Envy|Ennui|Embarrassment
+es|¿Qué nueva emoción se adueñó del panel de control en Del revés 2?|Ansiedad|Envidia|Ennui|Vergüenza
+ja|「インサイド・ヘッド2」で司令部を乗っ取った新しい感情は？|シンパイ|イイナー|ダリィ|ハズカシ
+zh|《头脑特工队2》中，哪种新情绪占领了控制台？|焦焦|慕慕|丧丧|尴尴
+#Q 2890 4 3 3
+ru|Какой номер у Молнии Маккуина?|7|43|51|95
+en|What is Lightning McQueen's racing number?|7|43|51|95
+es|¿Qué número de carreras tiene Rayo McQueen?|7|43|51|95
+ja|ライトニング・マックィーンのゼッケン番号は？|7|43|51|95
+zh|闪电麦昆的赛车号码是多少？|7|43|51|95
+#Q 2891 4 3 3
+ru|В какой стране происходит действие мультфильма «Энканто»?|В Мексике|В Испании|В Бразилии|В Колумбии
+en|In which country is the film Encanto set?|Mexico|Spain|Brazil|Colombia
+es|¿En qué país transcurre la película Encanto?|México|España|Brasil|Colombia
+ja|映画「ミラベルと魔法だらけの家」の舞台となる国は？|メキシコ|スペイン|ブラジル|コロンビア
+zh|电影《魔法满屋》的故事发生在哪个国家？|墨西哥|西班牙|巴西|哥伦比亚
+#Q 2892 1 3 3
+ru|Как звали жену Карла из мультфильма «Вверх»?|Элли|Мэри|Салли|Джесси
+en|What was the name of Carl's wife in the film Up?|Ellie|Mary|Sally|Jessie
+es|¿Cómo se llamaba la esposa de Carl en la película Up?|Ellie|Mary|Sally|Jessie
+ja|「カールじいさんの空飛ぶ家」で、カールの奥さんの名前は？|エリー|メアリー|サリー|ジェシー
+zh|《飞屋环游记》中卡尔的妻子叫什么名字？|艾莉|玛丽|莎莉|翠丝
+#Q 2893 1 3 3
+ru|Что нашёл ВАЛЛ-И на Земле, из-за чего за ним прилетела ЕВА?|Живой росток растения|Золотой слиток|Старую фотографию|Кубик Рубика
+en|What did WALL-E find on Earth that brought EVE to him?|A living plant seedling|A gold bar|An old photo|A Rubik's Cube
+es|¿Qué encontró WALL·E en la Tierra que hizo venir a EVA?|Una planta viva|Un lingote de oro|Una foto antigua|Un cubo de Rubik
+ja|ウォーリーが地球で見つけ、イヴがやって来るきっかけになったものは？|生きている植物の芽|金の延べ棒|古い写真|ルービックキューブ
+zh|瓦力在地球上找到了什么，让伊娃来到了他身边？|一株活着的植物幼苗|一块金条|一张旧照片|一个魔方
+#Q 2894 3 3 3
+ru|Какой девиз был у шефа Гюсто из «Рататуя»?|«Еда - это искусство»|«Только свежие продукты»|«Готовить может каждый»|«Шеф всегда прав»
+en|What was chef Gusteau's motto in Ratatouille?|"Food is art"|"Only fresh ingredients"|"Anyone can cook"|"The chef is always right"
+es|¿Cuál era el lema del chef Gusteau en Ratatouille?|«La comida es arte»|«Solo ingredientes frescos»|«Cualquiera puede cocinar»|«El chef siempre tiene razón»
+ja|「レミーのおいしいレストラン」のシェフ・グストーのモットーは？|「料理は芸術だ」|「新鮮な食材だけ」|「誰にでも料理はできる」|「シェフは常に正しい」
+zh|《料理鼠王》中古斯特厨师的座右铭是什么？|“食物就是艺术”|“只用新鲜食材”|“人人都能做饭”|“厨师永远是对的”
+#Q 2895 4 3 3
+ru|Кому поклоняются трёхглазые инопланетяне из «Истории игрушек»?|Баззу Лайтеру|Луне|Королю Зургу|Клешне игрового автомата
+en|What do the three-eyed aliens in Toy Story worship?|Buzz Lightyear|The Moon|Emperor Zurg|The Claw of the arcade machine
+es|¿A quién adoran los extraterrestres de tres ojos de Toy Story?|A Buzz Lightyear|A la Luna|Al emperador Zurg|A la garra de la máquina
+ja|「トイ・ストーリー」の3つ目のエイリアンたちがあがめているものは？|バズ・ライトイヤー|月|ザーグ帝王|クレーンゲームのクレーン
+zh|《玩具总动员》中的三眼外星人崇拜什么？|巴斯光年|月亮|札克大帝|抓娃娃机的爪子
+#Q 2896 4 3 3
+ru|Под каким номером значился Стич, когда был экспериментом?|007|101|404|626
+en|What experiment number was Stitch?|007|101|404|626
+es|¿Qué número de experimento era Stitch?|007|101|404|626
+ja|スティッチの試作品番号は？|007号|101号|404号|626号
+zh|史迪奇的实验品编号是多少？|007号|101号|404号|626号
+#Q 2897 2 3 3
+ru|Какое длинное волшебное слово поёт Мэри Поппинс?|«Абракадабра»|«Суперкалифраджилистикэкспиалидошес»|«Бибиди-бобиди-бу»|«Хакуна матата»
+en|Which long magic word does Mary Poppins sing?|"Abracadabra"|"Supercalifragilisticexpialidocious"|"Bibbidi-Bobbidi-Boo"|"Hakuna Matata"
+es|¿Qué larga palabra mágica canta Mary Poppins?|«Abracadabra»|«Supercalifragilisticoespialidoso»|«Bibidi babidi bu»|«Hakuna matata»
+ja|メリー・ポピンズが歌う長い魔法の言葉は？|アブラカダブラ|スーパーカリフラジリスティックエクスピアリドーシャス|ビビディ・バビディ・ブー|ハクナ・マタタ
+zh|欢乐满人间里玛丽·波平斯唱的那个超长魔法词是什么？|阿布拉卡达布拉|Supercalifragilisticexpialidocious|比比迪巴比迪布|哈库那玛塔塔
+#Q 2898 2 3 3
+ru|В каком году вышел первый полнометражный мультфильм Disney «Белоснежка и семь гномов»?|1928|1937|1945|1950
+en|In which year was Disney's first feature-length cartoon, Snow White and the Seven Dwarfs, released?|1928|1937|1945|1950
+es|¿En qué año se estrenó el primer largometraje animado de Disney, Blancanieves y los siete enanitos?|1928|1937|1945|1950
+ja|ディズニー初の長編アニメ「白雪姫」が公開されたのは何年？|1928年|1937年|1945年|1950年
+zh|迪士尼第一部动画长片《白雪公主和七个小矮人》是哪一年上映的？|1928年|1937年|1945年|1950年
+#Q 2899 1 3 3
+ru|Как зовут дворцового коня, который охотится за Флинном в «Рапунцель»?|Максимус|Паскаль|Буцефал|Спирит
+en|What is the name of the palace horse that chases Flynn in Tangled?|Maximus|Pascal|Bucephalus|Spirit
+es|¿Cómo se llama el caballo del palacio que persigue a Flynn en Enredados?|Maximus|Pascal|Bucéfalo|Spirit
+ja|「塔の上のラプンツェル」でフリンを追いかける城の馬の名前は？|マキシマス|パスカル|ブケファロス|スピリット
+zh|《魔发奇缘》中追捕弗林的王宫骏马叫什么名字？|马克西姆斯|帕斯卡|布西发拉斯|小马王
+#Q 2900 3 3 3
+ru|Каким животным является Бастер Мун из мультфильма «Зверопой»?|Мышью|Свиньёй|Коалой|Гориллой
+en|What animal is Buster Moon in the film Sing?|A mouse|A pig|A koala|A gorilla
+es|¿Qué animal es Buster Moon en la película ¡Canta!?|Un ratón|Un cerdo|Un koala|Un gorila
+ja|映画「SING/シング」のバスター・ムーンは何の動物？|ネズミ|ブタ|コアラ|ゴリラ
+zh|电影《欢乐好声音》中的巴斯特·穆恩是什么动物？|老鼠|猪|考拉|大猩猩
+#Q 2901 1 1 3
+ru|Что больше всего хотел сделать инопланетянин в фильме «Инопланетянин» (E.T.)?|Позвонить домой|Покататься на машине|Съесть пиццу|Стать знаменитым
+en|What did the alien in E.T. want to do most of all?|Phone home|Ride in a car|Eat pizza|Become famous
+es|¿Qué quería hacer más que nada el extraterrestre de E.T.?|Llamar a casa|Ir en coche|Comer pizza|Hacerse famoso
+ja|映画「E.T.」で、E.T.が何よりもしたがっていたことは？|おうちに電話すること|車に乗ること|ピザを食べること|有名になること
+zh|电影《E.T.外星人》中，外星人最想做的事是什么？|给家里打电话|坐汽车|吃披萨|出名
+#Q 2902 3 1 3
+ru|Какое оружие всегда при себе у Индианы Джонса?|Лук|Меч|Кнут|Бумеранг
+en|Which weapon does Indiana Jones always carry?|A bow|A sword|A whip|A boomerang
+es|¿Qué arma lleva siempre Indiana Jones?|Un arco|Una espada|Un látigo|Un bumerán
+ja|インディ・ジョーンズがいつも持ち歩いている武器は？|弓|剣|ムチ|ブーメラン
+zh|印第安纳·琼斯总是随身带着什么武器？|弓|剑|鞭子|回旋镖
+#Q 2903 1 1 3
+ru|Каким спортом занимается Рокки Бальбоа?|Боксом|Борьбой|Бейсболом|Регби
+en|Which sport does Rocky Balboa do?|Boxing|Wrestling|Baseball|Rugby
+es|¿Qué deporte practica Rocky Balboa?|Boxeo|Lucha libre|Béisbol|Rugby
+ja|ロッキー・バルボアが打ち込んでいるスポーツは？|ボクシング|レスリング|野球|ラグビー
+zh|洛奇·巴尔博亚从事哪项运动？|拳击|摔跤|棒球|橄榄球
+#Q 2904 1 1 3
+ru|Какой позывной у пилота, героя Тома Круза в «Лучшем стрелке»?|Мэверик|Айсмен|Гусь|Петух
+en|What is the call sign of Tom Cruise's pilot in Top Gun?|Maverick|Iceman|Goose|Rooster
+es|¿Cuál es el indicativo del piloto de Tom Cruise en Top Gun?|Maverick|Iceman|Goose|Rooster
+ja|「トップガン」でトム・クルーズが演じたパイロットのコールサインは？|マーヴェリック|アイスマン|グース|ルースター
+zh|《壮志凌云》中汤姆·克鲁斯饰演的飞行员呼号是什么？|独行侠|冰人|呆头鹅|公鸡
+#Q 2905 4 1 3
+ru|Какой актёр играет Итана Ханта в фильмах «Миссия невыполнима»?|Мэтт Дэймон|Брэд Питт|Киану Ривз|Том Круз
+en|Which actor plays Ethan Hunt in the Mission: Impossible films?|Matt Damon|Brad Pitt|Keanu Reeves|Tom Cruise
+es|¿Qué actor interpreta a Ethan Hunt en las películas de Misión imposible?|Matt Damon|Brad Pitt|Keanu Reeves|Tom Cruise
+ja|「ミッション：インポッシブル」シリーズでイーサン・ハントを演じているのは？|マット・デイモン|ブラッド・ピット|キアヌ・リーブス|トム・クルーズ
+zh|在《碟中谍》系列中饰演伊森·亨特的是谁？|马特·达蒙|布拉德·皮特|基努·里维斯|汤姆·克鲁斯
+#Q 2906 2 1 3
+ru|Из-за чего Джон Уик начал мстить в первом фильме?|Украли его деньги|Бандиты убили его собаку|Сожгли его дом|Похитили его брата
+en|Why did John Wick start seeking revenge in the first film?|They stole his money|Gangsters killed his dog|They burned his house|They kidnapped his brother
+es|¿Por qué empezó a vengarse John Wick en la primera película?|Le robaron el dinero|Unos mafiosos mataron a su perro|Le quemaron la casa|Secuestraron a su hermano
+ja|1作目の「ジョン・ウィック」で、ジョンが復讐を始めた理由は？|お金を盗まれたから|ギャングに犬を殺されたから|家を燃やされたから|兄を誘拐されたから
+zh|在第一部《疾速追杀》中，约翰·威克为什么开始复仇？|钱被偷了|歹徒杀了他的狗|房子被烧了|哥哥被绑架了
+#Q 2907 1 1 3
+ru|Что кричит Дженни Форресту Гампу, когда за ним гонятся мальчишки?|«Беги, Форрест, беги!»|«Прыгай, Форрест!»|«Стой, Форрест!»|«Лети, Форрест!»
+en|What does Jenny shout to Forrest Gump when the boys chase him?|"Run, Forrest, run!"|"Jump, Forrest!"|"Stop, Forrest!"|"Fly, Forrest!"
+es|¿Qué le grita Jenny a Forrest Gump cuando lo persiguen unos chicos?|«¡Corre, Forrest, corre!»|«¡Salta, Forrest!»|«¡Para, Forrest!»|«¡Vuela, Forrest!»
+ja|少年たちに追われるフォレスト・ガンプに、ジェニーが叫んだ言葉は？|「走って、フォレスト！」|「跳んで、フォレスト！」|「止まって、フォレスト！」|「飛んで、フォレスト！」
+zh|阿甘被男孩们追赶时，珍妮冲他喊什么？|“跑，阿甘，快跑！”|“跳，阿甘！”|“站住，阿甘！”|“飞，阿甘！”
+#Q 2908 1 1 3
+ru|Во что играют герои первого фильма «Джуманджи»?|В волшебную настольную игру|В компьютерную игру|В карты|В шахматы
+en|What do the heroes of the first Jumanji film play?|A magical board game|A video game|Cards|Chess
+es|¿A qué juegan los protagonistas de la primera película de Jumanji?|A un juego de mesa mágico|A un videojuego|A las cartas|Al ajedrez
+ja|1作目の映画「ジュマンジ」で主人公たちが遊ぶのは？|魔法のボードゲーム|テレビゲーム|トランプ|チェス
+zh|第一部《勇敢者的游戏》中主角们玩的是什么？|一款魔法棋盘游戏|电子游戏|纸牌|国际象棋
+#Q 2909 2 1 3
+ru|Как зовут куклу-убийцу из фильмов ужасов «Детские игры»?|Аннабель|Чаки|Билли|Слэппи
+en|What is the name of the killer doll from the Child's Play horror films?|Annabelle|Chucky|Billy|Slappy
+es|¿Cómo se llama el muñeco asesino de las películas de terror Muñeco diabólico?|Annabelle|Chucky|Billy|Slappy
+ja|ホラー映画「チャイルド・プレイ」シリーズの殺人人形の名前は？|アナベル|チャッキー|ビリー|スラッピー
+zh|恐怖片《鬼娃回魂》系列中的杀人娃娃叫什么？|安娜贝尔|恰吉|比利|斯莱皮
+#Q 2910 4 1 3
+ru|Что нужно было найти в обёртке шоколадки, чтобы попасть на фабрику Вилли Вонки?|Серебряную монету|Ключ|Карту|Золотой билет
+en|What did you have to find in a chocolate wrapper to visit Willy Wonka's factory?|A silver coin|A key|A map|A golden ticket
+es|¿Qué había que encontrar en el envoltorio de una chocolatina para visitar la fábrica de Willy Wonka?|Una moneda de plata|Una llave|Un mapa|Un billete dorado
+ja|ウィリー・ウォンカの工場を見学するために、チョコレートの包み紙から見つける必要があったものは？|銀貨|鍵|地図|ゴールデンチケット
+zh|要参观威利·旺卡的工厂，需要在巧克力包装里找到什么？|银币|钥匙|地图|金奖券
+#Q 2911 1 1 3
+ru|Какое лакомство обожает медвежонок Паддингтон?|Апельсиновый джем|Мёд|Шоколад|Мороженое
+en|Which treat does Paddington Bear adore?|Marmalade|Honey|Chocolate|Ice cream
+es|¿Qué golosina adora el oso Paddington?|La mermelada de naranja|La miel|El chocolate|El helado
+ja|くまのパディントンの大好物は？|マーマレード|はちみつ|チョコレート|アイスクリーム
+zh|帕丁顿熊最爱吃什么？|橘子酱|蜂蜜|巧克力|冰淇淋
+#Q 2912 2 1 3
+ru|Кто лучший друг мистера Бина?|Кот|Плюшевый мишка|Попугай|Сосед
+en|Who is Mr. Bean's best friend?|A cat|His teddy bear|A parrot|His neighbor
+es|¿Quién es el mejor amigo de Mr. Bean?|Un gato|Su osito de peluche|Un loro|Su vecino
+ja|Mr.ビーンの親友は？|猫|クマのぬいぐるみ（テディ）|オウム|隣人
+zh|憨豆先生最好的朋友是谁？|一只猫|他的泰迪熊|一只鹦鹉|邻居
+#Q 2913 4 1 3
+ru|Какой актёр сыграл Кена в фильме «Барби» 2023 года?|Крис Пайн|Зак Эфрон|Тимоти Шаламе|Райан Гослинг
+en|Which actor played Ken in the 2023 film Barbie?|Chris Pine|Zac Efron|Timothée Chalamet|Ryan Gosling
+es|¿Qué actor interpretó a Ken en la película Barbie de 2023?|Chris Pine|Zac Efron|Timothée Chalamet|Ryan Gosling
+ja|2023年の映画「バービー」でケンを演じたのは？|クリス・パイン|ザック・エフロン|ティモシー・シャラメ|ライアン・ゴズリング
+zh|2023年电影《芭比》中饰演肯的演员是谁？|克里斯·派恩|扎克·埃夫隆|提莫西·查拉梅|瑞恩·高斯林
+#Q 2914 4 1 3
+ru|Какая актриса сыграла Барби в фильме 2023 года?|Эмма Стоун|Зендея|Энн Хэтэуэй|Марго Робби
+en|Which actress played Barbie in the 2023 film?|Emma Stone|Zendaya|Anne Hathaway|Margot Robbie
+es|¿Qué actriz interpretó a Barbie en la película de 2023?|Emma Stone|Zendaya|Anne Hathaway|Margot Robbie
+ja|2023年の映画「バービー」でバービーを演じた女優は？|エマ・ストーン|ゼンデイヤ|アン・ハサウェイ|マーゴット・ロビー
+zh|2023年电影中饰演芭比的女演员是谁？|艾玛·斯通|赞达亚|安妮·海瑟薇|玛格特·罗比
+#Q 2915 1 1 3
+ru|О создании какого оружия рассказывает фильм «Оппенгеймер»?|Атомной бомбы|Танка|Лазерной пушки|Подводной лодки
+en|The film Oppenheimer tells the story of creating which weapon?|The atomic bomb|The tank|A laser cannon|The submarine
+es|¿La creación de qué arma cuenta la película Oppenheimer?|La bomba atómica|El tanque|Un cañón láser|El submarino
+ja|映画「オッペンハイマー」は、どんな兵器を作った物語？|原子爆弾|戦車|レーザー砲|潜水艦
+zh|电影《奥本海默》讲的是哪种武器的研制故事？|原子弹|坦克|激光炮|潜艇
+#Q 2916 3 1 3
+ru|Какие огромные существа живут в песках планеты Арракис из «Дюны»?|Драконы|Гигантские скорпионы|Песчаные черви|Каменные великаны
+en|Which huge creatures live in the sands of the planet Arrakis in Dune?|Dragons|Giant scorpions|Sandworms|Stone giants
+es|¿Qué criaturas enormes viven en las arenas del planeta Arrakis en Dune?|Dragones|Escorpiones gigantes|Gusanos de arena|Gigantes de piedra
+ja|「DUNE/デューン」の惑星アラキスの砂の中にいる巨大な生き物は？|ドラゴン|巨大サソリ|サンドワーム（砂虫）|石の巨人
+zh|《沙丘》中厄拉科斯星的沙子里生活着什么巨大生物？|巨龙|巨型蝎子|沙虫|石巨人
+#Q 2917 1 1 3
+ru|Какого цвета кожа у Эльфабы из мюзикла «Злая» (Wicked)?|Зелёного|Синего|Фиолетового|Серого
+en|What color is Elphaba's skin in Wicked?|Green|Blue|Purple|Gray
+es|¿De qué color es la piel de Elphaba en Wicked?|Verde|Azul|Morada|Gris
+ja|「ウィキッド」のエルファバの肌の色は？|緑|青|紫|灰色
+zh|《魔法坏女巫》中艾芙芭的皮肤是什么颜色？|绿色|蓝色|紫色|灰色
+#Q 2918 4 1 3
+ru|Песни какой группы звучат в фильме «Мамма Мия!»?|The Beatles|Queen|Bee Gees|ABBA
+en|Whose songs are featured in the film Mamma Mia!?|The Beatles|Queen|Bee Gees|ABBA
+es|¿Las canciones de qué grupo suenan en la película Mamma Mia!?|The Beatles|Queen|Bee Gees|ABBA
+ja|映画「マンマ・ミーア！」で使われているのは、どのグループの曲？|ビートルズ|クイーン|ビー・ジーズ|ABBA
+zh|电影《妈妈咪呀！》中的歌曲来自哪个乐队？|披头士|皇后乐队|比吉斯|ABBA
+#Q 2919 2 1 3
+ru|Какой актёр сыграл главные роли в фильмах «Маска» и «Гринч - похититель Рождества»?|Робин Уильямс|Джим Керри|Адам Сэндлер|Бен Стиллер
+en|Which actor starred in both The Mask and How the Grinch Stole Christmas?|Robin Williams|Jim Carrey|Adam Sandler|Ben Stiller
+es|¿Qué actor protagonizó La máscara y El Grinch?|Robin Williams|Jim Carrey|Adam Sandler|Ben Stiller
+ja|映画「マスク」と「グリンチ」の両方で主演した俳優は？|ロビン・ウィリアムズ|ジム・キャリー|アダム・サンドラー|ベン・スティラー
+zh|谁主演了《变相怪杰》和《圣诞怪杰》？|罗宾·威廉姆斯|金·凯瑞|亚当·桑德勒|本·斯蒂勒
+#Q 2920 4 1 3
+ru|Какой актёр из Гонконга знаменит тем, что сам исполняет опасные трюки?|Джет Ли|Чоу Юньфат|Донни Йен|Джеки Чан
+en|Which Hong Kong actor is famous for doing his own dangerous stunts?|Jet Li|Chow Yun-fat|Donnie Yen|Jackie Chan
+es|¿Qué actor de Hong Kong es famoso por hacer él mismo sus peligrosas escenas de acción?|Jet Li|Chow Yun-fat|Donnie Yen|Jackie Chan
+ja|危険なスタントを自分でこなすことで有名な香港の俳優は？|ジェット・リー|チョウ・ユンファ|ドニー・イェン|ジャッキー・チェン
+zh|哪位香港演员以亲自完成危险特技而闻名？|李连杰|周润发|甄子丹|成龙
+#Q 2921 2 2 3
+ru|На чём Эллиот и инопланетянин пролетают на фоне Луны?|На метле|На велосипеде|На ковре|На скейтборде
+en|What do Elliott and E.T. fly across the Moon on?|A broomstick|A bicycle|A carpet|A skateboard
+es|¿En qué cruzan Elliott y E.T. por delante de la Luna?|En una escoba|En una bicicleta|En una alfombra|En un monopatín
+ja|月を背景にエリオットとE.T.が空を飛ぶとき、乗っているのは？|ほうき|自転車|じゅうたん|スケートボード
+zh|艾略特和E.T.飞过月亮时骑的是什么？|扫帚|自行车|魔毯|滑板
+#Q 2922 2 2 3
+ru|Каких животных больше всего боится Индиана Джонс?|Пауков|Змей|Крыс|Летучих мышей
+en|Which animals is Indiana Jones most afraid of?|Spiders|Snakes|Rats|Bats
+es|¿A qué animales les tiene más miedo Indiana Jones?|A las arañas|A las serpientes|A las ratas|A los murciélagos
+ja|インディ・ジョーンズが何より苦手な動物は？|クモ|ヘビ|ネズミ|コウモリ
+zh|印第安纳·琼斯最害怕什么动物？|蜘蛛|蛇|老鼠|蝙蝠
+#Q 2923 4 2 3
+ru|Какое предложение делает Дон Корлеоне в «Крёстном отце»?|Которое бывает раз в жизни|Которое нельзя принять|Которое знают все|От которого невозможно отказаться
+en|What kind of offer does Don Corleone make in The Godfather?|One that comes once in a lifetime|One you can't accept|One that everyone knows|One you can't refuse
+es|¿Qué tipo de oferta hace don Corleone en El padrino?|Una que llega una vez en la vida|Una que no se puede aceptar|Una que conoce todo el mundo|Una que no podrás rechazar
+ja|「ゴッドファーザー」でドン・コルレオーネが持ちかけるのは、どんな申し出？|一生に一度の申し出|受け入れられない申し出|誰もが知る申し出|断れない申し出
+zh|《教父》中的柯里昂老爷提出的是什么样的条件？|一生一次的机会|无法接受的条件|人人都知道的条件|让人无法拒绝的条件
+#Q 2924 1 2 3
+ru|Кем по происхождению является Спок из «Звёздного пути»?|Наполовину вулканцем|Клингоном|Андроидом|Ромуланцем
+en|What is Spock from Star Trek by origin?|Half Vulcan|A Klingon|An android|A Romulan
+es|¿De qué origen es Spock, de Star Trek?|Medio vulcano|Klingon|Androide|Romulano
+ja|「スター・トレック」のスポックの出自は？|半分バルカン人|クリンゴン人|アンドロイド|ロミュラン人
+zh|《星际迷航》中的斯波克是什么出身？|一半瓦肯人血统|克林贡人|仿生人|罗慕伦人
+#Q 2925 3 2 3
+ru|Какой актёр сыграл Максимуса в «Гладиаторе» 2000 года?|Брэд Питт|Мел Гибсон|Рассел Кроу|Хоакин Феникс
+en|Which actor played Maximus in the 2000 film Gladiator?|Brad Pitt|Mel Gibson|Russell Crowe|Joaquin Phoenix
+es|¿Qué actor interpretó a Máximo en Gladiator, del año 2000?|Brad Pitt|Mel Gibson|Russell Crowe|Joaquin Phoenix
+ja|2000年の映画「グラディエーター」でマキシマスを演じたのは？|ブラッド・ピット|メル・ギブソン|ラッセル・クロウ|ホアキン・フェニックス
+zh|在2000年电影《角斗士》中饰演马克西姆斯的是谁？|布拉德·皮特|梅尔·吉布森|罗素·克劳|杰昆·菲尼克斯
+#Q 2926 2 2 3
+ru|Какого цвета туфельки Дороти в фильме «Волшебник страны Оз» 1939 года?|Серебряные|Рубиново-красные|Золотые|Изумрудные
+en|What color are Dorothy's slippers in the 1939 film The Wizard of Oz?|Silver|Ruby red|Gold|Emerald green
+es|¿De qué color son los zapatos de Dorothy en la película El mago de Oz de 1939?|Plateados|Rojo rubí|Dorados|Verde esmeralda
+ja|1939年の映画「オズの魔法使」で、ドロシーがはいている靴の色は？|銀色|ルビーのような赤|金色|エメラルドグリーン
+zh|1939年电影《绿野仙踪》中，多萝西穿的鞋子是什么颜色？|银色|红宝石色|金色|翡翠绿
+#Q 2927 4 2 3
+ru|Что выдаёт приближение тираннозавра в «Парке юрского периода»?|Гаснущий свет|Тишина в лесу|Запах серы|Дрожащая вода в стакане
+en|What gives away the approach of the T. rex in Jurassic Park?|Lights going out|Silence in the forest|A smell of sulfur|Ripples in a cup of water
+es|¿Qué delata la llegada del tiranosaurio en Parque Jurásico?|Las luces que se apagan|El silencio del bosque|Un olor a azufre|Las ondas en un vaso de agua
+ja|「ジュラシック・パーク」で、ティラノサウルスが近づいてくるのがわかる合図は？|明かりが消えること|森が静まること|硫黄のにおい|コップの水に広がる波紋
+zh|《侏罗纪公园》中，是什么暗示霸王龙正在靠近？|灯光熄灭|森林变得安静|硫磺的气味|杯子里水面的波纹
+#Q 2928 3 2 3
+ru|Какой актёр переоделся в пожилую няню в комедии «Миссис Даутфайр»?|Джим Керри|Эдди Мёрфи|Робин Уильямс|Стив Мартин
+en|Which actor dressed up as an elderly nanny in the comedy Mrs. Doubtfire?|Jim Carrey|Eddie Murphy|Robin Williams|Steve Martin
+es|¿Qué actor se disfrazó de niñera anciana en la comedia Señora Doubtfire?|Jim Carrey|Eddie Murphy|Robin Williams|Steve Martin
+ja|コメディ映画「ミセス・ダウト」で、年配の家政婦に変装した俳優は？|ジム・キャリー|エディ・マーフィ|ロビン・ウィリアムズ|スティーヴ・マーティン
+zh|喜剧电影《窈窕奶爸》中男扮女装当保姆的演员是谁？|金·凯瑞|艾迪·墨菲|罗宾·威廉姆斯|史蒂夫·马丁
+#Q 2929 2 2 3
+ru|Где происходит действие первого «Крепкого орешка»?|На подводной лодке|В захваченном небоскрёбе в канун Рождества|В тюрьме на острове|В поезде через пустыню
+en|Where does the first Die Hard take place?|On a submarine|In a seized skyscraper on Christmas Eve|In an island prison|On a train across the desert
+es|¿Dónde transcurre la primera película de La jungla de cristal?|En un submarino|En un rascacielos tomado en Nochebuena|En una cárcel en una isla|En un tren por el desierto
+ja|1作目の「ダイ・ハード」の舞台は？|潜水艦|クリスマス・イブに占拠された超高層ビル|島の刑務所|砂漠を走る列車
+zh|第一部《虎胆龙威》的故事发生在哪里？|潜艇上|圣诞夜被劫持的摩天大楼|小岛上的监狱|穿越沙漠的火车
+#Q 2930 3 2 3
+ru|Кто снял «Криминальное чтиво» и «Убить Билла»?|Мартин Скорсезе|Гай Ричи|Квентин Тарантино|Дэвид Финчер
+en|Who directed Pulp Fiction and Kill Bill?|Martin Scorsese|Guy Ritchie|Quentin Tarantino|David Fincher
+es|¿Quién dirigió Pulp Fiction y Kill Bill?|Martin Scorsese|Guy Ritchie|Quentin Tarantino|David Fincher
+ja|「パルプ・フィクション」と「キル・ビル」の監督は？|マーティン・スコセッシ|ガイ・リッチー|クエンティン・タランティーノ|デヴィッド・フィンチャー
+zh|《低俗小说》和《杀死比尔》的导演是谁？|马丁·斯科塞斯|盖·里奇|昆汀·塔伦蒂诺|大卫·芬奇
+#Q 2931 4 2 3
+ru|Какое первое правило бойцовского клуба?|Драться без оружия|Драться только один на один|Не драться по выходным|Никому не рассказывать о бойцовском клубе
+en|What is the first rule of Fight Club?|No weapons|Only one on one|No fighting on weekends|You do not talk about Fight Club
+es|¿Cuál es la primera regla del club de la lucha?|Nada de armas|Solo uno contra uno|No pelear los fines de semana|No hablar del club de la lucha
+ja|「ファイト・クラブ」の第一のルールは？|武器は使うな|一対一で戦え|週末は戦うな|ファイト・クラブについて口外するな
+zh|搏击俱乐部的第一条规则是什么？|不准用武器|只能一对一|周末不准打|不准谈论搏击俱乐部
+#Q 2932 3 2 3
+ru|Как зовут волейбольный мяч, единственного друга героя Тома Хэнкса в «Изгое»?|Сполдинг|Найк|Уилсон|Джексон
+en|What is the name of the volleyball that becomes the only friend of Tom Hanks's character in Cast Away?|Spalding|Nike|Wilson|Jackson
+es|¿Cómo se llama el balón de voleibol que es el único amigo del personaje de Tom Hanks en Náufrago?|Spalding|Nike|Wilson|Jackson
+ja|「キャスト・アウェイ」で、トム・ハンクス演じる主人公の唯一の友達になるバレーボールの名前は？|スポルディング|ナイキ|ウィルソン|ジャクソン
+zh|在《荒岛余生》中，汤姆·汉克斯饰演的主角唯一的朋友，那个排球叫什么？|斯伯丁|耐克|威尔逊|杰克逊
+#Q 2933 3 2 3
+ru|За какой фильм Леонардо Ди Каприо наконец получил «Оскар»?|«Титаник»|«Волк с Уолл-стрит»|«Выживший»|«Начало»
+en|For which film did Leonardo DiCaprio finally win an Oscar?|Titanic|The Wolf of Wall Street|The Revenant|Inception
+es|¿Por qué película ganó por fin Leonardo DiCaprio un Óscar?|Titanic|El lobo de Wall Street|El renacido|Origen
+ja|レオナルド・ディカプリオがついにアカデミー賞を受賞した作品は？|タイタニック|ウルフ・オブ・ウォールストリート|レヴェナント: 蘇えりし者|インセプション
+zh|莱昂纳多·迪卡普里奥凭哪部电影终于拿到了奥斯卡奖？|泰坦尼克号|华尔街之狼|荒野猎人|盗梦空间
+#Q 2934 1 2 3
+ru|Что узнаёт о своей жизни Трумэн Бёрбанк из «Шоу Трумэна»?|Что его жизнь - телешоу|Что он робот|Что он живёт в будущем|Что он принц
+en|What does Truman Burbank learn about his life in The Truman Show?|His life is a TV show|He is a robot|He lives in the future|He is a prince
+es|¿Qué descubre Truman Burbank sobre su vida en El show de Truman?|Que su vida es un programa de televisión|Que es un robot|Que vive en el futuro|Que es un príncipe
+ja|「トゥルーマン・ショー」で、トゥルーマンが自分の人生について知った真実は？|人生がテレビ番組だった|自分はロボットだった|未来に住んでいた|王子だった
+zh|《楚门的世界》中，楚门发现自己的生活是什么？|一档电视节目|自己是机器人|生活在未来|自己是王子
+#Q 2935 4 2 3
+ru|Как зовут учёного-изобретателя машины времени из «Назад в будущее»?|Марти Макфлай|Бифф Таннен|Джордж Макфлай|Док Браун
+en|What is the name of the scientist who invented the time machine in Back to the Future?|Marty McFly|Biff Tannen|George McFly|Doc Brown
+es|¿Cómo se llama el científico que inventó la máquina del tiempo en Regreso al futuro?|Marty McFly|Biff Tannen|George McFly|Doc Brown
+ja|「バック・トゥ・ザ・フューチャー」でタイムマシンを発明した科学者は？|マーティ・マクフライ|ビフ・タネン|ジョージ・マクフライ|ドク（エメット・ブラウン）
+zh|《回到未来》中发明时间机器的科学家叫什么？|马蒂·麦克弗莱|比夫·坦纳|乔治·麦克弗莱|布朗博士
+#Q 2936 2 2 3
+ru|Что делает вспышка нейрализатора у «Людей в чёрном»?|Делает невидимым|Стирает память|Переносит в космос|Переводит с языка пришельцев
+en|What does the flash of the neuralyzer do in Men in Black?|Makes you invisible|Erases memories|Sends you into space|Translates alien languages
+es|¿Qué hace el destello del neuralizador en Men in Black?|Te hace invisible|Borra la memoria|Te envía al espacio|Traduce idiomas alienígenas
+ja|「メン・イン・ブラック」のニューラライザーの光を浴びるとどうなる？|透明になる|記憶が消される|宇宙へ飛ばされる|宇宙人の言葉がわかる
+zh|《黑衣人》中那支闪光笔一闪，会发生什么？|让人隐身|消除记忆|把人送上太空|翻译外星语言
+#Q 2937 1 2 3
+ru|Во что превращается Оптимус Прайм из «Трансформеров»?|В грузовик-тягач|В спорткар|В самолёт|В вертолёт
+en|What does Optimus Prime from Transformers turn into?|A semi-truck|A sports car|A plane|A helicopter
+es|¿En qué se transforma Optimus Prime, de Transformers?|En un camión tráiler|En un deportivo|En un avión|En un helicóptero
+ja|「トランスフォーマー」のオプティマス・プライムが変形するのは？|大型トレーラー|スポーツカー|飛行機|ヘリコプター
+zh|《变形金刚》中的擎天柱会变成什么？|重型卡车|跑车|飞机|直升机
+#Q 2938 4 3 3
+ru|Какой гигант нападает на Нью-Йорк в финале «Охотников за привидениями» 1984 года?|Кинг-Конг|Годзилла|Каменный голем|Зефирный человек
+en|Which giant attacks New York at the end of the 1984 Ghostbusters?|King Kong|Godzilla|A stone golem|The Stay Puft Marshmallow Man
+es|¿Qué gigante ataca Nueva York al final de Cazafantasmas (1984)?|King Kong|Godzilla|Un gólem de piedra|El hombre de malvavisco
+ja|1984年の「ゴーストバスターズ」のクライマックスで、ニューヨークを襲う巨人は？|キングコング|ゴジラ|石のゴーレム|マシュマロマン
+zh|1984年《捉鬼敢死队》结尾，袭击纽约的巨人是什么？|金刚|哥斯拉|石头魔像|棉花糖人
+#Q 2939 4 3 3
+ru|В каком городе Рокки взбегает по знаменитой лестнице музея?|В Нью-Йорке|В Чикаго|В Бостоне|В Филадельфии
+en|In which city does Rocky run up the famous museum steps?|New York|Chicago|Boston|Philadelphia
+es|¿En qué ciudad sube Rocky corriendo la famosa escalinata del museo?|Nueva York|Chicago|Boston|Filadelfia
+ja|ロッキーが美術館の有名な階段を駆け上がる街は？|ニューヨーク|シカゴ|ボストン|フィラデルフィア
+zh|洛奇在哪座城市跑上了那段著名的博物馆台阶？|纽约|芝加哥|波士顿|费城
+#Q 2940 2 3 3
+ru|Какое приветствие вулканцев показывает Спок рукой?|«Да пребудет с тобой Сила»|«Живи долго и процветай»|«Мир тебе»|«До бесконечности»
+en|Which Vulcan greeting does Spock give with his hand?|"May the Force be with you"|"Live long and prosper"|"Peace be with you"|"To infinity"
+es|¿Qué saludo vulcano hace Spock con la mano?|«Que la Fuerza te acompañe»|«Larga vida y prosperidad»|«La paz sea contigo»|«Hasta el infinito»
+ja|スポックが手で示すバルカン人のあいさつの言葉は？|「フォースと共にあらんことを」|「長寿と繁栄を」|「平和があなたと共に」|「無限の彼方へ」
+zh|斯波克用手势表示的瓦肯人问候语是什么？|“愿原力与你同在”|“生生不息，繁荣昌盛”|“愿你平安”|“飞向无限”
+#Q 2941 1 3 3
+ru|Кто снял «Чужого» и «Гладиатора»?|Ридли Скотт|Джеймс Кэмерон|Стивен Спилберг|Питер Джексон
+en|Who directed Alien and Gladiator?|Ridley Scott|James Cameron|Steven Spielberg|Peter Jackson
+es|¿Quién dirigió Alien, el octavo pasajero y Gladiator?|Ridley Scott|James Cameron|Steven Spielberg|Peter Jackson
+ja|「エイリアン」と「グラディエーター」の監督は？|リドリー・スコット|ジェームズ・キャメロン|スティーヴン・スピルバーグ|ピーター・ジャクソン
+zh|《异形》和《角斗士》的导演是谁？|雷德利·斯科特|詹姆斯·卡梅隆|史蒂文·斯皮尔伯格|彼得·杰克逊
+#Q 2942 1 3 3
+ru|Кто снял фильм ужасов «Психо» 1960 года?|Альфред Хичкок|Стэнли Кубрик|Орсон Уэллс|Билли Уайлдер
+en|Who directed the 1960 horror film Psycho?|Alfred Hitchcock|Stanley Kubrick|Orson Welles|Billy Wilder
+es|¿Quién dirigió la película de terror Psicosis, de 1960?|Alfred Hitchcock|Stanley Kubrick|Orson Welles|Billy Wilder
+ja|1960年のホラー映画「サイコ」の監督は？|アルフレッド・ヒッチコック|スタンリー・キューブリック|オーソン・ウェルズ|ビリー・ワイルダー
+zh|1960年的恐怖片《惊魂记》是谁导演的？|阿尔弗雷德·希区柯克|斯坦利·库布里克|奥逊·威尔斯|比利·怀尔德
+#Q 2943 1 3 3
+ru|Кто снял «Сияние» по роману Стивена Кинга?|Стэнли Кубрик|Альфред Хичкок|Стивен Спилберг|Джон Карпентер
+en|Who directed The Shining, based on Stephen King's novel?|Stanley Kubrick|Alfred Hitchcock|Steven Spielberg|John Carpenter
+es|¿Quién dirigió El resplandor, basada en la novela de Stephen King?|Stanley Kubrick|Alfred Hitchcock|Steven Spielberg|John Carpenter
+ja|スティーヴン・キングの小説をもとにした映画「シャイニング」の監督は？|スタンリー・キューブリック|アルフレッド・ヒッチコック|スティーヴン・スピルバーグ|ジョン・カーペンター
+zh|根据斯蒂芬·金小说改编的电影《闪灵》是谁导演的？|斯坦利·库布里克|阿尔弗雷德·希区柯克|史蒂文·斯皮尔伯格|约翰·卡朋特
+#Q 2944 2 3 3
+ru|Как зовут бортовой компьютер корабля в «Космической одиссее 2001 года»?|GLaDOS|HAL 9000|Скайнет|Альтрон
+en|What is the name of the ship's computer in 2001: A Space Odyssey?|GLaDOS|HAL 9000|Skynet|Ultron
+es|¿Cómo se llama el ordenador de la nave en 2001: una odisea del espacio?|GLaDOS|HAL 9000|Skynet|Ultrón
+ja|「2001年宇宙の旅」の宇宙船のコンピューターの名前は？|GLaDOS|HAL 9000|スカイネット|ウルトロン
+zh|《2001太空漫游》中飞船电脑的名字是什么？|GLaDOS|HAL 9000|天网|奥创
+#Q 2945 1 3 3
+ru|Какого цвета костюм Невесты в фильме «Убить Билла»?|Жёлтого с чёрными полосами|Красного|Белого|Чёрного
+en|What color is the Bride's outfit in Kill Bill?|Yellow with black stripes|Red|White|Black
+es|¿De qué color es el traje de la Novia en Kill Bill?|Amarillo con rayas negras|Rojo|Blanco|Negro
+ja|映画「キル・ビル」で、ザ・ブライドが着ているスーツの色は？|黒いラインの入った黄色|赤|白|黒
+zh|在电影《杀死比尔》中，新娘穿的是什么颜色的衣服？|带黑色条纹的黄色|红色|白色|黑色
+#Q 2946 1 3 3
+ru|Чем Энди Дюфрейн годами рыл ход в стене в «Побеге из Шоушенка»?|Маленьким геологическим молотком|Ложкой|Отвёрткой|Пилкой для ногтей
+en|What did Andy Dufresne use for years to dig through the wall in The Shawshank Redemption?|A small rock hammer|A spoon|A screwdriver|A nail file
+es|¿Con qué excavó Andy Dufresne durante años el muro en Cadena perpetua?|Con un pequeño martillo de geólogo|Con una cuchara|Con un destornillador|Con una lima de uñas
+ja|「ショーシャンクの空に」で、アンディが何年もかけて壁を掘った道具は？|小さなロックハンマー|スプーン|ドライバー|爪やすり
+zh|《肖申克的救赎》中，安迪多年来用什么在墙上挖洞？|一把小石锤|勺子|螺丝刀|指甲锉
+#Q 2947 3 3 3
+ru|Кто снял «Эдварда Руки-ножницы» и «Битлджуса»?|Гильермо дель Торо|Уэс Андерсон|Тим Бёртон|Сэм Рэйми
+en|Who directed Edward Scissorhands and Beetlejuice?|Guillermo del Toro|Wes Anderson|Tim Burton|Sam Raimi
+es|¿Quién dirigió Eduardo Manostijeras y Bitelchús?|Guillermo del Toro|Wes Anderson|Tim Burton|Sam Raimi
+ja|「シザーハンズ」と「ビートルジュース」の監督は？|ギレルモ・デル・トロ|ウェス・アンダーソン|ティム・バートン|サム・ライミ
+zh|《剪刀手爱德华》和《阴间大法师》的导演是谁？|吉尔莫·德尔·托罗|韦斯·安德森|蒂姆·波顿|山姆·雷米
+#Q 2948 3 3 3
+ru|Как называется чёрная дыра в фильме «Интерстеллар»?|Бездна|Харибда|Гаргантюа|Левиафан
+en|What is the black hole in Interstellar called?|The Abyss|Charybdis|Gargantua|Leviathan
+es|¿Cómo se llama el agujero negro de Interstellar?|El Abismo|Caribdis|Gargantúa|Leviatán
+ja|映画「インターステラー」に登場するブラックホールの名前は？|アビス|カリュブディス|ガルガンチュア|リヴァイアサン
+zh|电影《星际穿越》中的黑洞叫什么名字？|深渊|卡律布狄斯|卡冈图雅|利维坦
+#Q 2949 2 3 3
+ru|Кто первым сыграл Джеймса Бонда в кино?|Роджер Мур|Шон Коннери|Пирс Броснан|Дэниел Крейг
+en|Who was the first actor to play James Bond on film?|Roger Moore|Sean Connery|Pierce Brosnan|Daniel Craig
+es|¿Quién fue el primer actor en interpretar a James Bond en el cine?|Roger Moore|Sean Connery|Pierce Brosnan|Daniel Craig
+ja|映画で最初にジェームズ・ボンドを演じた俳優は？|ロジャー・ムーア|ショーン・コネリー|ピアース・ブロスナン|ダニエル・クレイグ
+zh|第一个在电影中扮演詹姆斯·邦德的演员是谁？|罗杰·摩尔|肖恩·康纳利|皮尔斯·布鲁斯南|丹尼尔·克雷格
+#Q 2950 1 3 3
+ru|Какая актриса получила «Оскар» за фильм «Всё везде и сразу»?|Мишель Йео|Джейми Ли Кёртис|Кейт Бланшетт|Эмма Стоун
+en|Which actress won the Best Actress Oscar for Everything Everywhere All at Once?|Michelle Yeoh|Jamie Lee Curtis|Cate Blanchett|Emma Stone
+es|¿Qué actriz ganó el Óscar a la mejor actriz por Todo a la vez en todas partes?|Michelle Yeoh|Jamie Lee Curtis|Cate Blanchett|Emma Stone
+ja|「エブリシング・エブリウェア・オール・アット・ワンス」でアカデミー主演女優賞を受賞したのは？|ミシェル・ヨー|ジェイミー・リー・カーティス|ケイト・ブランシェット|エマ・ストーン
+zh|谁凭借《瞬息全宇宙》获得了奥斯卡最佳女主角奖？|杨紫琼|杰米·李·柯蒂斯|凯特·布兰切特|艾玛·斯通
+#Q 2951 3 1 3
+ru|Сколько главных героев в сериале «Друзья»?|4|5|6|8
+en|How many main characters are there in Friends?|4|5|6|8
+es|¿Cuántos protagonistas tiene la serie Friends?|4|5|6|8
+ja|ドラマ「フレンズ」の主人公たちは何人？|4人|5人|6人|8人
+zh|美剧《老友记》有几位主角？|4位|5位|6位|8位
+#Q 2952 2 1 3
+ru|В каком городе живут герои сериала «Друзья»?|В Лос-Анджелесе|В Нью-Йорке|В Чикаго|В Бостоне
+en|In which city do the characters of Friends live?|Los Angeles|New York|Chicago|Boston
+es|¿En qué ciudad viven los protagonistas de Friends?|Los Ángeles|Nueva York|Chicago|Boston
+ja|ドラマ「フレンズ」の舞台となる都市は？|ロサンゼルス|ニューヨーク|シカゴ|ボストン
+zh|《老友记》的主角们住在哪座城市？|洛杉矶|纽约|芝加哥|波士顿
+#Q 2953 2 1 3
+ru|Какое слово кричит Шелдон Купер, когда кого-то разыгрывает?|«Эврика!»|«Базинга!»|«Бинго!»|«Абракадабра!»
+en|What word does Sheldon Cooper shout after pranking someone?|"Eureka!"|"Bazinga!"|"Bingo!"|"Abracadabra!"
+es|¿Qué palabra grita Sheldon Cooper tras gastar una broma?|«¡Eureka!»|«¡Bazinga!»|«¡Bingo!»|«¡Abracadabra!»
+ja|シェルドン・クーパーが人をからかったあとに叫ぶ言葉は？|「エウレカ！」|「バジンガ！」|「ビンゴ！」|「アブラカダブラ！」
+zh|谢尔顿·库珀捉弄别人后会大喊什么？|“尤里卡！”|“Bazinga！”|“宾果！”|“阿布拉卡达布拉！”
+#Q 2954 2 1 3
+ru|Кем работал Уолтер Уайт до того, как начал варить наркотики в «Во все тяжкие»?|Полицейским|Учителем химии|Врачом|Таксистом
+en|What was Walter White's job before he started cooking drugs in Breaking Bad?|Police officer|Chemistry teacher|Doctor|Taxi driver
+es|¿En qué trabajaba Walter White antes de empezar a fabricar drogas en Breaking Bad?|Policía|Profesor de química|Médico|Taxista
+ja|「ブレイキング・バッド」のウォルター・ホワイトが麻薬を作り始める前の仕事は？|警察官|化学の教師|医者|タクシー運転手
+zh|在《Breaking Bad》中，沃尔特·怀特在制毒之前是做什么的？|警察|化学老师|医生|出租车司机
+#Q 2955 1 1 3
+ru|Какой девиз у дома Старков в «Игре престолов»?|«Зима близко»|«Огонь и кровь»|«Мы не сеем»|«Слышите мой рёв!»
+en|What are the words of House Stark in Game of Thrones?|"Winter is coming"|"Fire and blood"|"We do not sow"|"Hear me roar!"
+es|¿Cuál es el lema de la casa Stark en Juego de tronos?|«Se acerca el invierno»|«Fuego y sangre»|«Nosotros no sembramos»|«¡Oye mi rugido!»
+ja|「ゲーム・オブ・スローンズ」のスターク家の標語は？|「冬来たる」|「炎と血」|「我ら種を蒔かず」|「我が咆哮を聞け」
+zh|《权力的游戏》中史塔克家族的族语是什么？|“凛冬将至”|“血火同源”|“强取胜于苦耕”|“听我怒吼”
+#Q 2956 2 1 3
+ru|Какой силой обладает девочка Одиннадцать из «Очень странных дел»?|Умеет летать|Двигает предметы силой мысли|Становится невидимой|Говорит с животными
+en|What power does the girl Eleven have in Stranger Things?|She can fly|She moves things with her mind|She turns invisible|She talks to animals
+es|¿Qué poder tiene la niña Once en Stranger Things?|Puede volar|Mueve cosas con la mente|Se vuelve invisible|Habla con los animales
+ja|「ストレンジャー・シングス」のイレブンが持つ能力は？|空を飛ぶ|念力で物を動かす|透明になる|動物と話す
+zh|《怪奇物语》中的女孩“小十一”有什么能力？|飞行|用意念移动物体|隐身|和动物说话
+#Q 2957 2 1 3
+ru|Кто такой Вещь из сериала «Уэнсдэй»?|Говорящий кот|Живая отрубленная рука|Призрак дворецкого|Волшебный ворон
+en|What is Thing in the series Wednesday?|A talking cat|A living disembodied hand|A butler's ghost|A magic raven
+es|¿Qué es Dedos (Thing) en la serie Miércoles?|Un gato que habla|Una mano viva sin cuerpo|El fantasma de un mayordomo|Un cuervo mágico
+ja|ドラマ「ウェンズデー」のハンドとは？|しゃべる猫|手首から先だけで動く生きた手|執事の幽霊|魔法のカラス
+zh|剧集《星期三》中的“小手”是什么？|会说话的猫|一只会动的断手|管家的鬼魂|魔法乌鸦
+#Q 2958 4 1 3
+ru|Какого цвета спортивные костюмы у игроков в «Игре в кальмара»?|Красного|Синего|Чёрного|Зелёного
+en|What color are the players' tracksuits in Squid Game?|Red|Blue|Black|Green
+es|¿De qué color son los chándales de los jugadores de El juego del calamar?|Rojos|Azules|Negros|Verdes
+ja|「イカゲーム」の参加者たちが着ているジャージの色は？|赤|青|黒|緑
+zh|《鱿鱼游戏》中参赛者穿的运动服是什么颜色？|红色|蓝色|黑色|绿色
+#Q 2959 2 1 3
+ru|Маски какого художника носят грабители в «Бумажном доме»?|Пабло Пикассо|Сальвадора Дали|Винсента Ван Гога|Фриды Кало
+en|Masks of which artist do the robbers wear in Money Heist?|Pablo Picasso|Salvador Dalí|Vincent van Gogh|Frida Kahlo
+es|¿Las máscaras de qué artista llevan los atracadores de La casa de papel?|Pablo Picasso|Salvador Dalí|Vincent van Gogh|Frida Kahlo
+ja|「ペーパー・ハウス」の強盗たちがかぶっているのは、どの画家のお面？|パブロ・ピカソ|サルバドール・ダリ|フィンセント・ファン・ゴッホ|フリーダ・カーロ
+zh|《纸钞屋》中的劫匪们戴的是哪位画家的面具？|巴勃罗·毕加索|萨尔瓦多·达利|文森特·梵高|弗里达·卡罗
+#Q 2960 4 1 3
+ru|Какой актёр сыграл Геральта в первых сезонах сериала «Ведьмак» от Netflix?|Лиам Хемсворт|Крис Хемсворт|Том Харди|Генри Кавилл
+en|Which actor played Geralt in the first seasons of Netflix's The Witcher?|Liam Hemsworth|Chris Hemsworth|Tom Hardy|Henry Cavill
+es|¿Qué actor interpretó a Geralt en las primeras temporadas de The Witcher de Netflix?|Liam Hemsworth|Chris Hemsworth|Tom Hardy|Henry Cavill
+ja|Netflixのドラマ「ウィッチャー」の初期シーズンでゲラルトを演じたのは？|リアム・ヘムズワース|クリス・ヘムズワース|トム・ハーディ|ヘンリー・カヴィル
+zh|在Netflix剧集《猎魔人》前几季中饰演杰洛特的是谁？|利亚姆·海姆斯沃斯|克里斯·海姆斯沃斯|汤姆·哈迪|亨利·卡维尔
+#Q 2961 4 1 3
+ru|Какой актёр сыграл Шерлока Холмса в сериале BBC «Шерлок»?|Роберт Дауни-младший|Мартин Фримен|Джонни Ли Миллер|Бенедикт Камбербэтч
+en|Which actor played Sherlock Holmes in the BBC series Sherlock?|Robert Downey Jr.|Martin Freeman|Jonny Lee Miller|Benedict Cumberbatch
+es|¿Qué actor interpretó a Sherlock Holmes en la serie Sherlock de la BBC?|Robert Downey Jr.|Martin Freeman|Jonny Lee Miller|Benedict Cumberbatch
+ja|BBCのドラマ「SHERLOCK(シャーロック)」でシャーロック・ホームズを演じたのは？|ロバート・ダウニー・Jr.|マーティン・フリーマン|ジョニー・リー・ミラー|ベネディクト・カンバーバッチ
+zh|在BBC剧集《神探夏洛克》中饰演夏洛克·福尔摩斯的是谁？|小罗伯特·唐尼|马丁·弗瑞曼|约翰尼·李·米勒|本尼迪克特·康伯巴奇
+#Q 2962 3 1 3
+ru|Какое восклицание вырывается у Гомера Симпсона, когда что-то идёт не так?|«Ай карамба!»|«Каубанга!»|«Д'оу!»|«Ура!»
+en|What does Homer Simpson exclaim when something goes wrong?|"Ay caramba!"|"Cowabunga!"|"D'oh!"|"Hooray!"
+es|¿Qué exclama Homer Simpson cuando algo sale mal?|«¡Ay, caramba!»|«¡Cowabunga!»|«¡Mmm... D'oh!»|«¡Hurra!»
+ja|ホーマー・シンプソンが何かしくじったときに言う言葉は？|「アイ・カランバ！」|「カワバンガ！」|「ドゥ！（D'oh!）」|「やったー！」
+zh|事情搞砸时，荷马·辛普森会脱口而出什么？|“Ay caramba!”|“Cowabunga!”|“D'oh!”|“万岁！”
+#Q 2963 4 1 3
+ru|Какого цвета высокая причёска Мардж Симпсон?|Розового|Зелёного|Фиолетового|Синего
+en|What color is Marge Simpson's tall hairdo?|Pink|Green|Purple|Blue
+es|¿De qué color es el alto peinado de Marge Simpson?|Rosa|Verde|Morado|Azul
+ja|マージ・シンプソンの高く盛った髪の色は？|ピンク|緑|紫|青
+zh|玛姬·辛普森那高高的头发是什么颜色？|粉色|绿色|紫色|蓝色
+#Q 2964 3 1 3
+ru|С кем сражаются выжившие в сериале «Ходячие мертвецы»?|С пришельцами|С роботами|С зомби|С вампирами
+en|Who do the survivors fight in The Walking Dead?|Aliens|Robots|Zombies|Vampires
+es|¿Contra quién luchan los supervivientes de The Walking Dead?|Contra extraterrestres|Contra robots|Contra zombis|Contra vampiros
+ja|「ウォーキング・デッド」で生存者たちが戦う相手は？|宇宙人|ロボット|ゾンビ|吸血鬼
+zh|《行尸走肉》中幸存者们在与什么战斗？|外星人|机器人|丧尸|吸血鬼
+#Q 2965 2 1 3
+ru|С чего начинается сериал «Остаться в живых» (Lost)?|С ограбления банка|С крушения самолёта на загадочном острове|С побега из тюрьмы|С высадки на Марсе
+en|How does the series Lost begin?|A bank robbery|A plane crashes on a mysterious island|A prison break|A landing on Mars
+es|¿Cómo empieza la serie Perdidos?|Con el atraco a un banco|Un avión se estrella en una isla misteriosa|Con una fuga de la cárcel|Con un aterrizaje en Marte
+ja|ドラマ「LOST」はどんな出来事から始まる？|銀行強盗|謎の島への飛行機の墜落|脱獄|火星への着陸
+zh|剧集《迷失》是从什么事件开始的？|银行抢劫|飞机坠落在一座神秘的岛上|越狱|登陆火星
+#Q 2966 2 1 3
+ru|О какой королеве рассказывает сериал «Корона»?|О Виктории|О Елизавете II|О Марии Стюарт|О Екатерине Великой
+en|Which queen is the series The Crown about?|Victoria|Elizabeth II|Mary, Queen of Scots|Catherine the Great
+es|¿Sobre qué reina trata la serie The Crown?|Victoria|Isabel II|María Estuardo|Catalina la Grande
+ja|ドラマ「ザ・クラウン」は、どの女王を描いた作品？|ヴィクトリア女王|エリザベス2世|メアリー・スチュアート|エカチェリーナ2世
+zh|剧集《王冠》讲述的是哪位女王？|维多利亚女王|伊丽莎白二世|玛丽·斯图亚特|叶卡捷琳娜大帝
+#Q 2967 3 1 3
+ru|Что такое спойлер?|Реклама перед фильмом|Сцена после титров|Заранее раскрытый поворот сюжета|Плохой актёр
+en|What is a spoiler?|An ad before a film|A post-credits scene|A plot twist revealed in advance|A bad actor
+es|¿Qué es un spoiler?|Un anuncio antes de la película|Una escena poscréditos|Un giro de la trama revelado antes de tiempo|Un mal actor
+ja|「ネタバレ（スポイラー）」とは？|映画の前の広告|エンドロール後のシーン|物語の展開を前もって明かしてしまうこと|下手な俳優
+zh|“剧透”是什么意思？|电影前的广告|片尾彩蛋|提前透露剧情|演技差的演员
+#Q 2968 2 2 3
+ru|Какой фразой Джоуи Триббиани из «Друзей» знакомится с девушками?|«Bazinga!»|«How you doin'?»|«Legen... dary!»|«D'oh!»
+en|Which line does Joey Tribbiani from Friends use to flirt with women?|"Bazinga!"|"How you doin'?"|"Legen... dary!"|"D'oh!"
+es|¿Qué frase usa Joey Tribbiani, de Friends, para ligar?|«Bazinga!»|«How you doin'?»|«Legen... dary!»|«D'oh!»
+ja|「フレンズ」のジョーイ・トリビアーニが女性を口説くときの決めゼリフは？|Bazinga!|How you doin'?|Legen... dary!|D'oh!
+zh|《老友记》中的乔伊·崔比亚尼搭讪女生时的口头禅是什么？|Bazinga!|How you doin'?|Legen... dary!|D'oh!
+#Q 2969 4 2 3
+ru|Кем работает Росс Геллер из «Друзей»?|Шеф-поваром|Актёром|Массажистом|Палеонтологом
+en|What is Ross Geller's job in Friends?|Chef|Actor|Massage therapist|Paleontologist
+es|¿En qué trabaja Ross Geller en Friends?|Chef|Actor|Masajista|Paleontólogo
+ja|「フレンズ」のロス・ゲラーの職業は？|シェフ|俳優|マッサージ師|古生物学者
+zh|《老友记》中的罗斯·盖勒是做什么工作的？|厨师|演员|按摩师|古生物学家
+#Q 2970 3 2 3
+ru|Чем торгует компания «Дандер Миффлин» в сериале «Офис»?|Компьютерами|Мебелью|Бумагой|Страховками
+en|What does the company Dunder Mifflin sell in The Office?|Computers|Furniture|Paper|Insurance
+es|¿Qué vende la empresa Dunder Mifflin en The Office?|Ordenadores|Muebles|Papel|Seguros
+ja|ドラマ「ジ・オフィス」のダンダー・ミフリン社が売っているものは？|パソコン|家具|紙|保険
+zh|在《办公室》中，邓德·米夫林公司卖的是什么？|电脑|家具|纸张|保险
+#Q 2971 4 2 3
+ru|Под каким прозвищем Уолтер Уайт стал известен в преступном мире?|Профессор|Кира|Мориарти|Хайзенберг
+en|Under what alias did Walter White become known in the criminal world?|The Professor|Kira|Moriarty|Heisenberg
+es|¿Con qué alias se hizo conocido Walter White en el mundo criminal?|El Profesor|Kira|Moriarty|Heisenberg
+ja|ウォルター・ホワイトが裏社会で名乗った名前は？|教授|キラ|モリアーティ|ハイゼンベルク
+zh|沃尔特·怀特在黑道上用的化名是什么？|教授|基拉|莫里亚蒂|海森堡
+#Q 2972 2 2 3
+ru|Сколько драконов было у Дейенерис Таргариен?|2|3|4|5
+en|How many dragons did Daenerys Targaryen have?|2|3|4|5
+es|¿Cuántos dragones tenía Daenerys Targaryen?|2|3|4|5
+ja|デナーリス・ターガリエンが持っていたドラゴンは何頭？|2頭|3頭|4頭|5頭
+zh|丹妮莉丝·坦格利安有几条龙？|2条|3条|4条|5条
+#Q 2973 4 2 3
+ru|Из чего сделан Железный трон в «Игре престолов»?|Из железной руды|Из доспехов|Из драконьих костей|Из мечей побеждённых врагов
+en|What is the Iron Throne made of in Game of Thrones?|Iron ore|Suits of armor|Dragon bones|The swords of defeated enemies
+es|¿De qué está hecho el Trono de Hierro en Juego de tronos?|De mineral de hierro|De armaduras|De huesos de dragón|De las espadas de los enemigos vencidos
+ja|「ゲーム・オブ・スローンズ」の鉄の玉座は何でできている？|鉄鉱石|よろい|ドラゴンの骨|倒した敵の剣
+zh|《权力的游戏》中的铁王座是用什么做成的？|铁矿石|盔甲|龙骨|被击败敌人的剑
+#Q 2974 2 2 3
+ru|Какую еду обожает Одиннадцать из «Очень странных дел»?|Пиццу|Вафли|Бургеры|Пончики
+en|What food does Eleven from Stranger Things love?|Pizza|Waffles|Burgers|Donuts
+es|¿Qué comida le encanta a Once, de Stranger Things?|La pizza|Los gofres|Las hamburguesas|Los dónuts
+ja|「ストレンジャー・シングス」のイレブンの大好物は？|ピザ|ワッフル|ハンバーガー|ドーナツ
+zh|《怪奇物语》中的小十一最爱吃什么？|披萨|华夫饼|汉堡|甜甜圈
+#Q 2975 1 2 3
+ru|В какую настольную игру играют мальчишки в «Очень странных делах»?|Dungeons & Dragons|Монополию|Шахматы|Скрэббл
+en|Which tabletop game do the boys play in Stranger Things?|Dungeons & Dragons|Monopoly|Chess|Scrabble
+es|¿A qué juego de mesa juegan los chicos en Stranger Things?|Dungeons & Dragons|Monopoly|Ajedrez|Scrabble
+ja|「ストレンジャー・シングス」で少年たちが遊んでいるテーブルゲームは？|ダンジョンズ＆ドラゴンズ|モノポリー|チェス|スクラブル
+zh|《怪奇物语》中男孩们玩的桌游是什么？|龙与地下城|大富翁|国际象棋|拼字游戏
+#Q 2976 4 2 3
+ru|Как называется академия для изгоев, где учится Уэнсдэй Аддамс?|«Хогвартс»|«Юэй»|«Шармбатон»|«Невермор»
+en|What is the academy for outcasts where Wednesday Addams studies called?|Hogwarts|U.A.|Beauxbatons|Nevermore
+es|¿Cómo se llama la academia para marginados donde estudia Miércoles Addams?|Hogwarts|U.A.|Beauxbatons|Nevermore
+ja|ウェンズデー・アダムスが通う、はみ出し者たちの学校は？|ホグワーツ|雄英高校|ボーバトン|ネヴァーモア学園
+zh|星期三·亚当斯就读的“异类”学院叫什么？|霍格沃茨|雄英高中|布斯巴顿|永无乡学院
+#Q 2977 1 2 3
+ru|В какую детскую игру с огромной куклой играют в первом испытании «Игры в кальмара»?|«Тише едешь - дальше будешь»|«Прятки»|«Классики»|«Перетягивание каната»
+en|Which children's game with a giant doll is played in the first round of Squid Game?|Red Light, Green Light|Hide and seek|Hopscotch|Tug of war
+es|¿A qué juego infantil con una muñeca gigante se juega en la primera prueba de El juego del calamar?|Luz roja, luz verde|El escondite|La rayuela|Tirar de la cuerda
+ja|「イカゲーム」の最初のゲームで、巨大な人形を使って遊ぶのは？|だるまさんがころんだ|かくれんぼ|けんけんぱ|綱引き
+zh|《鱿鱼游戏》第一关和巨大人偶一起玩的是哪个儿童游戏？|“一二三木头人”|捉迷藏|跳房子|拔河
+#Q 2978 2 2 3
+ru|Какую итальянскую песню поют герои «Бумажного дома»?|«Феличита»|«Белла чао»|«Вернись в Сорренто»|«О соле мио»
+en|Which Italian song do the characters of Money Heist sing?|"Felicità"|"Bella Ciao"|"Come Back to Sorrento"|"O Sole Mio"
+es|¿Qué canción italiana cantan los protagonistas de La casa de papel?|«Felicità»|«Bella ciao»|«Torna a Surriento»|«O sole mio»
+ja|「ペーパー・ハウス」の登場人物たちが歌うイタリアの歌は？|フェリチタ|ベラ・チャオ|帰れソレントへ|オー・ソレ・ミオ
+zh|《纸钞屋》中的角色们唱的是哪首意大利歌曲？|《幸福》|《啊，朋友再见》|《重归苏莲托》|《我的太阳》
+#Q 2979 4 2 3
+ru|В честь чего взяли себе прозвища грабители в «Бумажном доме»?|В честь планет|В честь художников|В честь цветов|В честь городов
+en|What did the robbers in Money Heist name themselves after?|Planets|Artists|Flowers|Cities
+es|¿En honor a qué se pusieron sus apodos los atracadores de La casa de papel?|A planetas|A pintores|A flores|A ciudades
+ja|「ペーパー・ハウス」の強盗たちのコードネームの由来は？|惑星の名前|画家の名前|花の名前|都市の名前
+zh|《纸钞屋》中劫匪们的代号是以什么命名的？|行星|画家|花|城市
+#Q 2980 3 2 3
+ru|Как выглядит машина времени ТАРДИС из «Доктора Кто»?|Как красный автобус|Как старинные часы|Как синяя полицейская будка|Как телефонная будка
+en|What does the time machine TARDIS from Doctor Who look like?|A red bus|An old clock|A blue police box|A red phone box
+es|¿Qué aspecto tiene la máquina del tiempo TARDIS de Doctor Who?|Un autobús rojo|Un reloj antiguo|Una cabina azul de policía|Una cabina telefónica roja
+ja|「ドクター・フー」のタイムマシン、ターディスの外見は？|赤いバス|古い時計|青い警察ボックス|赤い電話ボックス
+zh|《神秘博士》中的时间机器“塔迪斯”外表像什么？|红色巴士|老式时钟|蓝色警亭|红色电话亭
+#Q 2981 3 2 3
+ru|На каком инструменте играет Лиза Симпсон?|На скрипке|На барабанах|На саксофоне|На флейте
+en|Which instrument does Lisa Simpson play?|The violin|The drums|The saxophone|The flute
+es|¿Qué instrumento toca Lisa Simpson?|El violín|La batería|El saxofón|La flauta
+ja|リサ・シンプソンが演奏する楽器は？|バイオリン|ドラム|サックス|フルート
+zh|丽莎·辛普森演奏什么乐器？|小提琴|架子鼓|萨克斯|长笛
+#Q 2982 1 2 3
+ru|Чем владеет мистер Бёрнс, начальник Гомера Симпсона?|Атомной электростанцией|Пивоварней|Футбольным клубом|Цирком
+en|What does Mr. Burns, Homer Simpson's boss, own?|A nuclear power plant|A brewery|A football club|A circus
+es|¿Qué posee el señor Burns, el jefe de Homer Simpson?|Una central nuclear|Una fábrica de cerveza|Un club de fútbol|Un circo
+ja|ホーマー・シンプソンの上司バーンズ社長が所有しているのは？|原子力発電所|ビール工場|サッカークラブ|サーカス
+zh|荷马·辛普森的老板伯恩斯先生拥有什么？|核电站|啤酒厂|足球俱乐部|马戏团
+#Q 2983 1 2 3
+ru|Что почти в каждой серии происходило с Кенни из «Южного парка»?|Он погибал|Он влюблялся|Он терял шапку|Он выигрывал в лотерею
+en|What happened to Kenny in almost every early episode of South Park?|He died|He fell in love|He lost his hat|He won the lottery
+es|¿Qué le pasaba a Kenny en casi todos los primeros episodios de South Park?|Moría|Se enamoraba|Perdía el gorro|Ganaba la lotería
+ja|初期の「サウスパーク」で、ケニーにほぼ毎回起きていたことは？|死んでしまう|恋をする|帽子をなくす|宝くじに当たる
+zh|在早期的《南方公园》中，肯尼几乎每集都会怎样？|死掉|恋爱|弄丢帽子|中彩票
+#Q 2984 1 2 3
+ru|В кого превратил себя Рик в знаменитой серии «Рика и Морти»?|В огурец|В крысу|В кота|В ботинок
+en|What did Rick turn himself into in a famous Rick and Morty episode?|A pickle|A rat|A cat|A shoe
+es|¿En qué se convirtió Rick en un famoso episodio de Rick y Morty?|En un pepinillo|En una rata|En un gato|En un zapato
+ja|「リック・アンド・モーティ」の有名な回で、リックが自分を変身させたものは？|ピクルス|ネズミ|猫|靴
+zh|在《瑞克和莫蒂》的一集著名剧情中，瑞克把自己变成了什么？|腌黄瓜|老鼠|猫|鞋子
+#Q 2985 3 2 3
+ru|Что вытатуировал на себе Майкл Скофилд в сериале «Побег»?|Карту сокровищ|Имена врагов|План тюрьмы|Портрет брата
+en|What did Michael Scofield have tattooed on his body in Prison Break?|A treasure map|His enemies' names|The prison blueprints|His brother's portrait
+es|¿Qué se tatuó Michael Scofield en el cuerpo en Prison Break?|Un mapa del tesoro|Los nombres de sus enemigos|Los planos de la cárcel|El retrato de su hermano
+ja|「プリズン・ブレイク」でマイケル・スコフィールドが体に彫ったタトゥーの中身は？|宝の地図|敵の名前|刑務所の設計図|兄の肖像
+zh|在《越狱》中，迈克尔·斯科菲尔德身上的纹身藏着什么？|藏宝图|仇人的名字|监狱的设计图|哥哥的肖像
+#Q 2986 3 2 3
+ru|Что было вшито в кепки банды «Острые козырьки»?|Монеты|Ключи|Лезвия бритв|Гвозди
+en|What was sewn into the caps of the Peaky Blinders gang?|Coins|Keys|Razor blades|Nails
+es|¿Qué llevaban cosido en las gorras los miembros de la banda Peaky Blinders?|Monedas|Llaves|Cuchillas de afeitar|Clavos
+ja|「ピーキー・ブラインダーズ」のギャングたちの帽子に縫い込まれていたものは？|コイン|鍵|カミソリの刃|釘
+zh|《浴血黑帮》帮派成员的帽子里缝着什么？|硬币|钥匙|剃刀刀片|钉子
+#Q 2987 1 2 3
+ru|По какой видеоигре снят мультсериал «Аркейн»?|League of Legends|Overwatch|Dota 2|World of Warcraft
+en|Which video game is the animated series Arcane based on?|League of Legends|Overwatch|Dota 2|World of Warcraft
+es|¿En qué videojuego se basa la serie de animación Arcane?|League of Legends|Overwatch|Dota 2|World of Warcraft
+ja|アニメシリーズ「Arcane」の原作となったゲームは？|リーグ・オブ・レジェンド|オーバーウォッチ|Dota 2|ワールド・オブ・ウォークラフト
+zh|动画剧集《英雄联盟：双城之战》改编自哪款游戏？|英雄联盟|守望先锋|Dota 2|魔兽世界
+#Q 2988 2 2 3
+ru|Как называется главная американская телевизионная премия?|«Оскар»|«Эмми»|«Грэмми»|«Тони»
+en|What is the main American television award called?|The Oscar|The Emmy|The Grammy|The Tony
+es|¿Cómo se llama el principal premio de la televisión estadounidense?|El Óscar|El Emmy|El Grammy|El Tony
+ja|アメリカのテレビ界で最も権威のある賞は？|アカデミー賞|エミー賞|グラミー賞|トニー賞
+zh|美国电视界最重要的奖项叫什么？|奥斯卡奖|艾美奖|格莱美奖|托尼奖
+#Q 2989 2 3 3
+ru|Какую песню поёт Фиби Буффе из «Друзей»?|«Грустная собака»|«Вонючий кот»|«Танцующая мышь»|«Лохматый пёс»
+en|Which song does Phoebe Buffay sing in Friends?|"Sad Dog"|"Smelly Cat"|"Dancing Mouse"|"Shaggy Dog"
+es|¿Qué canción canta Phoebe Buffay en Friends?|«Perro triste»|«Smelly Cat» (Gato apestoso)|«Ratón bailarín»|«Perro peludo»
+ja|「フレンズ」のフィービー・ブフェが歌う歌は？|「悲しい犬」|「スメリー・キャット（くさいネコ）」|「踊るネズミ」|「もじゃもじゃ犬」
+zh|《老友记》中菲比·布菲唱的是哪首歌？|《悲伤的狗》|《臭臭猫》|《跳舞的老鼠》|《毛毛狗》
+#Q 2990 3 3 3
+ru|Что на самом деле означало слово «Ходор» в «Игре престолов»?|«Беги отсюда»|«Я твой друг»|«Держи дверь»|«Зима близко»
+en|What did the word "Hodor" really mean in Game of Thrones?|"Run away"|"I am your friend"|"Hold the door"|"Winter is coming"
+es|¿Qué significaba en realidad la palabra «Hodor» en Juego de tronos?|«Huye de aquí»|«Soy tu amigo»|«Aguanta la puerta» (Hold the door)|«Se acerca el invierno»
+ja|「ゲーム・オブ・スローンズ」で、「ホーダー」という言葉の本当の意味は？|「逃げろ」|「僕は君の友達」|「扉を押さえろ（Hold the door）」|「冬来たる」
+zh|在《权力的游戏》中，“阿多”这个词其实是什么意思？|“快逃”|“我是你的朋友”|“挡住门”（Hold the door）|“凛冬将至”
+#Q 2991 1 3 3
+ru|В каком вымышленном городе происходят «Очень странные дела»?|Хокинс|Спрингфилд|Ривердейл|Твин Пикс
+en|In which fictional town is Stranger Things set?|Hawkins|Springfield|Riverdale|Twin Peaks
+es|¿En qué pueblo ficticio transcurre Stranger Things?|Hawkins|Springfield|Riverdale|Twin Peaks
+ja|「ストレンジャー・シングス」の舞台となる架空の町は？|ホーキンス|スプリングフィールド|リバーデイル|ツイン・ピークス
+zh|《怪奇物语》的故事发生在哪个虚构的小镇？|霍金斯|斯普林菲尔德|河谷镇|双峰镇
+#Q 2992 4 3 3
+ru|Из чего вырезают фигурки в испытании с сотами в «Игре в кальмара»?|Из шоколада|Из мыла|Из льда|Из сахарного печенья дальгона
+en|What are the shapes carved out of in the honeycomb challenge in Squid Game?|Chocolate|Soap|Ice|Dalgona sugar candy
+es|¿De qué se recortan las figuras en la prueba del panal de El juego del calamar?|De chocolate|De jabón|De hielo|De caramelo dalgona
+ja|「イカゲーム」の型抜きゲームで、形をくり抜くお菓子は？|チョコレート|せっけん|氷|カルメ焼き（タルゴナ）
+zh|《鱿鱼游戏》的椪糖挑战中，图案是从什么上抠出来的？|巧克力|肥皂|冰块|椪糖
+#Q 2993 3 3 3
+ru|Сколько вон составлял главный приз в первом сезоне «Игры в кальмара»?|4,5 миллиона|456 миллионов|45,6 миллиарда|100 миллиардов
+en|How many won was the grand prize in the first season of Squid Game?|4.5 million|456 million|45.6 billion|100 billion
+es|¿De cuántos wones era el premio en la primera temporada de El juego del calamar?|4,5 millones|456 millones|45 600 millones|100 000 millones
+ja|「イカゲーム」シーズン1の賞金は何ウォン？|450万ウォン|4億5600万ウォン|456億ウォン|1000億ウォン
+zh|《鱿鱼游戏》第一季的总奖金是多少韩元？|450万|4.56亿|456亿|1000亿
+#Q 2994 3 3 3
+ru|Какая страна сняла сериал о путешествиях во времени «Тьма» (Dark)?|Норвегия|Швеция|Германия|Нидерланды
+en|Which country made the time-travel series Dark?|Norway|Sweden|Germany|The Netherlands
+es|¿Qué país produjo la serie de viajes en el tiempo Dark?|Noruega|Suecia|Alemania|Países Bajos
+ja|タイムトラベルを描いたドラマ「ダーク」はどこの国の作品？|ノルウェー|スウェーデン|ドイツ|オランダ
+zh|讲述时间旅行的剧集《暗黑》是哪个国家拍摄的？|挪威|瑞典|德国|荷兰
+#Q 2995 3 3 3
+ru|Кто поёт песню «Ведьмаку заплатите чеканной монетой» в сериале «Ведьмак»?|Йеннифэр|Цири|Лютик|Геральт
+en|Who sings "Toss a Coin to Your Witcher" in The Witcher series?|Yennefer|Ciri|Jaskier|Geralt
+es|¿Quién canta «Toss a Coin to Your Witcher» en la serie The Witcher?|Yennefer|Ciri|Jaskier|Geralt
+ja|ドラマ「ウィッチャー」で「Toss a Coin to Your Witcher」を歌うのは？|イェネファー|シリ|ヤスキエル|ゲラルト
+zh|剧集《猎魔人》中，谁唱了《给你的猎魔人一枚硬币》？|叶奈法|希里|亚斯克尔|杰洛特
+#Q 2996 4 3 3
+ru|Как называется бар, куда постоянно ходит Гомер Симпсон?|«Чирс»|«Макларенс»|«Кракен»|«У Мо»
+en|What is the bar Homer Simpson always goes to called?|Cheers|MacLaren's|The Kraken|Moe's Tavern
+es|¿Cómo se llama el bar al que siempre va Homer Simpson?|Cheers|MacLaren's|El Kraken|La taberna de Moe
+ja|ホーマー・シンプソンが通い詰めているバーの名前は？|チアーズ|マクラーレンズ|クラーケン|モーの店
+zh|荷马·辛普森常去的酒吧叫什么？|干杯酒吧|麦克拉伦酒吧|海怪酒吧|莫的酒馆
+#Q 2997 3 3 3
+ru|На сколько лет заморозили разносчика пиццы Фрая в «Футураме»?|На 100 лет|На 500 лет|На 1000 лет|На 3000 лет
+en|For how many years was the pizza delivery boy Fry frozen in Futurama?|100|500|1000|3000
+es|¿Durante cuántos años estuvo congelado el repartidor de pizzas Fry en Futurama?|100|500|1000|3000
+ja|「フューチュラマ」で、ピザの配達員フライは何年間冷凍保存された？|100年|500年|1000年|3000年
+zh|在《飞出个未来》中，送披萨的弗莱被冷冻了多少年？|100年|500年|1000年|3000年
+#Q 2998 2 3 3
+ru|Какие числа преследуют героев сериала «Остаться в живых»?|1, 2, 3, 5, 8, 13|4, 8, 15, 16, 23, 42|7, 14, 21, 28, 35, 42|3, 6, 9, 12, 15, 18
+en|Which numbers haunt the characters of Lost?|1, 2, 3, 5, 8, 13|4, 8, 15, 16, 23, 42|7, 14, 21, 28, 35, 42|3, 6, 9, 12, 15, 18
+es|¿Qué números persiguen a los personajes de Perdidos?|1, 2, 3, 5, 8, 13|4, 8, 15, 16, 23, 42|7, 14, 21, 28, 35, 42|3, 6, 9, 12, 15, 18
+ja|ドラマ「LOST」の登場人物たちにつきまとう数字は？|1、2、3、5、8、13|4、8、15、16、23、42|7、14、21、28、35、42|3、6、9、12、15、18
+zh|《迷失》中一直困扰角色们的数字是哪一组？|1、2、3、5、8、13|4、8、15、16、23、42|7、14、21、28、35、42|3、6、9、12、15、18
+#Q 2999 2 3 3
+ru|Под каким псевдонимом пишет светские сплетни таинственная автор в «Бриджертонах»?|Леди Бриджертон|Леди Уислдаун|Сплетница|Мисс Марпл
+en|What pen name does the mysterious gossip writer use in Bridgerton?|Lady Bridgerton|Lady Whistledown|Gossip Girl|Miss Marple
+es|¿Qué seudónimo usa la misteriosa autora de chismes en Los Bridgerton?|Lady Bridgerton|Lady Whistledown|Gossip Girl|Miss Marple
+ja|「ブリジャートン家」で社交界のゴシップを書く謎の作家のペンネームは？|レディ・ブリジャートン|レディ・ホイッスルダウン|ゴシップガール|ミス・マープル
+zh|在《布里奇顿》中，那位神秘的八卦专栏作者用什么笔名？|布里奇顿夫人|威斯顿夫人|绯闻女孩|马普尔小姐
+#Q 3000 4 3 3
+ru|Каким видом спорта Тед Лассо тренировал до переезда в Англию?|Баскетболом|Бейсболом|Хоккеем|Американским футболом
+en|Which sport did Ted Lasso coach before moving to England?|Basketball|Baseball|Ice hockey|American football
+es|¿Qué deporte entrenaba Ted Lasso antes de mudarse a Inglaterra?|Baloncesto|Béisbol|Hockey sobre hielo|Fútbol americano
+ja|テッド・ラッソがイギリスへ来る前に指導していたスポーツは？|バスケットボール|野球|アイスホッケー|アメリカンフットボール
+zh|泰德·拉索来英国之前执教的是什么运动？|篮球|棒球|冰球|美式橄榄球
+#Q 3001 1 1 3
+ru|Кто вечно гоняется за птицей Дорожным бегуном в мультфильмах Looney Tunes?|Койот|Кот Сильвестр|Тасманский дьявол|Багз Банни
+en|Who is forever chasing the Road Runner in the Looney Tunes cartoons?|Wile E. Coyote|Sylvester the Cat|The Tasmanian Devil|Bugs Bunny
+es|¿Quién persigue sin descanso al Correcaminos en los dibujos de Looney Tunes?|El Coyote|El gato Silvestre|El demonio de Tasmania|Bugs Bunny
+ja|ルーニー・テューンズで、いつもロード・ランナーを追いかけているのは？|ワイリー・コヨーテ|シルベスター|タズ（タスマニアン・デビル）|バッグス・バニー
+zh|在《乐一通》动画里，总是追着BB鸟跑的是谁？|歪心狼|傻大猫|塔斯马尼亚恶魔|兔八哥
+#Q 3002 4 1 3
+ru|Какая жёлтая птичка всё время ускользает от кота Сильвестра?|Вуди Вудпекер|Дональд Дак|Зазу|Твити
+en|Which little yellow bird keeps escaping from Sylvester the Cat?|Woody Woodpecker|Donald Duck|Zazu|Tweety
+es|¿Qué pajarito amarillo siempre se le escapa al gato Silvestre?|El Pájaro Loco|El Pato Donald|Zazú|Piolín
+ja|猫のシルベスターからいつも逃げ回る黄色い小鳥は？|ウッドペッカー|ドナルドダック|ザズー|トゥイーティー
+zh|总是从傻大猫手里逃脱的黄色小鸟是谁？|啄木鸟伍迪|唐老鸭|沙祖|崔弟
+#Q 3003 1 1 3
+ru|Что ест моряк Попай, чтобы стать очень сильным?|Шпинат|Морковь|Брокколи|Рыбу
+en|What does Popeye the Sailor eat to become super strong?|Spinach|Carrots|Broccoli|Fish
+es|¿Qué come Popeye el marino para ponerse muy fuerte?|Espinacas|Zanahorias|Brócoli|Pescado
+ja|ポパイが怪力を出すために食べるものは？|ほうれん草|ニンジン|ブロッコリー|魚
+zh|大力水手吃什么会变得力大无穷？|菠菜|胡萝卜|西兰花|鱼
+#Q 3004 3 1 3
+ru|В какую эпоху живёт семья Флинстоунов?|В Средневековье|На Диком Западе|В каменном веке|В далёком будущем
+en|In which era does the Flintstone family live?|The Middle Ages|The Wild West|The Stone Age|The distant future
+es|¿En qué época vive la familia Picapiedra?|En la Edad Media|En el Salvaje Oeste|En la Edad de Piedra|En un futuro lejano
+ja|アニメ「フリントストーン」の一家が暮らしている時代は？|中世|西部開拓時代|石器時代|遠い未来
+zh|动画《The Flintstones》中的弗林特斯通一家生活在什么时代？|中世纪|美国西部|石器时代|遥远的未来
+#Q 3005 3 1 3
+ru|Какое блюдо обожает кот Гарфилд?|Пиццу|Суши|Лазанью|Сосиски
+en|What dish does Garfield the cat adore?|Pizza|Sushi|Lasagna|Sausages
+es|¿Qué plato adora el gato Garfield?|La pizza|El sushi|La lasaña|Las salchichas
+ja|猫のガーフィールドの大好物は？|ピザ|寿司|ラザニア|ソーセージ
+zh|加菲猫最爱吃什么？|披萨|寿司|千层面|香肠
+#Q 3006 3 1 3
+ru|Какую еду обожают черепашки-ниндзя?|Суши|Гамбургеры|Пиццу|Хот-доги
+en|What food do the Teenage Mutant Ninja Turtles love?|Sushi|Hamburgers|Pizza|Hot dogs
+es|¿Qué comida les encanta a las Tortugas Ninja?|El sushi|Las hamburguesas|La pizza|Los perritos calientes
+ja|ミュータント・タートルズの大好物は？|寿司|ハンバーガー|ピザ|ホットドッグ
+zh|忍者神龟最爱吃什么？|寿司|汉堡|披萨|热狗
+#Q 3007 4 1 3
+ru|Какой стихией изначально владеет Аанг из «Аватара: Легенды об Аанге»?|Огнём|Водой|Землёй|Воздухом
+en|Which element does Aang from Avatar: The Last Airbender master first?|Fire|Water|Earth|Air
+es|¿Qué elemento domina primero Aang en Avatar: la leyenda de Aang?|El fuego|El agua|La tierra|El aire
+ja|「アバター 伝説の少年アン」のアンがもともと操る元素は？|火|水|土|気（空気）
+zh|《降世神通》中的安昂最初掌握的是哪种元素？|火|水|土|气
+#Q 3008 4 1 3
+ru|Каким животным является Пеппа из мультсериала?|Кроликом|Овечкой|Мышкой|Свинкой
+en|What animal is Peppa from the cartoon series?|A rabbit|A sheep|A mouse|A pig
+es|¿Qué animal es Peppa en la serie de dibujos?|Una coneja|Una oveja|Una ratita|Una cerdita
+ja|アニメのペッパは何の動物？|ウサギ|ヒツジ|ネズミ|ブタ
+zh|动画片里的佩奇是什么动物？|小兔|小羊|小老鼠|小猪
+#Q 3009 3 1 3
+ru|Из какой страны мультсериал «Маша и Медведь»?|Польша|Финляндия|Россия|Болгария
+en|Which country does the cartoon series Masha and the Bear come from?|Poland|Finland|Russia|Bulgaria
+es|¿De qué país es la serie de dibujos Masha y el oso?|Polonia|Finlandia|Rusia|Bulgaria
+ja|アニメ「マーシャと熊」はどこの国の作品？|ポーランド|フィンランド|ロシア|ブルガリア
+zh|动画《玛莎和熊》是哪个国家的作品？|波兰|芬兰|俄罗斯|保加利亚
+#Q 3010 4 1 3
+ru|Как называется продолжение фильма?|Приквел|Ремейк|Спин-офф|Сиквел
+en|What is a follow-up film to an earlier one called?|A prequel|A remake|A spin-off|A sequel
+es|¿Cómo se llama la continuación de una película?|Precuela|Remake|Spin-off|Secuela
+ja|映画の続きの作品を何という？|前日譚（プリクエル）|リメイク|スピンオフ|続編（シークエル）
+zh|电影的后续作品叫什么？|前传|翻拍|衍生作品|续集
+#Q 3011 4 1 3
+ru|Как называется короткий рекламный ролик будущего фильма?|Тизер-постер|Титры|Пилот|Трейлер
+en|What is a short promotional clip for an upcoming film called?|A teaser poster|The credits|A pilot|A trailer
+es|¿Cómo se llama el breve vídeo promocional de una película?|Cartel|Créditos|Piloto|Tráiler
+ja|公開前の映画を宣伝する短い映像を何という？|ポスター|エンドロール|パイロット版|予告編（トレーラー）
+zh|为即将上映的电影做宣传的短片叫什么？|海报|片尾字幕|试播集|预告片
+#Q 3012 1 1 3
+ru|Кто выполняет опасные сцены вместо актёра?|Каскадёр|Режиссёр|Оператор|Гримёр
+en|Who performs dangerous scenes in place of an actor?|A stunt double|The director|The camera operator|The makeup artist
+es|¿Quién hace las escenas peligrosas en lugar del actor?|Un especialista (doble)|El director|El cámara|El maquillador
+ja|危険な場面を俳優の代わりに演じる人は？|スタントマン|監督|カメラマン|メイク係
+zh|代替演员完成危险镜头的人叫什么？|替身演员|导演|摄影师|化妆师
+#Q 3013 1 1 3
+ru|Где в фильмах Marvel прячут дополнительные сцены?|После титров|В трейлере|В самом начале|На отдельном диске
+en|Where do Marvel films hide extra scenes?|After the credits|In the trailer|At the very beginning|On a separate disc
+es|¿Dónde esconden las películas de Marvel sus escenas extra?|Después de los créditos|En el tráiler|Al principio|En un disco aparte
+ja|マーベル映画がおまけのシーンを入れていることが多いのはどこ？|エンドロールのあと|予告編の中|映画の冒頭|別のディスク
+zh|漫威电影通常把额外的彩蛋场景藏在哪里？|片尾字幕之后|预告片里|影片最开头|另一张光盘里
+#Q 3014 2 1 3
+ru|Как называется перевод фильма, при котором актёров переозвучивают на другом языке?|Субтитры|Дубляж|Синопсис|Монтаж
+en|What is it called when a film's actors are re-voiced in another language?|Subtitles|Dubbing|A synopsis|Editing
+es|¿Cómo se llama la traducción de una película en la que se vuelve a grabar la voz de los actores en otro idioma?|Subtítulos|Doblaje|Sinopsis|Montaje
+ja|映画の俳優の声を別の言語で録音し直すことを何という？|字幕|吹き替え|あらすじ|編集
+zh|把电影演员的声音换成另一种语言重新录制，叫作什么？|字幕|配音|剧情简介|剪辑
+#Q 3015 4 1 3
+ru|Какого цвета знаменитая мультяшная Пантера из мультфильмов 1960-х?|Чёрного|Жёлтого|Голубого|Розового
+en|What color is the famous cartoon Panther from the 1960s?|Black|Yellow|Blue|Pink
+es|¿De qué color es la famosa pantera de dibujos animados de los años 60?|Negra|Amarilla|Azul|Rosa
+ja|1960年代から続く有名なアニメの「パンサー」の色は？|黒|黄色|水色|ピンク
+zh|20世纪60年代起出名的那只卡通豹子是什么颜色的？|黑色|黄色|浅蓝色|粉红色
+#Q 3016 1 1 3
+ru|Как зовут розовую морскую звезду, лучшего друга Губки Боба?|Патрик|Сквидвард|Планктон|Гэри
+en|What is the name of the pink starfish who is SpongeBob's best friend?|Patrick|Squidward|Plankton|Gary
+es|¿Cómo se llama la estrella de mar rosa, mejor amiga de Bob Esponja?|Patricio|Calamardo|Plankton|Gary
+ja|スポンジ・ボブの親友のピンクのヒトデは？|パトリック|イカルド|プランクトン|ゲイリー
+zh|海绵宝宝最好的朋友、那只粉色海星叫什么？|派大星|章鱼哥|痞老板|小蜗
+#Q 3017 3 1 3
+ru|Как зовут мальчика, хозяина пса Снупи?|Линус|Кельвин|Чарли Браун|Барт
+en|What is the name of the boy who owns Snoopy?|Linus|Calvin|Charlie Brown|Bart
+es|¿Cómo se llama el niño dueño de Snoopy?|Linus|Calvin|Charlie Brown|Bart
+ja|スヌーピーの飼い主の男の子は？|ライナス|カルビン|チャーリー・ブラウン|バート
+zh|史努比的主人那个男孩叫什么？|莱纳斯|卡尔文|查理·布朗|巴特
+#Q 3018 4 2 3
+ru|У какой фирмы Койот заказывает все свои хитрые приспособления?|Wayne Enterprises|Umbrella|Stark Industries|ACME
+en|Which company does Wile E. Coyote order all his gadgets from?|Wayne Enterprises|Umbrella|Stark Industries|ACME
+es|¿A qué empresa encarga el Coyote todos sus artilugios?|Wayne Enterprises|Umbrella|Industrias Stark|ACME
+ja|ワイリー・コヨーテがいつも道具を注文している会社は？|ウェイン・エンタープライズ|アンブレラ社|スターク・インダストリーズ|ACME（アクメ）社
+zh|歪心狼的各种道具都是从哪家公司订购的？|韦恩企业|保护伞公司|斯塔克工业|ACME公司
+#Q 3019 2 2 3
+ru|Какой заикающийся поросёнок заканчивал мультфильмы Looney Tunes фразой «Вот и всё, ребята!»?|Даффи Дак|Порки Пиг|Элмер Фадд|Пепе Ле Пью
+en|Which stuttering pig ended Looney Tunes cartoons with "That's all, folks!"?|Daffy Duck|Porky Pig|Elmer Fudd|Pepé Le Pew
+es|¿Qué cerdito tartamudo terminaba los dibujos de Looney Tunes con «¡Eso es todo, amigos!»?|El pato Lucas|Porky|Elmer Gruñón|Pepe Le Pew
+ja|「That's all folks!（これでおしまい）」で、ルーニー・テューンズを締めくくっていたブタは？|ダフィー・ダック|ポーキー・ピッグ|エルマー・ファッド|ペペ・ル・ピュー
+zh|哪只结巴的小猪会用“That's all folks!”为《乐一通》动画收尾？|达菲鸭|猪小弟|艾默小猎人|臭鼬佩佩
+#Q 3020 3 2 3
+ru|Какой день недели ненавидит кот Гарфилд?|Пятницу|Субботу|Понедельник|Среду
+en|Which day of the week does Garfield hate?|Friday|Saturday|Monday|Wednesday
+es|¿Qué día de la semana odia Garfield?|El viernes|El sábado|El lunes|El miércoles
+ja|ガーフィールドが大嫌いな曜日は？|金曜日|土曜日|月曜日|水曜日
+zh|加菲猫最讨厌一周中的哪一天？|星期五|星期六|星期一|星期三
+#Q 3021 2 2 3
+ru|Какой породы пёс Снупи?|Такса|Бигль|Бассет|Далматин
+en|What breed is Snoopy?|Dachshund|Beagle|Basset hound|Dalmatian
+es|¿De qué raza es Snoopy?|Teckel|Beagle|Basset|Dálmata
+ja|スヌーピーの犬種は？|ダックスフント|ビーグル|バセットハウンド|ダルメシアン
+zh|史努比是什么品种的狗？|腊肠犬|比格犬|巴吉度猎犬|斑点狗
+#Q 3022 1 2 3
+ru|Как зовут злого колдуна, который охотится на смурфиков?|Гаргамель|Джафар|Мерлин|Кощей
+en|What is the name of the evil wizard who hunts the Smurfs?|Gargamel|Jafar|Merlin|Koschei
+es|¿Cómo se llama el malvado brujo que persigue a los Pitufos?|Gargamel|Jafar|Merlín|Koschéi
+ja|スマーフたちを狙う悪い魔法使いの名前は？|ガーガメル|ジャファー|マーリン|コシチェイ
+zh|追捕蓝精灵的邪恶巫师叫什么？|格格巫|贾方|梅林|科谢伊
+#Q 3023 3 2 3
+ru|В честь кого названы черепашки-ниндзя?|В честь японских самураев|В честь римских императоров|В честь художников эпохи Возрождения|В честь греческих богов
+en|Who are the Ninja Turtles named after?|Japanese samurai|Roman emperors|Renaissance artists|Greek gods
+es|¿En honor a quién se llaman las Tortugas Ninja?|A samuráis japoneses|A emperadores romanos|A artistas del Renacimiento|A dioses griegos
+ja|ミュータント・タートルズの4人の名前の由来は？|日本の侍|ローマ皇帝|ルネサンスの芸術家|ギリシャ神話の神々
+zh|忍者神龟的名字来自哪些人？|日本武士|罗马皇帝|文艺复兴时期的艺术家|希腊诸神
+#Q 3024 1 2 3
+ru|Каким животным является учитель черепашек-ниндзя, мастер Сплинтер?|Крысой|Черепахой|Котом|Енотом
+en|What animal is the Ninja Turtles' teacher, Master Splinter?|A rat|A turtle|A cat|A raccoon
+es|¿Qué animal es el maestro de las Tortugas Ninja, Splinter?|Una rata|Una tortuga|Un gato|Un mapache
+ja|ミュータント・タートルズの師匠スプリンターは何の動物？|ネズミ|カメ|猫|アライグマ
+zh|忍者神龟的师父斯普林特大师是什么动物？|老鼠|乌龟|猫|浣熊
+#Q 3025 3 2 3
+ru|Кем тайно является утконос Перри из «Финеса и Ферба»?|Учёным-злодеем|Рок-звездой|Секретным агентом|Пришельцем
+en|What is Perry the Platypus from Phineas and Ferb secretly?|An evil scientist|A rock star|A secret agent|An alien
+es|¿Qué es en secreto Perry el ornitorrinco, de Phineas y Ferb?|Un científico malvado|Una estrella del rock|Un agente secreto|Un extraterrestre
+ja|「フィニアスとファーブ」のカモノハシのペリーの正体は？|悪の科学者|ロックスター|秘密エージェント|宇宙人
+zh|《飞哥与小佛》中的鸭嘴兽泰瑞的秘密身份是什么？|邪恶科学家|摇滚明星|秘密特工|外星人
+#Q 3026 3 2 3
+ru|Каким животным является Джейк из «Времени приключений»?|Котом|Медведем|Собакой|Драконом
+en|What animal is Jake from Adventure Time?|A cat|A bear|A dog|A dragon
+es|¿Qué animal es Jake, de Hora de aventuras?|Un gato|Un oso|Un perro|Un dragón
+ja|「アドベンチャー・タイム」のジェイクは何の動物？|猫|クマ|犬|ドラゴン
+zh|《探险活宝》中的老皮是什么动物？|猫|熊|狗|龙
+#Q 3027 3 2 3
+ru|Что позволяет Бену Теннисону превращаться в инопланетян?|Волшебное кольцо|Кристалл силы|Часы Омнитрикс|Инопланетный шлем
+en|What lets Ben Tennyson transform into aliens?|A magic ring|A power crystal|The Omnitrix watch|An alien helmet
+es|¿Qué permite a Ben Tennyson transformarse en alienígenas?|Un anillo mágico|Un cristal de poder|El reloj Omnitrix|Un casco alienígena
+ja|ベン・テニスンが宇宙人に変身するための道具は？|魔法の指輪|力のクリスタル|腕時計型のオムニトリックス|宇宙人のヘルメット
+zh|少年骇客小班靠什么变身成外星人？|魔法戒指|能量水晶|手表Omnitrix|外星头盔
+#Q 3028 1 2 3
+ru|Из какой страны мультсериал про собаку Блуи?|Австралия|Канада|Великобритания|Новая Зеландия
+en|Which country is the cartoon about the dog Bluey from?|Australia|Canada|The United Kingdom|New Zealand
+es|¿De qué país es la serie de dibujos de la perrita Bluey?|Australia|Canadá|Reino Unido|Nueva Zelanda
+ja|犬のブルーイのアニメはどこの国の作品？|オーストラリア|カナダ|イギリス|ニュージーランド
+zh|关于小狗布鲁伊的动画片来自哪个国家？|澳大利亚|加拿大|英国|新西兰
+#Q 3029 3 2 3
+ru|В каком городе живёт супергероиня Леди Баг?|В Риме|В Нью-Йорке|В Париже|В Лондоне
+en|In which city does the superheroine Ladybug live?|Rome|New York|Paris|London
+es|¿En qué ciudad vive la superheroína Ladybug?|Roma|Nueva York|París|Londres
+ja|スーパーヒロインのレディバグが住んでいる街は？|ローマ|ニューヨーク|パリ|ロンドン
+zh|超级英雄瓢虫雷迪住在哪座城市？|罗马|纽约|巴黎|伦敦
+#Q 3030 1 2 3
+ru|Кем являются героини мультсериала «Клуб Винкс»?|Феями|Ведьмами|Русалками|Принцессами-воительницами
+en|What are the heroines of Winx Club?|Fairies|Witches|Mermaids|Warrior princesses
+es|¿Qué son las protagonistas de Winx Club?|Hadas|Brujas|Sirenas|Princesas guerreras
+ja|「ウィンクス・クラブ」の主人公たちは何者？|妖精|魔女|人魚|戦士の王女
+zh|动画《Winx Club》的女主角们是什么？|仙女|女巫|美人鱼|女战士公主
+#Q 3031 3 2 3
+ru|Кто за кем гоняется в мультфильме «Ну, погоди!»?|Кот за Мышью|Лиса за Колобком|Волк за Зайцем|Медведь за Машей
+en|Who chases whom in the Soviet cartoon Nu, pogodi!?|The Cat chases the Mouse|The Fox chases the Bun|The Wolf chases the Hare|The Bear chases Masha
+es|¿Quién persigue a quién en los dibujos soviéticos ¡Nu, pogodí!?|El gato al ratón|La zorra al panecillo|El lobo a la liebre|El oso a Masha
+ja|ソ連のアニメ「ヌー・パガジー（今に見てろ！）」で、追いかけているのは誰と誰？|猫がネズミを|キツネがパンを|オオカミがウサギを|クマがマーシャを
+zh|苏联动画《兔子，等着瞧！》中是谁在追谁？|猫追老鼠|狐狸追小面包|狼追兔子|熊追玛莎
+#Q 3032 4 2 3
+ru|Кто лучший друг Чебурашки?|Кот Матроскин|Винни-Пух|Карлсон|Крокодил Гена
+en|Who is Cheburashka's best friend?|Matroskin the Cat|Winnie the Pooh|Karlsson|Gena the Crocodile
+es|¿Quién es el mejor amigo de Cheburashka?|El gato Matroskin|Winnie the Pooh|Karlsson|El cocodrilo Guena
+ja|チェブラーシカの親友は？|猫のマトロースキン|くまのプーさん|カールソン|ワニのゲーナ
+zh|切布拉什卡最好的朋友是谁？|猫马特罗斯金|小熊维尼|卡尔松|鳄鱼根纳
+#Q 3033 1 2 3
+ru|Откуда выползает призрак Садако в японском фильме ужасов «Звонок»?|Из экрана телевизора|Из колодца в саду|Из шкафа|Из зеркала
+en|Where does the ghost Sadako crawl out of in the Japanese horror film Ring?|A TV screen|A garden well|A wardrobe|A mirror
+es|¿De dónde sale arrastrándose el fantasma Sadako en la película japonesa de terror The Ring?|De la pantalla de un televisor|De un pozo del jardín|De un armario|De un espejo
+ja|映画「リング」のクライマックスで、貞子がはい出してくるのは？|テレビの画面|庭の井戸|押し入れ|鏡
+zh|日本恐怖片《午夜凶铃》中，贞子从哪里爬出来？|电视屏幕|院子里的井|衣柜|镜子
+#Q 3034 1 2 3
+ru|Как зовут ворчливого соседа Губки Боба, который играет на кларнете?|Сквидвард|Патрик|Мистер Крабс|Планктон
+en|What is the name of SpongeBob's grumpy neighbor who plays the clarinet?|Squidward|Patrick|Mr. Krabs|Plankton
+es|¿Cómo se llama el gruñón vecino de Bob Esponja que toca el clarinete?|Calamardo|Patricio|Don Cangrejo|Plankton
+ja|クラリネットを吹く、スポンジ・ボブの不機嫌なお隣さんは？|イカルド|パトリック|カーニさん|プランクトン
+zh|海绵宝宝那位爱吹单簧管、脾气暴躁的邻居是谁？|章鱼哥|派大星|蟹老板|痞老板
+#Q 3035 2 2 3
+ru|Как называется фильм о событиях, которые произошли ДО оригинального фильма?|Сиквел|Приквел|Ремейк|Ребут
+en|What is a film about events that happened BEFORE the original called?|A sequel|A prequel|A remake|A reboot
+es|¿Cómo se llama una película sobre hechos ocurridos ANTES de la original?|Secuela|Precuela|Remake|Reinicio
+ja|元の作品より前の出来事を描いた作品を何という？|続編（シークエル）|前日譚（プリクエル）|リメイク|リブート
+zh|讲述原作之前所发生事件的电影叫什么？|续集|前传|翻拍|重启
+#Q 3036 1 2 3
+ru|Как называется короткое появление знаменитости в фильме в роли самого себя или эпизодической роли?|Камео|Дубляж|Флешбэк|Спойлер
+en|What is a brief appearance by a famous person in a film called?|A cameo|Dubbing|A flashback|A spoiler
+es|¿Cómo se llama la breve aparición de una persona famosa en una película?|Cameo|Doblaje|Flashback|Spoiler
+ja|有名人が映画にちょっとだけ登場することを何という？|カメオ出演|吹き替え|フラッシュバック|ネタバレ
+zh|名人在电影中短暂露面叫什么？|客串|配音|闪回|剧透
+#Q 3037 1 2 3
+ru|Зачем актёров часто снимают на зелёном фоне?|Чтобы потом заменить фон компьютерной графикой|Чтобы актёры меньше уставали|Так лучше видна мимика|Для экономии электричества
+en|Why are actors often filmed in front of a green screen?|So the background can later be replaced with computer graphics|So the actors get less tired|To show facial expressions better|To save electricity
+es|¿Por qué se graba a menudo a los actores delante de un fondo verde?|Para cambiar después el fondo por efectos digitales|Para que los actores se cansen menos|Para que se vean mejor sus gestos|Para ahorrar electricidad
+ja|俳優をよく緑色の背景の前で撮影するのはなぜ？|あとで背景をCGに差し替えるため|俳優が疲れにくいから|表情がよく見えるから|電気代を節約するため
+zh|为什么经常让演员在绿色背景前拍摄？|方便之后用电脑特效替换背景|让演员不那么累|让表情更清楚|为了省电
+#Q 3038 2 2 3
+ru|Для чего на съёмках щёлкают хлопушкой?|Чтобы разбудить актёров|Чтобы потом совместить звук и изображение|Чтобы отпугнуть птиц|Чтобы объявить перерыв
+en|Why is a clapperboard snapped on a film set?|To wake up the actors|To sync the sound with the picture later|To scare away birds|To announce a break
+es|¿Para qué se usa la claqueta en un rodaje?|Para despertar a los actores|Para sincronizar después el sonido con la imagen|Para espantar pájaros|Para anunciar un descanso
+ja|撮影現場でカチンコを鳴らすのは何のため？|俳優を起こすため|あとで音と映像を合わせるため|鳥を追い払うため|休憩を知らせるため
+zh|拍电影时为什么要打场记板？|叫醒演员|为了之后让声音和画面对上|赶走鸟|宣布休息
+#Q 3039 2 3 3
+ru|Какое вещество случайно добавили в рецепт, создав Суперкрошек?|Чудо-мёд|Химикат X|Звёздную пыль|Волшебное молоко
+en|Which ingredient was accidentally added to the recipe that created the Powerpuff Girls?|Miracle honey|Chemical X|Stardust|Magic milk
+es|¿Qué ingrediente se añadió por accidente a la receta que creó a las Supernenas?|Miel milagrosa|La sustancia X|Polvo de estrellas|Leche mágica
+ja|パワーパフ ガールズを生み出したレシピに、うっかり加えられたものは？|奇跡のはちみつ|ケミカルX|星くず|魔法のミルク
+zh|制造飞天小女警时，配方里意外加入了什么？|神奇蜂蜜|X化学物质|星尘|魔法牛奶
+#Q 3040 3 3 3
+ru|Как выглядит демон Билл Шифр из «Гравити Фолз»?|Как красный шар|Как чёрный кот|Как жёлтый треугольник с одним глазом|Как синий куб
+en|What does the demon Bill Cipher from Gravity Falls look like?|A red ball|A black cat|A one-eyed yellow triangle|A blue cube
+es|¿Qué aspecto tiene el demonio Bill Cipher de Gravity Falls?|Una bola roja|Un gato negro|Un triángulo amarillo con un solo ojo|Un cubo azul
+ja|「グラビティフォールズ」の悪魔ビル・サイファーの姿は？|赤いボール|黒い猫|一つ目の黄色い三角形|青い立方体
+zh|《怪诞小镇》中的恶魔比尔·赛弗长什么样？|红色圆球|黑猫|独眼的黄色三角形|蓝色立方体
+#Q 3041 2 3 3
+ru|Как зовут кота из мультфильмов про Простоквашино?|Леопольд|Матроскин|Гав|Базилио
+en|What is the name of the cat in the Soviet Prostokvashino cartoons?|Leopold|Matroskin|Gav|Basilio
+es|¿Cómo se llama el gato de los dibujos soviéticos de Prostokváshino?|Leopold|Matroskin|Gav|Basilio
+ja|ソ連のアニメ「プロストクワシノ村」に出てくる猫の名前は？|レオポルド|マトロースキン|ガフ|バジリオ
+zh|苏联动画《普罗斯托克瓦希诺》里那只猫叫什么？|利奥波德|马特罗斯金|嘎夫|巴西里奥
+#Q 3042 1 3 3
+ru|В какой праздник происходит действие советского фильма «Ирония судьбы, или С лёгким паром!»?|В Новый год|В Рождество|В День Победы|В 8 Марта
+en|On which holiday does the Soviet film The Irony of Fate take place?|New Year's Eve|Christmas|Victory Day|Women's Day
+es|¿En qué fiesta transcurre la película soviética La ironía del destino?|En Nochevieja|En Navidad|En el Día de la Victoria|En el Día de la Mujer
+ja|ソ連映画「運命の皮肉」の物語が起こるのは、どの祝日？|大晦日（新年）|クリスマス|戦勝記念日|国際女性デー
+zh|苏联电影《命运的捉弄》的故事发生在哪个节日？|新年前夜|圣诞节|胜利日|妇女节
+#Q 3043 4 3 3
+ru|Какой советский фильм получил «Оскар» в 1981 году?|«Ирония судьбы»|«Летят журавли»|«Солярис»|«Москва слезам не верит»
+en|Which Soviet film won an Oscar in 1981?|The Irony of Fate|The Cranes Are Flying|Solaris|Moscow Does Not Believe in Tears
+es|¿Qué película soviética ganó un Óscar en 1981?|La ironía del destino|Cuando pasan las cigüeñas|Solaris|Moscú no cree en las lágrimas
+ja|1981年にアカデミー賞を受賞したソ連映画は？|運命の皮肉|鶴は翔んでゆく|惑星ソラリス|モスクワは涙を信じない
+zh|哪部苏联电影获得了1981年的奥斯卡奖？|命运的捉弄|雁南飞|索拉里斯|莫斯科不相信眼泪
+#Q 3044 1 3 3
+ru|Кто снял фильм «Броненосец „Потёмкин“»?|Сергей Эйзенштейн|Андрей Тарковский|Сергей Бондарчук|Эльдар Рязанов
+en|Who directed Battleship Potemkin?|Sergei Eisenstein|Andrei Tarkovsky|Sergei Bondarchuk|Eldar Ryazanov
+es|¿Quién dirigió El acorazado Potemkin?|Serguéi Eisenstein|Andréi Tarkovski|Serguéi Bondarchuk|Eldar Riazánov
+ja|映画「戦艦ポチョムキン」の監督は？|セルゲイ・エイゼンシュテイン|アンドレイ・タルコフスキー|セルゲイ・ボンダルチュク|エリダル・リャザーノフ
+zh|电影《战舰波将金号》是谁导演的？|谢尔盖·爱森斯坦|安德烈·塔可夫斯基|谢尔盖·邦达尔丘克|埃利达尔·梁赞诺夫
+#Q 3045 1 3 3
+ru|Кто снял фильм «Семь самураев»?|Акира Куросава|Такэси Китано|Ясудзиро Одзу|Хаяо Миядзаки
+en|Who directed Seven Samurai?|Akira Kurosawa|Takeshi Kitano|Yasujiro Ozu|Hayao Miyazaki
+es|¿Quién dirigió Los siete samuráis?|Akira Kurosawa|Takeshi Kitano|Yasujiro Ozu|Hayao Miyazaki
+ja|映画「七人の侍」の監督は？|黒澤明|北野武|小津安二郎|宮崎駿
+zh|电影《七武士》是谁导演的？|黑泽明|北野武|小津安二郎|宫崎骏
+#Q 3046 2 3 3
+ru|Кто снял фильм «Крадущийся тигр, затаившийся дракон»?|Чжан Имоу|Энг Ли|Джон Ву|Вонг Карвай
+en|Who directed Crouching Tiger, Hidden Dragon?|Zhang Yimou|Ang Lee|John Woo|Wong Kar-wai
+es|¿Quién dirigió Tigre y dragón?|Zhang Yimou|Ang Lee|John Woo|Wong Kar-wai
+ja|映画「グリーン・デスティニー」（臥虎蔵龍）の監督は？|チャン・イーモウ|アン・リー|ジョン・ウー|ウォン・カーウァイ
+zh|电影《卧虎藏龙》是谁导演的？|张艺谋|李安|吴宇森|王家卫
+#Q 3047 2 3 3
+ru|Кто снял «Лабиринт фавна»?|Педро Альмодовар|Гильермо дель Торо|Альфонсо Куарон|Алехандро Аменабар
+en|Who directed Pan's Labyrinth?|Pedro Almodóvar|Guillermo del Toro|Alfonso Cuarón|Alejandro Amenábar
+es|¿Quién dirigió El laberinto del fauno?|Pedro Almodóvar|Guillermo del Toro|Alfonso Cuarón|Alejandro Amenábar
+ja|映画「パンズ・ラビリンス」の監督は？|ペドロ・アルモドバル|ギレルモ・デル・トロ|アルフォンソ・キュアロン|アレハンドロ・アメナーバル
+zh|电影《潘神的迷宫》是谁导演的？|佩德罗·阿莫多瓦|吉尔莫·德尔·托罗|阿方索·卡隆|亚历杭德罗·阿梅纳瓦尔
+#Q 3048 4 3 3
+ru|Какая премия вручается за худшие фильмы и роли года?|«Золотой глобус»|«Золотой медведь»|«Золотая пальмовая ветвь»|«Золотая малина»
+en|Which award is given for the worst films and performances of the year?|The Golden Globe|The Golden Bear|The Palme d'Or|The Golden Raspberry
+es|¿Qué premio se da a las peores películas e interpretaciones del año?|El Globo de Oro|El Oso de Oro|La Palma de Oro|Los Razzie (Frambuesa de Oro)
+ja|その年の最低の映画や演技に贈られる賞は？|ゴールデングローブ賞|金熊賞|パルム・ドール|ゴールデンラズベリー賞
+zh|颁给年度最烂电影和表演的奖项是什么？|金球奖|金熊奖|金棕榈奖|金酸莓奖
+#Q 3049 1 3 3
+ru|Какую главную награду вручают на Берлинском кинофестивале?|«Золотой медведь»|«Золотой лев»|«Золотая пальмовая ветвь»|«Золотой орёл»
+en|What is the top prize at the Berlin Film Festival?|The Golden Bear|The Golden Lion|The Palme d'Or|The Golden Eagle
+es|¿Cuál es el premio principal del Festival de Cine de Berlín?|El Oso de Oro|El León de Oro|La Palma de Oro|El Águila de Oro
+ja|ベルリン国際映画祭の最高賞は？|金熊賞|金獅子賞|パルム・ドール|金鷲賞
+zh|柏林电影节的最高奖项是什么？|金熊奖|金狮奖|金棕榈奖|金鹰奖
+#Q 3050 2 3 3
+ru|Сколько кадров в секунду обычно показывают в кино?|12|24|48|60
+en|How many frames per second are usually shown in cinema?|12|24|48|60
+es|¿Cuántos fotogramas por segundo se proyectan normalmente en el cine?|12|24|48|60
+ja|映画は通常、1秒間に何コマで上映される？|12コマ|24コマ|48コマ|60コマ
+zh|电影通常每秒放映多少帧？|12帧|24帧|48帧|60帧
+#Q 3051 4 1 3
+ru|Кто такая Динь-Динь из «Питера Пэна»?|Русалка|Индейская принцесса|Ведьма|Маленькая фея
+en|Who is Tinker Bell in Peter Pan?|A mermaid|A Native American princess|A witch|A little fairy
+es|¿Quién es Campanilla en Peter Pan?|Una sirena|Una princesa india|Una bruja|Un hada pequeña
+ja|「ピーター・パン」のティンカー・ベルは何者？|人魚|先住民の王女|魔女|小さな妖精
+zh|《小飞侠》中的小叮当是什么？|美人鱼|印第安公主|女巫|小仙子
+#Q 3052 3 1 3
+ru|Кого больше всего боится капитан Крюк?|Акулы|Осьминога|Крокодила|Чайки
+en|What is Captain Hook most afraid of?|A shark|An octopus|A crocodile|A seagull
+es|¿A qué le tiene más miedo el Capitán Garfio?|A un tiburón|A un pulpo|A un cocodrilo|A una gaviota
+ja|フック船長が何より怖がっているのは？|サメ|タコ|ワニ|カモメ
+zh|虎克船长最害怕什么？|鲨鱼|章鱼|鳄鱼|海鸥
+#Q 3053 3 1 3
+ru|Каким животным является весёлый Балу из «Книги джунглей»?|Тигром|Пантерой|Медведем|Слоном
+en|What animal is the fun-loving Baloo in The Jungle Book?|A tiger|A panther|A bear|An elephant
+es|¿Qué animal es el alegre Baloo de El libro de la selva?|Un tigre|Una pantera|Un oso|Un elefante
+ja|「ジャングル・ブック」の陽気なバルーは何の動物？|トラ|ヒョウ|クマ|ゾウ
+zh|《森林王子》中快活的巴鲁是什么动物？|老虎|黑豹|熊|大象
+#Q 3054 1 1 3
+ru|Чем знаменит Чеширский кот из «Алисы в Стране чудес»?|Широкой улыбкой|Длинными усами|Цилиндром на голове|Карманными часами
+en|What is the Cheshire Cat from Alice in Wonderland famous for?|His wide grin|His long whiskers|His top hat|His pocket watch
+es|¿Por qué es famoso el Gato de Cheshire de Alicia en el país de las maravillas?|Por su amplia sonrisa|Por sus largos bigotes|Por su chistera|Por su reloj de bolsillo
+ja|「ふしぎの国のアリス」のチェシャ猫といえば？|ニヤニヤ笑い|長いヒゲ|シルクハット|懐中時計
+zh|《爱丽丝梦游仙境》中的柴郡猫以什么著称？|咧嘴大笑|长胡须|大礼帽|怀表
+#Q 3055 1 1 3
+ru|Что потеряла Золушка, убегая с бала?|Хрустальную туфельку|Корону|Перчатку|Ожерелье
+en|What did Cinderella lose while running away from the ball?|A glass slipper|A crown|A glove|A necklace
+es|¿Qué perdió Cenicienta al huir del baile?|Un zapato de cristal|Una corona|Un guante|Un collar
+ja|舞踏会から逃げるとき、シンデレラが落としたものは？|ガラスの靴|王冠|手袋|ネックレス
+zh|灰姑娘从舞会逃走时丢了什么？|水晶鞋|王冠|手套|项链
+#Q 3056 3 1 3
+ru|Сколько гномов жили с Белоснежкой?|5|6|7|9
+en|How many dwarfs did Snow White live with?|5|6|7|9
+es|¿Con cuántos enanitos vivía Blancanieves?|5|6|7|9
+ja|白雪姫が一緒に暮らしたこびとは何人？|5人|6人|7人|9人
+zh|白雪公主和几个小矮人住在一起？|5个|6个|7个|9个
+#Q 3057 2 1 3
+ru|Как зовут зелёного лягушонка из «Маппет-шоу»?|Гонзо|Кермит|Фоззи|Анимал
+en|What is the name of the green frog from The Muppet Show?|Gonzo|Kermit|Fozzie|Animal
+es|¿Cómo se llama la rana verde de los Teleñecos (The Muppet Show)?|Gonzo|La rana Gustavo|Fozzie|Animal
+ja|「マペット・ショー」の緑色のカエルの名前は？|ゴンゾ|カーミット|フォジー|アニマル
+zh|《大青蛙布偶秀》中的绿色青蛙叫什么？|冈佐|科米蛙|福滋熊|动物
+#Q 3058 2 1 3
+ru|Что больше всего любит есть Коржик из «Улицы Сезам»?|Морковь|Печенье|Мороженое|Пиццу
+en|What does Cookie Monster from Sesame Street love to eat most?|Carrots|Cookies|Ice cream|Pizza
+es|¿Qué es lo que más le gusta comer al Monstruo de las Galletas de Barrio Sésamo?|Zanahorias|Galletas|Helado|Pizza
+ja|「セサミストリート」のクッキーモンスターの大好物は？|ニンジン|クッキー|アイスクリーム|ピザ
+zh|《芝麻街》中的饼干怪兽最爱吃什么？|胡萝卜|饼干|冰淇淋|披萨
+#Q 3059 3 1 3
+ru|Как зовут маленького поросёнка, друга Винни-Пуха?|Иа|Тигра|Пятачок|Кролик
+en|What is the name of Winnie the Pooh's little pig friend?|Eeyore|Tigger|Piglet|Rabbit
+es|¿Cómo se llama el cerdito amigo de Winnie the Pooh?|Ígor|Tigger|Piglet|Conejo
+ja|くまのプーさんの友達の子ブタの名前は？|イーヨー|ティガー|ピグレット|ラビット
+zh|小熊维尼的小猪朋友叫什么？|屹耳|跳跳虎|小猪皮杰|瑞比
+#Q 3060 2 1 3
+ru|Чем Человек-паук стреляет из запястий?|Лазером|Паутиной|Огнём|Льдом
+en|What does Spider-Man shoot from his wrists?|Lasers|Webs|Fire|Ice
+es|¿Qué dispara Spider-Man desde las muñecas?|Láseres|Telarañas|Fuego|Hielo
+ja|スパイダーマンが手首から発射するものは？|レーザー|クモの糸|炎|氷
+zh|蜘蛛侠从手腕射出的是什么？|激光|蛛丝|火焰|冰
+#Q 3061 3 1 3
+ru|Какая буква изображена на груди Супермена?|M|K|S|X
+en|Which letter is on Superman's chest?|M|K|S|X
+es|¿Qué letra lleva Superman en el pecho?|M|K|S|X
+ja|スーパーマンの胸に描かれているアルファベットは？|M|K|S|X
+zh|超人胸前印着哪个字母？|M|K|S|X
+#Q 3062 3 1 3
+ru|Как зовут клоуна-монстра из фильма «Оно» по роману Стивена Кинга?|Джокер|Чаки|Пеннивайз|Бозо
+en|What is the name of the monster clown in It, based on Stephen King's novel?|The Joker|Chucky|Pennywise|Bozo
+es|¿Cómo se llama el payaso monstruoso de It, basada en la novela de Stephen King?|El Joker|Chucky|Pennywise|Bozo
+ja|スティーヴン・キング原作の映画「IT／イット」に出てくるピエロの怪物は？|ジョーカー|チャッキー|ペニーワイズ|ボゾ
+zh|根据斯蒂芬·金小说改编的《小丑回魂》中，那个小丑怪物叫什么？|小丑|恰吉|潘尼怀斯|博佐
+#Q 3063 3 1 3
+ru|Где нападает на своих жертв Фредди Крюгер?|В лифте|В душе|Во сне|В лесу
+en|Where does Freddy Krueger attack his victims?|In an elevator|In the shower|In their dreams|In the woods
+es|¿Dónde ataca Freddy Krueger a sus víctimas?|En un ascensor|En la ducha|En sus sueños|En el bosque
+ja|フレディ・クルーガーが犠牲者を襲う場所は？|エレベーター|シャワー室|夢の中|森の中
+zh|弗莱迪·克鲁格在哪里袭击受害者？|在电梯里|在浴室|在梦里|在树林里
+#Q 3064 3 1 3
+ru|Кто такой Каспер из одноимённого фильма и мультфильма?|Злой колдун|Говорящий кот|Дружелюбное привидение|Робот
+en|Who is Casper, from the film and cartoon of the same name?|An evil wizard|A talking cat|A friendly ghost|A robot
+es|¿Quién es Casper, de la película y los dibujos del mismo nombre?|Un brujo malvado|Un gato que habla|Un fantasma amistoso|Un robot
+ja|映画やアニメの「キャスパー」とは？|悪い魔法使い|しゃべる猫|人なつっこいおばけ|ロボット
+zh|电影和动画《Casper》中的卡斯珀是什么？|邪恶的巫师|会说话的猫|友善的小幽灵|机器人
+#Q 3065 3 1 3
+ru|Кто хозяин отеля для чудовищ в мультфильме «Монстры на каникулах»?|Франкенштейн|Человек-волк|Дракула|Мумия
+en|Who owns the hotel for monsters in Hotel Transylvania?|Frankenstein|The Wolfman|Dracula|The Mummy
+es|¿Quién es el dueño del hotel para monstruos en Hotel Transilvania?|Frankenstein|El hombre lobo|Drácula|La momia
+ja|映画「モンスター・ホテル」で、モンスターのためのホテルを経営しているのは？|フランケンシュタイン|狼男|ドラキュラ|ミイラ男
+zh|电影《精灵旅社》中，怪物旅馆的老板是谁？|弗兰肯斯坦|狼人|德古拉|木乃伊
+#Q 3066 1 1 3
+ru|Какого цвета костюм у Флэша?|Красного|Синего|Зелёного|Чёрного
+en|What color is the Flash's suit?|Red|Blue|Green|Black
+es|¿De qué color es el traje de Flash?|Rojo|Azul|Verde|Negro
+ja|フラッシュのスーツの色は？|赤|青|緑|黒
+zh|闪电侠的战衣是什么颜色？|红色|蓝色|绿色|黑色
+#Q 3067 4 2 3
+ru|На что похоже лицо Дейви Джонса из «Пиратов Карибского моря»?|На череп|На рыбью голову|На маску из ракушек|На морду осьминога со щупальцами
+en|What does Davy Jones's face look like in Pirates of the Caribbean?|A skull|A fish head|A mask of shells|An octopus with tentacles
+es|¿A qué se parece la cara de Davy Jones en Piratas del Caribe?|A una calavera|A una cabeza de pez|A una máscara de conchas|A un pulpo con tentáculos
+ja|「パイレーツ・オブ・カリビアン」のデイヴィ・ジョーンズの顔はどんな姿？|ガイコツ|魚の頭|貝殻のお面|触手のあるタコのよう
+zh|《加勒比海盗》中戴维·琼斯的脸长什么样？|骷髅|鱼头|贝壳面具|长着触须的章鱼
+#Q 3068 2 2 3
+ru|Куда указывает волшебный компас Джека Воробья?|Всегда на север|На то, чего хозяин хочет больше всего|На ближайший клад|На берег
+en|Where does Jack Sparrow's magic compass point?|Always north|To what its owner wants most|To the nearest treasure|To the shore
+es|¿Hacia dónde apunta la brújula mágica de Jack Sparrow?|Siempre al norte|Hacia lo que su dueño más desea|Al tesoro más cercano|A la costa
+ja|ジャック・スパロウの魔法のコンパスが指すのは？|いつも北|持ち主がいちばん欲しいもの|いちばん近い宝|陸地
+zh|杰克·斯派洛的魔法罗盘指向哪里？|永远指北|持有者最想要的东西|最近的宝藏|海岸
+#Q 3069 4 2 3
+ru|Что происходит с вампирами из «Сумерек» на солнце?|Они сгорают|Они засыпают|Они становятся невидимыми|Их кожа сверкает
+en|What happens to the vampires in Twilight in sunlight?|They burn up|They fall asleep|They become invisible|Their skin sparkles
+es|¿Qué les pasa a los vampiros de Crepúsculo bajo el sol?|Arden|Se duermen|Se vuelven invisibles|Su piel brilla
+ja|「トワイライト」の吸血鬼が日光を浴びるとどうなる？|燃えてしまう|眠ってしまう|透明になる|肌がキラキラ輝く
+zh|《暮光之城》里的吸血鬼晒到阳光会怎样？|被烧成灰|睡着|变成隐身|皮肤闪闪发光
+#Q 3070 1 2 3
+ru|Какая актриса сыграла Китнисс Эвердин в «Голодных играх»?|Дженнифер Лоуренс|Кристен Стюарт|Эмма Уотсон|Шейлин Вудли
+en|Which actress played Katniss Everdeen in The Hunger Games?|Jennifer Lawrence|Kristen Stewart|Emma Watson|Shailene Woodley
+es|¿Qué actriz interpretó a Katniss Everdeen en Los juegos del hambre?|Jennifer Lawrence|Kristen Stewart|Emma Watson|Shailene Woodley
+ja|「ハンガー・ゲーム」でカットニス・エバディーンを演じた女優は？|ジェニファー・ローレンス|クリステン・スチュワート|エマ・ワトソン|シェイリーン・ウッドリー
+zh|在《饥饿游戏》中饰演凯特尼斯·伊夫狄恩的女演员是谁？|詹妮弗·劳伦斯|克里斯汀·斯图尔特|艾玛·沃特森|谢琳·伍德蕾
+#Q 3071 1 2 3
+ru|Как называются маленькие работники шоколадной фабрики Вилли Вонки?|Умпа-лумпы|Миньоны|Смурфики|Гномы-садовники
+en|What are the little workers at Willy Wonka's chocolate factory called?|Oompa-Loompas|Minions|Smurfs|Garden gnomes
+es|¿Cómo se llaman los pequeños trabajadores de la fábrica de chocolate de Willy Wonka?|Oompa-Loompas|Minions|Pitufos|Gnomos de jardín
+ja|ウィリー・ウォンカのチョコレート工場で働く小さな人たちは？|ウンパルンパ|ミニオン|スマーフ|庭の小人
+zh|威利·旺卡巧克力工厂里的小个子工人叫什么？|奥柏伦柏人|小黄人|蓝精灵|花园小矮人
+#Q 3072 1 2 3
+ru|Кто такой Джек Скеллингтон из «Кошмара перед Рождеством»?|Король Хэллоуина|Санта-Клаус|Злой колдун|Снеговик
+en|Who is Jack Skellington in The Nightmare Before Christmas?|The Pumpkin King of Halloween Town|Santa Claus|An evil wizard|A snowman
+es|¿Quién es Jack Skellington en Pesadilla antes de Navidad?|El Rey Calabaza de Halloween|Papá Noel|Un brujo malvado|Un muñeco de nieve
+ja|「ナイトメアー・ビフォア・クリスマス」のジャック・スケリントンとは？|ハロウィン・タウンのかぼちゃ大王|サンタクロース|悪い魔法使い|雪だるま
+zh|《圣诞夜惊魂》中的杰克·斯凯林顿是谁？|万圣节小镇的南瓜王|圣诞老人|邪恶巫师|雪人
+#Q 3073 4 2 3
+ru|Какой актёр сыграл Эдварда Руки-ножницы?|Киану Ривз|Том Круз|Брэд Питт|Джонни Депп
+en|Which actor played Edward Scissorhands?|Keanu Reeves|Tom Cruise|Brad Pitt|Johnny Depp
+es|¿Qué actor interpretó a Eduardo Manostijeras?|Keanu Reeves|Tom Cruise|Brad Pitt|Johnny Depp
+ja|映画「シザーハンズ」でエドワードを演じた俳優は？|キアヌ・リーブス|トム・クルーズ|ブラッド・ピット|ジョニー・デップ
+zh|在《剪刀手爱德华》中饰演爱德华的演员是谁？|基努·里维斯|汤姆·克鲁斯|布拉德·皮特|约翰尼·德普
+#Q 3074 1 2 3
+ru|Какой актёр сыграл главную роль в «Оппенгеймере»?|Киллиан Мёрфи|Роберт Дауни-младший|Мэтт Дэймон|Кристиан Бейл
+en|Which actor played the title role in Oppenheimer?|Cillian Murphy|Robert Downey Jr.|Matt Damon|Christian Bale
+es|¿Qué actor interpretó al protagonista de Oppenheimer?|Cillian Murphy|Robert Downey Jr.|Matt Damon|Christian Bale
+ja|映画「オッペンハイマー」で主役を演じた俳優は？|キリアン・マーフィー|ロバート・ダウニー・Jr.|マット・デイモン|クリスチャン・ベール
+zh|在《奥本海默》中饰演主角的演员是谁？|基里安·墨菲|小罗伯特·唐尼|马特·达蒙|克里斯蒂安·贝尔
+#Q 3075 4 2 3
+ru|Какое ценное вещество добывают на планете Арракис в «Дюне»?|Золото|Нефть|Алмазы|Пряность
+en|What precious substance is harvested on the planet Arrakis in Dune?|Gold|Oil|Diamonds|Spice
+es|¿Qué preciada sustancia se extrae en el planeta Arrakis en Dune?|Oro|Petróleo|Diamantes|La especia
+ja|「DUNE/デューン」の惑星アラキスで採れる貴重な物質は？|金|石油|ダイヤモンド|スパイス（メランジ）
+zh|《沙丘》中厄拉科斯星出产的珍贵物质是什么？|黄金|石油|钻石|香料
+#Q 3076 4 2 3
+ru|Какой предмет помогает Коббу понять, спит он или нет, в фильме «Начало»?|Монета|Кольцо|Часы|Волчок
+en|Which object helps Cobb tell whether he is dreaming in Inception?|A coin|A ring|A watch|A spinning top
+es|¿Qué objeto ayuda a Cobb a saber si está soñando en Origen?|Una moneda|Un anillo|Un reloj|Una peonza
+ja|「インセプション」でコブが夢かどうかを確かめるために使う物は？|コイン|指輪|腕時計|コマ
+zh|在《盗梦空间》中，柯布用什么来判断自己是否在做梦？|硬币|戒指|手表|陀螺
+#Q 3077 2 2 3
+ru|О каком шоу рассказывает мюзикл «Величайший шоумен»?|О телевикторине|О цирке|О рок-концерте|О показе мод
+en|What kind of show is The Greatest Showman about?|A TV quiz|A circus|A rock concert|A fashion show
+es|¿Sobre qué tipo de espectáculo trata El gran showman?|Un concurso de televisión|Un circo|Un concierto de rock|Un desfile de moda
+ja|映画「グレイテスト・ショーマン」が描いているショーは？|テレビのクイズ番組|サーカス|ロックコンサート|ファッションショー
+zh|电影《The Greatest Showman》讲的是什么样的演出？|电视问答节目|马戏团|摇滚音乐会|时装秀
+#Q 3078 3 2 3
+ru|Какой актёр получил «Оскар» за роль Фредди Меркьюри в «Богемской рапсодии»?|Остин Батлер|Тарон Эджертон|Рами Малек|Эдди Редмэйн
+en|Which actor won an Oscar for playing Freddie Mercury in Bohemian Rhapsody?|Austin Butler|Taron Egerton|Rami Malek|Eddie Redmayne
+es|¿Qué actor ganó un Óscar por interpretar a Freddie Mercury en Bohemian Rhapsody?|Austin Butler|Taron Egerton|Rami Malek|Eddie Redmayne
+ja|「ボヘミアン・ラプソディ」でフレディ・マーキュリーを演じ、アカデミー賞を受賞したのは？|オースティン・バトラー|タロン・エジャトン|ラミ・マレック|エディ・レッドメイン
+zh|谁凭借在《波西米亚狂想曲》中饰演弗雷迪·默丘里获得了奥斯卡奖？|奥斯汀·巴特勒|塔伦·埃格顿|拉米·马雷克|埃迪·雷德梅恩
+#Q 3079 3 2 3
+ru|На каком инструменте играет герой фильма «Одержимость» (Whiplash)?|На саксофоне|На фортепиано|На барабанах|На трубе
+en|Which instrument does the hero of Whiplash play?|The saxophone|The piano|The drums|The trumpet
+es|¿Qué instrumento toca el protagonista de Whiplash?|El saxofón|El piano|La batería|La trompeta
+ja|映画「セッション」の主人公が演奏する楽器は？|サックス|ピアノ|ドラム|トランペット
+zh|电影《Whiplash》的主角演奏什么乐器？|萨克斯|钢琴|架子鼓|小号
+#Q 3080 3 2 3
+ru|Какой мастер боевых искусств сыграл главную роль в фильме «Выход Дракона»?|Джеки Чан|Джет Ли|Брюс Ли|Чак Норрис
+en|Which martial arts master starred in Enter the Dragon?|Jackie Chan|Jet Li|Bruce Lee|Chuck Norris
+es|¿Qué maestro de artes marciales protagonizó Operación Dragón?|Jackie Chan|Jet Li|Bruce Lee|Chuck Norris
+ja|映画「燃えよドラゴン」で主演した武術の達人は？|ジャッキー・チェン|ジェット・リー|ブルース・リー|チャック・ノリス
+zh|哪位武术大师主演了电影《龙争虎斗》？|成龙|李连杰|李小龙|查克·诺里斯
+#Q 3081 4 2 3
+ru|Что держит в руке клоун Пеннивайз?|Зонтик|Цветок|Букет конфет|Красный воздушный шарик
+en|What does the clown Pennywise hold in his hand?|An umbrella|A flower|A bunch of candy|A red balloon
+es|¿Qué lleva en la mano el payaso Pennywise?|Un paraguas|Una flor|Un ramo de caramelos|Un globo rojo
+ja|ピエロのペニーワイズが手に持っているものは？|傘|花|キャンディーの束|赤い風船
+zh|小丑潘尼怀斯手里拿着什么？|雨伞|一朵花|一把糖果|红气球
+#Q 3082 2 2 3
+ru|Какую маску носит маньяк Джейсон из фильмов «Пятница, 13-е»?|Клоунскую|Хоккейную|Белую театральную|Маску черепа
+en|What mask does the killer Jason wear in the Friday the 13th films?|A clown mask|A hockey mask|A white theater mask|A skull mask
+es|¿Qué máscara lleva el asesino Jason en las películas de Viernes 13?|Una de payaso|Una máscara de hockey|Una blanca de teatro|Una de calavera
+ja|「13日の金曜日」シリーズの殺人鬼ジェイソンがかぶっているマスクは？|ピエロのマスク|ホッケーマスク|白い演劇の仮面|ドクロのマスク
+zh|《十三号星期五》中的杀人狂杰森戴的是什么面具？|小丑面具|冰球面具|白色戏剧面具|骷髅面具
+#Q 3083 4 2 3
+ru|Какое главное правило ухода за могваем из «Гремлинов»?|Гулять с ним каждый день|Давать только молоко|Не выпускать на улицу днём без шапки|Никогда не кормить после полуночи
+en|What is the most important rule for looking after a mogwai in Gremlins?|Walk it every day|Give it only milk|Never let it out without a hat|Never feed it after midnight
+es|¿Cuál es la regla más importante para cuidar a un mogwai en Gremlins?|Sacarlo a pasear cada día|Darle solo leche|No sacarlo nunca sin gorro|No darle de comer nunca después de medianoche
+ja|「グレムリン」で、モグワイを飼うときの大切なルールは？|毎日散歩させる|牛乳だけを与える|帽子なしで外に出さない|真夜中を過ぎたら食べ物を与えない
+zh|电影《小精灵》中饲养魔怪最重要的规矩是什么？|每天带它散步|只给它喝牛奶|出门一定要戴帽子|午夜之后绝对不能喂食
+#Q 3084 3 2 3
+ru|Сколько раз нужно произнести имя Битлджуса, чтобы его вызвать?|1|2|3|7
+en|How many times must you say Beetlejuice's name to summon him?|1|2|3|7
+es|¿Cuántas veces hay que decir el nombre de Bitelchús para invocarlo?|1|2|3|7
+ja|ビートルジュースを呼び出すには、名前を何回唱える？|1回|2回|3回|7回
+zh|要召唤阴间大法师，需要说几遍他的名字？|1遍|2遍|3遍|7遍
+#Q 3085 4 2 3
+ru|Как зовут маму Уэнсдэй Аддамс?|Мэвис|Мойра|Матильда|Мортиша
+en|What is the name of Wednesday Addams's mother?|Mavis|Moira|Matilda|Morticia
+es|¿Cómo se llama la madre de Miércoles Addams?|Mavis|Moira|Matilda|Morticia
+ja|ウェンズデー・アダムスの母親の名前は？|メイヴィス|モイラ|マチルダ|モーティシア
+zh|星期三·亚当斯的妈妈叫什么名字？|梅菲斯|莫伊拉|玛蒂尔达|莫蒂西亚
+#Q 3086 3 2 3
+ru|Что вместо глаз у Другой мамы в мультфильме «Коралина в Стране Кошмаров»?|Монеты|Камешки|Пуговицы|Звёздочки
+en|What does the Other Mother have instead of eyes in Coraline?|Coins|Pebbles|Buttons|Stars
+es|¿Qué tiene la Otra Madre en lugar de ojos en Los mundos de Coraline?|Monedas|Piedrecitas|Botones|Estrellitas
+ja|映画「コラライン」で、「もう一人のママ」の目の代わりについているものは？|コイン|小石|ボタン|星
+zh|《鬼妈妈》中“另一个妈妈”的眼睛是什么做的？|硬币|小石子|纽扣|星星
+#Q 3087 3 3 3
+ru|Как зовут убийцу в белой маске из фильма «Хэллоуин» 1978 года?|Джейсон Вурхиз|Фредди Крюгер|Майкл Майерс|Гоустфейс
+en|What is the name of the white-masked killer in the 1978 film Halloween?|Jason Voorhees|Freddy Krueger|Michael Myers|Ghostface
+es|¿Cómo se llama el asesino de la máscara blanca en La noche de Halloween (1978)?|Jason Voorhees|Freddy Krueger|Michael Myers|Ghostface
+ja|1978年の映画「ハロウィン」に登場する白いマスクの殺人鬼は？|ジェイソン・ボーヒーズ|フレディ・クルーガー|マイケル・マイヤーズ|ゴーストフェイス
+zh|1978年电影《月光光心慌慌》中戴白色面具的杀人狂叫什么？|杰森·沃赫斯|弗莱迪·克鲁格|迈克尔·迈尔斯|鬼脸杀手
+#Q 3088 2 3 3
+ru|Какая фамилия у трёх сестёр-ведьм из фильма «Фокус-покус»?|Халливелл|Сандерсон|Аддамс|Оуэнс
+en|What is the family name of the three witch sisters in Hocus Pocus?|Halliwell|Sanderson|Addams|Owens
+es|¿Cuál es el apellido de las tres hermanas brujas de El retorno de las brujas (Hocus Pocus)?|Halliwell|Sanderson|Addams|Owens
+ja|映画「ホーカス ポーカス」の魔女三姉妹の姓は？|ハリウェル|サンダーソン|アダムス|オーウェンズ
+zh|电影《女巫也疯狂》中女巫三姐妹姓什么？|哈利维尔|桑德森|亚当斯|欧文斯
+#Q 3089 1 3 3
+ru|Из какой страны приехал в Лондон медвежонок Паддингтон?|Из Перу|Из Бразилии|Из Канады|Из Мексики
+en|Which country did Paddington Bear come to London from?|Peru|Brazil|Canada|Mexico
+es|¿De qué país llegó a Londres el oso Paddington?|De Perú|De Brasil|De Canadá|De México
+ja|くまのパディントンがロンドンへやって来たのはどこの国から？|ペルー|ブラジル|カナダ|メキシコ
+zh|帕丁顿熊是从哪个国家来到伦敦的？|秘鲁|巴西|加拿大|墨西哥
+#Q 3090 3 3 3
+ru|Кого сыграл Тимоти Шаламе в «Дюне»?|Лето Атрейдеса|Барона Харконнена|Пола Атрейдеса|Стилгара
+en|Whom did Timothée Chalamet play in Dune?|Leto Atreides|Baron Harkonnen|Paul Atreides|Stilgar
+es|¿A quién interpretó Timothée Chalamet en Dune?|A Leto Atreides|Al barón Harkonnen|A Paul Atreides|A Stilgar
+ja|「DUNE/デューン」でティモシー・シャラメが演じた人物は？|レト・アトレイデス|ハルコンネン男爵|ポール・アトレイデス|スティルガー
+zh|提莫西·查拉梅在《沙丘》中饰演的是谁？|雷托·厄崔迪|哈克南男爵|保罗·厄崔迪|斯第尔格
+#Q 3091 3 3 3
+ru|Какой композитор написал музыку к «Королю Льву», «Гладиатору» и «Интерстеллару»?|Джон Уильямс|Говард Шор|Ханс Циммер|Дэнни Эльфман
+en|Which composer scored The Lion King, Gladiator and Interstellar?|John Williams|Howard Shore|Hans Zimmer|Danny Elfman
+es|¿Qué compositor escribió la música de El rey león, Gladiator e Interstellar?|John Williams|Howard Shore|Hans Zimmer|Danny Elfman
+ja|「ライオン・キング」「グラディエーター」「インターステラー」の音楽を手がけた作曲家は？|ジョン・ウィリアムズ|ハワード・ショア|ハンス・ジマー|ダニー・エルフマン
+zh|为《狮子王》《角斗士》和《星际穿越》配乐的作曲家是谁？|约翰·威廉姆斯|霍华德·肖|汉斯·季默|丹尼·艾夫曼
+#Q 3092 3 3 3
+ru|Какой итальянский композитор прославился музыкой к вестернам, например «Хороший, плохой, злой»?|Нино Рота|Лучано Паваротти|Эннио Морриконе|Джузеппе Верди
+en|Which Italian composer became famous for western scores like The Good, the Bad and the Ugly?|Nino Rota|Luciano Pavarotti|Ennio Morricone|Giuseppe Verdi
+es|¿Qué compositor italiano se hizo famoso por la música de westerns como El bueno, el feo y el malo?|Nino Rota|Luciano Pavarotti|Ennio Morricone|Giuseppe Verdi
+ja|「続・夕陽のガンマン」など西部劇の音楽で有名になったイタリアの作曲家は？|ニーノ・ロータ|ルチアーノ・パヴァロッティ|エンニオ・モリコーネ|ジュゼッペ・ヴェルディ
+zh|哪位意大利作曲家因《黄金三镖客》等西部片配乐而闻名？|尼诺·罗塔|卢奇亚诺·帕瓦罗蒂|埃尼奥·莫里康内|朱塞佩·威尔第
+#Q 3093 2 3 3
+ru|В каком фильме прославился эффект, когда герой в замедленной съёмке уворачивается от пуль?|«Терминатор 2»|«Матрица»|«Крепкий орешек»|«Начало»
+en|Which film made famous the slow-motion effect of the hero dodging bullets?|Terminator 2|The Matrix|Die Hard|Inception
+es|¿Qué película hizo famoso el efecto a cámara lenta del héroe esquivando balas?|Terminator 2|Matrix|La jungla de cristal|Origen
+ja|主人公がスローモーションで銃弾をよける映像効果を有名にした映画は？|ターミネーター2|マトリックス|ダイ・ハード|インセプション
+zh|哪部电影让主角慢动作躲子弹的特效出了名？|终结者2|黑客帝国|虎胆龙威|盗梦空间
+#Q 3094 3 3 3
+ru|Какой фильм 1927 года считается первым полнометражным звуковым фильмом с репликами?|«Унесённые ветром»|«Огни большого города»|«Певец джаза»|«Метрополис»
+en|Which 1927 film is considered the first feature film with spoken dialogue?|Gone with the Wind|City Lights|The Jazz Singer|Metropolis
+es|¿Qué película de 1927 se considera el primer largometraje con diálogos hablados?|Lo que el viento se llevó|Luces de la ciudad|El cantor de jazz|Metrópolis
+ja|1927年に公開され、初のトーキー長編映画とされる作品は？|風と共に去りぬ|街の灯|ジャズ・シンガー|メトロポリス
+zh|哪部1927年的电影被认为是第一部有对白的有声长片？|乱世佳人|城市之光|爵士歌手|大都会
+#Q 3095 2 3 3
+ru|Кто в 1895 году в Париже устроил первый платный киносеанс?|Братья Райт|Братья Люмьер|Томас Эдисон|Жорж Мельес
+en|Who held the first paid film screening in Paris in 1895?|The Wright brothers|The Lumière brothers|Thomas Edison|Georges Méliès
+es|¿Quién organizó la primera proyección de cine de pago en París en 1895?|Los hermanos Wright|Los hermanos Lumière|Thomas Edison|Georges Méliès
+ja|1895年にパリで初めての有料映画上映会を開いたのは？|ライト兄弟|リュミエール兄弟|トーマス・エジソン|ジョルジュ・メリエス
+zh|1895年在巴黎举办第一次收费电影放映的是谁？|莱特兄弟|卢米埃尔兄弟|托马斯·爱迪生|乔治·梅里爱
+#Q 3096 2 3 3
+ru|В каком фильме Жоржа Мельеса ракета попадает Луне прямо в глаз?|«Метрополис»|«Путешествие на Луну»|«Прибытие поезда»|«Кабинет доктора Калигари»
+en|In which Georges Méliès film does a rocket hit the Moon right in the eye?|Metropolis|A Trip to the Moon|The Arrival of a Train|The Cabinet of Dr. Caligari
+es|¿En qué película de Georges Méliès un cohete le da a la Luna en el ojo?|Metrópolis|Viaje a la Luna|La llegada de un tren|El gabinete del doctor Caligari
+ja|ロケットが月の目に突き刺さる、ジョルジュ・メリエスの映画は？|メトロポリス|月世界旅行|列車の到着|カリガリ博士
+zh|在乔治·梅里爱的哪部电影里，火箭正好扎进月亮的眼睛？|大都会|月球旅行记|火车进站|卡里加利博士的小屋
+#Q 3097 3 3 3
+ru|Какое слово произносит умирающий герой фильма «Гражданин Кейн»?|«Мама»|«Деньги»|«Розовый бутон»|«Прощай»
+en|What word does the dying hero say in Citizen Kane?|"Mother"|"Money"|"Rosebud"|"Goodbye"
+es|¿Qué palabra pronuncia el protagonista moribundo de Ciudadano Kane?|«Madre»|«Dinero»|«Rosebud»|«Adiós»
+ja|映画「市民ケーン」で、死にゆく主人公が口にする言葉は？|「母さん」|「金」|「バラのつぼみ（ローズバッド）」|「さよなら」
+zh|电影《公民凯恩》中，临终的主人公说出的词是什么？|“妈妈”|“钱”|“玫瑰花蕾”|“再见”
+#Q 3098 1 3 3
+ru|Как зовут героиню фильма «Унесённые ветром»?|Скарлетт О'Хара|Холли Голайтли|Элиза Дулиттл|Мелани Гамильтон
+en|What is the name of the heroine of Gone with the Wind?|Scarlett O'Hara|Holly Golightly|Eliza Doolittle|Melanie Hamilton
+es|¿Cómo se llama la protagonista de Lo que el viento se llevó?|Escarlata O'Hara|Holly Golightly|Eliza Doolittle|Melania Hamilton
+ja|映画「風と共に去りぬ」のヒロインの名前は？|スカーレット・オハラ|ホリー・ゴライトリー|イライザ・ドゥーリトル|メラニー・ハミルトン
+zh|电影《乱世佳人》的女主角叫什么？|斯嘉丽·奥哈拉|霍莉·戈莱特丽|伊莉莎·杜立特|媚兰·汉密尔顿
+#Q 3099 2 3 3
+ru|Какая актриса сыграла главную роль в фильме «Завтрак у Тиффани»?|Мэрилин Монро|Одри Хепбёрн|Грейс Келли|Элизабет Тейлор
+en|Which actress starred in Breakfast at Tiffany's?|Marilyn Monroe|Audrey Hepburn|Grace Kelly|Elizabeth Taylor
+es|¿Qué actriz protagonizó Desayuno con diamantes?|Marilyn Monroe|Audrey Hepburn|Grace Kelly|Elizabeth Taylor
+ja|映画「ティファニーで朝食を」で主演した女優は？|マリリン・モンロー|オードリー・ヘプバーン|グレース・ケリー|エリザベス・テイラー
+zh|电影《蒂凡尼的早餐》的女主角是谁？|玛丽莲·梦露|奥黛丽·赫本|格蕾丝·凯利|伊丽莎白·泰勒
+#Q 3100 1 3 3
+ru|Какой актёр произносит знаменитое «Ты это мне говоришь?» в фильме «Таксист»?|Роберт Де Ниро|Аль Пачино|Марлон Брандо|Джек Николсон
+en|Which actor delivers the famous "You talkin' to me?" in Taxi Driver?|Robert De Niro|Al Pacino|Marlon Brando|Jack Nicholson
+es|¿Qué actor dice la famosa frase «¿Hablas conmigo?» en Taxi Driver?|Robert De Niro|Al Pacino|Marlon Brando|Jack Nicholson
+ja|映画「タクシードライバー」の有名なセリフ「俺に言ってるのか？」を言った俳優は？|ロバート・デ・ニーロ|アル・パチーノ|マーロン・ブランド|ジャック・ニコルソン
+zh|在电影《出租车司机》中说出那句著名台词“你在跟我说话吗？”的演员是谁？|罗伯特·德尼罗|阿尔·帕西诺|马龙·白兰度|杰克·尼科尔森
