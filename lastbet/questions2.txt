@@ -1,6 +1,6 @@
 #LASTBET 1
 #LANGS ru en es ja zh
-#VERSION 2026-10-31-1305
+#VERSION 2026-10-31-1643
 #Q 1 1 1
 ru|Какой океан самый большой?|Тихий|Атлантический|Индийский|Северный Ледовитый
 en|Which ocean is the largest?|Pacific|Atlantic|Indian|Arctic
@@ -13801,3 +13801,1503 @@ en|Which actor delivers the famous "You talkin' to me?" in Taxi Driver?|Robert D
 es|¿Qué actor dice la famosa frase «¿Hablas conmigo?» en Taxi Driver?|Robert De Niro|Al Pacino|Marlon Brando|Jack Nicholson
 ja|映画「タクシードライバー」の有名なセリフ「俺に言ってるのか？」を言った俳優は？|ロバート・デ・ニーロ|アル・パチーノ|マーロン・ブランド|ジャック・ニコルソン
 zh|在电影《出租车司机》中说出那句著名台词“你在跟我说话吗？”的演员是谁？|罗伯特·德尼罗|阿尔·帕西诺|马龙·白兰度|杰克·尼科尔森
+#Q 3101 2 1 4
+ru|Кто создал серию игр Touhou Project?|Хидэо Кодзима|ZUN|Ёко Таро|Масахиро Сакурай
+en|Who created the Touhou Project game series?|Hideo Kojima|ZUN|Yoko Taro|Masahiro Sakurai
+es|¿Quién creó la serie de videojuegos Touhou Project?|Hideo Kojima|ZUN|Yoko Taro|Masahiro Sakurai
+ja|「東方Project」シリーズの作者は？|小島秀夫|ZUN|ヨコオタロウ|桜井政博
+zh|《东方Project》系列游戏的作者是谁？|小岛秀夫|ZUN|横尾太郎|樱井政博
+#Q 3102 2 1 4
+ru|Как называется скрытый край, где происходят события Touhou?|Макай|Гэнсокё|Такамагахара|Ёми
+en|What is the hidden land where Touhou takes place called?|Makai|Gensokyo|Takamagahara|Yomi
+es|¿Cómo se llama la tierra oculta donde transcurre Touhou?|Makai|Gensokyo|Takamagahara|Yomi
+ja|東方Projectの舞台となる隠れ里の名前は？|魔界|幻想郷|高天原|黄泉
+zh|东方Project的故事发生在哪个隐秘之地？|魔界|幻想乡|高天原|黄泉
+#Q 3103 2 1 4
+ru|Как зовут жрицу храма, главную героиню Touhou?|Санаэ Котия|Рэйму Хакурэй|Сакуя Идзаёи|Ёму Компаку
+en|Who is the shrine maiden and main heroine of Touhou?|Sanae Kochiya|Reimu Hakurei|Sakuya Izayoi|Youmu Konpaku
+es|¿Quién es la sacerdotisa sintoísta y protagonista de Touhou?|Sanae Kochiya|Reimu Hakurei|Sakuya Izayoi|Youmu Konpaku
+ja|東方Projectの主人公の巫女は誰？|東風谷早苗|博麗霊夢|十六夜咲夜|魂魄妖夢
+zh|东方Project的主角巫女是谁？|东风谷早苗|博丽灵梦|十六夜咲夜|魂魄妖梦
+#Q 3104 2 1 4
+ru|На чём летает Мариса Кирисамэ?|На облаке|На метле|На зонтике|На ковре-самолёте
+en|What does Marisa Kirisame fly on?|A cloud|A broom|An umbrella|A flying carpet
+es|¿En qué vuela Marisa Kirisame?|En una nube|En una escoba|En un paraguas|En una alfombra voladora
+ja|霧雨魔理沙が乗って飛ぶものは？|雲|ほうき|傘|空飛ぶじゅうたん
+zh|雾雨魔理沙骑着什么飞行？|云|扫帚|伞|飞毯
+#Q 3105 4 1 4
+ru|Как называется знаменитый луч Марисы Кирисамэ?|Fantasy Seal|Laevateinn|Royal Flare|Master Spark
+en|What is Marisa Kirisame's famous laser beam called?|Fantasy Seal|Laevateinn|Royal Flare|Master Spark
+es|¿Cómo se llama el famoso rayo láser de Marisa Kirisame?|Fantasy Seal|Laevateinn|Royal Flare|Master Spark
+ja|霧雨魔理沙の代名詞といえるレーザーは？|夢想封印|レーヴァテイン|ロイヤルフレア|マスタースパーク
+zh|雾雨魔理沙的招牌激光叫什么？|梦想封印|莱瓦汀|皇家烈焰|极限火花
+#Q 3106 4 2 4
+ru|Из какого предмета Мариса стреляет своим Master Spark?|Из шара инь-ян|Из волшебной палочки|Из гохэя|Из мини-хаккеро
+en|What item does Marisa fire her Master Spark from?|A yin-yang orb|A magic wand|A gohei|The Mini-Hakkero
+es|¿Desde qué objeto dispara Marisa su Master Spark?|Desde una esfera yin-yang|Desde una varita mágica|Desde un gohei|Desde el Mini-Hakkero
+ja|魔理沙がマスタースパークを撃つときに使う道具は？|陰陽玉|魔法の杖|お祓い棒|ミニ八卦炉
+zh|魔理沙用什么道具发射极限火花？|阴阳玉|魔杖|御币|迷你八卦炉
+#Q 3107 1 1 4
+ru|Какая способность у горничной Сакуи Идзаёи?|Управлять временем|Читать мысли|Управлять огнём|Становиться невидимой
+en|What power does the maid Sakuya Izayoi have?|Manipulating time|Reading minds|Controlling fire|Turning invisible
+es|¿Qué poder tiene la sirvienta Sakuya Izayoi?|Manipular el tiempo|Leer mentes|Controlar el fuego|Volverse invisible
+ja|メイドの十六夜咲夜の能力は？|時間を操る|心を読む|火を操る|透明になる
+zh|女仆十六夜咲夜的能力是什么？|操纵时间|读心|操纵火焰|隐身
+#Q 3108 1 1 4
+ru|Кем является Ремилия Скарлет?|Вампиром|Призраком|Лисой-оборотнем|Каппой
+en|What kind of being is Remilia Scarlet?|A vampire|A ghost|A fox spirit|A kappa
+es|¿Qué clase de ser es Remilia Scarlet?|Una vampira|Un fantasma|Un espíritu zorro|Una kappa
+ja|レミリア・スカーレットの種族は？|吸血鬼|亡霊|妖狐|河童
+zh|蕾米莉亚·斯卡雷特是什么种族？|吸血鬼|亡灵|妖狐|河童
+#Q 3109 3 1 4
+ru|Где живут сёстры Ремилия и Фландр Скарлет?|В Хакугёкуро|В особняке Эйэнтэй|В Особняке Алой Дьяволицы|Во Дворце Земных Духов
+en|Where do the sisters Remilia and Flandre Scarlet live?|Hakugyokurou|Eientei|The Scarlet Devil Mansion|The Palace of Earth Spirits
+es|¿Dónde viven las hermanas Remilia y Flandre Scarlet?|En Hakugyokurou|En Eientei|En la Mansión del Diablo Escarlata|En el Palacio de los Espíritus de la Tierra
+ja|レミリアとフランドールの姉妹が住んでいるのは？|白玉楼|永遠亭|紅魔館|地霊殿
+zh|蕾米莉亚和芙兰朵露姐妹住在哪里？|白玉楼|永远亭|红魔馆|地灵殿
+#Q 3110 3 2 4
+ru|Сколько лет Фландр Скарлет провела в подвале, не выходя наружу?|95|295|495|695
+en|How many years did Flandre Scarlet spend in the basement without going outside?|95|295|495|695
+es|¿Cuántos años pasó Flandre Scarlet en el sótano sin salir?|95|295|495|695
+ja|フランドール・スカーレットが外に出ず地下室で過ごした年数は？|95|295|495|695
+zh|芙兰朵露·斯卡雷特在地下室里足不出户待了多少年？|95|295|495|695
+#Q 3111 3 1 4
+ru|Кто такая Сырно?|Огненная птица|Лунный кролик|Ледяная фея|Призрак самурая
+en|Who is Cirno?|A fire bird|A moon rabbit|An ice fairy|A samurai ghost
+es|¿Quién es Cirno?|Un pájaro de fuego|Un conejo lunar|Un hada del hielo|Un fantasma samurái
+ja|チルノの正体は？|火の鳥|月の兎|氷の妖精|侍の亡霊
+zh|琪露诺是什么？|火鸟|月兔|冰之妖精|武士亡灵
+#Q 3112 3 1 4
+ru|Какое число фанаты в шутку связывают с Сырно?|3|7|9|13
+en|Which number do fans jokingly associate with Cirno?|3|7|9|13
+es|¿Qué número asocian en broma los fans con Cirno?|3|7|9|13
+ja|ファンの間でチルノを表すネタになっている数字は？|3|7|9|13
+zh|粉丝们常用哪个数字来调侃琪露诺？|3|7|9|13
+#Q 3113 3 1 4
+ru|Чем управляет Румия?|Льдом|Ветром|Тьмой|Цветами
+en|What does Rumia control?|Ice|Wind|Darkness|Flowers
+es|¿Qué controla Rumia?|El hielo|El viento|La oscuridad|Las flores
+ja|ルーミアが操るものは？|氷|風|闇|花
+zh|露米娅能操纵什么？|冰|风|黑暗|花
+#Q 3114 3 1 4
+ru|Где проводит почти всё время волшебница Пачули Нолидж?|В саду|На кухне|В библиотеке|На крыше
+en|Where does the magician Patchouli Knowledge spend almost all her time?|In the garden|In the kitchen|In the library|On the roof
+es|¿Dónde pasa casi todo su tiempo la maga Patchouli Knowledge?|En el jardín|En la cocina|En la biblioteca|En el tejado
+ja|魔法使いのパチュリー・ノーレッジがほとんどの時間を過ごす場所は？|庭|台所|図書館|屋根の上
+zh|魔法使帕秋莉·诺蕾姬几乎一直待在哪里？|花园|厨房|图书馆|屋顶
+#Q 3115 4 1 4
+ru|Кем работает Хун Мэйлин в Особняке Алой Дьяволицы?|Горничной|Поварихой|Библиотекарем|Привратницей
+en|What is Hong Meiling's job at the Scarlet Devil Mansion?|Maid|Cook|Librarian|Gatekeeper
+es|¿Cuál es el trabajo de Hong Meiling en la Mansión del Diablo Escarlata?|Sirvienta|Cocinera|Bibliotecaria|Guardiana de la puerta
+ja|紅魔館での紅美鈴の仕事は？|メイド|料理人|司書|門番
+zh|红美铃在红魔馆做什么工作？|女仆|厨师|图书管理员|看门人
+#Q 3116 4 2 4
+ru|За каким занятием чаще всего застают Хун Мэйлин на посту?|Она ест|Она поёт|Она читает|Она спит
+en|What is Hong Meiling famously caught doing while on duty?|Eating|Singing|Reading|Sleeping
+es|¿Qué suelen pillar haciendo a Hong Meiling en su puesto?|Comiendo|Cantando|Leyendo|Durmiendo
+ja|門番中の紅美鈴がよくしているとされることは？|つまみ食い|歌|読書|居眠り
+zh|红美铃在看门时常被发现在做什么？|偷吃东西|唱歌|看书|打瞌睡
+#Q 3117 2 1 4
+ru|Чем славится принцесса-призрак Ююко Сайгёдзи?|Любовью к рыбалке|Огромным аппетитом|Страхом темноты|Игрой на флейте
+en|What is the ghost princess Yuyuko Saigyouji famous for?|Her love of fishing|Her huge appetite|Her fear of the dark|Playing the flute
+es|¿Por qué es famosa la princesa fantasma Yuyuko Saigyouji?|Por su afición a la pesca|Por su enorme apetito|Por su miedo a la oscuridad|Por tocar la flauta
+ja|亡霊の姫、西行寺幽々子といえば？|釣り好き|大食い|暗闇が苦手|笛の名手
+zh|亡灵公主西行寺幽幽子以什么出名？|爱钓鱼|食量惊人|怕黑|擅长吹笛
+#Q 3118 2 2 4
+ru|Кем служит Ёму Компаку в Хакугёкуро?|Горничной|Садовницей и наставницей по фехтованию|Привратницей|Поварихой
+en|What is Youmu Konpaku's role at Hakugyokurou?|Maid|Gardener and sword instructor|Gatekeeper|Cook
+es|¿Qué papel tiene Youmu Konpaku en Hakugyokurou?|Sirvienta|Jardinera e instructora de esgrima|Guardiana de la puerta|Cocinera
+ja|白玉楼での魂魄妖夢の役目は？|メイド|庭師兼剣術指南役|門番|料理番
+zh|魂魄妖梦在白玉楼担任什么职务？|女仆|庭师兼剑术指导|看门人|厨师
+#Q 3119 2 1 4
+ru|Сколько мечей носит с собой Ёму Компаку?|1|2|3|4
+en|How many swords does Youmu Konpaku carry?|1|2|3|4
+es|¿Cuántas espadas lleva Youmu Konpaku?|1|2|3|4
+ja|魂魄妖夢が持ち歩いている刀は何本？|1|2|3|4
+zh|魂魄妖梦随身带着几把刀？|1|2|3|4
+#Q 3120 2 1 4
+ru|Какая способность у Юкари Якумо?|Останавливать время|Управлять границами и открывать разрывы|Читать мысли|Управлять погодой
+en|What is Yukari Yakumo's power?|Stopping time|Manipulating boundaries and opening gaps|Reading minds|Controlling the weather
+es|¿Qué poder tiene Yukari Yakumo?|Detener el tiempo|Manipular los límites y abrir grietas|Leer mentes|Controlar el clima
+ja|八雲紫の能力は？|時間を止める|境界を操る|心を読む|天気を操る
+zh|八云紫的能力是什么？|停止时间|操纵境界|读心|操纵天气
+#Q 3121 4 1 4
+ru|Кем является Ран Якумо, служанка Юкари?|Кошкой-оборотнем|Вороном-тэнгу|Змеёй|Девятихвостой лисой
+en|What is Ran Yakumo, Yukari's servant?|A cat demon|A crow tengu|A snake|A nine-tailed fox
+es|¿Qué es Ran Yakumo, la sirviente de Yukari?|Una gata demonio|Un tengu cuervo|Una serpiente|Una zorra de nueve colas
+ja|紫の式神、八雲藍の正体は？|化け猫|烏天狗|蛇|九尾の狐
+zh|八云紫的式神八云蓝是什么？|猫妖|鸦天狗|蛇|九尾狐
+#Q 3122 4 1 4
+ru|Кто такая Чэнь, служанка Ран Якумо?|Лиса|Мышь|Ворона|Кошка-оборотень
+en|What is Chen, Ran Yakumo's servant?|A fox|A mouse|A crow|A cat demon
+es|¿Qué es Chen, la sirviente de Ran Yakumo?|Una zorra|Una ratona|Una cuerva|Una gata demonio
+ja|八雲藍の式神、橙の正体は？|狐|ネズミ|カラス|化け猫
+zh|八云蓝的式神橙是什么？|狐狸|老鼠|乌鸦|猫妖
+#Q 3123 4 1 4
+ru|Чем сражается Алиса Маргатройд?|Метлой|Ножами|Зонтиком|Куклами
+en|What does Alice Margatroid fight with?|A broom|Knives|An umbrella|Dolls
+es|¿Con qué lucha Alice Margatroid?|Con una escoba|Con cuchillos|Con un paraguas|Con muñecas
+ja|アリス・マーガトロイドが戦いに使うのは？|ほうき|ナイフ|傘|人形
+zh|爱丽丝·玛格特罗依德用什么战斗？|扫帚|飞刀|伞|人偶
+#Q 3124 4 2 4
+ru|Как зовут самую известную куклу Алисы Маргатройд?|Пекин|Гонконг|Токио|Шанхай
+en|What is the name of Alice Margatroid's best-known doll?|Beijing|Hong Kong|Tokyo|Shanghai
+es|¿Cómo se llama la muñeca más conocida de Alice Margatroid?|Pekín|Hong Kong|Tokio|Shanghai
+ja|アリス・マーガトロイドの代表的な人形の名前は？|北京人形|香港人形|東京人形|上海人形
+zh|爱丽丝·玛格特罗依德最有名的人偶叫什么？|北京人偶|香港人偶|东京人偶|上海人偶
+#Q 3125 4 1 4
+ru|Что никогда не кончается в тыкве-горлянке Суйки Ибуки?|Вода|Чай|Мёд|Сакэ
+en|What never runs out in Suika Ibuki's gourd?|Water|Tea|Honey|Sake
+es|¿Qué nunca se acaba en la calabaza de Suika Ibuki?|El agua|El té|La miel|El sake
+ja|伊吹萃香のひょうたんから尽きることなく出てくるのは？|水|お茶|はちみつ|酒
+zh|伊吹萃香的葫芦里有喝不完的什么？|水|茶|蜂蜜|酒
+#Q 3126 1 2 4
+ru|На какой японской сказке основана Кагуя Хорайсан?|«Повесть о старике Такэтори»|«Урасима Таро»|«Момотаро»|«Иссун-боси»
+en|Which Japanese tale is Kaguya Houraisan based on?|The Tale of the Bamboo Cutter|Urashima Taro|Momotaro|Issun-boshi
+es|¿En qué cuento japonés se basa Kaguya Houraisan?|El cuento del cortador de bambú|Urashima Taro|Momotaro|Issun-boshi
+ja|蓬莱山輝夜の元になった昔話は？|竹取物語|浦島太郎|桃太郎|一寸法師
+zh|蓬莱山辉夜的原型来自哪个日本故事？|竹取物语|浦岛太郎|桃太郎|一寸法师
+#Q 3127 2 1 4
+ru|Какой стихией сражается бессмертная Фудзивара-но Моко?|Водой|Огнём|Льдом|Молниями
+en|What element does the immortal Fujiwara no Mokou fight with?|Water|Fire|Ice|Lightning
+es|¿Con qué elemento lucha la inmortal Fujiwara no Mokou?|Con agua|Con fuego|Con hielo|Con rayos
+ja|不死身の藤原妹紅が戦いに使うのは？|水|炎|氷|雷
+zh|不死的藤原妹红用什么战斗？|水|火焰|冰|雷电
+#Q 3128 4 1 4
+ru|Кто такая Рэйсэн из Imperishable Night?|Лиса|Ворон-тэнгу|Каппа|Лунный кролик
+en|What is Reisen from Imperishable Night?|A fox|A crow tengu|A kappa|A moon rabbit
+es|¿Qué es Reisen de Imperishable Night?|Una zorra|Una tengu cuervo|Una kappa|Una coneja lunar
+ja|「東方永夜抄」の鈴仙の正体は？|狐|烏天狗|河童|月の兎
+zh|《东方永夜抄》中的铃仙是什么？|狐狸|鸦天狗|河童|月兔
+#Q 3129 4 1 4
+ru|Чем знаменита Эйрин Ягокоро из Эйэнтэй?|Она лучший повар|Она пишет газету|Она чинит машины|Она гениальный врач и фармацевт
+en|What is Eirin Yagokoro of Eientei known as?|The best cook|A newspaper writer|A mechanic|A genius doctor and pharmacist
+es|¿Por qué es conocida Eirin Yagokoro de Eientei?|Es la mejor cocinera|Escribe un periódico|Repara máquinas|Es una médica y farmacéutica genial
+ja|永遠亭の八意永琳といえば？|料理の達人|新聞記者|機械いじり|天才的な医者兼薬師
+zh|永远亭的八意永琳以什么闻名？|厨艺高手|报社记者|修理机械|天才医生兼药师
+#Q 3130 4 1 4
+ru|Кем является репортёр Ая Сямэймару?|Каппой|Кицунэ|Призраком|Вороном-тэнгу
+en|What kind of youkai is the reporter Aya Shameimaru?|A kappa|A kitsune|A ghost|A crow tengu
+es|¿Qué tipo de youkai es la reportera Aya Shameimaru?|Una kappa|Una kitsune|Un fantasma|Una tengu cuervo
+ja|新聞記者の射命丸文の種族は？|河童|狐|亡霊|烏天狗
+zh|记者射命丸文是什么妖怪？|河童|狐狸|亡灵|鸦天狗
+#Q 3131 2 1 4
+ru|Чем увлекается Нитори Кавасиро?|Рисует картины|Изобретает машины и механизмы|Выращивает цветы|Печёт сладости
+en|What is Nitori Kawashiro's passion?|Painting|Inventing machines and gadgets|Growing flowers|Baking sweets
+es|¿Cuál es la pasión de Nitori Kawashiro?|Pintar|Inventar máquinas y aparatos|Cultivar flores|Hacer dulces
+ja|河城にとりが得意としていることは？|絵を描くこと|機械の発明|花を育てること|お菓子作り
+zh|河城荷取擅长什么？|画画|发明机械|种花|做点心
+#Q 3132 3 1 4
+ru|Какой овощ обожает каппа Нитори Кавасиро?|Морковь|Тыкву|Огурцы|Баклажаны
+en|Which vegetable does the kappa Nitori Kawashiro love?|Carrots|Pumpkins|Cucumbers|Eggplants
+es|¿Qué verdura adora la kappa Nitori Kawashiro?|Las zanahorias|Las calabazas|Los pepinos|Las berenjenas
+ja|河童の河城にとりの大好物の野菜は？|にんじん|かぼちゃ|きゅうり|なす
+zh|河童河城荷取最爱吃什么蔬菜？|胡萝卜|南瓜|黄瓜|茄子
+#Q 3133 1 2 4
+ru|Откуда родом жрица Санаэ Котия?|Из Внешнего мира|С Луны|Из Подземного мира|Из Макая
+en|Where is the shrine maiden Sanae Kochiya originally from?|The Outside World|The Moon|The Underground|Makai
+es|¿De dónde viene originalmente la sacerdotisa Sanae Kochiya?|Del Mundo Exterior|De la Luna|Del Mundo Subterráneo|De Makai
+ja|風祝の東風谷早苗の出身は？|外の世界|月|旧地獄|魔界
+zh|风祝东风谷早苗原本来自哪里？|外界|月之都|旧地狱|魔界
+#Q 3134 1 1 4
+ru|Чем Сатори Комэйдзи читает чужие мысли?|Третьим глазом|Хрустальным шаром|Волшебным зеркалом|Картами таро
+en|What does Satori Komeiji use to read minds?|Her third eye|A crystal ball|A magic mirror|Tarot cards
+es|¿Con qué lee las mentes Satori Komeiji?|Con su tercer ojo|Con una bola de cristal|Con un espejo mágico|Con cartas del tarot
+ja|古明地さとりが心を読むのに使うのは？|第三の目|水晶玉|魔法の鏡|タロットカード
+zh|古明地觉用什么读心？|第三只眼|水晶球|魔镜|塔罗牌
+#Q 3135 3 2 4
+ru|Что Коиси Комэйдзи сделала со своим третьим глазом?|Отдала сестре|Потеряла|Закрыла его|Превратила в камень
+en|What did Koishi Komeiji do with her third eye?|She gave it to her sister|She lost it|She closed it|She turned it to stone
+es|¿Qué hizo Koishi Komeiji con su tercer ojo?|Se lo dio a su hermana|Lo perdió|Lo cerró|Lo convirtió en piedra
+ja|古明地こいしが自分の第三の目にしたことは？|姉にあげた|なくした|閉じた|石に変えた
+zh|古明地恋对自己的第三只眼做了什么？|送给了姐姐|弄丢了|闭上了|变成了石头
+#Q 3136 4 1 4
+ru|Какую силу получила Уцухо Рэйудзи (Окуу)?|Власть над льдом|Остановку времени|Чтение мыслей|Ядерный синтез
+en|What power did Utsuho Reiuji (Okuu) gain?|Control over ice|Stopping time|Mind reading|Nuclear fusion
+es|¿Qué poder obtuvo Utsuho Reiuji (Okuu)?|Controlar el hielo|Detener el tiempo|Leer mentes|La fusión nuclear
+ja|霊烏路空（お空）が手に入れた力は？|氷を操る力|時間停止|読心|核融合
+zh|灵乌路空（阿空）获得了什么力量？|操纵冰|时间停止|读心|核聚变
+#Q 3137 4 2 4
+ru|Что возит в своей тележке Рин Каэнбё (Орин)?|Овощи|Книги|Бочки с сакэ|Трупы
+en|What does Rin Kaenbyou (Orin) carry in her wheelbarrow?|Vegetables|Books|Sake barrels|Corpses
+es|¿Qué lleva Rin Kaenbyou (Orin) en su carretilla?|Verduras|Libros|Barriles de sake|Cadáveres
+ja|火焔猫燐（お燐）が猫車で運んでいるのは？|野菜|本|酒樽|死体
+zh|火焰猫燐（阿燐）用推车运送什么？|蔬菜|书|酒桶|尸体
+#Q 3138 3 1 4
+ru|Чем занимается синигами Комати Онодзука?|Судит мёртвых|Охраняет ворота|Перевозит души через реку Сандзу|Пишет газету
+en|What is the shinigami Komachi Onozuka's job?|Judging the dead|Guarding a gate|Ferrying souls across the Sanzu River|Writing a newspaper
+es|¿Cuál es el trabajo de la shinigami Komachi Onozuka?|Juzgar a los muertos|Vigilar una puerta|Llevar almas por el río Sanzu|Escribir un periódico
+ja|死神の小野塚小町の仕事は？|死者を裁くこと|門番|三途の川で霊を運ぶ船頭|新聞を書くこと
+zh|死神小野塚小町的工作是什么？|审判死者|看守大门|在三途川摆渡亡魂|写报纸
+#Q 3139 2 1 4
+ru|Какое оружие носит Комати Онодзука?|Меч|Косу|Лук|Копьё
+en|What weapon does Komachi Onozuka carry?|A sword|A scythe|A bow|A spear
+es|¿Qué arma lleva Komachi Onozuka?|Una espada|Una guadaña|Un arco|Una lanza
+ja|小野塚小町が持っている武器は？|刀|鎌|弓|槍
+zh|小野塚小町拿着什么武器？|刀|镰刀|弓|长枪
+#Q 3140 1 2 4
+ru|Что разрушила землетрясением Тэнси Хинанаи в Scarlet Weather Rhapsody?|Храм Хакурэй|Особняк Алой Дьяволицы|Деревню людей|Особняк Эйэнтэй
+en|What did Tenshi Hinanawi destroy with an earthquake in Scarlet Weather Rhapsody?|The Hakurei Shrine|The Scarlet Devil Mansion|The Human Village|Eientei
+es|¿Qué destruyó Tenshi Hinanawi con un terremoto en Scarlet Weather Rhapsody?|El santuario Hakurei|La Mansión del Diablo Escarlata|La aldea humana|Eientei
+ja|「東方緋想天」で比那名居天子が地震で壊したのは？|博麗神社|紅魔館|人間の里|永遠亭
+zh|《东方绯想天》中比那名居天子用地震震塌了什么？|博丽神社|红魔馆|人间之里|永远亭
+#Q 3141 3 1 4
+ru|Чего больше всего хочет Когаса Татара?|Стать жрицей|Найти сокровище|Пугать и удивлять людей|Открыть лавку
+en|What does Kogasa Tatara want most?|To become a shrine maiden|To find treasure|To surprise and scare people|To open a shop
+es|¿Qué es lo que más quiere Kogasa Tatara?|Ser sacerdotisa|Encontrar un tesoro|Sorprender y asustar a la gente|Abrir una tienda
+ja|多々良小傘が一番したいことは？|巫女になること|宝を見つけること|人間を驚かすこと|店を開くこと
+zh|多多良小伞最想做的事是什么？|当巫女|寻找宝物|吓唬人类|开店
+#Q 3142 1 1 4
+ru|Кем является Назрин, которая ищет вещи с помощью лозы?|Мышью|Кошкой|Лисой|Лаской
+en|What kind of youkai is Nazrin, who finds things with dowsing rods?|A mouse|A cat|A fox|A weasel
+es|¿Qué tipo de youkai es Nazrin, que encuentra cosas con varillas de zahorí?|Un ratón|Un gato|Un zorro|Una comadreja
+ja|ダウジングで探し物をするナズーリンの正体は？|ネズミ|猫|狐|イタチ
+zh|用探测棒找东西的娜兹玲是什么妖怪？|老鼠|猫|狐狸|黄鼠狼
+#Q 3143 2 2 4
+ru|Где была запечатана монахиня Бякурэн Хидзири до событий Undefined Fantastic Object?|На Луне|В Макае|В Подземном мире|В Хакугёкуро
+en|Where was the monk Byakuren Hijiri sealed before Undefined Fantastic Object?|On the Moon|In Makai|In the Underground|In Hakugyokurou
+es|¿Dónde estaba sellada la monja Byakuren Hijiri antes de Undefined Fantastic Object?|En la Luna|En Makai|En el Mundo Subterráneo|En Hakugyokurou
+ja|「東方星蓮船」より前、聖白蓮が封印されていた場所は？|月|魔界|旧地獄|白玉楼
+zh|《东方星莲船》之前，圣白莲被封印在哪里？|月球|魔界|旧地狱|白玉楼
+#Q 3144 3 2 4
+ru|На каком историческом деятеле основана Мико из Ten Desires?|Ода Нобунага|Абэ-но Сэймэй|Принц Сётоку|Минамото-но Ёсицунэ
+en|Which historical figure is Miko from Ten Desires based on?|Oda Nobunaga|Abe no Seimei|Prince Shotoku|Minamoto no Yoshitsune
+es|¿En qué personaje histórico se basa Miko de Ten Desires?|Oda Nobunaga|Abe no Seimei|El príncipe Shotoku|Minamoto no Yoshitsune
+ja|「東方神霊廟」の神子のモデルになった人物は？|織田信長|安倍晴明|聖徳太子|源義経
+zh|《东方神灵庙》中神子的原型是哪位历史人物？|织田信长|安倍晴明|圣德太子|源义经
+#Q 3145 3 2 4
+ru|Скольких людей одновременно может выслушать Мико из Ten Desires?|3|5|10|100
+en|How many people can Miko from Ten Desires listen to at the same time?|3|5|10|100
+es|¿A cuántas personas a la vez puede escuchar Miko de Ten Desires?|3|5|10|100
+ja|「東方神霊廟」の神子が同時に話を聞き分けられるのは何人？|3|5|10|100
+zh|《东方神灵庙》中的神子能同时听清几个人说话？|3|5|10|100
+#Q 3146 2 2 4
+ru|Сколько тел у богини ада Гекатии Лапислазули?|2|3|4|9
+en|How many bodies does the hell goddess Hecatia Lapislazuli have?|2|3|4|9
+es|¿Cuántos cuerpos tiene la diosa del infierno Hecatia Lapislazuli?|2|3|4|9
+ja|地獄の女神ヘカーティア・ラピスラズリの身体はいくつ？|2|3|4|9
+zh|地狱女神赫卡提亚·拉碧斯拉祖利有几个身体？|2|3|4|9
+#Q 3147 3 1 4
+ru|Что парит вокруг Кокоро из Hopeless Masquerade?|Куклы|Зонтики|Маски|Свитки
+en|What floats around Kokoro from Hopeless Masquerade?|Dolls|Umbrellas|Masks|Scrolls
+es|¿Qué flota alrededor de Kokoro de Hopeless Masquerade?|Muñecas|Paraguas|Máscaras|Pergaminos
+ja|「東方心綺楼」の秦こころの周りに浮かんでいるのは？|人形|傘|お面|巻物
+zh|《东方心绮楼》中秦心的身边漂浮着什么？|人偶|伞|面具|卷轴
+#Q 3148 3 2 4
+ru|Что носит на голове Синмёмару Сукуна?|Ведро|Лист лотоса|Чашу для риса|Корону
+en|What does Shinmyoumaru Sukuna wear on her head?|A bucket|A lotus leaf|A rice bowl|A crown
+es|¿Qué lleva Shinmyoumaru Sukuna en la cabeza?|Un cubo|Una hoja de loto|Un cuenco de arroz|Una corona
+ja|少名針妙丸が頭にかぶっているのは？|バケツ|蓮の葉|お椀|王冠
+zh|少名针妙丸头上戴着什么？|水桶|荷叶|碗|王冠
+#Q 3149 2 2 4
+ru|Что держит в руке адская фея Клаунпис?|Меч|Факел|Зонтик|Фонарь из тыквы
+en|What does the hell fairy Clownpiece hold in her hand?|A sword|A torch|An umbrella|A jack-o'-lantern
+es|¿Qué lleva en la mano el hada del infierno Clownpiece?|Una espada|Una antorcha|Un paraguas|Una calabaza de Halloween
+ja|地獄の妖精クラウンピースが手に持っているのは？|剣|たいまつ|傘|カボチャのランタン
+zh|地狱妖精克劳恩皮丝手里拿着什么？|剑|火把|伞|南瓜灯
+#Q 3150 3 1 4
+ru|Чем любит хвастаться Сырно?|Что она самая умная|Что она самая быстрая|Что она самая сильная|Что она самая старая
+en|What does Cirno love to boast about?|That she's the smartest|That she's the fastest|That she's the strongest|That she's the oldest
+es|¿De qué le gusta presumir a Cirno?|De ser la más lista|De ser la más rápida|De ser la más fuerte|De ser la más vieja
+ja|チルノがよく自慢していることは？|自分が一番賢いということ|自分が一番速いということ|自分が最強だということ|自分が一番年上だということ
+zh|琪露诺最喜欢夸耀自己什么？|自己最聪明|自己最快|自己最强|自己年纪最大
+#Q 3151 2 2 4
+ru|Какая игра Touhou первой вышла на Windows?|Perfect Cherry Blossom|Embodiment of Scarlet Devil|Imperishable Night|Mountain of Faith
+en|Which Touhou game was the first released for Windows?|Perfect Cherry Blossom|Embodiment of Scarlet Devil|Imperishable Night|Mountain of Faith
+es|¿Cuál fue el primer juego de Touhou para Windows?|Perfect Cherry Blossom|Embodiment of Scarlet Devil|Imperishable Night|Mountain of Faith
+ja|Windows向けに最初に出た東方の作品は？|東方妖々夢|東方紅魔郷|東方永夜抄|東方風神録
+zh|第一部登陆Windows的东方作品是哪部？|东方妖妖梦|东方红魔乡|东方永夜抄|东方风神录
+#Q 3152 3 2 4
+ru|На каком компьютере вышли первые пять игр Touhou?|MSX|ZX Spectrum|PC-98|Commodore 64
+en|On which computer were the first five Touhou games released?|MSX|ZX Spectrum|PC-98|Commodore 64
+es|¿En qué ordenador salieron los cinco primeros juegos de Touhou?|MSX|ZX Spectrum|PC-98|Commodore 64
+ja|東方の最初の5作が発売されたパソコンは？|MSX|ZX Spectrum|PC-98|コモドール64
+zh|东方系列最早的五部作品是在哪种电脑上发行的？|MSX|ZX Spectrum|PC-98|Commodore 64
+#Q 3153 4 1 4
+ru|К какому жанру относятся основные игры Touhou?|Файтинг|Ритм-игра|Визуальная новелла|Шутер bullet hell (даммаку)
+en|What genre are the main Touhou games?|Fighting game|Rhythm game|Visual novel|Bullet hell shoot 'em up
+es|¿De qué género son los juegos principales de Touhou?|Juego de lucha|Juego de ritmo|Novela visual|Matamarcianos bullet hell
+ja|東方Projectの本編はどんなジャンルのゲーム？|格闘ゲーム|音楽ゲーム|ノベルゲーム|弾幕シューティング
+zh|东方Project正作是什么类型的游戏？|格斗游戏|音乐游戏|视觉小说|弹幕射击
+#Q 3154 1 1 4
+ru|Как называются особые атаки, которыми ведут дуэли в Гэнсокё?|Спелл-карты|Руны|Свитки силы|Обереги
+en|What are the special attacks used in Gensokyo duels called?|Spell cards|Runes|Power scrolls|Charms
+es|¿Cómo se llaman los ataques especiales de los duelos de Gensokyo?|Spell cards|Runas|Pergaminos de poder|Amuletos
+ja|幻想郷の決闘で使われる必殺技を何と呼ぶ？|スペルカード|ルーン|力の巻物|お守り
+zh|幻想乡决斗时使用的招式叫什么？|符卡|符文|力量卷轴|护身符
+#Q 3155 2 3 4
+ru|Кто придумал правила дуэлей на спелл-картах?|Мариса Кирисамэ|Рэйму Хакурэй|Ремилия Скарлет|Ая Сямэймару
+en|Who came up with the spell card dueling rules?|Marisa Kirisame|Reimu Hakurei|Remilia Scarlet|Aya Shameimaru
+es|¿Quién inventó las reglas de duelo con spell cards?|Marisa Kirisame|Reimu Hakurei|Remilia Scarlet|Aya Shameimaru
+ja|スペルカードルールを考案したのは？|霧雨魔理沙|博麗霊夢|レミリア・スカーレット|射命丸文
+zh|符卡规则是谁提出的？|雾雨魔理沙|博丽灵梦|蕾米莉亚·斯卡雷特|射命丸文
+#Q 3156 1 1 4
+ru|Что отделяет Гэнсокё от Внешнего мира?|Великий барьер Хакурэй|Река Сандзу|Стена из бамбука|Туман над озером
+en|What separates Gensokyo from the Outside World?|The Great Hakurei Barrier|The Sanzu River|A bamboo wall|The mist over the lake
+es|¿Qué separa Gensokyo del Mundo Exterior?|La Gran Barrera Hakurei|El río Sanzu|Un muro de bambú|La niebla del lago
+ja|幻想郷と外の世界を隔てているものは？|博麗大結界|三途の川|竹の壁|湖の霧
+zh|是什么把幻想乡与外界隔开的？|博丽大结界|三途川|竹墙|湖上的雾
+#Q 3157 4 1 4
+ru|Чего вечно не хватает храму Хакурэй?|Воды|Света|Места|Пожертвований
+en|What is the Hakurei Shrine always short of?|Water|Light|Space|Donations
+es|¿Qué le falta siempre al santuario Hakurei?|Agua|Luz|Espacio|Donativos
+ja|博麗神社にいつも足りないものは？|水|明かり|広さ|お賽銭
+zh|博丽神社总是缺什么？|水|光亮|地方|香火钱
+#Q 3158 2 3 4
+ru|Из какой игры Touhou взята мелодия Bad Apple!!?|Embodiment of Scarlet Devil|Lotus Land Story|Mountain of Faith|Subterranean Animism
+en|Which Touhou game does the tune Bad Apple!! come from?|Embodiment of Scarlet Devil|Lotus Land Story|Mountain of Faith|Subterranean Animism
+es|¿De qué juego de Touhou viene la melodía Bad Apple!!?|Embodiment of Scarlet Devil|Lotus Land Story|Mountain of Faith|Subterranean Animism
+ja|「Bad Apple!!」の原曲が使われた作品は？|東方紅魔郷|東方幻想郷|東方風神録|東方地霊殿
+zh|《Bad Apple!!》的原曲出自哪部作品？|东方红魔乡|东方幻想乡|东方风神录|东方地灵殿
+#Q 3159 3 1 4
+ru|Чем знаменит фанатский клип на Bad Apple!!?|Живыми актёрами|Кукольной анимацией|Чёрно-белой анимацией силуэтов|Рисунками на песке
+en|What is the famous fan video for Bad Apple!! known for?|Live actors|Puppet animation|Black-and-white silhouette animation|Sand drawings
+es|¿Por qué es famoso el vídeo de fans de Bad Apple!!?|Por sus actores reales|Por su animación con marionetas|Por su animación de siluetas en blanco y negro|Por sus dibujos en arena
+ja|「Bad Apple!!」の有名なファン動画の特徴は？|実写の俳優|人形アニメ|白黒の影絵アニメ|砂絵
+zh|著名的《Bad Apple!!》同人视频以什么闻名？|真人演出|木偶动画|黑白剪影动画|沙画
+#Q 3160 1 2 4
+ru|Чья это тема: «U.N. Owen Was Her?»|Фландр Скарлет|Ремилии Скарлет|Сакуи Идзаёи|Пачули Нолидж
+en|Whose theme is "U.N. Owen Was Her?"|Flandre Scarlet's|Remilia Scarlet's|Sakuya Izayoi's|Patchouli Knowledge's
+es|¿De quién es el tema «U.N. Owen Was Her?»?|De Flandre Scarlet|De Remilia Scarlet|De Sakuya Izayoi|De Patchouli Knowledge
+ja|「U.N.オーエンは彼女なのか？」は誰のテーマ曲？|フランドール・スカーレット|レミリア・スカーレット|十六夜咲夜|パチュリー・ノーレッジ
+zh|《U.N.欧文就是她吗？》是谁的主题曲？|芙兰朵露·斯卡雷特|蕾米莉亚·斯卡雷特|十六夜咲夜|帕秋莉·诺蕾姬
+#Q 3161 4 3 4
+ru|На какой роман отсылает название «U.N. Owen Was Her?»|«Собака Баскервилей»|«Дракула»|«Франкенштейн»|«И никого не стало» Агаты Кристи
+en|Which novel does the title "U.N. Owen Was Her?" refer to?|The Hound of the Baskervilles|Dracula|Frankenstein|Agatha Christie's And Then There Were None
+es|¿A qué novela hace referencia el título «U.N. Owen Was Her?»?|El sabueso de los Baskerville|Drácula|Frankenstein|Y no quedó ninguno, de Agatha Christie
+ja|「U.N.オーエンは彼女なのか？」の題名の元ネタになった小説は？|バスカヴィル家の犬|吸血鬼ドラキュラ|フランケンシュタイン|アガサ・クリスティー「そして誰もいなくなった」
+zh|《U.N.欧文就是她吗？》的标题来自哪部小说？|《巴斯克维尔的猎犬》|《德古拉》|《弗兰肯斯坦》|阿加莎·克里斯蒂的《无人生还》
+#Q 3162 4 2 4
+ru|Чья это тема: «Septette for the Dead Princess»?|Фландр Скарлет|Ююко Сайгёдзи|Кагуи Хорайсан|Ремилии Скарлет
+en|Whose theme is "Septette for the Dead Princess"?|Flandre Scarlet's|Yuyuko Saigyouji's|Kaguya Houraisan's|Remilia Scarlet's
+es|¿De quién es el tema «Septette for the Dead Princess»?|De Flandre Scarlet|De Yuyuko Saigyouji|De Kaguya Houraisan|De Remilia Scarlet
+ja|「亡き王女の為のセプテット」は誰のテーマ曲？|フランドール・スカーレット|西行寺幽々子|蓬莱山輝夜|レミリア・スカーレット
+zh|《献给已逝公主的七重奏》是谁的主题曲？|芙兰朵露·斯卡雷特|西行寺幽幽子|蓬莱山辉夜|蕾米莉亚·斯卡雷特
+#Q 3163 2 2 4
+ru|С какой героиней связан известный ремикс «Night of Nights»?|С Сырно|С Сакуей Идзаёи|С Кагуей Хорайсан|С Ремилией Скарлет
+en|Which character is the famous remix "Night of Nights" associated with?|Cirno|Sakuya Izayoi|Kaguya Houraisan|Remilia Scarlet
+es|¿Con qué personaje se asocia el famoso remix «Night of Nights»?|Con Cirno|Con Sakuya Izayoi|Con Kaguya Houraisan|Con Remilia Scarlet
+ja|有名なアレンジ曲「ナイト・オブ・ナイツ」と結びつくキャラは？|チルノ|十六夜咲夜|蓬莱山輝夜|レミリア・スカーレット
+zh|著名改编曲《Night of Nights》与哪位角色有关？|琪露诺|十六夜咲夜|蓬莱山辉夜|蕾米莉亚·斯卡雷特
+#Q 3164 1 1 4
+ru|Как называется самый трудный обычный уровень сложности в играх Touhou?|Lunatic|Insane|Inferno|Nightmare
+en|What is the hardest standard difficulty in Touhou games called?|Lunatic|Insane|Inferno|Nightmare
+es|¿Cómo se llama la dificultad estándar más alta de los juegos de Touhou?|Lunatic|Insane|Inferno|Nightmare
+ja|東方の通常の難易度で一番難しいのは？|Lunatic|Insane|Inferno|Nightmare
+zh|东方正作常规难度中最难的叫什么？|Lunatic|Insane|Inferno|Nightmare
+#Q 3165 2 3 4
+ru|Как называется дополнительный этап после Extra в Perfect Cherry Blossom?|Lunatic|Phantasm|Overdrive|Last Word
+en|What is the bonus stage after Extra in Perfect Cherry Blossom called?|Lunatic|Phantasm|Overdrive|Last Word
+es|¿Cómo se llama la fase adicional después de la Extra en Perfect Cherry Blossom?|Lunatic|Phantasm|Overdrive|Last Word
+ja|「東方妖々夢」でExtraの後に遊べるステージは？|Lunatic|Phantasm|Overdrive|Last Word
+zh|《东方妖妖梦》中Extra之后还有哪个关卡？|Lunatic|Phantasm|Overdrive|Last Word
+#Q 3166 4 3 4
+ru|Кто босс этапа Phantasm в Perfect Cherry Blossom?|Ран Якумо|Ююко Сайгёдзи|Ёму Компаку|Юкари Якумо
+en|Who is the boss of the Phantasm stage in Perfect Cherry Blossom?|Ran Yakumo|Yuyuko Saigyouji|Youmu Konpaku|Yukari Yakumo
+es|¿Quién es la jefa de la fase Phantasm de Perfect Cherry Blossom?|Ran Yakumo|Yuyuko Saigyouji|Youmu Konpaku|Yukari Yakumo
+ja|「東方妖々夢」のPhantasmステージのボスは？|八雲藍|西行寺幽々子|魂魄妖夢|八雲紫
+zh|《东方妖妖梦》Phantasm关卡的头目是谁？|八云蓝|西行寺幽幽子|魂魄妖梦|八云紫
+#Q 3167 1 1 4
+ru|Что случилось в Гэнсокё в Perfect Cherry Blossom?|Никак не наступала весна|Не кончалась ночь|Всё окутал алый туман|Повсюду расцвели цветы
+en|What happened in Gensokyo in Perfect Cherry Blossom?|Spring wouldn't come|Night never ended|A scarlet mist covered everything|Flowers bloomed everywhere
+es|¿Qué ocurrió en Gensokyo en Perfect Cherry Blossom?|La primavera no llegaba|La noche no terminaba|Una niebla escarlata lo cubrió todo|Brotaron flores por todas partes
+ja|「東方妖々夢」で幻想郷に起きた異変は？|春が来ない|夜が明けない|紅い霧に覆われる|あちこちで花が咲き乱れる
+zh|《东方妖妖梦》中幻想乡发生了什么异变？|春天迟迟不来|黑夜不结束|红雾笼罩一切|到处百花盛开
+#Q 3168 4 1 4
+ru|Чем Ремилия Скарлет накрыла Гэнсокё в Embodiment of Scarlet Devil?|Вечной зимой|Метелью из лепестков сакуры|Песчаной бурей|Алым туманом
+en|What did Remilia Scarlet cover Gensokyo with in Embodiment of Scarlet Devil?|An endless winter|A blizzard of cherry petals|A sandstorm|A scarlet mist
+es|¿Con qué cubrió Remilia Scarlet Gensokyo en Embodiment of Scarlet Devil?|Con un invierno eterno|Con una ventisca de pétalos de cerezo|Con una tormenta de arena|Con una niebla escarlata
+ja|「東方紅魔郷」でレミリアが幻想郷を覆ったものは？|終わらない冬|桜吹雪|砂嵐|紅い霧
+zh|《东方红魔乡》中蕾米莉亚用什么笼罩了幻想乡？|无尽的冬天|樱花暴雪|沙尘暴|红雾
+#Q 3169 2 1 4
+ru|Зачем Ремилия Скарлет напустила туман на Гэнсокё?|Чтобы спрятать особняк|Чтобы закрыть солнце|Чтобы вызвать дождь|Чтобы усыпить людей
+en|Why did Remilia Scarlet spread the mist over Gensokyo?|To hide the mansion|To block out the sun|To make it rain|To put people to sleep
+es|¿Para qué cubrió Remilia Scarlet Gensokyo de niebla?|Para esconder la mansión|Para tapar el sol|Para hacer llover|Para dormir a la gente
+ja|レミリアが幻想郷に霧を出した目的は？|館を隠すため|日光をさえぎるため|雨を降らせるため|人々を眠らせるため
+zh|蕾米莉亚为什么让雾笼罩幻想乡？|为了藏起红魔馆|为了遮住阳光|为了下雨|为了让人们睡着
+#Q 3170 1 2 4
+ru|Что подменила Эйрин Ягокоро в Imperishable Night?|Луну|Солнце|Звёзды|Времена года
+en|What did Eirin Yagokoro replace with a fake in Imperishable Night?|The Moon|The Sun|The stars|The seasons
+es|¿Qué sustituyó Eirin Yagokoro por algo falso en Imperishable Night?|La Luna|El Sol|Las estrellas|Las estaciones
+ja|「東方永夜抄」で八意永琳が偽物にすり替えたのは？|月|太陽|星|季節
+zh|《东方永夜抄》中八意永琳把什么换成了假的？|月亮|太阳|星星|季节
+#Q 3171 3 2 4
+ru|Как устроена игра за героинь в Imperishable Night?|Все героини вампиры|Играть можно только за Рэйму|Человек и ёкай играют в паре|Героиня меняется на каждом этапе
+en|How do the playable characters work in Imperishable Night?|All heroines are vampires|Only Reimu is playable|A human and a youkai play as a pair|The heroine changes every stage
+es|¿Cómo funcionan los personajes jugables de Imperishable Night?|Todas las heroínas son vampiras|Solo se puede jugar con Reimu|Una humana y una youkai juegan en pareja|La heroína cambia en cada fase
+ja|「東方永夜抄」の自機の特徴は？|全員が吸血鬼|霊夢しか使えない|人間と妖怪の2人1組|ステージごとに自機が替わる
+zh|《东方永夜抄》的自机有什么特点？|全都是吸血鬼|只能用灵梦|人类和妖怪两人一组|每关自动换人
+#Q 3172 3 2 4
+ru|Что перенеслось в Гэнсокё в Mountain of Faith?|Замок с Луны|Корабль сокровищ|Храм Мория вместе с озером|Подземный дворец
+en|What moved into Gensokyo in Mountain of Faith?|A castle from the Moon|A treasure ship|The Moriya Shrine along with its lake|An underground palace
+es|¿Qué se trasladó a Gensokyo en Mountain of Faith?|Un castillo de la Luna|Un barco del tesoro|El santuario Moriya junto con su lago|Un palacio subterráneo
+ja|「東方風神録」で幻想郷に引っ越してきたのは？|月の城|宝船|湖ごとの守矢神社|地底の宮殿
+zh|《东方风神录》中搬到幻想乡来的是什么？|月亮上的城堡|宝船|连同湖泊一起的守矢神社|地下宫殿
+#Q 3173 1 3 4
+ru|Как называются огромные столбы, которыми сражается богиня Канако Ясака?|Онбасира|Тории|Тотемы|Обелиски
+en|What are the huge pillars the goddess Kanako Yasaka fights with called?|Onbashira|Torii|Totems|Obelisks
+es|¿Cómo se llaman los enormes pilares con los que lucha la diosa Kanako Yasaka?|Onbashira|Torii|Tótems|Obeliscos
+ja|八坂神奈子が戦いに使う巨大な柱は？|御柱|鳥居|トーテムポール|オベリスク
+zh|八坂神奈子战斗时使用的巨大柱子叫什么？|御柱|鸟居|图腾柱|方尖碑
+#Q 3174 2 1 4
+ru|С каким животным связана богиня Сувако Мория?|Со змеёй|С лягушкой|С вороном|С кроликом
+en|Which animal is the goddess Suwako Moriya associated with?|The snake|The frog|The crow|The rabbit
+es|¿Con qué animal se asocia a la diosa Suwako Moriya?|Con la serpiente|Con la rana|Con el cuervo|Con el conejo
+ja|洩矢諏訪子と結びつく動物は？|ヘビ|カエル|カラス|ウサギ
+zh|洩矢诹访子与哪种动物有关？|蛇|青蛙|乌鸦|兔子
+#Q 3175 2 3 4
+ru|Кто капитан летающего корабля в Undefined Fantastic Object?|Итирин Кумои|Минамицу Мураса|Сё Торамару|Назрин
+en|Who is the captain of the flying ship in Undefined Fantastic Object?|Ichirin Kumoi|Minamitsu Murasa|Shou Toramaru|Nazrin
+es|¿Quién es la capitana del barco volador de Undefined Fantastic Object?|Ichirin Kumoi|Minamitsu Murasa|Shou Toramaru|Nazrin
+ja|「東方星蓮船」の空飛ぶ船の船長は？|雲居一輪|村紗水蜜|寅丸星|ナズーリン
+zh|《东方星莲船》中飞船的船长是谁？|云居一轮|村纱水蜜|寅丸星|娜兹玲
+#Q 3176 1 2 4
+ru|Чем сражается призрак корабля Минамицу Мураса?|Якорем|Веслом|Гарпуном|Сетью
+en|What does the ship ghost Minamitsu Murasa fight with?|An anchor|An oar|A harpoon|A net
+es|¿Con qué lucha el fantasma de barco Minamitsu Murasa?|Con un ancla|Con un remo|Con un arpón|Con una red
+ja|船幽霊の村紗水蜜が戦いに使うのは？|錨|櫂|銛|網
+zh|船幽灵村纱水蜜用什么战斗？|锚|船桨|鱼叉|渔网
+#Q 3177 1 3 4
+ru|Какую вещь потеряла Сё Торамару в Undefined Fantastic Object?|Свою драгоценную пагоду|Свой меч|Свою шляпу|Свои очки
+en|What item did Shou Toramaru lose in Undefined Fantastic Object?|Her jeweled pagoda|Her sword|Her hat|Her glasses
+es|¿Qué objeto perdió Shou Toramaru en Undefined Fantastic Object?|Su pagoda enjoyada|Su espada|Su sombrero|Sus gafas
+ja|「東方星蓮船」で寅丸星がなくしたものは？|宝塔|刀|帽子|眼鏡
+zh|《东方星莲船》中寅丸星弄丢了什么？|宝塔|刀|帽子|眼镜
+#Q 3178 4 3 4
+ru|Чем людям казались обломки, которые разбросала Нуэ Ходзю?|Падающими звёздами|Птицами|Воздушными змеями|НЛО
+en|What did the fragments scattered by Nue Houjuu look like to people?|Shooting stars|Birds|Kites|UFOs
+es|¿Qué le parecían a la gente los fragmentos que esparció Nue Houjuu?|Estrellas fugaces|Pájaros|Cometas|Ovnis
+ja|封獣ぬえがばらまいた破片は人々の目に何に見えた？|流れ星|鳥|凧|UFO
+zh|封兽鵺散布的碎片在人们眼中像什么？|流星|鸟|风筝|UFO
+#Q 3179 1 3 4
+ru|Кто дал Уцухо Рэйудзи силу ядерного синтеза?|Канако Ясака|Сатори Комэйдзи|Юкари Якумо|Эйрин Ягокоро
+en|Who gave Utsuho Reiuji the power of nuclear fusion?|Kanako Yasaka|Satori Komeiji|Yukari Yakumo|Eirin Yagokoro
+es|¿Quién le dio a Utsuho Reiuji el poder de la fusión nuclear?|Kanako Yasaka|Satori Komeiji|Yukari Yakumo|Eirin Yagokoro
+ja|霊烏路空に核融合の力を与えたのは？|八坂神奈子|古明地さとり|八雲紫|八意永琳
+zh|是谁给了灵乌路空核聚变的力量？|八坂神奈子|古明地觉|八云紫|八意永琳
+#Q 3180 1 1 4
+ru|Где находится Дворец Земных Духов, дом Сатори Комэйдзи?|Под землёй, в бывшем аду|На Луне|На горе Ёкай|В Бамбуковом лесу заблудших
+en|Where is the Palace of Earth Spirits, Satori Komeiji's home?|Underground, in the former Hell|On the Moon|On Youkai Mountain|In the Bamboo Forest of the Lost
+es|¿Dónde está el Palacio de los Espíritus de la Tierra, hogar de Satori Komeiji?|Bajo tierra, en el antiguo Infierno|En la Luna|En la Montaña Youkai|En el Bosque de Bambú de los Perdidos
+ja|古明地さとりの住む地霊殿があるのは？|地底の旧地獄|月|妖怪の山|迷いの竹林
+zh|古明地觉居住的地灵殿在哪里？|地底的旧地狱|月球|妖怪之山|迷途竹林
+#Q 3181 3 2 4
+ru|Где стоит особняк Эйэнтэй?|На горе Ёкай|У Туманного озера|В Бамбуковом лесу заблудших|В Деревне людей
+en|Where is Eientei located?|On Youkai Mountain|By the Misty Lake|In the Bamboo Forest of the Lost|In the Human Village
+es|¿Dónde se encuentra Eientei?|En la Montaña Youkai|Junto al Lago Brumoso|En el Bosque de Bambú de los Perdidos|En la aldea humana
+ja|永遠亭があるのは？|妖怪の山|霧の湖|迷いの竹林|人間の里
+zh|永远亭位于哪里？|妖怪之山|雾之湖|迷途竹林|人间之里
+#Q 3182 4 2 4
+ru|Возле какого озера стоит Особняк Алой Дьяволицы?|Озера Бива|Озера Сува|Кровавого озера|Туманного озера
+en|Which lake is the Scarlet Devil Mansion next to?|Lake Biwa|Lake Suwa|The Blood Lake|The Misty Lake
+es|¿Junto a qué lago está la Mansión del Diablo Escarlata?|El lago Biwa|El lago Suwa|El Lago de Sangre|El Lago Brumoso
+ja|紅魔館が建っている湖は？|琵琶湖|諏訪湖|血の池|霧の湖
+zh|红魔馆建在哪个湖边？|琵琶湖|诹访湖|血池|雾之湖
+#Q 3183 4 2 4
+ru|Кто хозяин лавки Кориндо?|Мариса Кирисамэ|Нитори Кавасиро|Косудзу Мотоори|Ринносукэ Моритика
+en|Who owns the shop Kourindou?|Marisa Kirisame|Nitori Kawashiro|Kosuzu Motoori|Rinnosuke Morichika
+es|¿Quién es el dueño de la tienda Kourindou?|Marisa Kirisame|Nitori Kawashiro|Kosuzu Motoori|Rinnosuke Morichika
+ja|香霖堂の店主は？|霧雨魔理沙|河城にとり|本居小鈴|森近霖之助
+zh|香霖堂的店主是谁？|雾雨魔理沙|河城荷取|本居小铃|森近霖之助
+#Q 3184 1 3 4
+ru|Чем занимается лавка Судзуна-ан, где работает Косудзу Мотоори?|Даёт книги напрокат|Продаёт сладости|Чинит зонтики|Торгует сакэ
+en|What kind of shop is Suzunaan, where Kosuzu Motoori works?|A book rental shop|A sweet shop|An umbrella repair shop|A sake shop
+es|¿Qué tipo de tienda es Suzunaan, donde trabaja Kosuzu Motoori?|Un alquiler de libros|Una tienda de dulces|Un taller de paraguas|Una tienda de sake
+ja|本居小鈴が店番をしている鈴奈庵は何の店？|貸本屋|菓子屋|傘の修理屋|酒屋
+zh|本居小铃看店的铃奈庵是什么店？|租书店|点心铺|修伞铺|酒铺
+#Q 3185 4 3 4
+ru|Чем особенна Хиэда-но Акю, летописица Гэнсокё?|Она видит будущее|Она понимает язык животных|Она бессмертна|Она ничего не забывает
+en|What is special about Hieda no Akyuu, Gensokyo's chronicler?|She sees the future|She understands animals|She is immortal|She never forgets anything
+es|¿Qué tiene de especial Hieda no Akyuu, la cronista de Gensokyo?|Ve el futuro|Entiende a los animales|Es inmortal|No olvida nada
+ja|幻想郷の記録者、稗田阿求の特徴は？|未来が見える|動物と話せる|不老不死|一度見たものを忘れない
+zh|幻想乡的记录者稗田阿求有什么特点？|能预知未来|能和动物说话|不老不死|过目不忘
+#Q 3186 1 3 4
+ru|Что у отшельницы Касэн Ибараки всегда скрыто бинтами?|Правая рука|Левая нога|Глаза|Шея
+en|What does the hermit Kasen Ibaraki always keep wrapped in bandages?|Her right arm|Her left leg|Her eyes|Her neck
+es|¿Qué lleva siempre vendado la ermitaña Kasen Ibaraki?|El brazo derecho|La pierna izquierda|Los ojos|El cuello
+ja|仙人の茨木華扇がいつも包帯で隠しているのは？|右腕|左足|目|首
+zh|仙人茨木华扇总是用绷带包着哪里？|右臂|左腿|眼睛|脖子
+#Q 3187 4 2 4
+ru|Что возвещает фея Лили Уайт?|Начало ночи|Скорый дождь|Наступление зимы|Приход весны
+en|What does the fairy Lily White announce?|The start of night|Coming rain|The arrival of winter|The arrival of spring
+es|¿Qué anuncia el hada Lily White?|El comienzo de la noche|La llegada de la lluvia|La llegada del invierno|La llegada de la primavera
+ja|妖精のリリーホワイトが知らせるのは？|夜の始まり|雨の予報|冬の到来|春の訪れ
+zh|妖精莉莉霍瓦特会告知什么？|夜晚开始|快要下雨|冬天来临|春天到来
+#Q 3188 1 2 4
+ru|В какое время года появляется ёкай Летти Уайтрок?|Зимой|Весной|Летом|Осенью
+en|In which season does the youkai Letty Whiterock appear?|Winter|Spring|Summer|Autumn
+es|¿En qué estación aparece la youkai Letty Whiterock?|En invierno|En primavera|En verano|En otoño
+ja|妖怪のレティ・ホワイトロックが現れる季節は？|冬|春|夏|秋
+zh|妖怪蕾蒂·霍瓦特洛克在哪个季节出现？|冬天|春天|夏天|秋天
+#Q 3189 3 1 4
+ru|Чем занимаются сёстры Призмривер?|Держат чайную|Охраняют ворота|Играют в музыкальном ансамбле|Выпускают газету
+en|What do the Prismriver sisters do?|They run a teahouse|They guard a gate|They play in a music ensemble|They publish a newspaper
+es|¿A qué se dedican las hermanas Prismriver?|Llevan una casa de té|Vigilan una puerta|Tocan en un conjunto musical|Publican un periódico
+ja|プリズムリバー三姉妹がしていることは？|茶屋の経営|門番|楽団での演奏|新聞の発行
+zh|普莉兹姆利巴三姐妹在做什么？|开茶馆|看门|组乐团演奏|办报纸
+#Q 3190 3 3 4
+ru|Что продаёт в своей ночной лавке Мистия Лорелей?|Якитори|Рамэн|Жареных миног|Тайяки
+en|What does Mystia Lorelei sell at her night stall?|Yakitori|Ramen|Grilled lamprey|Taiyaki
+es|¿Qué vende Mystia Lorelei en su puesto nocturno?|Yakitori|Ramen|Lamprea a la parrilla|Taiyaki
+ja|ミスティア・ローレライが屋台で売っているのは？|焼き鳥|ラーメン|八目鰻の蒲焼き|たい焼き
+zh|米斯蒂娅·萝蕾拉的路边摊卖什么？|烤鸡串|拉面|烤八目鳗|鲷鱼烧
+#Q 3191 3 3 4
+ru|Что случается с людьми от песен Мистии Лорелей?|Они засыпают|Они пускаются в пляс|Они перестают видеть в темноте|Они забывают дорогу
+en|What happens to people who hear Mystia Lorelei sing?|They fall asleep|They start dancing|They go night-blind|They forget the way
+es|¿Qué les pasa a quienes oyen cantar a Mystia Lorelei?|Se duermen|Se ponen a bailar|Dejan de ver en la oscuridad|Olvidan el camino
+ja|ミスティア・ローレライの歌を聞いた人間はどうなる？|眠ってしまう|踊りだす|鳥目になる|道を忘れる
+zh|听了米斯蒂娅·萝蕾拉的歌，人类会怎样？|睡着|跳起舞来|得夜盲症|忘记路
+#Q 3192 2 3 4
+ru|Где летом часто можно встретить Юку Кадзами?|В Бамбуковом лесу заблудших|На поле подсолнухов|У Туманного озера|На горе Ёкай
+en|Where can Yuuka Kazami often be found in summer?|In the Bamboo Forest of the Lost|In the sunflower field|By the Misty Lake|On Youkai Mountain
+es|¿Dónde suele estar Yuuka Kazami en verano?|En el Bosque de Bambú de los Perdidos|En el campo de girasoles|Junto al Lago Brumoso|En la Montaña Youkai
+ja|夏の風見幽香がよくいる場所は？|迷いの竹林|太陽の畑|霧の湖|妖怪の山
+zh|夏天常能在哪里见到风见幽香？|迷途竹林|太阳花田|雾之湖|妖怪之山
+#Q 3193 3 3 4
+ru|Раз в сколько лет повторяется цветочный инцидент из Phantasmagoria of Flower View?|10|30|60|100
+en|Every how many years does the flower incident from Phantasmagoria of Flower View repeat?|10|30|60|100
+es|¿Cada cuántos años se repite el incidente de las flores de Phantasmagoria of Flower View?|10|30|60|100
+ja|「東方花映塚」の花の異変は何年ごとに起こる？|10|30|60|100
+zh|《东方花映冢》中的花之异变每隔多少年发生一次？|10|30|60|100
+#Q 3194 3 2 4
+ru|Чем занимается Сикиэйки Ямазанаду?|Перевозит души через реку|Охраняет Луну|Судит души умерших|Лечит людей
+en|What is Shikieiki Yamaxanadu's job?|Ferrying souls across the river|Guarding the Moon|Judging the souls of the dead|Healing people
+es|¿Cuál es el trabajo de Shikieiki Yamaxanadu?|Llevar almas por el río|Proteger la Luna|Juzgar las almas de los muertos|Curar a la gente
+ja|四季映姫・ヤマザナドゥの仕事は？|魂を運ぶ船頭|月の守護|死者の魂を裁く閻魔|病人の治療
+zh|四季映姬·亚玛萨那度的工作是什么？|摆渡亡魂|守护月亮|审判亡者灵魂的阎魔|给人治病
+#Q 3195 1 3 4
+ru|Кто выпускает газету «Какаси нэмпо»?|Хатэтэ Химэкайдо|Ая Сямэймару|Момидзи Инубасири|Мэгуму Иидзунамару
+en|Who publishes the newspaper Kakashi Spirit News?|Hatate Himekaidou|Aya Shameimaru|Momiji Inubashiri|Megumu Iizunamaru
+es|¿Quién publica el periódico Kakashi Spirit News?|Hatate Himekaidou|Aya Shameimaru|Momiji Inubashiri|Megumu Iizunamaru
+ja|「花果子念報」を発行しているのは？|姫海棠はたて|射命丸文|犬走椛|飯綱丸龍
+zh|《花果子念报》是谁发行的？|姬海棠果|射命丸文|犬走椛|饭纲丸龙
+#Q 3196 4 3 4
+ru|Что собирает богиня Хина Кагияма?|Пожертвования|Души умерших|Опавшие листья|Несчастья людей
+en|What does the goddess Hina Kagiyama collect?|Donations|Souls of the dead|Fallen leaves|People's misfortune
+es|¿Qué recoge la diosa Hina Kagiyama?|Donativos|Almas de muertos|Hojas caídas|La desgracia de la gente
+ja|鍵山雛が集めているものは？|お賽銭|死者の魂|落ち葉|人間の厄
+zh|键山雏收集的是什么？|香火钱|亡者的灵魂|落叶|人类的厄运
+#Q 3197 4 1 4
+ru|В каком стиле одета Хун Мэйлин?|В японском|В индийском|В русском|В китайском
+en|What style of clothing does Hong Meiling wear?|Japanese|Indian|Russian|Chinese
+es|¿Qué estilo de ropa lleva Hong Meiling?|Japonés|Indio|Ruso|Chino
+ja|紅美鈴の服装はどこの国風？|和風|インド風|ロシア風|中華風
+zh|红美铃穿的是哪种风格的服装？|和式|印度风|俄式|中式
+#Q 3198 2 1 4
+ru|Чем сражается Сакуя Идзаёи?|Луком|Метательными ножами|Веером|Цепью
+en|What does Sakuya Izayoi fight with?|A bow|Throwing knives|A fan|A chain
+es|¿Con qué lucha Sakuya Izayoi?|Con un arco|Con cuchillos arrojadizos|Con un abanico|Con una cadena
+ja|十六夜咲夜が戦いに使うのは？|弓|投げナイフ|扇|鎖
+zh|十六夜咲夜用什么战斗？|弓|飞刀|扇子|锁链
+#Q 3199 3 2 4
+ru|Какая способность у Ремилии Скарлет?|Разрушать что угодно|Управлять границами|Управлять судьбой|Читать мысли
+en|What is Remilia Scarlet's ability?|Destroying anything|Manipulating boundaries|Manipulating fate|Reading minds
+es|¿Qué habilidad tiene Remilia Scarlet?|Destruir cualquier cosa|Manipular los límites|Manipular el destino|Leer mentes
+ja|レミリア・スカーレットの能力は？|あらゆるものを破壊する|境界を操る|運命を操る|心を読む
+zh|蕾米莉亚·斯卡雷特的能力是什么？|破坏一切|操纵境界|操纵命运|读心
+#Q 3200 2 2 4
+ru|Какая способность у Фландр Скарлет?|Управлять судьбой|Разрушать что угодно|Останавливать время|Управлять огнём
+en|What is Flandre Scarlet's ability?|Manipulating fate|Destroying anything at all|Stopping time|Controlling fire
+es|¿Qué habilidad tiene Flandre Scarlet?|Manipular el destino|Destruir cualquier cosa|Detener el tiempo|Controlar el fuego
+ja|フランドール・スカーレットの能力は？|運命を操る|ありとあらゆるものを破壊する|時間を止める|火を操る
+zh|芙兰朵露·斯卡雷特的能力是什么？|操纵命运|破坏一切事物|停止时间|操纵火焰
+#Q 3201 1 1 4
+ru|Чьи головы изображают мемы «юккури»?|Рэйму и Марисы|Сырно и Румии|Сакуи и Ремилии|Ёму и Ююко
+en|Whose heads do the "Yukkuri" memes depict?|Reimu and Marisa|Cirno and Rumia|Sakuya and Remilia|Youmu and Yuyuko
+es|¿De quiénes son las cabezas de los memes «Yukkuri»?|De Reimu y Marisa|De Cirno y Rumia|De Sakuya y Remilia|De Youmu y Yuyuko
+ja|「ゆっくり」のネタで描かれているのは誰の顔？|霊夢と魔理沙|チルノとルーミア|咲夜とレミリア|妖夢と幽々子
+zh|“油库里”梗画的是谁的头？|灵梦和魔理沙|琪露诺和露米娅|咲夜和蕾米莉亚|妖梦和幽幽子
+#Q 3202 1 1 4
+ru|Что такое «фумо» в фандоме Touhou?|Мягкие плюшевые куклы героинь|Фанатские игры|Музыкальные ремиксы|Короткие комиксы
+en|What are "fumos" in the Touhou fandom?|Soft plush dolls of the characters|Fan games|Music remixes|Short comics
+es|¿Qué son los «fumos» en el fandom de Touhou?|Muñecos de peluche de los personajes|Juegos de fans|Remixes musicales|Cómics cortos
+ja|東方ファンの間で「ふもふも」と呼ばれるのは？|キャラのぬいぐるみ|ファンゲーム|アレンジ曲|4コマ漫画
+zh|东方圈里的“fumo”指的是什么？|角色毛绒玩偶|同人游戏|音乐改编|短篇漫画
+#Q 3203 3 1 4
+ru|Какой напиток обожает создатель Touhou ZUN?|Зелёный чай|Кофе|Пиво|Молоко
+en|Which drink is Touhou creator ZUN famous for loving?|Green tea|Coffee|Beer|Milk
+es|¿Qué bebida le encanta a ZUN, el creador de Touhou?|El té verde|El café|La cerveza|La leche
+ja|東方の作者ZUNが大好きなことで有名な飲み物は？|緑茶|コーヒー|ビール|牛乳
+zh|东方作者ZUN以爱喝什么出名？|绿茶|咖啡|啤酒|牛奶
+#Q 3204 4 2 4
+ru|Под каким названием выходят игры Touhou?|Team Gensokyo|Scarlet Devil Studio|Hakurei Soft|Team Shanghai Alice
+en|Under what team name are the Touhou games released?|Team Gensokyo|Scarlet Devil Studio|Hakurei Soft|Team Shanghai Alice
+es|¿Con qué nombre de equipo se publican los juegos de Touhou?|Team Gensokyo|Scarlet Devil Studio|Hakurei Soft|Team Shanghai Alice
+ja|東方Projectの作品を出しているサークル名は？|幻想郷ソフト|紅魔スタジオ|博麗ソフト|上海アリス幻樂団
+zh|东方Project作品是以哪个社团名义发行的？|幻想乡软件|红魔工作室|博丽软件|上海爱丽丝幻乐团
+#Q 3205 1 2 4
+ru|Как называется крупнейший фестиваль, посвящённый только Touhou?|Рэйтайсай|Комикет|Tokyo Game Show|Wonder Festival
+en|What is the largest Touhou-only convention called?|Reitaisai|Comiket|Tokyo Game Show|Wonder Festival
+es|¿Cómo se llama la mayor convención dedicada solo a Touhou?|Reitaisai|Comiket|Tokyo Game Show|Wonder Festival
+ja|東方Projectだけを扱う最大の即売会は？|例大祭|コミックマーケット|東京ゲームショウ|ワンダーフェスティバル
+zh|规模最大的东方Project专门展会叫什么？|例大祭|Comic Market|东京电玩展|Wonder Festival
+#Q 3206 2 2 4
+ru|Какого жанра игра Immaterial and Missing Power?|Ритм-игра|Файтинг|Головоломка|Гонки
+en|What genre is Immaterial and Missing Power?|Rhythm game|Fighting game|Puzzle game|Racing game
+es|¿De qué género es Immaterial and Missing Power?|Ritmo|Lucha|Puzle|Carreras
+ja|「東方萃夢想」はどんなジャンルのゲーム？|音楽ゲーム|対戦格闘|パズル|レース
+zh|《东方萃梦想》是什么类型的游戏？|音乐游戏|对战格斗|益智|赛车
+#Q 3207 1 3 4
+ru|Что устраивала Суйка Ибуки в Immaterial and Missing Power?|Пиры каждые три дня|Вечную ночь|Снегопад летом|Землетрясения
+en|What was Suika Ibuki causing in Immaterial and Missing Power?|Feasts every three days|An endless night|Snow in summer|Earthquakes
+es|¿Qué provocaba Suika Ibuki en Immaterial and Missing Power?|Banquetes cada tres días|Una noche eterna|Nieve en verano|Terremotos
+ja|「東方萃夢想」で伊吹萃香が起こしていた異変は？|三日おきの宴会|明けない夜|夏の雪|地震
+zh|《东方萃梦想》中伊吹萃香引发了什么异变？|每三天一次的宴会|不会结束的夜晚|夏天下雪|地震
+#Q 3208 2 2 4
+ru|Что пыталась найти Санаэ Котия в Hisoutensoku?|Дракона|Гигантского робота|Летающий замок|Морского змея
+en|What was Sanae Kochiya trying to find in Hisoutensoku?|A dragon|A giant robot|A flying castle|A sea serpent
+es|¿Qué intentaba encontrar Sanae Kochiya en Hisoutensoku?|Un dragón|Un robot gigante|Un castillo volador|Una serpiente marina
+ja|「東方非想天則」で東風谷早苗が探していたのは？|竜|巨大ロボット|空飛ぶ城|海蛇
+zh|《东方非想天则》中东风谷早苗在寻找什么？|龙|巨大机器人|飞天城堡|海蛇
+#Q 3209 1 2 4
+ru|Кто такая Сумирэко Усами из Urban Legend in Limbo?|Школьница-экстрасенс из Внешнего мира|Лунная принцесса|Призрак самурая|Каппа-изобретательница
+en|Who is Sumireko Usami from Urban Legend in Limbo?|A psychic high school girl from the Outside World|A lunar princess|A samurai ghost|A kappa inventor
+es|¿Quién es Sumireko Usami de Urban Legend in Limbo?|Una estudiante con poderes psíquicos del Mundo Exterior|Una princesa lunar|Un fantasma samurái|Una kappa inventora
+ja|「東方深秘録」の宇佐見菫子は何者？|外の世界の超能力女子高生|月の姫|侍の亡霊|発明家の河童
+zh|《东方深秘录》中的宇佐见堇子是什么人？|外界的超能力女高中生|月之公主|武士亡灵|发明家河童
+#Q 3210 3 2 4
+ru|Что делает игрок в Shoot the Bullet?|Сражается мечом|Собирает цветы|Фотографирует узоры из пуль|Гоняет на метле
+en|What does the player do in Shoot the Bullet?|Fight with a sword|Gather flowers|Photograph bullet patterns with a camera|Race on a broom
+es|¿Qué hace el jugador en Shoot the Bullet?|Luchar con una espada|Recoger flores|Fotografiar los patrones de balas|Correr en escoba
+ja|「東方文花帖」でプレイヤーがすることは？|刀で戦う|花を集める|カメラで弾幕を撮影する|ほうきでレースする
+zh|在《东方文花帖》中玩家要做什么？|用刀战斗|收集花朵|用相机拍摄弹幕|骑扫帚赛跑
+#Q 3211 1 2 4
+ru|Кто главная героиня Fairy Wars?|Сырно|Рэйму Хакурэй|Мариса Кирисамэ|Лили Уайт
+en|Who is the main character of Fairy Wars?|Cirno|Reimu Hakurei|Marisa Kirisame|Lily White
+es|¿Quién es la protagonista de Fairy Wars?|Cirno|Reimu Hakurei|Marisa Kirisame|Lily White
+ja|「妖精大戦争」の主人公は？|チルノ|博麗霊夢|霧雨魔理沙|リリーホワイト
+zh|《妖精大战争》的主角是谁？|琪露诺|博丽灵梦|雾雨魔理沙|莉莉霍瓦特
+#Q 3212 1 3 4
+ru|Какая из трёх фей света умеет глушить звуки?|Луна Чайлд|Санни Милк|Стар Сапфир|Дайёсэй
+en|Which of the Three Fairies of Light can silence sounds?|Luna Child|Sunny Milk|Star Sapphire|Daiyousei
+es|¿Cuál de las Tres Hadas de la Luz puede silenciar los sonidos?|Luna Child|Sunny Milk|Star Sapphire|Daiyousei
+ja|光の三妖精のうち、音を消せるのは？|ルナチャイルド|サニーミルク|スターサファイア|大妖精
+zh|光之三妖精中谁能消除声音？|露娜切露德|桑尼米尔克|斯塔萨菲雅|大妖精
+#Q 3213 3 3 4
+ru|Чем на самом деле является красная ленточка в волосах Румии?|Подарком Рэйму|Лепестком розы|Талисманом-печатью|Осколком луны
+en|What is the red ribbon in Rumia's hair actually?|A gift from Reimu|A rose petal|A sealing talisman|A piece of the Moon
+es|¿Qué es en realidad el lazo rojo del pelo de Rumia?|Un regalo de Reimu|Un pétalo de rosa|Un talismán de sellado|Un trozo de la Luna
+ja|ルーミアの頭の赤いリボンの正体は？|霊夢からの贈り物|バラの花びら|お札|月のかけら
+zh|露米娅头上的红色发带其实是什么？|灵梦送的礼物|玫瑰花瓣|符咒|月亮的碎片
+#Q 3214 4 2 4
+ru|Какое дерево хотела заставить расцвести Ююко в Perfect Cherry Blossom?|Священную сосну|Персик бессмертия|Сливу Тэндзин|Сайгё Аякаси
+en|Which tree did Yuyuko want to bring into full bloom in Perfect Cherry Blossom?|A sacred pine|The peach of immortality|The Tenjin plum|The Saigyou Ayakashi
+es|¿Qué árbol quería Yuyuko hacer florecer en Perfect Cherry Blossom?|Un pino sagrado|El melocotonero de la inmortalidad|El ciruelo de Tenjin|El Saigyou Ayakashi
+ja|「東方妖々夢」で幽々子が満開にさせようとした木は？|神木の松|不老不死の桃|天神の梅|西行妖
+zh|《东方妖妖梦》中幽幽子想让哪棵树盛开？|神松|长生不老的仙桃|天神梅|西行妖
+#Q 3215 3 3 4
+ru|Что погребено под деревом Сайгё Аякаси?|Сокровище Луны|Меч Ёму|Тело самой Ююко|Книга Акю
+en|What is buried beneath the Saigyou Ayakashi tree?|A treasure of the Moon|Youmu's sword|Yuyuko's own body|Akyuu's book
+es|¿Qué está enterrado bajo el árbol Saigyou Ayakashi?|Un tesoro de la Luna|La espada de Youmu|El propio cuerpo de Yuyuko|El libro de Akyuu
+ja|西行妖の下に眠っているのは？|月の宝|妖夢の刀|幽々子自身の亡骸|阿求の本
+zh|西行妖下面埋着什么？|月之宝物|妖梦的刀|幽幽子自己的遗体|阿求的书
+#Q 3216 4 2 4
+ru|Кто учит детей в Деревне людей?|Ая Сямэймару|Пачули Нолидж|Эйрин Ягокоро|Кэйнэ Камисирасава
+en|Who teaches the children in the Human Village?|Aya Shameimaru|Patchouli Knowledge|Eirin Yagokoro|Keine Kamishirasawa
+es|¿Quién da clase a los niños de la aldea humana?|Aya Shameimaru|Patchouli Knowledge|Eirin Yagokoro|Keine Kamishirasawa
+ja|人間の里の寺子屋で子供たちに教えているのは？|射命丸文|パチュリー・ノーレッジ|八意永琳|上白沢慧音
+zh|在人间之里教孩子们读书的是谁？|射命丸文|帕秋莉·诺蕾姬|八意永琳|上白泽慧音
+#Q 3217 4 3 4
+ru|Какая способность у Кэйнэ Камисирасавы?|Управлять Луной|Говорить с животными|Лечить раны|Поглощать и создавать историю
+en|What is Keine Kamishirasawa's ability?|Controlling the Moon|Talking to animals|Healing wounds|Eating and creating history
+es|¿Qué habilidad tiene Keine Kamishirasawa?|Controlar la Luna|Hablar con los animales|Curar heridas|Devorar y crear la historia
+ja|上白沢慧音の能力は？|月を操る|動物と話す|傷を治す|歴史を食べる・創る
+zh|上白泽慧音的能力是什么？|操纵月亮|和动物说话|治愈伤口|吃掉和创造历史
+#Q 3218 1 1 4
+ru|Кем друг другу приходятся Фудзивара-но Моко и Кагуя Хорайсан?|Заклятыми соперницами|Сёстрами|Служанкой и госпожой|Лучшими подругами
+en|How are Fujiwara no Mokou and Kaguya Houraisan related?|They are bitter rivals|They are sisters|They are servant and mistress|They are best friends
+es|¿Qué relación tienen Fujiwara no Mokou y Kaguya Houraisan?|Son rivales acérrimas|Son hermanas|Son sirvienta y señora|Son mejores amigas
+ja|藤原妹紅と蓬莱山輝夜の関係は？|宿敵どうし|姉妹|主従|親友
+zh|藤原妹红和蓬莱山辉夜是什么关系？|宿敌|姐妹|主仆|挚友
+#Q 3219 2 2 4
+ru|Сколько невыполнимых заданий дала Кагуя своим женихам?|3|5|7|9
+en|How many impossible tasks did Kaguya give her suitors?|3|5|7|9
+es|¿Cuántas tareas imposibles dio Kaguya a sus pretendientes?|3|5|7|9
+ja|輝夜が求婚者たちに出した難題はいくつ？|3|5|7|9
+zh|辉夜给求婚者们出了几道难题？|3|5|7|9
+#Q 3220 3 1 4
+ru|Что вызывают красные глаза Рэйсэн?|Сон|Слепоту|Безумие|Смех
+en|What do Reisen's red eyes cause?|Sleep|Blindness|Madness|Laughter
+es|¿Qué provocan los ojos rojos de Reisen?|El sueño|La ceguera|La locura|La risa
+ja|鈴仙の赤い目がもたらすのは？|眠り|失明|狂気|笑い
+zh|铃仙的红眼睛会让人怎样？|睡着|失明|陷入疯狂|发笑
+#Q 3221 2 2 4
+ru|Чем славится земной кролик Тэви Инаба?|Читает мысли|Приносит людям удачу|Предсказывает погоду|Лечит раны
+en|What is the earth rabbit Tewi Inaba known for?|Reading minds|Bringing humans good luck|Forecasting the weather|Healing wounds
+es|¿Por qué es conocida la coneja terrestre Tewi Inaba?|Lee mentes|Da buena suerte a los humanos|Predice el tiempo|Cura heridas
+ja|地上の兎、因幡てゐの能力は？|心を読む|人間を幸運にする|天気を予言する|傷を治す
+zh|地上兔因幡帝的能力是什么？|读心|让人类变得幸运|预报天气|治愈伤口
+#Q 3222 1 2 4
+ru|Что надето на правую руку Уцухо Рэйудзи?|Управляющий стержень реактора|Щит|Перчатка с когтями|Факел
+en|What does Utsuho Reiuji wear on her right arm?|A reactor control rod|A shield|A clawed gauntlet|A torch
+es|¿Qué lleva Utsuho Reiuji en el brazo derecho?|Una barra de control de reactor|Un escudo|Un guantelete con garras|Una antorcha
+ja|霊烏路空の右腕についているのは？|制御棒|盾|かぎ爪|たいまつ
+zh|灵乌路空右臂上装着什么？|控制棒|盾牌|钩爪|火把
+#Q 3223 1 2 4
+ru|Кем приходятся Сатори Комэйдзи Орин и Окуу?|Её питомцами|Её сёстрами|Её учительницами|Её соперницами
+en|What are Orin and Okuu to Satori Komeiji?|Her pets|Her sisters|Her teachers|Her rivals
+es|¿Qué son Orin y Okuu para Satori Komeiji?|Sus mascotas|Sus hermanas|Sus maestras|Sus rivales
+ja|お燐とお空は古明地さとりにとって何？|ペット|姉妹|先生|ライバル
+zh|阿燐和阿空对古明地觉来说是什么？|宠物|姐妹|老师|对手
+#Q 3224 2 2 4
+ru|Каким чувством управляет Парси Мидзухаси?|Радостью|Ревностью|Страхом|Скукой
+en|Which emotion does Parsee Mizuhashi manipulate?|Joy|Jealousy|Fear|Boredom
+es|¿Qué emoción manipula Parsee Mizuhashi?|La alegría|Los celos|El miedo|El aburrimiento
+ja|水橋パルスィが操る感情は？|喜び|嫉妬|恐怖|退屈
+zh|水桥帕露西能操纵哪种情绪？|喜悦|嫉妒|恐惧|无聊
+#Q 3225 4 3 4
+ru|Что держит в руке Юги Хосигума, не проливая ни капли даже в бою?|Фонарь|Веер|Кувшин воды|Чашу с сакэ
+en|What does Yuugi Hoshiguma hold without spilling a drop, even in battle?|A lantern|A fan|A water jug|A dish of sake
+es|¿Qué sostiene Yuugi Hoshiguma sin derramar ni una gota, incluso luchando?|Un farolillo|Un abanico|Una jarra de agua|Un platillo de sake
+ja|星熊勇儀が戦いの最中もこぼさず持っているのは？|提灯|扇|水差し|酒の入った盃
+zh|星熊勇仪即使在战斗中也一滴不洒地拿着什么？|灯笼|扇子|水壶|盛酒的酒杯
+#Q 3226 4 3 4
+ru|В чём сидит ёкай Кисумэ?|В чайнике|В бочке|В корзине|В деревянном ведре
+en|What does the youkai Kisume sit in?|A teapot|A barrel|A basket|A wooden bucket
+es|¿Dentro de qué va la youkai Kisume?|De una tetera|De un barril|De una cesta|De un cubo de madera
+ja|キスメが入っているのは？|やかん|樽|かご|桶
+zh|琪斯美坐在什么里面？|水壶|酒坛|篮子|木桶
+#Q 3227 2 3 4
+ru|Что отражает погода вокруг каждого героя в Scarlet Weather Rhapsody?|Его возраст|Его характер|Его силу|Время суток
+en|In Scarlet Weather Rhapsody, what does the weather around each character reflect?|Their age|Their nature|Their strength|The time of day
+es|En Scarlet Weather Rhapsody, ¿qué refleja el clima alrededor de cada personaje?|Su edad|Su carácter|Su fuerza|La hora del día
+ja|「東方緋想天」で各キャラの周りに起きる天気が表しているのは？|年齢|その人の気質|強さ|時刻
+zh|《东方绯想天》中每个角色周围的天气代表什么？|年龄|那个人的气质|力量|时刻
+#Q 3228 1 3 4
+ru|Чья посланница Ику Нагаэ?|Бога-дракона|Лунного царя|Владыки ада|Небесного императора
+en|Whose messenger is Iku Nagae?|The Dragon God's|The Lunar king's|The lord of Hell's|The Celestial Emperor's
+es|¿De quién es mensajera Iku Nagae?|Del Dios Dragón|Del rey lunar|Del señor del Infierno|Del emperador celestial
+ja|永江衣玖は誰の使い？|竜神|月の王|地獄の王|天界の帝
+zh|永江衣玖是谁的使者？|龙神|月之王|地狱之王|天界帝王
+#Q 3229 1 1 4
+ru|Что Мариса постоянно «одалживает» из библиотеки Пачули?|Книги|Чай|Кристаллы|Зелья
+en|What does Marisa keep "borrowing" from Patchouli's library?|Books|Tea|Crystals|Potions
+es|¿Qué se lleva «prestado» Marisa una y otra vez de la biblioteca de Patchouli?|Libros|Té|Cristales|Pociones
+ja|魔理沙がパチュリーの図書館から何度も「借りていく」ものは？|本|紅茶|水晶|薬
+zh|魔理沙总是从帕秋莉的图书馆“借走”什么？|书|红茶|水晶|药水
+#Q 3230 1 2 4
+ru|Когда Мариса обещает вернуть книги, которые «берёт на время»?|Когда умрёт|Завтра утром|Через сто лет|Как только прочитает
+en|When does Marisa promise to return the books she "borrows"?|When she dies|Tomorrow morning|In a hundred years|As soon as she reads them
+es|¿Cuándo promete Marisa devolver los libros que «toma prestados»?|Cuando se muera|Mañana por la mañana|Dentro de cien años|En cuanto los lea
+ja|魔理沙が「借りた」本を返すと言っているのはいつ？|死んだら|明日の朝|百年後|読み終わったら
+zh|魔理沙说她“借”的书什么时候还？|等她死了以后|明天早上|一百年后|读完以后
+#Q 3231 2 2 4
+ru|Где живёт Мариса Кирисамэ?|В Макае|В Лесу магии|В храме Хакурэй|На горе Ёкай
+en|Where does Marisa Kirisame live?|In Makai|In the Forest of Magic|At the Hakurei Shrine|On Youkai Mountain
+es|¿Dónde vive Marisa Kirisame?|En Makai|En el Bosque de la Magia|En el santuario Hakurei|En la Montaña Youkai
+ja|霧雨魔理沙が住んでいるのは？|魔界|魔法の森|博麗神社|妖怪の山
+zh|雾雨魔理沙住在哪里？|魔界|魔法森林|博丽神社|妖怪之山
+#Q 3232 1 2 4
+ru|Какие украшения носит в волосах Санаэ Котия?|Лягушку и змею|Луну и звезду|Бабочку и цветок|Колокольчик и бант
+en|What ornaments does Sanae Kochiya wear in her hair?|A frog and a snake|A moon and a star|A butterfly and a flower|A bell and a bow
+es|¿Qué adornos lleva Sanae Kochiya en el pelo?|Una rana y una serpiente|Una luna y una estrella|Una mariposa y una flor|Un cascabel y un lazo
+ja|東風谷早苗の髪飾りのモチーフは？|カエルとヘビ|月と星|蝶と花|鈴とリボン
+zh|东风谷早苗的发饰是什么造型？|青蛙和蛇|月亮和星星|蝴蝶和花|铃铛和缎带
+#Q 3233 1 3 4
+ru|Чем Сэйга Каку проделывает дыры в стенах?|Шпилькой для волос|Мечом|Ключом|Веером
+en|What does Seiga Kaku use to make holes in walls?|Her hairpin|A sword|A key|A fan
+es|¿Con qué hace agujeros en las paredes Seiga Kaku?|Con su horquilla|Con una espada|Con una llave|Con un abanico
+ja|霍青娥が壁に穴を開けるのに使うのは？|かんざし|刀|鍵|扇
+zh|霍青娥用什么在墙上开洞？|发簪|刀|钥匙|扇子
+#Q 3234 3 2 4
+ru|Кем является Ёсика Мияко?|Вампиром|Призраком корабля|Цзянши, прыгающим зомби|Снежной девой
+en|What is Yoshika Miyako?|A vampire|A ship ghost|A jiangshi, a hopping zombie|A snow woman
+es|¿Qué es Yoshika Miyako?|Una vampira|Un fantasma de barco|Una jiangshi, una zombi saltarina|Una mujer de nieve
+ja|宮古芳香の種族は？|吸血鬼|船幽霊|キョンシー|雪女
+zh|宫古芳香是什么？|吸血鬼|船幽灵|僵尸|雪女
+#Q 3235 2 2 4
+ru|Почему Коиси Комэйдзи почти никто не замечает?|Она умеет превращаться в кошку|Она действует бессознательно|Она живёт на Луне|Она всегда спит
+en|Why does almost nobody notice Koishi Komeiji?|She can turn into a cat|She acts on the unconscious|She lives on the Moon|She is always asleep
+es|¿Por qué casi nadie se fija en Koishi Komeiji?|Puede convertirse en gata|Actúa desde el inconsciente|Vive en la Luna|Siempre está dormida
+ja|古明地こいしにほとんど誰も気づかないのはなぜ？|猫に化けられるから|無意識で行動しているから|月に住んでいるから|いつも眠っているから
+zh|为什么几乎没人能注意到古明地恋？|她能变成猫|她凭无意识行动|她住在月球上|她总是在睡觉
+#Q 3236 4 3 4
+ru|Что особенного в режиме Pointdevice в Legacy of Lunatic Kingdom?|Нет бомб|Пули невидимы|Время замедлено|После каждого попадания игра возвращает к контрольной точке
+en|What is special about Pointdevice mode in Legacy of Lunatic Kingdom?|There are no bombs|The bullets are invisible|Time is slowed down|You restart from a checkpoint after every hit
+es|¿Qué tiene de especial el modo Pointdevice de Legacy of Lunatic Kingdom?|No hay bombas|Las balas son invisibles|El tiempo va más lento|Tras cada impacto vuelves a un punto de control
+ja|「東方紺珠伝」の完全無欠モードの特徴は？|ボムがない|弾が見えない|時間がゆっくり進む|被弾するとチェックポイントからやり直し
+zh|《东方绀珠传》的完全无缺模式有什么特点？|没有炸弹|子弹看不见|时间变慢|中弹后从检查点重来
+#Q 3237 4 3 4
+ru|Кому мстит Дзюнко из Legacy of Lunatic Kingdom?|Кагуе|Ремилии|Юкари|Чанъэ
+en|Who is Junko from Legacy of Lunatic Kingdom seeking revenge on?|Kaguya|Remilia|Yukari|Chang'e
+es|¿De quién quiere vengarse Junko de Legacy of Lunatic Kingdom?|De Kaguya|De Remilia|De Yukari|De Chang'e
+ja|「東方紺珠伝」の純狐が恨んでいる相手は？|輝夜|レミリア|紫|嫦娥
+zh|《东方绀珠传》中纯狐憎恨的是谁？|辉夜|蕾米莉亚|紫|嫦娥
+#Q 3238 4 2 4
+ru|Над чем властна Дореми Свит?|Над огнём|Над временем|Над ветром|Над снами
+en|What does Doremy Sweet rule over?|Fire|Time|Wind|Dreams
+es|¿Sobre qué tiene poder Doremy Sweet?|El fuego|El tiempo|El viento|Los sueños
+ja|ドレミー・スイートが支配しているのは？|炎|時間|風|夢
+zh|哆来咪·苏伊特掌管什么？|火焰|时间|风|梦境
+#Q 3239 1 3 4
+ru|Что случается с событием, о котором вслух скажет Сагумэ Кисин?|Оно оборачивается вспять|Оно сразу сбывается|Все о нём забывают|Оно повторяется дважды
+en|What happens to an event when Sagume Kishin speaks about it?|It reverses|It happens instantly|Everyone forgets it|It repeats twice
+es|¿Qué pasa con un suceso cuando Sagume Kishin habla de él?|Se invierte|Ocurre al instante|Todos lo olvidan|Se repite dos veces
+ja|稀神サグメが口に出すと、物事はどうなる？|逆転する|すぐに実現する|皆が忘れる|二度くり返す
+zh|稀神探女说出口的事情会怎样？|发生逆转|立刻实现|所有人都忘了|重复两次
+#Q 3240 1 3 4
+ru|Что Окина Матара открывает на спинах людей и ёкаев?|Двери|Окна|Глаза|Крылья
+en|What does Okina Matara open on the backs of people and youkai?|Doors|Windows|Eyes|Wings
+es|¿Qué abre Okina Matara en la espalda de humanos y youkai?|Puertas|Ventanas|Ojos|Alas
+ja|摩多羅隠岐奈が人や妖怪の背中に開くのは？|扉|窓|目|翼
+zh|摩多罗隐岐奈会在人和妖怪背后打开什么？|门|窗户|眼睛|翅膀
+#Q 3241 3 3 4
+ru|Кем является Наруми Ятадэра из Леса магии?|Куклой|Каппой|Ожившей статуей Дзидзо|Феей
+en|What is Narumi Yatadera of the Forest of Magic?|A doll|A kappa|A Jizo statue come to life|A fairy
+es|¿Qué es Narumi Yatadera, del Bosque de la Magia?|Una muñeca|Una kappa|Una estatua de Jizo que cobró vida|Un hada
+ja|魔法の森の矢田寺成美の正体は？|人形|河童|地蔵|妖精
+zh|魔法森林的矢田寺成美是什么？|人偶|河童|地藏|妖精
+#Q 3242 4 3 4
+ru|Чем торгуют на рынке в Unconnected Marketeers?|Золотыми спелл-картами|Волшебными зельями|Лунными сокровищами|Картами способностей
+en|What is traded at the market in Unconnected Marketeers?|Golden spell cards|Magic potions|Lunar treasures|Ability cards
+es|¿Qué se comercia en el mercado de Unconnected Marketeers?|Spell cards de oro|Pociones mágicas|Tesoros lunares|Cartas de habilidad
+ja|「東方虹龍洞」で売り買いされているのは？|金のスペルカード|魔法の薬|月の宝|アビリティカード
+zh|《东方虹龙洞》中交易的是什么？|黄金符卡|魔法药水|月之宝物|能力卡
+#Q 3243 3 3 4
+ru|Какая надпись на футболке Гекатии Лапислазули?|I love Moon|Lunatic Queen|Welcome Hell|Hell is cool
+en|What does Hecatia Lapislazuli's T-shirt say?|I love Moon|Lunatic Queen|Welcome Hell|Hell is cool
+es|¿Qué pone en la camiseta de Hecatia Lapislazuli?|I love Moon|Lunatic Queen|Welcome Hell|Hell is cool
+ja|ヘカーティア・ラピスラズリのTシャツに書かれている文字は？|I love Moon|Lunatic Queen|Welcome Hell|Hell is cool
+zh|赫卡提亚·拉碧斯拉祖利的T恤上写着什么？|I love Moon|Lunatic Queen|Welcome Hell|Hell is cool
+#Q 3244 1 2 4
+ru|На какой флаг похож наряд адской феи Клаунпис?|На флаг США|На флаг Японии|На флаг Великобритании|На пиратский флаг
+en|Which flag does the hell fairy Clownpiece's outfit resemble?|The US flag|The flag of Japan|The British flag|A pirate flag
+es|¿A qué bandera se parece la ropa del hada del infierno Clownpiece?|A la de Estados Unidos|A la de Japón|A la del Reino Unido|A una bandera pirata
+ja|地獄の妖精クラウンピースの服はどの旗に似ている？|アメリカの国旗|日本の国旗|イギリスの国旗|海賊旗
+zh|地狱妖精克劳恩皮丝的衣服像哪面旗帜？|美国国旗|日本国旗|英国国旗|海盗旗
+#Q 3245 2 3 4
+ru|Какую маску потеряла Кокоро, повелительница масок?|Маску гнева|Маску надежды|Маску радости|Маску печали
+en|Which mask did Kokoro, the mask youkai, lose?|The Mask of Anger|The Mask of Hope|The Mask of Joy|The Mask of Sorrow
+es|¿Qué máscara perdió Kokoro, la youkai de las máscaras?|La Máscara de la Ira|La Máscara de la Esperanza|La Máscara de la Alegría|La Máscara de la Tristeza
+ja|面霊気の秦こころがなくした面は？|怒りの面|希望の面|喜びの面|悲しみの面
+zh|面灵气秦心丢失了哪张面具？|愤怒之面|希望之面|喜悦之面|悲伤之面
+#Q 3246 3 3 4
+ru|Сколько масок у Кокоро?|12|33|66|108
+en|How many masks does Kokoro have?|12|33|66|108
+es|¿Cuántas máscaras tiene Kokoro?|12|33|66|108
+ja|秦こころが持つ面の数は？|12|33|66|108
+zh|秦心有多少张面具？|12|33|66|108
+#Q 3247 4 3 4
+ru|Чего добивалась аманодзяку Сэйдзя Кидзин в Double Dealing Character?|Стать богиней|Украсть Луну|Найти сестру|Перевернуть порядок, чтобы слабые правили сильными
+en|What did the amanojaku Seija Kijin want in Double Dealing Character?|To become a goddess|To steal the Moon|To find her sister|To overturn the order so the weak rule the strong
+es|¿Qué quería la amanojaku Seija Kijin en Double Dealing Character?|Convertirse en diosa|Robar la Luna|Encontrar a su hermana|Invertir el orden para que los débiles manden sobre los fuertes
+ja|「東方輝針城」で天邪鬼の鬼人正邪が狙ったのは？|神になること|月を盗むこと|妹を探すこと|弱者が強者を支配する下剋上
+zh|《东方辉针城》中天邪鬼鬼人正邪的目的是什么？|成为神明|偷走月亮|寻找妹妹|以下克上，让弱者统治强者
+#Q 3248 4 3 4
+ru|Какой волшебный предмет использовала Синмёмару Сукуна в Double Dealing Character?|Волшебное зеркало|Летающую метлу|Шар инь-ян|Чудесный молоточек
+en|What magic item did Shinmyoumaru Sukuna use in Double Dealing Character?|A magic mirror|A flying broom|A yin-yang orb|The Miracle Mallet
+es|¿Qué objeto mágico usó Shinmyoumaru Sukuna en Double Dealing Character?|Un espejo mágico|Una escoba voladora|Una esfera yin-yang|El Mazo Milagroso
+ja|「東方輝針城」で少名針妙丸が使った秘宝は？|魔法の鏡|空飛ぶほうき|陰陽玉|打ち出の小槌
+zh|《东方辉针城》中少名针妙丸使用了什么秘宝？|魔镜|飞天扫帚|阴阳玉|万宝槌
+#Q 3249 2 2 4
+ru|Что умеет ёкай Сэкибанки?|Становиться невидимой|Отделять голову и запускать её в полёт|Плавать под водой|Превращаться в волчицу
+en|What can the youkai Sekibanki do?|Turn invisible|Detach her head and make it fly|Swim underwater|Turn into a wolf
+es|¿Qué puede hacer la youkai Sekibanki?|Volverse invisible|Separar su cabeza y hacerla volar|Nadar bajo el agua|Convertirse en loba
+ja|赤蛮奇ができることは？|透明になる|首を飛ばす|水中を泳ぐ|狼に化ける
+zh|赤蛮奇能做到什么？|隐身|让自己的头飞起来|潜水|变成狼
+#Q 3250 1 3 4
+ru|Как называются два меча Ёму Компаку?|Роканкэн и Хакурокэн|Кусанаги и Мурамаса|Масамунэ и Котэцу|Меч Хисо и Лэватейн
+en|What are the names of Youmu Konpaku's two swords?|Roukanken and Hakurouken|Kusanagi and Muramasa|Masamune and Kotetsu|The Sword of Hisou and Laevateinn
+es|¿Cómo se llaman las dos espadas de Youmu Konpaku?|Roukanken y Hakurouken|Kusanagi y Muramasa|Masamune y Kotetsu|La espada Hisou y Laevateinn
+ja|魂魄妖夢の二振りの刀の名前は？|楼観剣と白楼剣|草薙剣と村正|正宗と虎徹|緋想の剣とレーヴァテイン
+zh|魂魄妖梦的两把刀叫什么？|楼观剑和白楼剑|草薙剑和村正|正宗和虎彻|绯想之剑和莱瓦汀
+#Q 3251 3 1 4
+ru|Какие цвета у наряда Рэйму Хакурэй?|Синий и белый|Чёрный и жёлтый|Красный и белый|Зелёный и белый
+en|What colors is Reimu Hakurei's outfit?|Blue and white|Black and yellow|Red and white|Green and white
+es|¿De qué colores es el traje de Reimu Hakurei?|Azul y blanco|Negro y amarillo|Rojo y blanco|Verde y blanco
+ja|博麗霊夢の服の色は？|青と白|黒と黄|紅白|緑と白
+zh|博丽灵梦的衣服是什么颜色？|蓝白|黑黄|红白|绿白
+#Q 3252 2 1 4
+ru|Чем необычен наряд Рэйму Хакурэй?|Он сделан из бумаги|Отдельными рукавами и открытыми плечами|Он светится в темноте|Он весь чёрный
+en|What is unusual about Reimu Hakurei's outfit?|It is made of paper|Detached sleeves and bare shoulders|It glows in the dark|It is all black
+es|¿Qué tiene de raro el traje de Reimu Hakurei?|Está hecho de papel|Mangas sueltas y hombros descubiertos|Brilla en la oscuridad|Es todo negro
+ja|博麗霊夢の巫女服の変わったところは？|紙でできている|袖が分かれていて肩が出ている|暗闇で光る|真っ黒
+zh|博丽灵梦的巫女服有什么特别之处？|是纸做的|袖子分离、露出肩膀|在黑暗中发光|全身漆黑
+#Q 3253 4 1 4
+ru|Что носит в волосах Рэйму Хакурэй?|Венок из цветов|Ведьминскую шляпу|Кроличьи ушки|Большой красный бант
+en|What does Reimu Hakurei wear in her hair?|A flower crown|A witch hat|Bunny ears|A big red bow
+es|¿Qué lleva Reimu Hakurei en el pelo?|Una corona de flores|Un sombrero de bruja|Orejas de conejo|Un gran lazo rojo
+ja|博麗霊夢の頭についているのは？|花の冠|魔女の帽子|ウサ耳|大きな赤いリボン
+zh|博丽灵梦头上戴着什么？|花环|魔女帽|兔耳|大大的红色蝴蝶结
+#Q 3254 2 1 4
+ru|Какой головной убор носит Мариса Кирисамэ?|Красный бант|Чёрную ведьминскую шляпу|Корону|Соломенную шляпу
+en|What headwear does Marisa Kirisame wear?|A red bow|A black witch hat|A crown|A straw hat
+es|¿Qué lleva en la cabeza Marisa Kirisame?|Un lazo rojo|Un sombrero negro de bruja|Una corona|Un sombrero de paja
+ja|霧雨魔理沙がかぶっているのは？|赤いリボン|黒い魔女帽子|王冠|麦わら帽子
+zh|雾雨魔理沙戴着什么？|红色蝴蝶结|黑色魔女帽|王冠|草帽
+#Q 3255 1 1 4
+ru|Кто по природе Мариса Кирисамэ?|Обычный человек|Ёкай|Вампир|Фея
+en|What is Marisa Kirisame by nature?|An ordinary human|A youkai|A vampire|A fairy
+es|¿Qué es Marisa Kirisame por naturaleza?|Una humana normal|Una youkai|Una vampira|Un hada
+ja|霧雨魔理沙の種族は？|人間|妖怪|吸血鬼|妖精
+zh|雾雨魔理沙是什么种族？|人类|妖怪|吸血鬼|妖精
+#Q 3256 4 1 4
+ru|Кто по природе Сакуя Идзаёи?|Вампир|Ёкай|Призрак|Человек
+en|What is Sakuya Izayoi by nature?|A vampire|A youkai|A ghost|A human
+es|¿Qué es Sakuya Izayoi por naturaleza?|Una vampira|Una youkai|Un fantasma|Una humana
+ja|十六夜咲夜の種族は？|吸血鬼|妖怪|亡霊|人間
+zh|十六夜咲夜是什么种族？|吸血鬼|妖怪|亡灵|人类
+#Q 3257 2 1 4
+ru|На что похожи крылья Фландр Скарлет?|На крылья летучей мыши|На ветки с разноцветными кристаллами|На крылья бабочки|На птичьи перья
+en|What do Flandre Scarlet's wings look like?|Bat wings|Branches hung with colorful crystals|Butterfly wings|Bird feathers
+es|¿Cómo son las alas de Flandre Scarlet?|Alas de murciélago|Ramas con cristales de colores|Alas de mariposa|Plumas de pájaro
+ja|フランドール・スカーレットの翼はどんな形？|コウモリの翼|色とりどりの結晶がついた枝|蝶の羽|鳥の羽根
+zh|芙兰朵露·斯卡雷特的翅膀是什么样的？|蝙蝠翅膀|挂着彩色晶体的枝条|蝴蝶翅膀|鸟的羽毛
+#Q 3258 3 2 4
+ru|Примерно сколько лет Ремилии Скарлет?|50|100|500|1000
+en|Roughly how old is Remilia Scarlet?|50|100|500|1000
+es|¿Cuántos años tiene más o menos Remilia Scarlet?|50|100|500|1000
+ja|レミリア・スカーレットはおよそ何歳？|50|100|500|1000
+zh|蕾米莉亚·斯卡雷特大约多少岁？|50|100|500|1000
+#Q 3259 1 2 4
+ru|Как называется копьё Ремилии Скарлет?|Гунгнир|Лэватейн|Экскалибур|Кусанаги
+en|What is Remilia Scarlet's spear called?|Gungnir|Laevateinn|Excalibur|Kusanagi
+es|¿Cómo se llama la lanza de Remilia Scarlet?|Gungnir|Laevateinn|Excalibur|Kusanagi
+ja|レミリア・スカーレットの槍の名前は？|グングニル|レーヴァテイン|エクスカリバー|草薙の剣
+zh|蕾米莉亚·斯卡雷特的枪叫什么？|冈格尼尔|莱瓦汀|王者之剑|草薙剑
+#Q 3260 1 1 4
+ru|Где чаще всего можно встретить Сырно?|У Туманного озера|В Бамбуковом лесу заблудших|В Подземном мире|На Луне
+en|Where can Cirno usually be found?|By the Misty Lake|In the Bamboo Forest of the Lost|In the Underground|On the Moon
+es|¿Dónde se suele encontrar a Cirno?|Junto al Lago Brumoso|En el Bosque de Bambú de los Perdidos|En el Mundo Subterráneo|En la Luna
+ja|チルノがよくいる場所は？|霧の湖|迷いの竹林|地底|月
+zh|琪露诺通常在哪里出没？|雾之湖|迷途竹林|地底|月球
+#Q 3261 2 2 4
+ru|Каких животных Сырно любит замораживать?|Кошек|Лягушек|Птиц|Рыб
+en|Which animals does Cirno love to freeze?|Cats|Frogs|Birds|Fish
+es|¿Qué animales le encanta congelar a Cirno?|Gatos|Ranas|Pájaros|Peces
+ja|チルノがよく凍らせて遊ぶ生き物は？|猫|カエル|鳥|魚
+zh|琪露诺喜欢冻住什么动物来玩？|猫|青蛙|鸟|鱼
+#Q 3262 2 1 4
+ru|Какого цвета волосы у Сырно?|Рыжие|Голубые|Зелёные|Чёрные
+en|What color is Cirno's hair?|Orange|Blue|Green|Black
+es|¿De qué color es el pelo de Cirno?|Naranja|Azul|Verde|Negro
+ja|チルノの髪の色は？|オレンジ|青|緑|黒
+zh|琪露诺的头发是什么颜色？|橙色|蓝色|绿色|黑色
+#Q 3263 2 1 4
+ru|Что всегда парит рядом с Ёму Компаку?|Кукла|Её призрачная половина|Шар инь-ян|Светлячок
+en|What always floats next to Youmu Konpaku?|A doll|Her phantom half|A yin-yang orb|A firefly
+es|¿Qué flota siempre junto a Youmu Konpaku?|Una muñeca|Su mitad fantasma|Una esfera yin-yang|Una luciérnaga
+ja|魂魄妖夢のそばにいつも浮かんでいるのは？|人形|半霊|陰陽玉|ホタル
+zh|魂魄妖梦身边总飘着什么？|人偶|半灵|阴阳玉|萤火虫
+#Q 3264 1 1 4
+ru|Где живёт Ююко Сайгёдзи?|В Хакугёкуро, в Мире мёртвых|На Луне|В Особняке Алой Дьяволицы|В Деревне людей
+en|Where does Yuyuko Saigyouji live?|Hakugyokurou in the Netherworld|On the Moon|The Scarlet Devil Mansion|The Human Village
+es|¿Dónde vive Yuyuko Saigyouji?|En Hakugyokurou, en el Inframundo|En la Luna|En la Mansión del Diablo Escarlata|En la aldea humana
+ja|西行寺幽々子が住んでいるのは？|冥界の白玉楼|月|紅魔館|人間の里
+zh|西行寺幽幽子住在哪里？|冥界的白玉楼|月球|红魔馆|人间之里
+#Q 3265 2 2 4
+ru|В какое время года Юкари Якумо почти всё время спит?|Летом|Зимой|Весной|Осенью
+en|In which season does Yukari Yakumo sleep almost all the time?|Summer|Winter|Spring|Autumn
+es|¿En qué estación se pasa Yukari Yakumo casi todo el tiempo durmiendo?|En verano|En invierno|En primavera|En otoño
+ja|八雲紫がほとんど眠って過ごす季節は？|夏|冬|春|秋
+zh|八云紫几乎一直在睡觉的季节是？|夏天|冬天|春天|秋天
+#Q 3266 3 3 4
+ru|Из-за чего Чэнь теряет силу сикигами?|Из-за огня|Из-за солнечного света|Из-за воды|Из-за громкого звука
+en|What makes Chen lose her shikigami powers?|Fire|Sunlight|Getting wet|Loud noise
+es|¿Qué hace que Chen pierda sus poderes de shikigami?|El fuego|La luz del sol|Mojarse|Un ruido fuerte
+ja|橙の式が剥がれてしまう原因は？|火|日光|水に濡れること|大きな音
+zh|什么会让橙失去式神之力？|火|阳光|被水淋湿|巨大的声音
+#Q 3267 2 1 4
+ru|Что растёт на голове у Суйки Ибуки?|Кошачьи ушки|Два длинных рога|Цветок|Третий глаз
+en|What grows from Suika Ibuki's head?|Cat ears|Two long horns|A flower|A third eye
+es|¿Qué le sale de la cabeza a Suika Ibuki?|Orejas de gato|Dos cuernos largos|Una flor|Un tercer ojo
+ja|伊吹萃香の頭に生えているのは？|猫耳|2本の長い角|花|第三の目
+zh|伊吹萃香头上长着什么？|猫耳|两只长角|花|第三只眼
+#Q 3268 1 2 4
+ru|Что умеет Суйка Ибуки?|Рассеиваться туманом и делиться на маленьких двойников|Останавливать время|Читать мысли|Управлять погодой
+en|What can Suika Ibuki do?|Scatter into mist and split into tiny copies|Stop time|Read minds|Control the weather
+es|¿Qué puede hacer Suika Ibuki?|Dispersarse como niebla y dividirse en copias diminutas|Detener el tiempo|Leer mentes|Controlar el clima
+ja|伊吹萃香ができることは？|霧になったり小さな分身に分かれたりする|時間を止める|心を読む|天気を操る
+zh|伊吹萃香能做到什么？|化作雾气或分成许多小分身|停止时间|读心|操纵天气
+#Q 3269 4 2 4
+ru|Чем, кроме газеты, хвастается Ая Сямэймару?|Что она самая сильная|Что она самая старая|Что она лучше всех готовит|Что она самая быстрая в Гэнсокё
+en|Besides her newspaper, what does Aya Shameimaru boast about?|Being the strongest|Being the oldest|Being the best cook|Being the fastest in Gensokyo
+es|Además de su periódico, ¿de qué presume Aya Shameimaru?|De ser la más fuerte|De ser la más vieja|De cocinar mejor que nadie|De ser la más rápida de Gensokyo
+ja|射命丸文が新聞のほかに自慢していることは？|最強であること|最年長であること|料理が一番うまいこと|幻想郷最速であること
+zh|射命丸文除了报纸还以什么自夸？|最强|年纪最大|厨艺最好|幻想乡最快
+#Q 3270 3 1 4
+ru|Что всегда носит с собой репортёр Ая Сямэймару?|Метлу|Зонтик|Фотоаппарат|Фонарь
+en|What does the reporter Aya Shameimaru always carry?|A broom|An umbrella|A camera|A lantern
+es|¿Qué lleva siempre encima la reportera Aya Shameimaru?|Una escoba|Un paraguas|Una cámara|Un farolillo
+ja|新聞記者の射命丸文がいつも持っているのは？|ほうき|傘|カメラ|提灯
+zh|记者射命丸文总是随身带着什么？|扫帚|伞|相机|灯笼
+#Q 3271 3 1 4
+ru|Что всегда носит на спине Нитори Кавасиро?|Черепаший панцирь|Барабан|Большой рюкзак с инструментами|Колчан со стрелами
+en|What does Nitori Kawashiro always carry on her back?|A turtle shell|A drum|A big backpack full of tools|A quiver of arrows
+es|¿Qué lleva siempre a la espalda Nitori Kawashiro?|Un caparazón de tortuga|Un tambor|Una gran mochila llena de herramientas|Un carcaj de flechas
+ja|河城にとりがいつも背負っているのは？|亀の甲羅|太鼓|工具の入った大きなリュック|矢筒
+zh|河城荷取总是背着什么？|龟壳|鼓|装满工具的大背包|箭筒
+#Q 3272 4 2 4
+ru|Какая способность у Санаэ Котии?|Управлять огнём|Останавливать время|Читать мысли|Творить чудеса
+en|What is Sanae Kochiya's ability?|Controlling fire|Stopping time|Reading minds|Working miracles
+es|¿Qué habilidad tiene Sanae Kochiya?|Controlar el fuego|Detener el tiempo|Leer mentes|Obrar milagros
+ja|東風谷早苗の能力は？|火を操る|時間を止める|心を読む|奇跡を起こす
+zh|东风谷早苗的能力是什么？|操纵火焰|停止时间|读心|引发奇迹
+#Q 3273 3 2 4
+ru|С каким животным связана богиня Канако Ясака?|С лягушкой|С лисой|Со змеёй|С журавлём
+en|Which animal is the goddess Kanako Yasaka associated with?|The frog|The fox|The snake|The crane
+es|¿Con qué animal se asocia a la diosa Kanako Yasaka?|Con la rana|Con el zorro|Con la serpiente|Con la grulla
+ja|八坂神奈子と結びつく動物は？|カエル|キツネ|ヘビ|ツル
+zh|八坂神奈子与哪种动物有关？|青蛙|狐狸|蛇|仙鹤
+#Q 3274 1 2 4
+ru|Где в Гэнсокё стоит храм Мория?|На вершине горы Ёкай|В Деревне людей|У Туманного озера|Под землёй
+en|Where in Gensokyo does the Moriya Shrine stand?|On top of Youkai Mountain|In the Human Village|By the Misty Lake|Underground
+es|¿Dónde está el santuario Moriya en Gensokyo?|En la cima de la Montaña Youkai|En la aldea humana|Junto al Lago Brumoso|Bajo tierra
+ja|幻想郷で守矢神社があるのは？|妖怪の山の頂上|人間の里|霧の湖のほとり|地底
+zh|守矢神社位于幻想乡的哪里？|妖怪之山的山顶|人间之里|雾之湖畔|地底
+#Q 3275 1 2 4
+ru|Где стоит храм Хакурэй?|На восточной границе Гэнсокё|В центре Деревни людей|На горе Ёкай|В Бамбуковом лесу заблудших
+en|Where does the Hakurei Shrine stand?|On the eastern border of Gensokyo|In the middle of the Human Village|On Youkai Mountain|In the Bamboo Forest of the Lost
+es|¿Dónde está el santuario Hakurei?|En la frontera este de Gensokyo|En el centro de la aldea humana|En la Montaña Youkai|En el Bosque de Bambú de los Perdidos
+ja|博麗神社があるのは？|幻想郷の東の端|人間の里の真ん中|妖怪の山|迷いの竹林
+zh|博丽神社位于哪里？|幻想乡东边的边境|人间之里的正中央|妖怪之山|迷途竹林
+#Q 3276 1 1 4
+ru|Что такое «грейз» в играх Touhou?|Пролёт вплотную к пуле ради очков|Сбор бомб|Удар мечом|Пауза в игре
+en|What is "grazing" in Touhou games?|Brushing past bullets for points|Collecting bombs|A sword strike|Pausing the game
+es|¿Qué es el «graze» en los juegos de Touhou?|Pasar rozando las balas para sumar puntos|Recoger bombas|Un golpe de espada|Pausar la partida
+ja|東方の「グレイズ（かすり）」とは？|弾をかすめて点を稼ぐこと|ボムを集めること|刀で斬ること|ゲームの一時停止
+zh|东方中的“擦弹”是什么？|贴着子弹擦过以获得分数|收集炸弹|用刀砍|暂停游戏
+#Q 3277 3 1 4
+ru|Какая часть героини в шутерах Touhou на самом деле получает попадания?|Вся фигура|Только голова|Маленькая точка в центре|Только ноги
+en|Which part of the heroine actually gets hit in Touhou shooters?|The whole sprite|Only the head|A tiny dot in the center|Only the feet
+es|¿Qué parte de la heroína recibe los impactos en los shooters de Touhou?|Todo el personaje|Solo la cabeza|Un puntito en el centro|Solo los pies
+ja|東方の弾幕シューティングで実際に当たり判定があるのは？|キャラ全体|頭だけ|中心の小さな点|足だけ
+zh|在东方弹幕射击中，角色真正的判定点在哪里？|整个角色|只有头部|中央的一个小点|只有脚
+#Q 3278 1 2 4
+ru|Какую клавишу обычно держат в Touhou для медленного точного полёта?|Shift|Пробел|Enter|Tab
+en|Which key do you usually hold in Touhou for slow, precise movement?|Shift|Space|Enter|Tab
+es|¿Qué tecla se mantiene pulsada en Touhou para moverse lento y con precisión?|Shift|Espacio|Enter|Tab
+ja|東方で低速移動するときに押すキーは？|Shift|スペース|Enter|Tab
+zh|在东方中按住哪个键可以低速移动？|Shift|空格|Enter|Tab
+#Q 3279 4 2 4
+ru|Какой клавишей стреляют в играх Touhou по умолчанию?|X|C|Пробел|Z
+en|Which key shoots by default in Touhou games?|X|C|Space|Z
+es|¿Con qué tecla se dispara por defecto en los juegos de Touhou?|X|C|Espacio|Z
+ja|東方でショットを撃つ標準のキーは？|X|C|スペース|Z
+zh|东方默认用哪个键射击？|X|C|空格|Z
+#Q 3280 1 3 4
+ru|Кто спел вокальную версию Bad Apple!! от Alstroemeria Records?|nomico|Хацунэ Мику|LiSA|Aimer
+en|Who sang the Alstroemeria Records vocal version of Bad Apple!!?|nomico|Hatsune Miku|LiSA|Aimer
+es|¿Quién cantó la versión vocal de Bad Apple!! de Alstroemeria Records?|nomico|Hatsune Miku|LiSA|Aimer
+ja|Alstroemeria Records版「Bad Apple!!」を歌ったのは？|nomico|初音ミク|LiSA|Aimer
+zh|Alstroemeria Records版《Bad Apple!!》是谁演唱的？|nomico|初音未来|LiSA|Aimer
+#Q 3281 4 2 4
+ru|Как называется знаменитая песня IOSYS про Сырно?|«Ледяная королева»|«Сырно идёт в школу»|«Девятый вал»|«Идеальный урок математики Сырно»
+en|What is the famous IOSYS song about Cirno called?|Ice Queen|Cirno Goes to School|The Ninth Wave|Cirno's Perfect Math Class
+es|¿Cómo se llama la famosa canción de IOSYS sobre Cirno?|Ice Queen|Cirno Goes to School|The Ninth Wave|Cirno's Perfect Math Class
+ja|IOSYSによるチルノの有名な曲は？|氷の女王|チルノの入学式|第九の波|チルノのパーフェクトさんすう教室
+zh|IOSYS关于琪露诺的著名歌曲是？|冰之女王|琪露诺去上学|第九波|琪露诺的完美算术教室
+#Q 3282 2 3 4
+ru|В каком году Великий барьер Хакурэй отделил Гэнсокё от внешнего мира?|1603|1885|1945|1968
+en|In which year did the Great Hakurei Barrier cut Gensokyo off from the outside world?|1603|1885|1945|1968
+es|¿En qué año aisló la Gran Barrera Hakurei a Gensokyo del mundo exterior?|1603|1885|1945|1968
+ja|博麗大結界によって幻想郷が外の世界と隔てられたのは何年？|1603|1885|1945|1968
+zh|博丽大结界在哪一年将幻想乡与外界隔开？|1603|1885|1945|1968
+#Q 3283 2 3 4
+ru|Как называется клуб Рэнко Усами и Мэрибэл Хёрн из музыкальных альбомов ZUN?|Клуб охотников за призраками|Клуб тайных печатей|Лунный клуб|Клуб звездочётов
+en|What is the club of Renko Usami and Maribel Hearn from ZUN's music albums called?|The Ghost Hunters Club|The Secret Sealing Club|The Moon Club|The Stargazers Club
+es|¿Cómo se llama el club de Renko Usami y Maribel Hearn de los álbumes de ZUN?|El Club de Cazafantasmas|El Club del Sello Secreto|El Club de la Luna|El Club de Astrónomos
+ja|ZUNの音楽CDに登場する宇佐見蓮子とマエリベリー・ハーンのサークル名は？|心霊探偵部|秘封倶楽部|月見倶楽部|天文部
+zh|ZUN音乐CD中宇佐见莲子和玛艾露贝莉·赫恩的社团叫什么？|灵异侦探部|秘封俱乐部|赏月俱乐部|天文部
+#Q 3284 3 1 4
+ru|Чем больше всего любит заниматься Рэйму Хакурэй у себя в храме?|Тренироваться с мечом|Читать книги|Пить чай и бездельничать|Варить зелья
+en|What does Reimu Hakurei most like to do at her shrine?|Practice with a sword|Read books|Drink tea and laze around|Brew potions
+es|¿Qué es lo que más le gusta hacer a Reimu Hakurei en su santuario?|Entrenar con la espada|Leer libros|Tomar té y holgazanear|Preparar pociones
+ja|博麗霊夢が神社で一番好きな過ごし方は？|剣の稽古|読書|お茶を飲んでのんびりする|薬の調合
+zh|博丽灵梦最喜欢在神社里做什么？|练剑|看书|喝茶偷懒|调配药水
+#Q 3285 3 2 4
+ru|С какой мифической птицей связана Фудзивара-но Моко?|С грифоном|С гарудой|С фениксом|С птицей Рух
+en|Which mythical bird is Fujiwara no Mokou associated with?|The griffin|The garuda|The phoenix|The roc
+es|¿Con qué ave mítica se asocia a Fujiwara no Mokou?|Con el grifo|Con el garuda|Con el fénix|Con el roc
+ja|藤原妹紅と結びつく伝説の鳥は？|グリフォン|ガルーダ|不死鳥（フェニックス）|ロック鳥
+zh|藤原妹红与哪种神鸟有关？|狮鹫|迦楼罗|不死鸟（凤凰）|大鹏
+#Q 3286 4 2 4
+ru|Как Фудзивара-но Моко стала бессмертной?|Съела персик бессмертия|Заключила договор с Юкари|Родилась такой|Выпила эликсир Хорай
+en|How did Fujiwara no Mokou become immortal?|She ate a peach of immortality|She made a pact with Yukari|She was born that way|She drank the Hourai Elixir
+es|¿Cómo se volvió inmortal Fujiwara no Mokou?|Comió un melocotón de la inmortalidad|Hizo un pacto con Yukari|Nació así|Bebió el elixir Hourai
+ja|藤原妹紅が不老不死になったのはなぜ？|仙桃を食べたから|紫と契約したから|生まれつき|蓬莱の薬を飲んだから
+zh|藤原妹红是怎么变得不老不死的？|吃了仙桃|和紫签了契约|天生如此|喝了蓬莱之药
+#Q 3287 1 3 4
+ru|Какой магией прославилась Бякурэн Хидзири?|Усилением собственного тела|Огненными шарами|Магией кукол|Управлением временем
+en|What kind of magic is Byakuren Hijiri known for?|Strengthening her own body|Fireballs|Doll magic|Time control
+es|¿Por qué tipo de magia es conocida Byakuren Hijiri?|Reforzar su propio cuerpo|Bolas de fuego|Magia de muñecas|Control del tiempo
+ja|聖白蓮が得意とする魔法は？|身体能力を強化する魔法|火の玉の魔法|人形を操る魔法|時間を操る魔法
+zh|圣白莲擅长哪种魔法？|强化自身肉体的魔法|火球魔法|操纵人偶的魔法|操纵时间的魔法
+#Q 3288 2 2 4
+ru|Что основала Бякурэн Хидзири в Гэнсокё?|Школу магии|Буддийский храм|Ресторан|Газету
+en|What did Byakuren Hijiri found in Gensokyo?|A school of magic|A Buddhist temple|A restaurant|A newspaper
+es|¿Qué fundó Byakuren Hijiri en Gensokyo?|Una escuela de magia|Un templo budista|Un restaurante|Un periódico
+ja|聖白蓮が幻想郷に開いたのは？|魔法学校|寺|料理店|新聞社
+zh|圣白莲在幻想乡建立了什么？|魔法学校|寺庙|餐馆|报社
+#Q 3289 4 2 4
+ru|Что носит на ушах Тоёсатомими-но Мико?|Серьги-кольца|Повязку|Ничего|Накладки, похожие на наушники
+en|What does Toyosatomimi no Miko wear over her ears?|Hoop earrings|A headband|Nothing|Earmuffs that look like headphones
+es|¿Qué lleva sobre las orejas Toyosatomimi no Miko?|Aros|Una cinta|Nada|Unas orejeras como auriculares
+ja|豊聡耳神子が耳につけているのは？|輪っかのイヤリング|はちまき|何もつけていない|ヘッドホンのような耳当て
+zh|丰聪耳神子耳朵上戴着什么？|圆环耳环|头带|什么也没戴|像耳机一样的耳罩
+#Q 3290 2 2 4
+ru|На какой приставке вышла музыкальная головоломка Touhou Spell Bubble?|PlayStation 2|Nintendo Switch|Xbox 360|Game Boy
+en|On which console was the music puzzle game Touhou Spell Bubble released?|PlayStation 2|Nintendo Switch|Xbox 360|Game Boy
+es|¿En qué consola salió el puzle musical Touhou Spell Bubble?|PlayStation 2|Nintendo Switch|Xbox 360|Game Boy
+ja|音楽パズルゲーム「東方スペルバブル」が出たゲーム機は？|PlayStation 2|Nintendo Switch|Xbox 360|ゲームボーイ
+zh|音乐益智游戏《东方Spell Bubble》在哪个主机上发售？|PlayStation 2|Nintendo Switch|Xbox 360|Game Boy
+#Q 3291 2 1 4
+ru|Какие шары парят вокруг Рэйму Хакурэй в бою?|Хрустальные шары|Шары инь-ян|Огненные шары|Мыльные пузыри
+en|What orbs float around Reimu Hakurei in battle?|Crystal balls|Yin-yang orbs|Fireballs|Soap bubbles
+es|¿Qué esferas flotan alrededor de Reimu Hakurei en combate?|Bolas de cristal|Esferas yin-yang|Bolas de fuego|Pompas de jabón
+ja|戦うときに博麗霊夢の周りに浮かぶ玉は？|水晶玉|陰陽玉|火の玉|シャボン玉
+zh|战斗时博丽灵梦身边漂浮的球是什么？|水晶球|阴阳玉|火球|肥皂泡
+#Q 3292 2 2 4
+ru|Какая способность у Рэйму Хакурэй?|Останавливать время|Парить в воздухе|Управлять судьбой|Творить чудеса
+en|What is Reimu Hakurei's ability?|Stopping time|Floating in the air|Manipulating fate|Working miracles
+es|¿Qué habilidad tiene Reimu Hakurei?|Detener el tiempo|Flotar en el aire|Manipular el destino|Obrar milagros
+ja|博麗霊夢の能力は？|時間を止める|空を飛ぶ|運命を操る|奇跡を起こす
+zh|博丽灵梦的能力是什么？|停止时间|在空中飞行|操纵命运|引发奇迹
+#Q 3293 4 3 4
+ru|Как зовут богиню, создавшую Макай?|Канако|Мико|Сагумэ|Синки
+en|What is the name of the goddess who created Makai?|Kanako|Miko|Sagume|Shinki
+es|¿Cómo se llama la diosa que creó Makai?|Kanako|Miko|Sagume|Shinki
+ja|魔界を創った神は？|八坂神奈子|豊聡耳神子|稀神サグメ|神綺
+zh|创造魔界的神叫什么？|八坂神奈子|丰聪耳神子|稀神探女|神绮
+#Q 3294 4 1 4
+ru|Где в Гэнсокё живёт большинство людей?|В Особняке Алой Дьяволицы|На горе Ёкай|В Подземном мире|В Деревне людей
+en|Where do most humans in Gensokyo live?|In the Scarlet Devil Mansion|On Youkai Mountain|In the Underground|In the Human Village
+es|¿Dónde vive la mayoría de los humanos de Gensokyo?|En la Mansión del Diablo Escarlata|En la Montaña Youkai|En el Mundo Subterráneo|En la aldea humana
+ja|幻想郷の人間の多くが住んでいるのは？|紅魔館|妖怪の山|地底|人間の里
+zh|幻想乡的大多数人类住在哪里？|红魔馆|妖怪之山|地底|人间之里
+#Q 3295 4 2 4
+ru|Кто главенствует на горе Ёкай?|Вампиры|Лунные кролики|Призраки|Тэнгу
+en|Who rules Youkai Mountain?|Vampires|Moon rabbits|Ghosts|The tengu
+es|¿Quién manda en la Montaña Youkai?|Los vampiros|Los conejos lunares|Los fantasmas|Los tengu
+ja|妖怪の山を支配しているのは？|吸血鬼|月の兎|亡霊|天狗
+zh|统治妖怪之山的是谁？|吸血鬼|月兔|亡灵|天狗
+#Q 3296 2 1 4
+ru|Откуда родом Кагуя Хорайсан и Эйрин Ягокоро?|Из Макая|С Луны|Из Подземного мира|Из Внешнего мира
+en|Where are Kaguya Houraisan and Eirin Yagokoro originally from?|Makai|The Moon|The Underground|The Outside World
+es|¿De dónde son originalmente Kaguya Houraisan y Eirin Yagokoro?|De Makai|De la Luna|Del Mundo Subterráneo|Del Mundo Exterior
+ja|蓬莱山輝夜と八意永琳の出身は？|魔界|月|地底|外の世界
+zh|蓬莱山辉夜和八意永琳原本来自哪里？|魔界|月球|地底|外界
+#Q 3297 2 3 4
+ru|Кто зовёт Рэйсэн «Удонгэ»?|Кагуя Хорайсан|Эйрин Ягокоро|Тэви Инаба|Фудзивара-но Моко
+en|Who calls Reisen "Udonge"?|Kaguya Houraisan|Eirin Yagokoro|Tewi Inaba|Fujiwara no Mokou
+es|¿Quién llama a Reisen «Udonge»?|Kaguya Houraisan|Eirin Yagokoro|Tewi Inaba|Fujiwara no Mokou
+ja|鈴仙を「うどんげ」と呼ぶのは？|蓬莱山輝夜|八意永琳|因幡てゐ|藤原妹紅
+zh|谁管铃仙叫“优昙华”？|蓬莱山辉夜|八意永琳|因幡帝|藤原妹红
+#Q 3298 4 2 4
+ru|За что Сикиэйки постоянно отчитывает Комати Онодзуку?|За опоздания на праздники|За грубость|За лишние траты|За лень и сон на работе
+en|What does Shikieiki keep scolding Komachi Onozuka for?|Being late to festivals|Being rude|Overspending|Slacking off and napping at work
+es|¿Por qué regaña siempre Shikieiki a Komachi Onozuka?|Por llegar tarde a las fiestas|Por ser grosera|Por gastar demasiado|Por holgazanear y dormir en el trabajo
+ja|四季映姫が小野塚小町をよく叱る理由は？|祭りに遅刻するから|口が悪いから|浪費するから|仕事をサボって昼寝するから
+zh|四季映姬总是因为什么训斥小野塚小町？|参加祭典迟到|说话粗鲁|乱花钱|偷懒、上班打盹
+#Q 3299 4 2 4
+ru|Какие фрукты украшают шляпу Тэнси Хинанаи?|Яблоки|Вишни|Виноград|Персики
+en|What fruit decorates Tenshi Hinanawi's hat?|Apples|Cherries|Grapes|Peaches
+es|¿Qué fruta adorna el sombrero de Tenshi Hinanawi?|Manzanas|Cerezas|Uvas|Melocotones
+ja|比那名居天子の帽子についている果物は？|リンゴ|サクランボ|ブドウ|桃
+zh|比那名居天子的帽子上装饰着什么水果？|苹果|樱桃|葡萄|桃子
+#Q 3300 3 2 4
+ru|Какой иероглиф на звезде на шапке Хун Мэйлин?|«Огонь»|«Сила»|«Дракон»|«Сон»
+en|Which Chinese character is on the star on Hong Meiling's hat?|"Fire"|"Strength"|"Dragon"|"Sleep"
+es|¿Qué carácter chino lleva la estrella del gorro de Hong Meiling?|«Fuego»|«Fuerza»|«Dragón»|«Sueño»
+ja|紅美鈴の帽子の星に書かれている漢字は？|火|力|龍|眠
+zh|红美铃帽子上的星星写着什么字？|火|力|龙|眠
+#Q 3301 3 1 4
+ru|Кто лучшая подруга и вечная соперница Марисы Кирисамэ?|Сакуя Идзаёи|Ёму Компаку|Рэйму Хакурэй|Санаэ Котия
+en|Who is Marisa Kirisame's best friend and eternal rival?|Sakuya Izayoi|Youmu Konpaku|Reimu Hakurei|Sanae Kochiya
+es|¿Quién es la mejor amiga y eterna rival de Marisa Kirisame?|Sakuya Izayoi|Youmu Konpaku|Reimu Hakurei|Sanae Kochiya
+ja|霧雨魔理沙の親友でありライバルなのは？|十六夜咲夜|魂魄妖夢|博麗霊夢|東風谷早苗
+zh|雾雨魔理沙的挚友兼对手是谁？|十六夜咲夜|魂魄妖梦|博丽灵梦|东风谷早苗
+#Q 3302 1 1 4
+ru|Какие бумажные предметы Рэйму Хакурэй метает в ёкаев?|Талисманы-офуда|Бумажных журавликов|Игральные карты|Письма
+en|What paper items does Reimu Hakurei throw at youkai?|Ofuda talismans|Paper cranes|Playing cards|Letters
+es|¿Qué objetos de papel lanza Reimu Hakurei a los youkai?|Talismanes ofuda|Grullas de papel|Naipes|Cartas
+ja|博麗霊夢が妖怪に投げつける紙のものは？|お札|折り鶴|トランプ|手紙
+zh|博丽灵梦向妖怪投掷的纸制品是什么？|符札|纸鹤|扑克牌|信
+#Q 3303 1 1 4
+ru|Во что одета Рэйсэн?|В пиджак с галстуком, как у школьницы|В кимоно|В доспехи|В платье горничной
+en|What does Reisen wear?|A blazer and tie like a school uniform|A kimono|Armor|A maid dress
+es|¿Qué ropa lleva Reisen?|Una americana con corbata, como de uniforme escolar|Un kimono|Una armadura|Un vestido de sirvienta
+ja|鈴仙が着ているのは？|制服のようなブレザーとネクタイ|着物|鎧|メイド服
+zh|铃仙穿着什么？|像校服一样的西装外套和领带|和服|铠甲|女仆装
+#Q 3304 1 1 4
+ru|Как называется знаменитая спелл-карта Сырно?|Perfect Freeze|Master Spark|Fantasy Seal|Spear the Gungnir
+en|What is Cirno's famous spell card called?|Perfect Freeze|Master Spark|Fantasy Seal|Spear the Gungnir
+es|¿Cómo se llama la famosa spell card de Cirno?|Perfect Freeze|Master Spark|Fantasy Seal|Spear the Gungnir
+ja|チルノの有名なスペルカードは？|パーフェクトフリーズ|マスタースパーク|夢想封印|スピア・ザ・グングニル
+zh|琪露诺的著名符卡是什么？|完美冻结|极限火花|梦想封印|冈格尼尔之枪
+#Q 3305 3 2 4
+ru|Как называется спелл-карта Сакуи Идзаёи, которая останавливает время?|Master Spark|Perfect Freeze|The World|Fantasy Seal
+en|What is Sakuya Izayoi's time-stopping spell card called?|Master Spark|Perfect Freeze|The World|Fantasy Seal
+es|¿Cómo se llama la spell card de Sakuya Izayoi que detiene el tiempo?|Master Spark|Perfect Freeze|The World|Fantasy Seal
+ja|十六夜咲夜の時間を止めるスペルカードは？|マスタースパーク|パーフェクトフリーズ|ザ・ワールド|夢想封印
+zh|十六夜咲夜停止时间的符卡叫什么？|极限火花|完美冻结|The World|梦想封印
+#Q 3306 1 1 4
+ru|Чем занимается Рэйму Хакурэй, кроме службы в храме?|Разрешает инциденты и усмиряет ёкаев|Продаёт амулеты в Деревне людей|Пишет летопись Гэнсокё|Учит детей
+en|Besides tending her shrine, what does Reimu Hakurei do?|Resolves incidents and exterminates youkai|Sells charms in the village|Writes Gensokyo's chronicles|Teaches children
+es|Además de cuidar su santuario, ¿a qué se dedica Reimu Hakurei?|Resuelve incidentes y exorciza youkai|Vende amuletos en la aldea|Escribe las crónicas de Gensokyo|Da clase a los niños
+ja|博麗霊夢の巫女以外の仕事は？|異変解決と妖怪退治|里でお守りを売ること|幻想郷の歴史を書くこと|子供に勉強を教えること
+zh|除了照看神社，博丽灵梦还做什么？|解决异变、退治妖怪|在村里卖护身符|撰写幻想乡历史|教孩子读书
+#Q 3307 2 1 4
+ru|Кем, кроме Рэйму, можно играть почти во всех основных играх Touhou?|Сакуей Идзаёи|Марисой Кирисамэ|Санаэ Котией|Ёму Компаку
+en|Besides Reimu, who is playable in almost every main Touhou game?|Sakuya Izayoi|Marisa Kirisame|Sanae Kochiya|Youmu Konpaku
+es|Además de Reimu, ¿quién es jugable en casi todos los juegos principales de Touhou?|Sakuya Izayoi|Marisa Kirisame|Sanae Kochiya|Youmu Konpaku
+ja|霊夢のほかに、ほぼすべての本編で自機になっているのは？|十六夜咲夜|霧雨魔理沙|東風谷早苗|魂魄妖夢
+zh|除了灵梦，几乎所有正作都能使用的自机是谁？|十六夜咲夜|雾雨魔理沙|东风谷早苗|魂魄妖梦
+#Q 3308 4 1 4
+ru|Кто служит Ююко Сайгёдзи?|Сакуя Идзаёи|Ран Якумо|Рэйсэн|Ёму Компаку
+en|Who serves Yuyuko Saigyouji?|Sakuya Izayoi|Ran Yakumo|Reisen|Youmu Konpaku
+es|¿Quién sirve a Yuyuko Saigyouji?|Sakuya Izayoi|Ran Yakumo|Reisen|Youmu Konpaku
+ja|西行寺幽々子に仕えているのは？|十六夜咲夜|八雲藍|鈴仙|魂魄妖夢
+zh|侍奉西行寺幽幽子的是谁？|十六夜咲夜|八云蓝|铃仙|魂魄妖梦
+#Q 3309 2 1 4
+ru|Кому служит Сакуя Идзаёи?|Ююко Сайгёдзи|Ремилии Скарлет|Юкари Якумо|Кагуе Хорайсан
+en|Whom does Sakuya Izayoi serve?|Yuyuko Saigyouji|Remilia Scarlet|Yukari Yakumo|Kaguya Houraisan
+es|¿A quién sirve Sakuya Izayoi?|A Yuyuko Saigyouji|A Remilia Scarlet|A Yukari Yakumo|A Kaguya Houraisan
+ja|十六夜咲夜が仕えている主人は？|西行寺幽々子|レミリア・スカーレット|八雲紫|蓬莱山輝夜
+zh|十六夜咲夜侍奉的主人是谁？|西行寺幽幽子|蕾米莉亚·斯卡雷特|八云紫|蓬莱山辉夜
+#Q 3310 1 2 4
+ru|Где служит Коакума, «маленький демон»?|В библиотеке Пачули|На кухне особняка|У ворот|В саду
+en|Where does Koakuma, the "little devil", work?|In Patchouli's library|In the mansion kitchen|At the gate|In the garden
+es|¿Dónde trabaja Koakuma, la «pequeña diablesa»?|En la biblioteca de Patchouli|En la cocina de la mansión|En la puerta|En el jardín
+ja|小悪魔が働いているのは？|パチュリーの図書館|館の台所|門|庭
+zh|小恶魔在哪里工作？|帕秋莉的图书馆|红魔馆厨房|大门|花园
+#Q 3311 3 1 4
+ru|В какой позе часто летает Румия?|Скрестив ноги|Вниз головой|Раскинув руки в стороны|Обхватив колени
+en|In what pose does Rumia often fly?|Cross-legged|Upside down|With her arms stretched out to the sides|Hugging her knees
+es|¿En qué postura suele volar Rumia?|Con las piernas cruzadas|Boca abajo|Con los brazos extendidos a los lados|Abrazándose las rodillas
+ja|ルーミアがよくしているポーズは？|足を組む|逆さまになる|両手を横に広げる|ひざを抱える
+zh|露米娅常摆出什么姿势？|翘着腿|倒立|双臂向两侧张开|抱着膝盖
+#Q 3312 3 2 4
+ru|Какая фраза стала визитной карточкой Румии?|«Я самая сильная!»|«Вот это сенсация!»|«Вот как?»|«Добро пожаловать!»
+en|Which phrase is Rumia's catchphrase?|"I'm the strongest!"|"What a scoop!"|"Is that so?"|"Welcome!"
+es|¿Cuál es la frase típica de Rumia?|«¡Soy la más fuerte!»|«¡Menuda exclusiva!»|«¿Ah, sí?»|«¡Bienvenidos!»
+ja|ルーミアの決め台詞は？|あたいったら最強ね|スクープです！|そーなのかー|いらっしゃいませ
+zh|露米娅的口头禅是什么？|我是最强的|大新闻！|是这样吗～|欢迎光临
+#Q 3313 4 1 4
+ru|Что, по японскому поверью, толкут кролики на Луне?|Кофе|Соль|Пшено|Рисовые лепёшки моти
+en|According to Japanese folklore, what do the rabbits on the Moon pound?|Coffee|Salt|Millet|Mochi rice cakes
+es|Según el folclore japonés, ¿qué machacan los conejos de la Luna?|Café|Sal|Mijo|Pasteles de arroz mochi
+ja|日本の言い伝えで、月のウサギがついているものは？|コーヒー豆|塩|粟|餅
+zh|按照日本传说，月亮上的兔子在捣什么？|咖啡|盐|小米|年糕
+#Q 3314 2 3 4
+ru|На что похожа самая первая игра Touhou, Highly Responsive to Prayers?|На тетрис|На арканоид|На платформер|На гонки
+en|What kind of game was the very first Touhou, Highly Responsive to Prayers?|A Tetris-style puzzle|A Breakout-style game|A platformer|A racing game
+es|¿Qué tipo de juego fue el primer Touhou, Highly Responsive to Prayers?|Un puzle al estilo Tetris|Uno al estilo Breakout|Un juego de plataformas|Un juego de carreras
+ja|最初の東方作品「東方靈異伝」はどんなゲーム？|落ち物パズル|ブロック崩し風|アクションゲーム|レースゲーム
+zh|东方系列第一作《东方灵异传》是什么类型的游戏？|俄罗斯方块类|打砖块类|平台动作|赛车
+#Q 3315 1 1 4
+ru|Какой героиней можно играть во всех основных играх Touhou?|Рэйму Хакурэй|Марисой Кирисамэ|Сакуей Идзаёи|Сырно
+en|Which heroine is playable in every main Touhou game?|Reimu Hakurei|Marisa Kirisame|Sakuya Izayoi|Cirno
+es|¿Qué heroína es jugable en todos los juegos principales de Touhou?|Reimu Hakurei|Marisa Kirisame|Sakuya Izayoi|Cirno
+ja|東方の本編すべてで自機になっているのは？|博麗霊夢|霧雨魔理沙|十六夜咲夜|チルノ
+zh|在所有东方正作中都能使用的自机是谁？|博丽灵梦|雾雨魔理沙|十六夜咲夜|琪露诺
+#Q 3316 1 1 4
+ru|Что происходит с феями Гэнсокё, если их победить?|Они вскоре возрождаются|Они превращаются в цветы|Они исчезают навсегда|Они становятся призраками
+en|What happens to Gensokyo's fairies when they are defeated?|They soon come back to life|They turn into flowers|They vanish forever|They become ghosts
+es|¿Qué les pasa a las hadas de Gensokyo cuando son derrotadas?|Pronto vuelven a la vida|Se convierten en flores|Desaparecen para siempre|Se convierten en fantasmas
+ja|幻想郷の妖精は倒されるとどうなる？|すぐに復活する|花になる|永遠に消える|幽霊になる
+zh|幻想乡的妖精被打倒后会怎样？|很快就会复活|变成花|永远消失|变成幽灵
+#Q 3317 3 3 4
+ru|Какому богу посвящён храм Хакурэй?|Аматэрасу|Сувако Мории|Этого не знает даже Рэйму|Богу-дракону
+en|Which god is the Hakurei Shrine dedicated to?|Amaterasu|Suwako Moriya|Not even Reimu knows|The Dragon God
+es|¿A qué dios está dedicado el santuario Hakurei?|A Amaterasu|A Suwako Moriya|Ni la propia Reimu lo sabe|Al Dios Dragón
+ja|博麗神社に祀られている神は？|天照大神|洩矢諏訪子|霊夢も知らない|竜神
+zh|博丽神社供奉的是哪位神明？|天照大神|洩矢诹访子|连灵梦都不知道|龙神
+#Q 3318 2 2 4
+ru|Почему храм Мория перебрался в Гэнсокё?|Его прогнали люди|Во Внешнем мире перестали верить в богов|Его разрушило землетрясение|Так велела Юкари
+en|Why did the Moriya Shrine move to Gensokyo?|People chased it away|People in the Outside World stopped believing in gods|An earthquake destroyed it|Yukari ordered it
+es|¿Por qué se trasladó el santuario Moriya a Gensokyo?|La gente lo echó|En el Mundo Exterior ya nadie creía en los dioses|Lo destruyó un terremoto|Lo ordenó Yukari
+ja|守矢神社が幻想郷に移ってきた理由は？|人間に追い出されたから|外の世界で信仰が失われたから|地震で壊れたから|紫に命じられたから
+zh|守矢神社为什么搬到幻想乡？|被人类赶了出来|外界的人们不再信仰神明|被地震毁了|紫下的命令
+#Q 3319 1 2 4
+ru|Что нужно ёкаям, чтобы существовать?|Страх людей|Лунный свет|Вода из озера|Цветы
+en|What do youkai need in order to exist?|Human fear|Moonlight|Lake water|Flowers
+es|¿Qué necesitan los youkai para existir?|El miedo de los humanos|La luz de la luna|Agua del lago|Flores
+ja|妖怪が存在するために必要なものは？|人間の恐れ|月の光|湖の水|花
+zh|妖怪需要什么才能存在？|人类的恐惧|月光|湖水|花
+#Q 3320 4 3 4
+ru|Чьи слова: «Гэнсокё принимает всё»?|Рэйму Хакурэй|Мико|Ремилии Скарлет|Юкари Якумо
+en|Who said "Gensokyo accepts everything"?|Reimu Hakurei|Miko|Remilia Scarlet|Yukari Yakumo
+es|¿Quién dijo «Gensokyo lo acepta todo»?|Reimu Hakurei|Miko|Remilia Scarlet|Yukari Yakumo
+ja|「幻想郷は全てを受け入れるのよ」と言ったのは？|博麗霊夢|豊聡耳神子|レミリア・スカーレット|八雲紫
+zh|“幻想乡接纳一切”是谁说的？|博丽灵梦|丰聪耳神子|蕾米莉亚·斯卡雷特|八云紫
+#Q 3321 3 1 4
+ru|Как ZUN относится к фанатскому творчеству по Touhou?|Запрещает любые фанатские работы|Разрешает только рисунки|Разрешает, и фанаты делают игры, музыку и комиксы|Разрешает только за плату
+en|How does ZUN treat Touhou fan works?|He bans all fan works|He allows only drawings|He allows them, so fans make games, music and comics|He allows them only for a fee
+es|¿Cómo trata ZUN las obras de fans de Touhou?|Prohíbe todas las obras de fans|Solo permite dibujos|Las permite, y los fans hacen juegos, música y cómics|Solo las permite pagando
+ja|ZUNは東方の二次創作をどう扱っている？|すべて禁止している|イラストだけ認めている|認めていて、ファンがゲームや音楽、漫画を作っている|有料でのみ認めている
+zh|ZUN对东方同人创作的态度是？|全部禁止|只允许画画|允许，粉丝们制作游戏、音乐和漫画|只允许付费授权
+#Q 3322 2 1 4
+ru|Как зовут младшую сестру Ремилии Скарлет?|Сатори|Фландр|Коиси|Лирика
+en|What is the name of Remilia Scarlet's younger sister?|Satori|Flandre|Koishi|Lyrica
+es|¿Cómo se llama la hermana menor de Remilia Scarlet?|Satori|Flandre|Koishi|Lyrica
+ja|レミリア・スカーレットの妹の名前は？|さとり|フランドール|こいし|リリカ
+zh|蕾米莉亚·斯卡雷特的妹妹叫什么？|觉|芙兰朵露|恋|莉莉卡
+#Q 3323 3 2 4
+ru|Что забило из-под земли возле храма Хакурэй в начале Subterranean Animism?|Нефть|Лава|Гейзер|Золото
+en|What burst out of the ground near the Hakurei Shrine at the start of Subterranean Animism?|Oil|Lava|A geyser|Gold
+es|¿Qué brotó del suelo junto al santuario Hakurei al comienzo de Subterranean Animism?|Petróleo|Lava|Un géiser|Oro
+ja|「東方地霊殿」のはじめに博麗神社の近くで噴き出したのは？|石油|溶岩|間欠泉|金
+zh|《东方地灵殿》开头，博丽神社附近喷出了什么？|石油|岩浆|间歇泉|黄金
+#Q 3324 4 1 4
+ru|Кем является певица Мистия Лорелей?|Русалкой|Кошкой|Цветочной феей|Ночной птицей-ёкаем
+en|What is the singer Mystia Lorelei?|A mermaid|A cat|A flower fairy|A night bird youkai
+es|¿Qué es la cantante Mystia Lorelei?|Una sirena|Una gata|Un hada de las flores|Una youkai pájaro nocturno
+ja|歌が好きなミスティア・ローレライの正体は？|人魚|猫|花の妖精|夜雀の妖怪
+zh|爱唱歌的米斯蒂娅·萝蕾拉是什么？|人鱼|猫|花之妖精|夜雀妖怪
+#Q 3325 3 2 4
+ru|С кем дружит Кэйнэ Камисирасава?|С Кагуей Хорайсан|С Ремилией Скарлет|С Фудзиварой-но Моко|С Юкари Якумо
+en|Who is Keine Kamishirasawa's close friend?|Kaguya Houraisan|Remilia Scarlet|Fujiwara no Mokou|Yukari Yakumo
+es|¿Quién es buena amiga de Keine Kamishirasawa?|Kaguya Houraisan|Remilia Scarlet|Fujiwara no Mokou|Yukari Yakumo
+ja|上白沢慧音と仲が良いのは？|蓬莱山輝夜|レミリア・スカーレット|藤原妹紅|八雲紫
+zh|上白泽慧音的好朋友是谁？|蓬莱山辉夜|蕾米莉亚·斯卡雷特|藤原妹红|八云紫
+#Q 3326 1 2 4
+ru|Что продаёт Рэйсэн в Деревне людей?|Лекарства из Эйэнтэй|Морковь|Газеты|Сакэ
+en|What does Reisen sell in the Human Village?|Medicine from Eientei|Carrots|Newspapers|Sake
+es|¿Qué vende Reisen en la aldea humana?|Medicinas de Eientei|Zanahorias|Periódicos|Sake
+ja|鈴仙が人間の里で売り歩いているのは？|永遠亭の薬|にんじん|新聞|酒
+zh|铃仙在人间之里卖什么？|永远亭的药|胡萝卜|报纸|酒
+#Q 3327 3 3 4
+ru|Как прозвали Эйрин Ягокоро на Луне?|Сердце Луны|Щит Луны|Мозг Луны|Око Луны
+en|What was Eirin Yagokoro called on the Moon?|The Heart of the Moon|The Shield of the Moon|The Brain of the Moon|The Eye of the Moon
+es|¿Cómo llamaban a Eirin Yagokoro en la Luna?|El Corazón de la Luna|El Escudo de la Luna|El Cerebro de la Luna|El Ojo de la Luna
+ja|月での八意永琳の異名は？|月の心臓|月の盾|月の頭脳|月の瞳
+zh|八意永琳在月球上被称为什么？|月之心脏|月之盾|月之头脑|月之眼
+#Q 3328 3 2 4
+ru|Какая способность у Кагуи Хорайсан?|Управлять огнём|Читать мысли|Управлять вечностью и мгновением|Управлять погодой
+en|What is Kaguya Houraisan's ability?|Controlling fire|Reading minds|Manipulating eternity and the instant|Controlling the weather
+es|¿Qué habilidad tiene Kaguya Houraisan?|Controlar el fuego|Leer mentes|Manipular la eternidad y el instante|Controlar el clima
+ja|蓬莱山輝夜の能力は？|炎を操る|心を読む|永遠と須臾を操る|天気を操る
+zh|蓬莱山辉夜的能力是什么？|操纵火焰|读心|操纵永远与须臾|操纵天气
+#Q 3329 3 3 4
+ru|Чем умеет управлять Комати Онодзука?|Временем|Огнём|Расстоянием|Снами
+en|What can Komachi Onozuka manipulate?|Time|Fire|Distance|Dreams
+es|¿Qué puede manipular Komachi Onozuka?|El tiempo|El fuego|La distancia|Los sueños
+ja|小野塚小町の能力は？|時間を操る|炎を操る|距離を操る|夢を操る
+zh|小野塚小町的能力是什么？|操纵时间|操纵火焰|操纵距离|操纵梦境
+#Q 3330 2 3 4
+ru|Какая способность у Сикиэйки Ямазанаду?|Останавливать время|Чётко отделять чёрное от белого|Управлять ветром|Лечить любые раны
+en|What is Shikieiki Yamaxanadu's ability?|Stopping time|Clearly telling black from white|Controlling the wind|Healing any wound
+es|¿Qué habilidad tiene Shikieiki Yamaxanadu?|Detener el tiempo|Distinguir claramente el blanco del negro|Controlar el viento|Curar cualquier herida
+ja|四季映姫・ヤマザナドゥの能力は？|時間を止める|白黒はっきりつける|風を操る|どんな傷も治す
+zh|四季映姬·亚玛萨那度的能力是什么？|停止时间|明辨黑白|操纵风|治愈任何伤口
+#Q 3331 3 1 4
+ru|Чем управляет Ая Сямэймару?|Огнём|Водой|Ветром|Льдом
+en|What does Aya Shameimaru control?|Fire|Water|Wind|Ice
+es|¿Qué controla Aya Shameimaru?|El fuego|El agua|El viento|El hielo
+ja|射命丸文が操るものは？|炎|水|風|氷
+zh|射命丸文能操纵什么？|火焰|水|风|冰
+#Q 3332 4 1 4
+ru|Чем необычна шляпа богини Сувако Мории?|Она сделана изо льда|Она всегда горит|На ней растут цветы|На ней два больших глаза
+en|What is unusual about the goddess Suwako Moriya's hat?|It is made of ice|It is always on fire|Flowers grow on it|It has two big eyes
+es|¿Qué tiene de raro el sombrero de la diosa Suwako Moriya?|Es de hielo|Siempre está en llamas|Le crecen flores|Tiene dos ojos grandes
+ja|洩矢諏訪子の帽子の変わったところは？|氷でできている|いつも燃えている|花が咲いている|大きな目玉が2つついている
+zh|洩矢诹访子的帽子有什么特别之处？|是冰做的|一直在燃烧|上面开着花|上面有两只大眼睛
+#Q 3333 2 3 4
+ru|В какую настольную игру любят играть Момидзи Инубасири и Нитори Кавасиро?|В го|В сёги|В маджонг|В шашки
+en|Which board game do Momiji Inubashiri and Nitori Kawashiro like to play?|Go|Shogi|Mahjong|Checkers
+es|¿A qué juego de mesa les gusta jugar a Momiji Inubashiri y Nitori Kawashiro?|Al go|Al shogi|Al mahjong|A las damas
+ja|犬走椛と河城にとりがよく遊んでいるボードゲームは？|囲碁|将棋|麻雀|チェッカー
+zh|犬走椛和河城荷取喜欢玩什么棋类游戏？|围棋|将棋|麻将|跳棋
+#Q 3334 3 3 4
+ru|Как Хатэтэ Химэкайдо получает свои снимки?|Проникает в чужие сны|Рисует по памяти|Ищет их силой мысли по ключевым словам|Крадёт у Аи
+en|How does Hatate Himekaidou get her photos?|By slipping into dreams|By drawing them from memory|Psychic photography by searching keywords|By stealing them from Aya
+es|¿Cómo consigue sus fotos Hatate Himekaidou?|Metiéndose en los sueños|Dibujándolas de memoria|Con fotografía psíquica buscando palabras clave|Robándoselas a Aya
+ja|姫海棠はたての写真の撮り方は？|夢の中に入る|記憶で絵に描く|キーワードで探す念写|文から盗む
+zh|姬海棠果是怎么得到照片的？|进入别人的梦|凭记忆画出来|用关键词搜索的念写|从文那里偷来
+#Q 3335 3 2 4
+ru|Чем торгует лавка Кориндо?|Сладостями|Свежей рыбой|Вещами из Внешнего мира и магическими предметами|Лекарствами
+en|What does the shop Kourindou sell?|Sweets|Fresh fish|Items from the Outside World and magical goods|Medicine
+es|¿Qué vende la tienda Kourindou?|Dulces|Pescado fresco|Objetos del Mundo Exterior y artículos mágicos|Medicinas
+ja|香霖堂で扱っている品物は？|お菓子|鮮魚|外の世界の道具や魔法の品|薬
+zh|香霖堂卖的是什么？|点心|鲜鱼|外界的道具和魔法物品|药品
+#Q 3336 2 3 4
+ru|Кто по природе Ринносукэ Моритика?|Вампир|Наполовину человек, наполовину ёкай|Призрак|Житель Луны
+en|What is Rinnosuke Morichika by nature?|A vampire|Half human, half youkai|A ghost|A Lunarian
+es|¿Qué es Rinnosuke Morichika por naturaleza?|Un vampiro|Mitad humano, mitad youkai|Un fantasma|Un lunariano
+ja|森近霖之助の種族は？|吸血鬼|人間と妖怪のハーフ|亡霊|月人
+zh|森近霖之助是什么种族？|吸血鬼|人类与妖怪的混血|亡灵|月之民
+#Q 3337 3 3 4
+ru|В какой игровой компании ZUN работал программистом?|Capcom|Konami|Taito|Square Enix
+en|Which game company did ZUN work at as a programmer?|Capcom|Konami|Taito|Square Enix
+es|¿En qué empresa de videojuegos trabajó ZUN como programador?|Capcom|Konami|Taito|Square Enix
+ja|ZUNがプログラマーとして勤めていたゲーム会社は？|カプコン|コナミ|タイトー|スクウェア・エニックス
+zh|ZUN曾在哪家游戏公司担任程序员？|CAPCOM|KONAMI|TAITO|SQUARE ENIX
+#Q 3338 1 2 4
+ru|Какой Сырно стала в Hidden Star in Four Seasons?|Загорелой|Огненной|Невидимой|Великаншей
+en|What happened to Cirno's look in Hidden Star in Four Seasons?|She got a suntan|She turned into fire|She became invisible|She became a giant
+es|¿Qué le pasó al aspecto de Cirno en Hidden Star in Four Seasons?|Se puso morena|Se volvió de fuego|Se volvió invisible|Se volvió gigante
+ja|「東方天空璋」でチルノの見た目はどうなった？|日焼けした|炎になった|透明になった|巨大になった
+zh|在《东方天空璋》中琪露诺的外表变成了什么样？|晒黑了|变成了火焰|变得透明|变成了巨人
+#Q 3339 4 1 4
+ru|Какие предметы в играх Touhou усиливают стрельбу?|Синие звёзды|Зелёные грибы|Золотые монеты|Красные значки P
+en|Which items power up your shots in Touhou games?|Blue stars|Green mushrooms|Gold coins|Red P items
+es|¿Qué objetos mejoran tus disparos en los juegos de Touhou?|Las estrellas azules|Los champiñones verdes|Las monedas de oro|Los objetos rojos con una P
+ja|東方でショットを強化するアイテムは？|青い星|緑のキノコ|金のコイン|赤いPアイテム
+zh|在东方中哪种道具能强化射击？|蓝色星星|绿色蘑菇|金币|红色P点
+#Q 3340 2 2 4
+ru|Сколько обычных этапов (без Extra) в большинстве основных игр Touhou?|4|6|8|10
+en|How many regular stages (not counting Extra) do most main Touhou games have?|4|6|8|10
+es|¿Cuántas fases normales (sin contar la Extra) tiene la mayoría de los juegos principales de Touhou?|4|6|8|10
+ja|東方の本編の多くで、Extraを除く通常ステージはいくつ？|4|6|8|10
+zh|大多数东方正作有几个普通关卡（不算Extra）？|4|6|8|10
+#Q 3341 3 1 4
+ru|Кто финальный босс Embodiment of Scarlet Devil?|Фландр Скарлет|Пачули Нолидж|Ремилия Скарлет|Сакуя Идзаёи
+en|Who is the final boss of Embodiment of Scarlet Devil?|Flandre Scarlet|Patchouli Knowledge|Remilia Scarlet|Sakuya Izayoi
+es|¿Quién es la jefa final de Embodiment of Scarlet Devil?|Flandre Scarlet|Patchouli Knowledge|Remilia Scarlet|Sakuya Izayoi
+ja|「東方紅魔郷」のラスボスは？|フランドール・スカーレット|パチュリー・ノーレッジ|レミリア・スカーレット|十六夜咲夜
+zh|《东方红魔乡》的最终头目是谁？|芙兰朵露·斯卡雷特|帕秋莉·诺蕾姬|蕾米莉亚·斯卡雷特|十六夜咲夜
+#Q 3342 4 2 4
+ru|Кто босс первого этапа Embodiment of Scarlet Devil?|Сырно|Хун Мэйлин|Чэнь|Румия
+en|Who is the Stage 1 boss of Embodiment of Scarlet Devil?|Cirno|Hong Meiling|Chen|Rumia
+es|¿Quién es la jefa de la fase 1 de Embodiment of Scarlet Devil?|Cirno|Hong Meiling|Chen|Rumia
+ja|「東方紅魔郷」1面のボスは？|チルノ|紅美鈴|橙|ルーミア
+zh|《东方红魔乡》第一关的头目是谁？|琪露诺|红美铃|橙|露米娅
+#Q 3343 4 1 4
+ru|Кто финальный босс Perfect Cherry Blossom?|Ёму Компаку|Юкари Якумо|Ран Якумо|Ююко Сайгёдзи
+en|Who is the final boss of Perfect Cherry Blossom?|Youmu Konpaku|Yukari Yakumo|Ran Yakumo|Yuyuko Saigyouji
+es|¿Quién es la jefa final de Perfect Cherry Blossom?|Youmu Konpaku|Yukari Yakumo|Ran Yakumo|Yuyuko Saigyouji
+ja|「東方妖々夢」のラスボスは？|魂魄妖夢|八雲紫|八雲藍|西行寺幽々子
+zh|《东方妖妖梦》的最终头目是谁？|魂魄妖梦|八云紫|八云蓝|西行寺幽幽子
+#Q 3344 3 2 4
+ru|Кто финальные боссы двух путей Imperishable Night?|Рэйсэн и Тэви|Моко и Кэйнэ|Эйрин и Кагуя|Юкари и Ран
+en|Who are the final bosses of Imperishable Night's two routes?|Reisen and Tewi|Mokou and Keine|Eirin and Kaguya|Yukari and Ran
+es|¿Quiénes son las jefas finales de las dos rutas de Imperishable Night?|Reisen y Tewi|Mokou y Keine|Eirin y Kaguya|Yukari y Ran
+ja|「東方永夜抄」の2つのルートのラスボスは？|鈴仙と因幡てゐ|藤原妹紅と上白沢慧音|八意永琳と蓬莱山輝夜|八雲紫と八雲藍
+zh|《东方永夜抄》两条路线的最终头目是谁？|铃仙和因幡帝|藤原妹红和上白泽慧音|八意永琳和蓬莱山辉夜|八云紫和八云蓝
+#Q 3345 2 2 4
+ru|Кто финальный босс Mountain of Faith?|Сувако Мория|Канако Ясака|Санаэ Котия|Ая Сямэймару
+en|Who is the final boss of Mountain of Faith?|Suwako Moriya|Kanako Yasaka|Sanae Kochiya|Aya Shameimaru
+es|¿Quién es la jefa final de Mountain of Faith?|Suwako Moriya|Kanako Yasaka|Sanae Kochiya|Aya Shameimaru
+ja|「東方風神録」のラスボスは？|洩矢諏訪子|八坂神奈子|東風谷早苗|射命丸文
+zh|《东方风神录》的最终头目是谁？|洩矢诹访子|八坂神奈子|东风谷早苗|射命丸文
+#Q 3346 2 2 4
+ru|Кто финальный босс Subterranean Animism?|Сатори Комэйдзи|Уцухо Рэйудзи|Коиси Комэйдзи|Рин Каэнбё
+en|Who is the final boss of Subterranean Animism?|Satori Komeiji|Utsuho Reiuji|Koishi Komeiji|Rin Kaenbyou
+es|¿Quién es la jefa final de Subterranean Animism?|Satori Komeiji|Utsuho Reiuji|Koishi Komeiji|Rin Kaenbyou
+ja|「東方地霊殿」のラスボスは？|古明地さとり|霊烏路空|古明地こいし|火焔猫燐
+zh|《东方地灵殿》的最终头目是谁？|古明地觉|灵乌路空|古明地恋|火焰猫燐
+#Q 3347 4 2 4
+ru|Кто финальный босс Undefined Fantastic Object?|Сё Торамару|Нуэ Ходзю|Минамицу Мураса|Бякурэн Хидзири
+en|Who is the final boss of Undefined Fantastic Object?|Shou Toramaru|Nue Houjuu|Minamitsu Murasa|Byakuren Hijiri
+es|¿Quién es la jefa final de Undefined Fantastic Object?|Shou Toramaru|Nue Houjuu|Minamitsu Murasa|Byakuren Hijiri
+ja|「東方星蓮船」のラスボスは？|寅丸星|封獣ぬえ|村紗水蜜|聖白蓮
+zh|《东方星莲船》的最终头目是谁？|寅丸星|封兽鵺|村纱水蜜|圣白莲
+#Q 3348 3 3 4
+ru|Кто финальный босс Legacy of Lunatic Kingdom?|Гекатия Лапислазули|Сагумэ Кисин|Дзюнко|Клаунпис
+en|Who is the final boss of Legacy of Lunatic Kingdom?|Hecatia Lapislazuli|Sagume Kishin|Junko|Clownpiece
+es|¿Quién es la jefa final de Legacy of Lunatic Kingdom?|Hecatia Lapislazuli|Sagume Kishin|Junko|Clownpiece
+ja|「東方紺珠伝」のラスボスは？|ヘカーティア・ラピスラズリ|稀神サグメ|純狐|クラウンピース
+zh|《东方绀珠传》的最终头目是谁？|赫卡提亚·拉碧斯拉祖利|稀神探女|纯狐|克劳恩皮丝
+#Q 3349 2 3 4
+ru|Какая команда вместе с ZUN делала файтинги Touhou, например Scarlet Weather Rhapsody?|IOSYS|Twilight Frontier|Alstroemeria Records|Team Ninja
+en|Which team co-developed Touhou fighting games like Scarlet Weather Rhapsody with ZUN?|IOSYS|Twilight Frontier|Alstroemeria Records|Team Ninja
+es|¿Qué equipo desarrolló con ZUN juegos de lucha de Touhou como Scarlet Weather Rhapsody?|IOSYS|Twilight Frontier|Alstroemeria Records|Team Ninja
+ja|「東方緋想天」などの格闘作をZUNと共同開発したのは？|IOSYS|黄昏フロンティア|Alstroemeria Records|Team NINJA
+zh|与ZUN合作开发《东方绯想天》等格斗作品的是哪个团队？|IOSYS|Twilight Frontier|Alstroemeria Records|Team Ninja
+#Q 3350 1 1 4
+ru|Что нарисовано на зонтике Когасы Татары?|Большой глаз и длинный язык|Звёзды|Цветы сакуры|Череп
+en|What is on Kogasa Tatara's umbrella?|A big eye and a long tongue|Stars|Cherry blossoms|A skull
+es|¿Qué tiene el paraguas de Kogasa Tatara?|Un gran ojo y una lengua larga|Estrellas|Flores de cerezo|Una calavera
+ja|多々良小傘の傘についているのは？|大きな目と長い舌|星|桜の花|ドクロ
+zh|多多良小伞的伞上有什么？|一只大眼睛和长舌头|星星|樱花|骷髅
