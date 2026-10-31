@@ -1,6 +1,6 @@
 #LASTBET 1
 #LANGS ru en es ja zh
-#VERSION 2026-10-31-1130
+#VERSION 2026-10-31-1208
 #Q 1 1 1
 ru|Какой океан самый большой?|Тихий|Атлантический|Индийский|Северный Ледовитый
 en|Which ocean is the largest?|Pacific|Atlantic|Indian|Arctic
@@ -7501,3 +7501,2103 @@ en|How many official time zones does China have?|1|3|5|7
 es|¿Cuántos husos horarios oficiales tiene China?|1|3|5|7
 ja|中国の公式な標準時はいくつ？|1|3|5|7
 zh|中国官方使用几个时区？|1|3|5|7
+#Q 2051 3 1 1
+ru|Какая буква нарисована на кепке Марио?|L|W|M|S
+en|Which letter is on Mario's cap?|L|W|M|S
+es|¿Qué letra lleva Mario en la gorra?|L|W|M|S
+ja|マリオの帽子に描かれているアルファベットは？|L|W|M|S
+zh|马力欧的帽子上印着哪个字母？|L|W|M|S
+#Q 2052 3 1 1
+ru|Какого цвета кепка и рубашка у Луиджи, брата Марио?|Красного|Синего|Зелёного|Жёлтого
+en|What color are the cap and shirt of Luigi, Mario's brother?|Red|Blue|Green|Yellow
+es|¿De qué color son la gorra y la camisa de Luigi, el hermano de Mario?|Rojo|Azul|Verde|Amarillo
+ja|マリオの弟ルイージの帽子とシャツは何色？|赤|青|緑|黄色
+zh|马力欧的弟弟路易吉的帽子和衬衫是什么颜色？|红色|蓝色|绿色|黄色
+#Q 2053 1 1 1
+ru|Что бросает Донки Конг в Марио в аркаде 1981 года?|Бочки|Бананы|Камни|Кокосы
+en|What does Donkey Kong throw at Mario in the 1981 arcade game?|Barrels|Bananas|Rocks|Coconuts
+es|¿Qué le lanza Donkey Kong a Mario en el arcade de 1981?|Barriles|Plátanos|Rocas|Cocos
+ja|1981年のアーケードゲームで、ドンキーコングがマリオに向かって投げてくるものは？|タル|バナナ|岩|ヤシの実
+zh|在1981年的街机游戏中，大金刚朝马力欧扔什么？|木桶|香蕉|石头|椰子
+#Q 2054 4 1 1
+ru|Как зовут главного злодея серии игр про Соника?|Доктор Вайли|Боузер|Ганон|Доктор Эггман
+en|Who is the main villain of the Sonic games?|Dr. Wily|Bowser|Ganon|Dr. Eggman
+es|¿Quién es el villano principal de los juegos de Sonic?|Dr. Wily|Bowser|Ganon|Dr. Eggman
+ja|ソニックシリーズの悪役のボスは？|Dr.ワイリー|クッパ|ガノン|Dr.エッグマン
+zh|索尼克系列的大反派是谁？|威利博士|酷霸王|加侬|蛋头博士
+#Q 2055 4 2 1
+ru|Как зовут красного ехидну, друга и соперника Соника?|Тейлз|Шэдоу|Эми|Наклз
+en|What is the name of the red echidna who is Sonic's friend and rival?|Tails|Shadow|Amy|Knuckles
+es|¿Cómo se llama el equidna rojo que es amigo y rival de Sonic?|Tails|Shadow|Amy|Knuckles
+ja|ソニックの友人でありライバルでもある、赤いハリモグラは？|テイルス|シャドウ|エミー|ナックルズ
+zh|索尼克那位红色针鼹朋友兼对手叫什么？|塔尔斯|夏特|艾米|纳克鲁斯
+#Q 2056 2 1 1
+ru|Что собирает Соник по уровням, чтобы не погибнуть от удара?|Монеты|Золотые кольца|Звёзды|Грибы
+en|What does Sonic collect in the levels to survive a hit?|Coins|Gold rings|Stars|Mushrooms
+es|¿Qué recoge Sonic en los niveles para sobrevivir a un golpe?|Monedas|Anillos dorados|Estrellas|Setas
+ja|ソニックがステージで集める、攻撃を受けても生き残るために必要なものは？|コイン|リング|スター|キノコ
+zh|索尼克在关卡中收集什么来抵挡一次伤害？|金币|金环|星星|蘑菇
+#Q 2057 2 1 1
+ru|Какого цвета костюм у Мегамена (в Японии - Рокмен)?|Красного|Синего|Зелёного|Жёлтого
+en|What color is Mega Man's suit?|Red|Blue|Green|Yellow
+es|¿De qué color es el traje de Mega Man?|Rojo|Azul|Verde|Amarillo
+ja|ロックマンの体（スーツ）の色は？|赤|青|緑|黄色
+zh|洛克人的战斗服是什么颜色？|红色|蓝色|绿色|黄色
+#Q 2058 3 2 1
+ru|Как называется приём Рю из Street Fighter, когда он выпускает из ладоней светящийся шар?|Сёрюкен|Тацумаки|Хадокен|Соник бум
+en|In Street Fighter, what is the move where Ryu shoots a glowing ball from his palms?|Shoryuken|Tatsumaki|Hadouken|Sonic Boom
+es|En Street Fighter, ¿cómo se llama el golpe en el que Ryu lanza una bola luminosa desde las palmas?|Shoryuken|Tatsumaki|Hadouken|Sonic Boom
+ja|「ストリートファイター」で、リュウが両手を前に突き出して放つ飛び道具の技は？|昇龍拳|竜巻旋風脚|波動拳|ソニックブーム
+zh|在《街头霸王》中，隆双手向前推出光球的招式叫什么？|升龙拳|龙卷旋风脚|波动拳|音速手刀
+#Q 2059 4 1 1
+ru|Какой моб в Minecraft злится, если посмотреть ему в глаза, и умеет телепортироваться?|Крипер|Гаст|Скелет|Эндермен
+en|Which Minecraft mob gets angry if you look it in the eyes and can teleport?|Creeper|Ghast|Skeleton|Enderman
+es|¿Qué criatura de Minecraft se enfada si la miras a los ojos y puede teletransportarse?|Creeper|Ghast|Esqueleto|Enderman
+ja|マインクラフトで、目を合わせると怒り出し、テレポートもできるモブは？|クリーパー|ガスト|スケルトン|エンダーマン
+zh|《我的世界》里，哪种生物被你直视就会发怒，还会瞬移？|苦力怕|恶魂|骷髅|末影人
+#Q 2060 1 1 1
+ru|Из чего в Minecraft крафтят факел?|Из палки и угля|Из палки и железа|Из доски и камня|Из нити и угля
+en|What do you craft a torch from in Minecraft?|A stick and coal|A stick and iron|A plank and stone|String and coal
+es|¿Con qué se fabrica una antorcha en Minecraft?|Un palo y carbón|Un palo y hierro|Una tabla y piedra|Cuerda y carbón
+ja|マインクラフトで松明（たいまつ）を作る材料は？|棒と石炭|棒と鉄|板材と石|糸と石炭
+zh|在《我的世界》里，火把是用什么合成的？|木棍和煤炭|木棍和铁锭|木板和石头|线和煤炭
+#Q 2061 2 2 1
+ru|Сколько значков стадионов нужно собрать в классических играх Pokémon, чтобы бросить вызов Лиге?|5|8|10|12
+en|In the classic Pokémon games, how many Gym Badges must you collect to challenge the Pokémon League?|5|8|10|12
+es|En los juegos clásicos de Pokémon, ¿cuántas medallas de gimnasio hay que reunir para desafiar a la Liga Pokémon?|5|8|10|12
+ja|初期のポケモン本編で、ポケモンリーグに挑戦するために集めるジムバッジの数は？|5個|8個|10個|12個
+zh|在经典的宝可梦游戏中，要收集几枚道馆徽章才能挑战宝可梦联盟？|5枚|8枚|10枚|12枚
+#Q 2062 4 1 1
+ru|Какого цвета верхняя половина обычного покебола?|Синего|Зелёного|Чёрного|Красного
+en|What color is the top half of a standard Poké Ball?|Blue|Green|Black|Red
+es|¿De qué color es la mitad superior de una Poké Ball normal?|Azul|Verde|Negra|Roja
+ja|普通のモンスターボールの上半分は何色？|青|緑|黒|赤
+zh|普通精灵球的上半部分是什么颜色？|蓝色|绿色|黑色|红色
+#Q 2063 1 2 1
+ru|Как зовут лошадь Линка в The Legend of Zelda?|Эпона|Плотва|Агро|Пегас
+en|What is the name of Link's horse in The Legend of Zelda?|Epona|Roach|Agro|Pegasus
+es|¿Cómo se llama el caballo de Link en The Legend of Zelda?|Epona|Sardinilla|Agro|Pegaso
+ja|「ゼルダの伝説」でリンクが乗る馬の名前は？|エポナ|ローチ|アグロ|ペガサス
+zh|《塞尔达传说》中林克的马叫什么名字？|艾波娜|萝卜|阿格罗|飞马
+#Q 2064 4 1 1
+ru|Кто такая Зельда в серии The Legend of Zelda?|Главная героиня с мечом|Главная злодейка|Фея-помощница героя|Принцесса королевства
+en|In The Legend of Zelda series, who is Zelda?|The sword-wielding hero|The main villain|A fairy who helps the hero|The princess of the kingdom
+es|En la saga The Legend of Zelda, ¿quién es Zelda?|La protagonista que lleva la espada|La villana principal|Un hada que ayuda al héroe|La princesa del reino
+ja|ゼルダの伝説シリーズで、ゼルダとは誰？|剣を持つ主人公|ラスボス|主人公を助ける妖精|王国のお姫様
+zh|在《塞尔达传说》系列中，塞尔达是谁？|持剑的主角|最终反派|帮助主角的精灵|王国的公主
+#Q 2065 4 2 1
+ru|Как зовут фею, которая сопровождает Линка в Ocarina of Time?|Мидна|Фай|Импа|Нави
+en|What is the name of the fairy who travels with Link in Ocarina of Time?|Midna|Fi|Impa|Navi
+es|¿Cómo se llama el hada que acompaña a Link en Ocarina of Time?|Midna|Fay|Impa|Navi
+ja|「ゼルダの伝説 時のオカリナ」でリンクのお供をする妖精の名前は？|ミドナ|ファイ|インパ|ナビィ
+zh|《塞尔达传说：时之笛》中陪伴林克的妖精叫什么？|米多娜|法伊|因帕|娜薇
+#Q 2066 2 2 1
+ru|Кто придумал «Тетрис»?|Тору Иватани|Алексей Пажитнов|Маркус Перссон|Сигэру Миямото
+en|Who invented Tetris?|Toru Iwatani|Alexey Pajitnov|Markus Persson|Shigeru Miyamoto
+es|¿Quién inventó el Tetris?|Toru Iwatani|Alekséi Pázhitnov|Markus Persson|Shigeru Miyamoto
+ja|テトリスを考案したのは誰？|岩谷徹|アレクセイ・パジトノフ|マルクス・ペルソン|宮本茂
+zh|《俄罗斯方块》是谁发明的？|岩谷彻|阿列克谢·帕基特诺夫|马库斯·佩尔松|宫本茂
+#Q 2067 4 2 1
+ru|Что выпускала Nintendo, когда была основана в XIX веке?|Часы|Велосипеды|Швейные машинки|Игральные карты
+en|What did Nintendo make when it was founded in the 19th century?|Clocks|Bicycles|Sewing machines|Playing cards
+es|¿Qué fabricaba Nintendo cuando se fundó en el siglo XIX?|Relojes|Bicicletas|Máquinas de coser|Naipes
+ja|19世紀に創業した任天堂が最初に作っていたものは？|時計|自転車|ミシン|花札などのかるた
+zh|任天堂在19世纪创立时生产什么？|钟表|自行车|缝纫机|纸牌
+#Q 2068 4 2 1
+ru|В какой игре впервые появился Марио (тогда его звали Джампмен)?|Super Mario Bros.|Mario Bros.|Pac-Man|Donkey Kong
+en|In which game did Mario first appear (back then he was called Jumpman)?|Super Mario Bros.|Mario Bros.|Pac-Man|Donkey Kong
+es|¿En qué juego apareció Mario por primera vez (entonces se llamaba Jumpman)?|Super Mario Bros.|Mario Bros.|Pac-Man|Donkey Kong
+ja|マリオが初めて登場したゲームは？|スーパーマリオブラザーズ|マリオブラザーズ|パックマン|ドンキーコング
+zh|马力欧首次登场的游戏是哪一款？|超级马力欧兄弟|马力欧兄弟|吃豆人|大金刚
+#Q 2069 3 3 1
+ru|В каком году вышла игра Super Mario Bros.?|1981|1983|1985|1987
+en|In which year was Super Mario Bros. released?|1981|1983|1985|1987
+es|¿En qué año salió Super Mario Bros.?|1981|1983|1985|1987
+ja|「スーパーマリオブラザーズ」が発売されたのは何年？|1981年|1983年|1985年|1987年
+zh|《超级马力欧兄弟》是哪一年发售的？|1981年|1983年|1985年|1987年
+#Q 2070 1 1 1
+ru|Кто такой Кэппи из Super Mario Odyssey?|Живая шляпа|Фея|Говорящая звезда|Гриб-помощник
+en|Who is Cappy in Super Mario Odyssey?|A living hat|A fairy|A talking star|A mushroom helper
+es|¿Quién es Cappy en Super Mario Odyssey?|Un sombrero con vida|Un hada|Una estrella que habla|Una seta ayudante
+ja|「スーパーマリオ オデッセイ」のキャッピーとは？|生きている帽子|妖精|しゃべる星|キノコの助手
+zh|《超级马力欧 奥德赛》中的凯皮是什么？|有生命的帽子|精灵|会说话的星星|蘑菇助手
+#Q 2071 2 2 1
+ru|В какое животное превращаются герои первой Splatoon, чтобы плавать в краске?|В осьминога|В кальмара|В медузу|В рыбу
+en|In the first Splatoon, what animal do the heroes turn into to swim through ink?|Octopus|Squid|Jellyfish|Fish
+es|En el primer Splatoon, ¿en qué animal se transforman los protagonistas para nadar en la tinta?|Pulpo|Calamar|Medusa|Pez
+ja|「スプラトゥーン」1作目で、プレイヤーキャラクターがインクの中を泳ぐときに変身する生き物は？|タコ|イカ|クラゲ|魚
+zh|在第一部《斯普拉遁》中，主角们会变成什么动物在墨水里游动？|章鱼|鱿鱼|水母|鱼
+#Q 2072 2 2 1
+ru|Как зовут похожего на пингвина соперника Кирби?|Мета Рыцарь|Король Дидиди|Боузер|Варио
+en|What is the name of Kirby's penguin-like rival?|Meta Knight|King Dedede|Bowser|Wario
+es|¿Cómo se llama el rival de Kirby que parece un pingüino?|Meta Knight|Rey Dedede|Bowser|Wario
+ja|カービィのライバルで、ペンギンのような姿をしているのは？|メタナイト|デデデ大王|クッパ|ワリオ
+zh|星之卡比那位长得像企鹅的对手叫什么？|魅塔骑士|帝帝帝大王|酷霸王|瓦力欧
+#Q 2073 1 2 1
+ru|Как называется королевство, в котором обычно происходят события The Legend of Zelda?|Хайрул|Азерот|Тамриэль|Грибное королевство
+en|What is the kingdom where The Legend of Zelda usually takes place?|Hyrule|Azeroth|Tamriel|Mushroom Kingdom
+es|¿Cómo se llama el reino donde suele transcurrir The Legend of Zelda?|Hyrule|Azeroth|Tamriel|Reino Champiñón
+ja|ゼルダの伝説の舞台になることが多い王国は？|ハイラル|アゼロス|タムリエル|キノコ王国
+zh|《塞尔达传说》通常发生在哪个王国？|海拉鲁|艾泽拉斯|泰姆瑞尔|蘑菇王国
+#Q 2074 3 2 1
+ru|Как называется легендарный меч Линка, изгоняющий зло?|Экскалибур|Бастер-меч|Меч Мастера|Ключ-клинок
+en|What is the name of Link's legendary blade that repels evil?|Excalibur|Buster Sword|Master Sword|Keyblade
+es|¿Cómo se llama la espada legendaria de Link que repele el mal?|Excalibur|Espada Buster|Espada Maestra|Llave Espada
+ja|リンクが持つ「退魔の剣」と呼ばれる伝説の剣は？|エクスカリバー|バスターソード|マスターソード|キーブレード
+zh|林克那把能驱退邪恶的传说之剑叫什么？|王者之剑|破坏剑|大师之剑|钥匙剑
+#Q 2075 4 1 1
+ru|Как зовут героиню серии Tomb Raider?|Джилл Валентайн|Самус Аран|Элой|Лара Крофт
+en|What is the name of the heroine of the Tomb Raider series?|Jill Valentine|Samus Aran|Aloy|Lara Croft
+es|¿Cómo se llama la protagonista de la saga Tomb Raider?|Jill Valentine|Samus Aran|Aloy|Lara Croft
+ja|「トゥームレイダー」シリーズの主人公の女性は？|ジル・バレンタイン|サムス・アラン|アーロイ|ララ・クロフト
+zh|《古墓丽影》系列的女主角是谁？|吉尔·瓦伦丁|萨姆斯·阿兰|埃洛伊|劳拉·克劳馥
+#Q 2076 3 2 1
+ru|Что узнаёт игрок, когда в конце первой Metroid герой снимает шлем?|Что это робот|Что это инопланетянин|Что это женщина|Что это ребёнок
+en|What does the player learn when the hero removes the helmet at the end of the first Metroid?|The hero is a robot|The hero is an alien|The hero is a woman|The hero is a child
+es|¿Qué descubre el jugador cuando el protagonista se quita el casco al final del primer Metroid?|Que es un robot|Que es un extraterrestre|Que es una mujer|Que es un niño
+ja|初代「メトロイド」のエンディングで主人公がヘルメットを脱ぐと、何がわかる？|ロボットだった|宇宙人だった|女性だった|子どもだった
+zh|在初代《银河战士》结局中，主角摘下头盔后，玩家发现了什么？|主角是机器人|主角是外星人|主角是女性|主角是小孩
+#Q 2077 3 2 1
+ru|Кто создатель серии Metal Gear?|Сигэру Миямото|Масахиро Сакураи|Хидэо Кодзима|Хиронобу Сакагути
+en|Who created the Metal Gear series?|Shigeru Miyamoto|Masahiro Sakurai|Hideo Kojima|Hironobu Sakaguchi
+es|¿Quién creó la saga Metal Gear?|Shigeru Miyamoto|Masahiro Sakurai|Hideo Kojima|Hironobu Sakaguchi
+ja|「メタルギア」シリーズの生みの親は？|宮本茂|桜井政博|小島秀夫|坂口博信
+zh|《合金装备》系列的创作者是谁？|宫本茂|樱井政博|小岛秀夫|坂口博信
+#Q 2078 4 2 1
+ru|Где любит прятаться Снейк из серии Metal Gear?|В бочке|В шкафу|В стоге сена|В картонной коробке
+en|Where does Snake from the Metal Gear series love to hide?|In a barrel|In a closet|In a haystack|In a cardboard box
+es|¿Dónde le encanta esconderse a Snake, de la saga Metal Gear?|En un barril|En un armario|En un pajar|En una caja de cartón
+ja|「メタルギア」シリーズのスネークがよく隠れるのは？|樽の中|ロッカーの中|干し草の山の中|段ボール箱の中
+zh|《合金装备》系列中的斯内克最爱躲在哪里？|木桶里|柜子里|干草堆里|纸箱里
+#Q 2079 3 2 1
+ru|Из какой страны студия Mojang, создавшая Minecraft?|Финляндия|Норвегия|Швеция|Дания
+en|Which country is Mojang, the studio behind Minecraft, from?|Finland|Norway|Sweden|Denmark
+es|¿De qué país es Mojang, el estudio de Minecraft?|Finlandia|Noruega|Suecia|Dinamarca
+ja|マインクラフトを作ったMojangはどこの国の会社？|フィンランド|ノルウェー|スウェーデン|デンマーク
+zh|开发《我的世界》的Mojang是哪个国家的工作室？|芬兰|挪威|瑞典|丹麦
+#Q 2080 3 1 1
+ru|С кем сражается главный герой Doom?|С роботами|С динозаврами|С демонами из ада|С пиратами
+en|Who does the hero of Doom fight against?|Robots|Dinosaurs|Demons from hell|Pirates
+es|¿Contra quién lucha el protagonista de Doom?|Contra robots|Contra dinosaurios|Contra demonios del infierno|Contra piratas
+ja|「DOOM」の主人公が戦う相手は？|ロボット|恐竜|地獄の悪魔|海賊
+zh|《毁灭战士》的主角在和谁战斗？|机器人|恐龙|地狱恶魔|海盗
+#Q 2081 1 1 1
+ru|Какой голливудский актёр сыграл Джонни Сильверхенда в Cyberpunk 2077?|Киану Ривз|Том Харди|Райан Гослинг|Мадс Миккельсен
+en|Which Hollywood actor played Johnny Silverhand in Cyberpunk 2077?|Keanu Reeves|Tom Hardy|Ryan Gosling|Mads Mikkelsen
+es|¿Qué actor de Hollywood interpretó a Johnny Silverhand en Cyberpunk 2077?|Keanu Reeves|Tom Hardy|Ryan Gosling|Mads Mikkelsen
+ja|「サイバーパンク2077」でジョニー・シルヴァーハンドを演じたハリウッド俳優は？|キアヌ・リーブス|トム・ハーディ|ライアン・ゴズリング|マッツ・ミケルセン
+zh|在《赛博朋克2077》中饰演强尼·银手的好莱坞演员是谁？|基努·里维斯|汤姆·哈迪|瑞恩·高斯林|麦斯·米科尔森
+#Q 2082 4 2 1
+ru|В каком городе происходит действие Cyberpunk 2077?|Либерти-Сити|Вайс-Сити|Сити 17|Найт-Сити
+en|In which city is Cyberpunk 2077 set?|Liberty City|Vice City|City 17|Night City
+es|¿En qué ciudad transcurre Cyberpunk 2077?|Liberty City|Vice City|City 17|Night City
+ja|「サイバーパンク2077」の舞台となる都市は？|リバティーシティ|バイスシティ|シティ17|ナイトシティ
+zh|《赛博朋克2077》的故事发生在哪座城市？|自由城|罪恶都市|17号城市|夜之城
+#Q 2083 2 2 1
+ru|Что служит деньгами в мире Fallout?|Патроны|Крышки от бутылок|Гвозди|Ракушки
+en|What is used as money in the world of Fallout?|Bullets|Bottle caps|Nails|Seashells
+es|¿Qué se usa como dinero en el mundo de Fallout?|Balas|Chapas de botella|Clavos|Conchas
+ja|「Fallout」の世界でお金として使われているものは？|弾丸|瓶の王冠（ボトルキャップ）|釘|貝殻
+zh|在《辐射》的世界里，什么被当作货币使用？|子弹|瓶盖|钉子|贝壳
+#Q 2084 4 2 1
+ru|Как зовут учёного, главного героя серии Half-Life?|Айзек Кларк|Дюк Нюкем|Сэм Фишер|Гордон Фримен
+en|What is the name of the scientist hero of the Half-Life series?|Isaac Clarke|Duke Nukem|Sam Fisher|Gordon Freeman
+es|¿Cómo se llama el científico protagonista de la saga Half-Life?|Isaac Clarke|Duke Nukem|Sam Fisher|Gordon Freeman
+ja|「Half-Life」シリーズの主人公の科学者の名前は？|アイザック・クラーク|デューク・ニューケム|サム・フィッシャー|ゴードン・フリーマン
+zh|《半条命》系列的科学家主角叫什么？|艾萨克·克拉克|毁灭公爵|山姆·费舍尔|戈登·弗里曼
+#Q 2085 2 2 1
+ru|Какое оружие стало символом Гордона Фримена из Half-Life?|Бейсбольная бита|Монтировка|Лопата|Гаечный ключ
+en|Which weapon became the symbol of Gordon Freeman in Half-Life?|Baseball bat|Crowbar|Shovel|Wrench
+es|¿Qué arma se convirtió en el símbolo de Gordon Freeman en Half-Life?|El bate de béisbol|La palanca|La pala|La llave inglesa
+ja|「Half-Life」のゴードン・フリーマンの象徴となった武器は？|野球のバット|バール|シャベル|レンチ
+zh|哪种武器成了《半条命》中戈登·弗里曼的标志？|棒球棍|撬棍|铁锹|扳手
+#Q 2086 2 2 1
+ru|Какая игра прославила фразу «Торт - это ложь»?|Half-Life 2|Portal|BioShock|Minecraft
+en|Which game made the phrase "The cake is a lie" famous?|Half-Life 2|Portal|BioShock|Minecraft
+es|¿Qué juego hizo famosa la frase «La tarta es mentira»?|Half-Life 2|Portal|BioShock|Minecraft
+ja|「ケーキは嘘だ」というフレーズを有名にしたゲームは？|Half-Life 2|Portal|BioShock|マインクラフト
+zh|哪款游戏让“蛋糕是个谎言”这句话出了名？|半条命2|传送门|生化奇兵|我的世界
+#Q 2087 4 2 1
+ru|Какая студия создала Dark Souls и Elden Ring?|Capcom|Square Enix|Konami|FromSoftware
+en|Which studio created Dark Souls and Elden Ring?|Capcom|Square Enix|Konami|FromSoftware
+es|¿Qué estudio creó Dark Souls y Elden Ring?|Capcom|Square Enix|Konami|FromSoftware
+ja|「ダークソウル」と「エルデンリング」を開発した会社は？|カプコン|スクウェア・エニックス|コナミ|フロム・ソフトウェア
+zh|《黑暗之魂》和《艾尔登法环》是哪家公司开发的？|卡普空|史克威尔艾尼克斯|科乐美|FromSoftware
+#Q 2088 4 1 1
+ru|В какую эпоху происходит действие Red Dead Redemption?|В Средневековье|Во время Второй мировой войны|В далёком будущем|Во времена Дикого Запада
+en|In which era is Red Dead Redemption set?|The Middle Ages|World War II|The distant future|The Wild West
+es|¿En qué época transcurre Red Dead Redemption?|En la Edad Media|En la Segunda Guerra Mundial|En un futuro lejano|En el Salvaje Oeste
+ja|「レッド・デッド・リデンプション」の時代設定は？|中世|第二次世界大戦|遠い未来|アメリカ西部開拓時代
+zh|《荒野大镖客：救赎》的故事发生在什么时代？|中世纪|第二次世界大战|遥远的未来|美国西部拓荒时代
+#Q 2089 1 2 1
+ru|На какой реальный город похож Вайс-Сити из серии GTA?|Майами|Лос-Анджелес|Нью-Йорк|Чикаго
+en|Which real city is Vice City from the GTA series based on?|Miami|Los Angeles|New York|Chicago
+es|¿En qué ciudad real se basa Vice City, de la saga GTA?|Miami|Los Ángeles|Nueva York|Chicago
+ja|「GTA」シリーズのバイスシティのモデルになった実在の都市は？|マイアミ|ロサンゼルス|ニューヨーク|シカゴ
+zh|《GTA》系列中的罪恶都市是以哪座真实城市为原型的？|迈阿密|洛杉矶|纽约|芝加哥
+#Q 2090 3 3 1
+ru|По книгам какого писателя созданы игры «Ведьмак»?|Джорджа Мартина|Джона Толкина|Анджея Сапковского|Терри Пратчетта
+en|The Witcher games are based on books by which writer?|George R. R. Martin|J. R. R. Tolkien|Andrzej Sapkowski|Terry Pratchett
+es|¿En los libros de qué escritor se basan los juegos de The Witcher?|George R. R. Martin|J. R. R. Tolkien|Andrzej Sapkowski|Terry Pratchett
+ja|ゲーム「ウィッチャー」シリーズの原作小説の作者は？|ジョージ・R・R・マーティン|J・R・R・トールキン|アンドレイ・サプコフスキ|テリー・プラチェット
+zh|《巫师》系列游戏改编自哪位作家的小说？|乔治·R·R·马丁|托尔金|安杰伊·萨普科夫斯基|特里·普拉切特
+#Q 2091 2 1 1
+ru|Какого цвета волосы у ведьмака Геральта из Ривии?|Чёрные|Белые|Рыжие|Каштановые
+en|What color is the hair of Geralt of Rivia, the witcher?|Black|White|Red|Brown
+es|¿De qué color es el pelo de Geralt de Rivia, el brujo?|Negro|Blanco|Rojo|Castaño
+ja|ウィッチャーのリヴィアのゲラルトの髪の色は？|黒|白|赤|茶色
+zh|猎魔人利维亚的杰洛特是什么发色？|黑色|白色|红色|棕色
+#Q 2092 4 2 1
+ru|Закончите фразу стражника из Skyrim: «Когда-то и меня вела дорога приключений, а потом мне прострелили...»|Плечо|Руку|Спину|Колено
+en|Finish the Skyrim guard's line: "I used to be an adventurer like you, then I took an arrow in the..."|Shoulder|Arm|Back|Knee
+es|Completa la frase del guardia de Skyrim: «Yo era un aventurero como tú, pero me hirieron con una flecha en la...»|Espalda|Cabeza|Mano|Rodilla
+ja|「スカイリム」の衛兵のセリフ「昔はお前のような冒険者だったが、＿＿に矢を受けてしまってな」。空欄に入るのは？|肩|腕|背中|膝
+zh|《上古卷轴5》守卫的名言：“我以前和你一样也是个冒险家，直到我的＿＿中了一箭。”空格处是？|肩膀|胳膊|后背|膝盖
+#Q 2093 4 1 1
+ru|Что висит над головой у персонажа в The Sims?|Золотой нимб|Красное сердце|Вопросительный знак|Зелёный кристалл
+en|What floats above a character's head in The Sims?|A golden halo|A red heart|A question mark|A green crystal
+es|¿Qué flota sobre la cabeza de un personaje en Los Sims?|Una aureola dorada|Un corazón rojo|Un signo de interrogación|Un cristal verde
+ja|「ザ・シムズ」でキャラクターの頭の上に浮かんでいるものは？|金色の輪|赤いハート|はてなマーク|緑のクリスタル
+zh|在《模拟人生》中，角色头顶上飘着什么？|金色光环|红心|问号|绿色水晶
+#Q 2094 4 3 1
+ru|Кто создал игру Undertale?|Маркус Перссон|Эрик Барон|Хидэо Кодзима|Тоби Фокс
+en|Who created the game Undertale?|Markus Persson|Eric Barone|Hideo Kojima|Toby Fox
+es|¿Quién creó el juego Undertale?|Markus Persson|Eric Barone|Hideo Kojima|Toby Fox
+ja|「Undertale」を作ったのは誰？|マルクス・ペルソン|エリック・バロン|小島秀夫|トビー・フォックス
+zh|游戏《传说之下》是谁制作的？|马库斯·佩尔松|埃里克·巴伦|小岛秀夫|托比·福克斯
+#Q 2095 3 2 1
+ru|Кем являются Санс и Папирус из Undertale?|Призраками|Роботами|Скелетами|Козами
+en|In Undertale, what are Sans and Papyrus?|Ghosts|Robots|Skeletons|Goats
+es|En Undertale, ¿qué son Sans y Papyrus?|Fantasmas|Robots|Esqueletos|Cabras
+ja|「Undertale」のサンズとパピルスは何？|おばけ|ロボット|ガイコツ|ヤギ
+zh|《传说之下》中的Sans和Papyrus是什么？|幽灵|机器人|骷髅|山羊
+#Q 2096 2 2 1
+ru|Какие существа населяют королевство Халлоунест в Hollow Knight?|Крысы|Насекомые|Птицы|Рыбы
+en|What kind of creatures live in the kingdom of Hallownest in Hollow Knight?|Rats|Insects|Birds|Fish
+es|¿Qué criaturas habitan el reino de Hallownest en Hollow Knight?|Ratas|Insectos|Pájaros|Peces
+ja|「ホロウナイト」の王国ハロウネストに住んでいる生き物は？|ネズミ|虫|鳥|魚
+zh|《空洞骑士》中圣巢王国里住着什么生物？|老鼠|虫子|鸟|鱼
+#Q 2097 3 1 1
+ru|Что получает герой от дедушки в начале Stardew Valley?|Магазин|Корабль|Ферму|Замок
+en|What does the hero inherit from their grandfather at the start of Stardew Valley?|A shop|A ship|A farm|A castle
+es|¿Qué hereda el protagonista de su abuelo al comienzo de Stardew Valley?|Una tienda|Un barco|Una granja|Un castillo
+ja|「スターデューバレー」の冒頭で、主人公が祖父から受け継ぐものは？|お店|船|農場|お城
+zh|《星露谷物语》开头，主角从爷爷那里继承了什么？|商店|船|农场|城堡
+#Q 2098 4 1 1
+ru|Что такое тамагочи?|Японская сладость|Приставка Sega|Карточная игра|Карманный виртуальный питомец
+en|What is a Tamagotchi?|A Japanese sweet|A Sega console|A card game|A pocket virtual pet
+es|¿Qué es un Tamagotchi?|Un dulce japonés|Una consola de Sega|Un juego de cartas|Una mascota virtual de bolsillo
+ja|「たまごっち」とは何？|和菓子|セガのゲーム機|カードゲーム|携帯できる育成ペットのおもちゃ
+zh|拓麻歌子（Tamagotchi）是什么？|日本点心|世嘉游戏机|纸牌游戏|掌上电子宠物
+#Q 2099 3 3 1
+ru|Кто создал Кирби и серию Super Smash Bros.?|Сигэру Миямото|Хидэо Кодзима|Масахиро Сакураи|Сатору Ивата
+en|Who created Kirby and the Super Smash Bros. series?|Shigeru Miyamoto|Hideo Kojima|Masahiro Sakurai|Satoru Iwata
+es|¿Quién creó a Kirby y la saga Super Smash Bros.?|Shigeru Miyamoto|Hideo Kojima|Masahiro Sakurai|Satoru Iwata
+ja|カービィと「大乱闘スマッシュブラザーズ」シリーズを生み出したのは？|宮本茂|小島秀夫|桜井政博|岩田聡
+zh|星之卡比和《任天堂明星大乱斗》系列的创造者是谁？|宫本茂|小岛秀夫|樱井政博|岩田聪
+#Q 2100 2 2 1
+ru|Какой геймдизайнер придумал Марио и The Legend of Zelda?|Масахиро Сакураи|Сигэру Миямото|Хидэо Кодзима|Ёдзи Синкава
+en|Which game designer created Mario and The Legend of Zelda?|Masahiro Sakurai|Shigeru Miyamoto|Hideo Kojima|Yoji Shinkawa
+es|¿Qué diseñador de videojuegos creó a Mario y The Legend of Zelda?|Masahiro Sakurai|Shigeru Miyamoto|Hideo Kojima|Yoji Shinkawa
+ja|マリオと「ゼルダの伝説」を生み出したゲームデザイナーは？|桜井政博|宮本茂|小島秀夫|新川洋司
+zh|创造了马力欧和《塞尔达传说》的游戏设计师是谁？|樱井政博|宫本茂|小岛秀夫|新川洋司
+#Q 2101 1 1 1
+ru|Какого цвета классическая туника Линка из The Legend of Zelda?|Зелёного|Красного|Синего|Белого
+en|What color is Link's classic tunic in The Legend of Zelda?|Green|Red|Blue|White
+es|¿De qué color es la túnica clásica de Link en The Legend of Zelda?|Verde|Roja|Azul|Blanca
+ja|「ゼルダの伝説」のリンクのおなじみの服の色は？|緑|赤|青|白
+zh|《塞尔达传说》中林克的经典服装是什么颜色？|绿色|红色|蓝色|白色
+#Q 2102 2 1 1
+ru|Какого цвета кепка у Варио?|Красного|Жёлтого|Зелёного|Синего
+en|What color is Wario's cap?|Red|Yellow|Green|Blue
+es|¿De qué color es la gorra de Wario?|Roja|Amarilla|Verde|Azul
+ja|ワリオの帽子の色は？|赤|黄色|緑|青
+zh|瓦力欧的帽子是什么颜色？|红色|黄色|绿色|蓝色
+#Q 2103 2 1 1
+ru|Как зовут высокого фиолетового соперника Луиджи?|Варио|Валуиджи|Тоад|Камек
+en|What is the name of Luigi's tall purple rival?|Wario|Waluigi|Toad|Kamek
+es|¿Cómo se llama el alto rival morado de Luigi?|Wario|Waluigi|Toad|Kamek
+ja|ルイージのライバルで、背が高くて紫色の服を着ているのは？|ワリオ|ワルイージ|キノピオ|カメック
+zh|路易吉那位个子高、穿紫色衣服的对手叫什么？|瓦力欧|瓦路易吉|奇诺比奥|卡梅克
+#Q 2104 1 1 1
+ru|Чем ловит привидений Луиджи в игре Luigi's Mansion?|Пылесосом|Сачком|Банками|Удочкой
+en|What does Luigi use to catch ghosts in Luigi's Mansion?|A vacuum cleaner|A butterfly net|Jars|A fishing rod
+es|¿Qué usa Luigi para atrapar fantasmas en Luigi's Mansion?|Una aspiradora|Una red|Unos frascos|Una caña de pescar
+ja|「ルイージマンション」で、ルイージがおばけを捕まえるのに使う道具は？|掃除機|虫取り網|ビン|釣りざお
+zh|在《路易吉洋楼》中，路易吉用什么来抓鬼？|吸尘器|捕虫网|玻璃瓶|钓鱼竿
+#Q 2105 1 1 1
+ru|Чего нужно собрать 100 штук в играх про Марио, чтобы получить дополнительную жизнь?|Монет|Звёзд|Грибов|Цветов
+en|In the Mario games, what do you need to collect 100 of to get an extra life?|Coins|Stars|Mushrooms|Flowers
+es|En los juegos de Mario, ¿de qué hay que reunir 100 para conseguir una vida extra?|Monedas|Estrellas|Setas|Flores
+ja|マリオのゲームで、100枚集めると1UPするものは？|コイン|スター|キノコ|フラワー
+zh|在马力欧游戏中，收集100个什么就能多一条命？|金币|星星|蘑菇|花
+#Q 2106 2 1 1
+ru|Какого цвета гриб, который даёт Марио дополнительную жизнь?|Красного|Зелёного|Синего|Фиолетового
+en|What color is the mushroom that gives Mario an extra life?|Red|Green|Blue|Purple
+es|¿De qué color es la seta que le da a Mario una vida extra?|Roja|Verde|Azul|Morada
+ja|マリオに1UPを与えるキノコの色は？|赤|緑|青|紫
+zh|让马力欧多一条命的蘑菇是什么颜色？|红色|绿色|蓝色|紫色
+#Q 2107 1 1 1
+ru|Какого цвета кроссовки у ежа Соника?|Красного|Синего|Зелёного|Белого
+en|What color are Sonic the Hedgehog's sneakers?|Red|Blue|Green|White
+es|¿De qué color son las zapatillas de Sonic?|Rojas|Azules|Verdes|Blancas
+ja|ソニックの靴の色は？|赤|青|緑|白
+zh|索尼克的鞋子是什么颜色？|红色|蓝色|绿色|白色
+#Q 2108 1 1 1
+ru|Чем была необычна портативная приставка Nintendo DS?|У неё два экрана|Она работала от солнца|У неё был шлем VR|Она складывалась втрое
+en|What was unusual about the Nintendo DS handheld?|It had two screens|It ran on solar power|It came with a VR headset|It folded into three parts
+es|¿Qué tenía de especial la consola portátil Nintendo DS?|Tenía dos pantallas|Funcionaba con energía solar|Traía unas gafas de realidad virtual|Se plegaba en tres partes
+ja|携帯ゲーム機「ニンテンドーDS」の特徴は？|画面が2つある|太陽電池で動く|VRゴーグル付き|三つ折りになる
+zh|任天堂DS掌机有什么与众不同的地方？|有两块屏幕|靠太阳能供电|配有VR头盔|能折成三折
+#Q 2109 3 1 1
+ru|Где работает ночным охранником герой Five Nights at Freddy's?|В больнице|В школе|В пиццерии|В музее
+en|Where does the night guard work in Five Nights at Freddy's?|In a hospital|In a school|In a pizzeria|In a museum
+es|¿Dónde trabaja el guardia nocturno en Five Nights at Freddy's?|En un hospital|En una escuela|En una pizzería|En un museo
+ja|「Five Nights at Freddy's」の主人公が夜間警備員として働いている場所は？|病院|学校|ピザ店|博物館
+zh|在《玩具熊的五夜后宫》中，主角在哪里当夜班保安？|医院|学校|披萨店|博物馆
+#Q 2110 2 1 1
+ru|В какой игре в футбол играют машинами?|Need for Speed|Rocket League|Mario Kart|Forza Horizon
+en|In which game do you play football with cars?|Need for Speed|Rocket League|Mario Kart|Forza Horizon
+es|¿En qué juego se juega al fútbol con coches?|Need for Speed|Rocket League|Mario Kart|Forza Horizon
+ja|車でサッカーをするゲームは？|ニード・フォー・スピード|ロケットリーグ|マリオカート|Forza Horizon
+zh|哪款游戏是用汽车踢足球？|极品飞车|火箭联盟|马力欧卡丁车|极限竞速：地平线
+#Q 2111 2 1 1
+ru|Персонажей какой компании встречает Сора в Kingdom Hearts?|Warner Bros.|Disney|DreamWorks|Nickelodeon
+en|In Kingdom Hearts, Sora meets characters from which company?|Warner Bros.|Disney|DreamWorks|Nickelodeon
+es|En Kingdom Hearts, ¿con personajes de qué compañía se encuentra Sora?|Warner Bros.|Disney|DreamWorks|Nickelodeon
+ja|「キングダム ハーツ」で、ソラが出会うのはどこの会社のキャラクター？|ワーナー・ブラザース|ディズニー|ドリームワークス|ニコロデオン
+zh|在《王国之心》中，索拉遇到的是哪家公司的角色？|华纳兄弟|迪士尼|梦工厂|尼克国际儿童频道
+#Q 2112 1 1 1
+ru|Как полностью называется Pokémon?|Pocket Monsters (карманные монстры)|Power Monsters (сильные монстры)|Poker Monsters (монстры-карты)|Polar Monsters (полярные монстры)
+en|What is Pokémon short for?|Pocket Monsters|Power Monsters|Poker Monsters|Polar Monsters
+es|¿De qué es abreviatura Pokémon?|Pocket Monsters (monstruos de bolsillo)|Power Monsters (monstruos poderosos)|Poker Monsters (monstruos de cartas)|Polar Monsters (monstruos polares)
+ja|「ポケモン」は何の略？|ポケットモンスター|パワーモンスター|ポーカーモンスター|ポーラーモンスター
+zh|“Pokémon”是哪个词组的缩写？|Pocket Monsters（口袋怪兽）|Power Monsters（力量怪兽）|Poker Monsters（扑克怪兽）|Polar Monsters（极地怪兽）
+#Q 2113 4 1 1
+ru|Что даёт Звезда в Mario Kart?|Ещё одну жизнь|Невидимость|Полёт над трассой|Неуязвимость и скорость
+en|What does the Star do in Mario Kart?|Gives you an extra life|Makes you invisible|Lets you fly over the track|Makes you invincible and faster
+es|¿Qué hace la Estrella en Mario Kart?|Te da una vida extra|Te vuelve invisible|Te deja volar sobre la pista|Te hace invencible y más rápido
+ja|マリオカートでスターを使うとどうなる？|1UPする|透明になる|コースの上を飛べる|無敵になってスピードが上がる
+zh|在《马力欧卡丁车》中，无敌星有什么效果？|多一条命|变成隐身|在赛道上空飞行|变得无敌并加速
+#Q 2114 2 2 1
+ru|Трифорс из The Legend of Zelda - это Сила, Мудрость и...?|Любовь|Мужество|Время|Свет
+en|The Triforce in The Legend of Zelda is Power, Wisdom and...?|Love|Courage|Time|Light
+es|La Trifuerza de The Legend of Zelda es Poder, Sabiduría y...?|Amor|Valor|Tiempo|Luz
+ja|「ゼルダの伝説」のトライフォースは「力」「知恵」と、あと一つは？|愛|勇気|時|光
+zh|《塞尔达传说》中的三角力量是力量、智慧和什么？|爱|勇气|时间|光
+#Q 2115 3 2 1
+ru|Из какого материала самые прочные инструменты и броня в Minecraft?|Алмаз|Изумруд|Незерит|Обсидиан
+en|Which material makes the strongest tools and armor in Minecraft?|Diamond|Emerald|Netherite|Obsidian
+es|¿Con qué material se hacen las herramientas y armaduras más resistentes de Minecraft?|Diamante|Esmeralda|Netherita|Obsidiana
+ja|マインクラフトで最も強い道具や防具の素材は？|ダイヤモンド|エメラルド|ネザライト|黒曜石
+zh|在《我的世界》里，最坚固的工具和盔甲用什么材料制作？|钻石|绿宝石|下界合金|黑曜石
+#Q 2116 3 2 1
+ru|Чем расплачиваются жители деревни в Minecraft при обмене?|Алмазами|Золотыми слитками|Изумрудами|Монетами
+en|What do villagers in Minecraft use as currency when trading?|Diamonds|Gold ingots|Emeralds|Coins
+es|¿Qué usan como moneda los aldeanos de Minecraft al comerciar?|Diamantes|Lingotes de oro|Esmeraldas|Monedas
+ja|マインクラフトで村人と取引するときにお金の代わりになるものは？|ダイヤモンド|金インゴット|エメラルド|コイン
+zh|在《我的世界》里，和村民交易时用什么当货币？|钻石|金锭|绿宝石|硬币
+#Q 2117 1 2 1
+ru|Какой предмет в Minecraft всегда показывает в сторону точки появления мира?|Компас|Часы|Карта|Подзорная труба
+en|Which Minecraft item always points toward the world spawn point?|Compass|Clock|Map|Spyglass
+es|¿Qué objeto de Minecraft siempre apunta hacia el punto de aparición del mundo?|Brújula|Reloj|Mapa|Catalejo
+ja|マインクラフトで、いつもワールドの初期スポーン地点の方向を指すアイテムは？|コンパス|時計|地図|望遠鏡
+zh|在《我的世界》里，哪种物品总是指向世界出生点？|指南针|时钟|地图|望远镜
+#Q 2118 2 2 1
+ru|Как называется знаменитая снайперская винтовка из Counter-Strike?|AK-47|AWP|M4A1|Desert Eagle
+en|What is the famous sniper rifle in Counter-Strike called?|AK-47|AWP|M4A1|Desert Eagle
+es|¿Cómo se llama el famoso rifle de francotirador de Counter-Strike?|AK-47|AWP|M4A1|Desert Eagle
+ja|「カウンターストライク」の有名なスナイパーライフルは？|AK-47|AWP|M4A1|デザートイーグル
+zh|《反恐精英》中著名的狙击步枪叫什么？|AK-47|AWP|M4A1|沙漠之鹰
+#Q 2119 4 2 1
+ru|На каком игровом движке сделан VRChat?|Unreal Engine|Godot|CryEngine|Unity
+en|Which game engine is VRChat built on?|Unreal Engine|Godot|CryEngine|Unity
+es|¿Con qué motor de videojuegos está hecho VRChat?|Unreal Engine|Godot|CryEngine|Unity
+ja|VRChatが作られているゲームエンジンは？|Unreal Engine|Godot|CryEngine|Unity
+zh|VRChat是用哪款游戏引擎制作的？|虚幻引擎|Godot|CryEngine|Unity
+#Q 2120 1 2 1
+ru|Как зовут приёмную дочь ведьмака Геральта?|Цири|Йеннифэр|Трисс|Кейра
+en|What is the name of Geralt the witcher's adopted daughter?|Ciri|Yennefer|Triss|Keira
+es|¿Cómo se llama la hija adoptiva del brujo Geralt?|Ciri|Yennefer|Triss|Keira
+ja|ウィッチャーのゲラルトの養女の名前は？|シリ|イェネファー|トリス|キーラ
+zh|猎魔人杰洛特的养女叫什么名字？|希里|叶奈法|特莉丝|凯拉
+#Q 2121 4 2 1
+ru|С каким орденом враждуют ассасины в серии Assassin's Creed?|С иезуитами|С самураями|С викингами|С тамплиерами
+en|Which order do the Assassins fight in the Assassin's Creed series?|The Jesuits|The Samurai|The Vikings|The Templars
+es|¿Contra qué orden luchan los Asesinos en la saga Assassin's Creed?|Los jesuitas|Los samuráis|Los vikingos|Los templarios
+ja|「アサシン クリード」シリーズでアサシンと対立している組織は？|イエズス会|侍|ヴァイキング|テンプル騎士団
+zh|在《刺客信条》系列中，刺客们的宿敌是哪个组织？|耶稣会|武士|维京人|圣殿骑士团
+#Q 2122 3 2 1
+ru|Мифологию какого народа взяла за основу игра God of War 2018 года?|Греков|Египтян|Скандинавов|Японцев
+en|The 2018 game God of War is based on the mythology of which people?|Greek|Egyptian|Norse|Japanese
+es|¿En la mitología de qué pueblo se basa el juego God of War de 2018?|Griega|Egipcia|Nórdica|Japonesa
+ja|2018年の「ゴッド・オブ・ウォー」の舞台になっている神話は？|ギリシャ神話|エジプト神話|北欧神話|日本神話
+zh|2018年的《战神》以哪个民族的神话为背景？|希腊神话|埃及神话|北欧神话|日本神话
+#Q 2123 1 2 1
+ru|Как называется портативная игровая консоль компании Valve?|Steam Deck|PS Vita|Switch Lite|Game Gear
+en|What is Valve's handheld gaming PC called?|Steam Deck|PS Vita|Switch Lite|Game Gear
+es|¿Cómo se llama la consola portátil de Valve?|Steam Deck|PS Vita|Switch Lite|Game Gear
+ja|Valveの携帯型ゲーム機の名前は？|Steam Deck|PS Vita|Switch Lite|ゲームギア
+zh|Valve公司推出的掌上游戏机叫什么？|Steam Deck|PS Vita|Switch Lite|Game Gear
+#Q 2124 3 2 1
+ru|Какую двумерную игру-«песочницу» с раскопками часто называют «двухмерным Minecraft»?|Stardew Valley|Celeste|Terraria|Hollow Knight
+en|Which 2D sandbox digging game is often called "2D Minecraft"?|Stardew Valley|Celeste|Terraria|Hollow Knight
+es|¿Qué juego de mundo abierto en 2D, de excavar, suele llamarse «el Minecraft en 2D»?|Stardew Valley|Celeste|Terraria|Hollow Knight
+ja|「2Dのマインクラフト」とよく呼ばれる、掘って作る2Dサンドボックスゲームは？|スターデューバレー|セレステ|テラリア|ホロウナイト
+zh|哪款2D沙盒挖掘游戏常被称为“2D版我的世界”？|星露谷物语|蔚蓝|泰拉瑞亚|空洞骑士
+#Q 2125 4 2 1
+ru|Что нужно сделать лягушке в классической аркаде Frogger?|Поймать всех мух|Спасти принцессу|Победить змею|Перейти дорогу и реку
+en|What does the frog have to do in the classic arcade game Frogger?|Catch all the flies|Rescue a princess|Defeat a snake|Cross a road and a river
+es|¿Qué tiene que hacer la rana en el clásico arcade Frogger?|Atrapar todas las moscas|Rescatar a una princesa|Derrotar a una serpiente|Cruzar una carretera y un río
+ja|アーケードゲーム「フロッガー」で、カエルがしなければならないことは？|ハエを全部捕まえる|お姫様を助ける|ヘビを倒す|道路と川を渡る
+zh|在经典街机游戏《青蛙过河》中，青蛙要做什么？|抓住所有苍蝇|营救公主|打败蛇|穿过马路和河流
+#Q 2126 3 2 1
+ru|Какой монстр стал символом серии Dragon Quest?|Гумба|Крипер|Слайм|Гаст
+en|Which monster became the symbol of the Dragon Quest series?|Goomba|Creeper|Slime|Ghast
+es|¿Qué monstruo se convirtió en el símbolo de la saga Dragon Quest?|Goomba|Creeper|Slime|Ghast
+ja|「ドラゴンクエスト」シリーズの顔となったモンスターは？|クリボー|クリーパー|スライム|ガスト
+zh|哪种怪物成了《勇者斗恶龙》系列的象征？|栗宝宝|苦力怕|史莱姆|恶魂
+#Q 2127 3 2 1
+ru|Как зовут главного злодея Final Fantasy VII с длинным мечом и серебряными волосами?|Клауд|Кефка|Сефирот|Ганондорф
+en|What is the name of Final Fantasy VII's main villain with a long sword and silver hair?|Cloud|Kefka|Sephiroth|Ganondorf
+es|¿Cómo se llama el villano principal de Final Fantasy VII, de espada larga y pelo plateado?|Cloud|Kefka|Sephiroth|Ganondorf
+ja|「ファイナルファンタジーVII」の、長い刀と銀髪の宿敵は？|クラウド|ケフカ|セフィロス|ガノンドロフ
+zh|《最终幻想VII》中手持长刀、一头银发的大反派是谁？|克劳德|凯夫卡|萨菲罗斯|加侬多夫
+#Q 2128 2 2 1
+ru|Как побеждают соперника в Super Smash Bros.?|Обнуляют полосу здоровья|Выбивают за край арены|Забирают его флаг|Собирают больше монет
+en|How do you defeat an opponent in Super Smash Bros.?|Drain their health bar to zero|Knock them off the stage|Steal their flag|Collect more coins
+es|¿Cómo se vence a un rival en Super Smash Bros.?|Dejando su barra de vida a cero|Sacándolo fuera del escenario|Robándole la bandera|Reuniendo más monedas
+ja|「大乱闘スマッシュブラザーズ」で相手を倒す方法は？|体力ゲージをゼロにする|ステージの外へふっとばす|旗を奪う|コインを多く集める
+zh|在《任天堂明星大乱斗》中，怎样击败对手？|把对手的血条打空|把对手打飞出场地|夺走对手的旗帜|收集更多金币
+#Q 2129 4 2 1
+ru|Как называется валюта в серии The Legend of Zelda?|Гил|Кроны|Изумруды|Рупии
+en|What is the currency in The Legend of Zelda series?|Gil|Crowns|Emeralds|Rupees
+es|¿Cuál es la moneda de la saga The Legend of Zelda?|Guiles|Coronas|Esmeraldas|Rupias
+ja|「ゼルダの伝説」シリーズで使われるお金の単位は？|ギル|クラウン|エメラルド|ルピー
+zh|《塞尔达传说》系列中使用的货币叫什么？|基尔|克朗|绿宝石|卢比
+#Q 2130 2 2 1
+ru|Что съедает Пак-Ман, чтобы на время начать охотиться на привидений?|Вишню|Большую мигающую точку|Звезду|Гриб
+en|What does Pac-Man eat so that he can chase the ghosts for a while?|A cherry|A big flashing dot|A star|A mushroom
+es|¿Qué se come Pac-Man para poder perseguir a los fantasmas durante un rato?|Una cereza|Un punto grande que parpadea|Una estrella|Una seta
+ja|パックマンが、しばらくモンスターを追いかけられるようになるために食べるものは？|さくらんぼ|点滅する大きなエサ|星|キノコ
+zh|吃豆人吃了什么之后可以暂时反过来追幽灵？|樱桃|闪烁的大豆子|星星|蘑菇
+#Q 2131 2 3 1
+ru|В каком году в Японии вышла первая PlayStation?|1990|1994|1997|2000
+en|In which year was the first PlayStation released in Japan?|1990|1994|1997|2000
+es|¿En qué año salió en Japón la primera PlayStation?|1990|1994|1997|2000
+ja|初代プレイステーションが日本で発売されたのは何年？|1990年|1994年|1997年|2000年
+zh|第一代PlayStation是哪一年在日本发售的？|1990年|1994年|1997年|2000年
+#Q 2132 3 3 1
+ru|Как зовут девушку, которую Марио спасает от Донки Конга в аркаде 1981 года?|Пич|Дейзи|Полина|Розалина
+en|What is the name of the woman Mario rescues from Donkey Kong in the 1981 arcade game?|Peach|Daisy|Pauline|Rosalina
+es|¿Cómo se llama la mujer a la que Mario rescata de Donkey Kong en el arcade de 1981?|Peach|Daisy|Pauline|Estela
+ja|1981年のアーケード版「ドンキーコング」で、マリオが助け出す女性の名前は？|ピーチ|デイジー|ポリーン|ロゼッタ
+zh|在1981年的街机游戏《大金刚》中，马力欧从大金刚手里救出的女士叫什么？|碧姬|黛西|宝琳|罗莎塔
+#Q 2133 3 3 1
+ru|Сколько звёзд силы можно собрать в Super Mario 64?|70|100|120|150
+en|How many Power Stars can you collect in Super Mario 64?|70|100|120|150
+es|¿Cuántas Superestrellas se pueden reunir en Super Mario 64?|70|100|120|150
+ja|「スーパーマリオ64」で集められるパワースターの数は？|70枚|100枚|120枚|150枚
+zh|在《超级马力欧64》中一共可以收集多少颗力量之星？|70颗|100颗|120颗|150颗
+#Q 2134 3 3 1
+ru|Сколько Изумрудов Хаоса нужно собрать Сонику, чтобы стать Супер Соником?|3|5|7|10
+en|How many Chaos Emeralds does Sonic need to become Super Sonic?|3|5|7|10
+es|¿Cuántas Esmeraldas del Caos necesita Sonic para convertirse en Super Sonic?|3|5|7|10
+ja|ソニックがスーパーソニックになるために集めるカオスエメラルドの数は？|3個|5個|7個|10個
+zh|索尼克要集齐几颗混沌翡翠才能变成超级索尼克？|3颗|5颗|7颗|10颗
+#Q 2135 4 3 1
+ru|Какая русская народная песня звучит в «Тетрисе» на Game Boy?|«Калинка»|«Катюша»|«Подмосковные вечера»|«Коробейники»
+en|Which Russian folk song plays in Tetris on the Game Boy?|Kalinka|Katyusha|Moscow Nights|Korobeiniki
+es|¿Qué canción popular rusa suena en el Tetris de Game Boy?|Kalinka|Katiusha|Noches de Moscú|Korobéiniki
+ja|ゲームボーイ版「テトリス」で流れるロシア民謡は？|カリンカ|カチューシャ|モスクワ郊外の夕べ|コロブチカ
+zh|Game Boy版《俄罗斯方块》中播放的是哪首俄罗斯民歌？|卡林卡|喀秋莎|莫斯科郊外的晚上|货郎
+#Q 2136 3 3 1
+ru|Что ставят на четыре железных блока, чтобы создать железного голема в Minecraft?|Сундук|Факел|Тыкву|Алмазный блок
+en|What do you place on four iron blocks to create an iron golem in Minecraft?|A chest|A torch|A pumpkin|A diamond block
+es|¿Qué se coloca sobre cuatro bloques de hierro para crear un gólem de hierro en Minecraft?|Un cofre|Una antorcha|Una calabaza|Un bloque de diamante
+ja|マインクラフトでアイアンゴーレムを作るとき、4つの鉄ブロックの上に置くものは？|チェスト|松明|カボチャ|ダイヤモンドブロック
+zh|在《我的世界》里，制作铁傀儡时要在四个铁块上放什么？|箱子|火把|南瓜|钻石块
+#Q 2137 4 3 1
+ru|Что случится, если попытаться лечь спать в Нижнем мире Minecraft?|Сразу наступит утро|Появится дракон|Игрок окажется дома|Кровать взорвётся
+en|What happens if you try to sleep in the Nether in Minecraft?|It turns morning at once|A dragon appears|You get sent home|The bed explodes
+es|¿Qué pasa si intentas dormir en el Nether de Minecraft?|Se hace de día al instante|Aparece un dragón|Vuelves a casa|La cama explota
+ja|マインクラフトのネザーでベッドで寝ようとするとどうなる？|すぐに朝になる|ドラゴンが現れる|元の世界に戻される|ベッドが爆発する
+zh|在《我的世界》的下界里试图睡觉会怎样？|立刻变成早上|会出现一条龙|被送回主世界|床会爆炸
+#Q 2138 2 3 1
+ru|Что нужно уничтожить на базе соперника, чтобы победить в League of Legends?|Трон|Нексус|Флаг|Короля
+en|What must you destroy in the enemy base to win in League of Legends?|The Throne|The Nexus|The Flag|The King
+es|¿Qué hay que destruir en la base enemiga para ganar en League of Legends?|El Trono|El Nexo|La Bandera|El Rey
+ja|「リーグ・オブ・レジェンド」で勝つために、敵の本拠地で破壊するものは？|玉座|ネクサス|旗|王
+zh|在《英雄联盟》中，要摧毁敌方基地里的什么才能获胜？|王座|水晶枢纽|旗帜|国王
+#Q 2139 2 3 1
+ru|На каком языке программирования пишут игры в Roblox?|Python|Lua|Java|C#
+en|Which programming language are Roblox games written in?|Python|Lua|Java|C#
+es|¿En qué lenguaje de programación se escriben los juegos de Roblox?|Python|Lua|Java|C#
+ja|Robloxのゲームを作るときに使うプログラミング言語は？|Python|Lua|Java|C#
+zh|在Roblox中制作游戏使用哪种编程语言？|Python|Lua|Java|C#
+#Q 2140 1 3 1
+ru|Как зовут сына Кратоса в God of War 2018 года?|Атрей|Бальдр|Тор|Мимир
+en|What is the name of Kratos's son in the 2018 God of War?|Atreus|Baldur|Thor|Mimir
+es|¿Cómo se llama el hijo de Kratos en el God of War de 2018?|Atreus|Baldur|Thor|Mímir
+ja|2018年の「ゴッド・オブ・ウォー」に登場するクレイトスの息子の名前は？|アトレウス|バルドル|トール|ミーミル
+zh|2018年的《战神》中，奎托斯的儿子叫什么？|阿特柔斯|巴德尔|索尔|密米尔
+#Q 2141 4 3 1
+ru|Какой гриб превращает людей в чудовищ в The Last of Us?|Мухомор|Пеницилл|Шампиньон|Кордицепс
+en|Which fungus turns people into monsters in The Last of Us?|Fly agaric|Penicillium|Button mushroom|Cordyceps
+es|¿Qué hongo convierte a las personas en monstruos en The Last of Us?|Matamoscas|Penicillium|Champiñón|Cordyceps
+ja|「The Last of Us」で人間を怪物に変えてしまうキノコ（菌）は？|ベニテングタケ|アオカビ|マッシュルーム|冬虫夏草菌（コルディセプス）
+zh|在《最后生还者》中，把人变成怪物的是哪种真菌？|毒蝇伞|青霉菌|双孢蘑菇|虫草菌
+#Q 2142 4 3 1
+ru|Картриджи какой неудачной игры Atari закопали в пустыне Нью-Мексико?|Pac-Man|Pong|Pitfall!|E.T.
+en|Cartridges of which failed Atari game were buried in the New Mexico desert?|Pac-Man|Pong|Pitfall!|E.T.
+es|¿Los cartuchos de qué juego fracasado de Atari se enterraron en el desierto de Nuevo México?|Pac-Man|Pong|Pitfall!|E.T.
+ja|ニューメキシコ州の砂漠にカートリッジが埋められた、アタリの大失敗ゲームは？|パックマン|ポン|ピットフォール|E.T.
+zh|雅达利哪款失败的游戏卡带被埋在了新墨西哥州的沙漠里？|吃豆人|乒乓|陷阱|E.T.外星人
+#Q 2143 4 3 1
+ru|С какой страны списан регион Калос из Pokémon X и Y?|С Италии|С Германии|С Испании|С Франции
+en|Which country is the Kalos region from Pokémon X and Y based on?|Italy|Germany|Spain|France
+es|¿En qué país se basa la región de Kalos de Pokémon X e Y?|Italia|Alemania|España|Francia
+ja|「ポケットモンスター X・Y」のカロス地方のモデルになった国は？|イタリア|ドイツ|スペイン|フランス
+zh|《宝可梦 X·Y》中的卡洛斯地区是以哪个国家为原型的？|意大利|德国|西班牙|法国
+#Q 2144 1 3 1
+ru|Как называет себя команда школьников-героев Persona 5?|Призрачные воры|Охотники на демонов|Ночной дозор|Чёрные рыцари
+en|What do the student heroes of Persona 5 call their group?|The Phantom Thieves|The Demon Hunters|The Night Watch|The Black Knights
+es|¿Cómo se hace llamar el grupo de estudiantes protagonistas de Persona 5?|Los Ladrones Fantasma|Los Cazademonios|La Guardia Nocturna|Los Caballeros Negros
+ja|「ペルソナ5」の主人公たち高校生のグループの名前は？|心の怪盗団|悪魔ハンター|夜警団|黒の騎士団
+zh|《女神异闻录5》中主角们这群高中生给自己的团体起了什么名字？|心之怪盗团|恶魔猎人|守夜人|黑色骑士团
+#Q 2145 1 3 1
+ru|Кто такая 2B из игры NieR: Automata?|Андроид|Ведьма|Пилот робота|Демон
+en|What is 2B in the game NieR: Automata?|An android|A witch|A mech pilot|A demon
+es|¿Qué es 2B en el juego NieR: Automata?|Una androide|Una bruja|Una piloto de robot|Una demonio
+ja|「ニーア オートマタ」の2Bとは何者？|アンドロイド|魔女|ロボットのパイロット|悪魔
+zh|游戏《尼尔：机械纪元》中的2B是什么？|人造人|女巫|机甲驾驶员|恶魔
+#Q 2146 1 3 1
+ru|Какой актёр сыграл главного героя игры Death Stranding?|Норман Ридус|Мадс Миккельсен|Райан Гослинг|Том Харди
+en|Which actor played the main hero of Death Stranding?|Norman Reedus|Mads Mikkelsen|Ryan Gosling|Tom Hardy
+es|¿Qué actor interpretó al protagonista de Death Stranding?|Norman Reedus|Mads Mikkelsen|Ryan Gosling|Tom Hardy
+ja|「デス・ストランディング」の主人公を演じた俳優は？|ノーマン・リーダス|マッツ・ミケルセン|ライアン・ゴズリング|トム・ハーディ
+zh|在《死亡搁浅》中饰演主角的演员是谁？|诺曼·瑞杜斯|麦斯·米科尔森|瑞恩·高斯林|汤姆·哈迪
+#Q 2147 4 3 1
+ru|В какой игре над игроком смеётся собака, если он промахнулся?|Excitebike|Ice Climber|Balloon Fight|Duck Hunt
+en|In which game does a dog laugh at you when you miss?|Excitebike|Ice Climber|Balloon Fight|Duck Hunt
+es|¿En qué juego se ríe de ti un perro cuando fallas?|Excitebike|Ice Climber|Balloon Fight|Duck Hunt
+ja|撃ち損じるとイヌに笑われるゲームは？|エキサイトバイク|アイスクライマー|バルーンファイト|ダックハント
+zh|哪款游戏里，射偏的话会被狗嘲笑？|越野机车|敲冰块|气球大战|打鸭子
+#Q 2148 1 3 1
+ru|Что, по словам создателя, подсказало ему форму Пак-Мана?|Пицца без одного куска|Луна|Монета|Пончик
+en|According to its creator, what inspired the shape of Pac-Man?|A pizza with a slice missing|The Moon|A coin|A doughnut
+es|Según su creador, ¿qué le inspiró la forma de Pac-Man?|Una pizza a la que le falta una porción|La Luna|Una moneda|Un dónut
+ja|作者によると、パックマンの形のヒントになったものは？|一切れ欠けたピザ|月|コイン|ドーナツ
+zh|据作者说，吃豆人的形状灵感来自什么？|少了一块的披萨|月亮|硬币|甜甜圈
+#Q 2149 4 3 1
+ru|С каких нажатий начинается знаменитый «код Konami»?|← ← → →|↓ ↓ ↑ ↑|→ → ← ←|↑ ↑ ↓ ↓
+en|Which presses does the famous "Konami Code" start with?|← ← → →|↓ ↓ ↑ ↑|→ → ← ←|↑ ↑ ↓ ↓
+es|¿Con qué pulsaciones empieza el famoso «código Konami»?|← ← → →|↓ ↓ ↑ ↑|→ → ← ←|↑ ↑ ↓ ↓
+ja|有名な「コナミコマンド」の最初の入力は？|← ← → →|↓ ↓ ↑ ↑|→ → ← ←|↑ ↑ ↓ ↓
+zh|著名的“科乐美秘技”开头是哪几下按键？|← ← → →|↓ ↓ ↑ ↑|→ → ← ←|↑ ↑ ↓ ↓
+#Q 2150 3 3 1
+ru|Как с 2023 года называется футбольная серия EA, которая раньше называлась FIFA?|eFootball|Football Manager|EA Sports FC|Pro Evolution Soccer
+en|Since 2023, what is EA's football series, formerly called FIFA, named?|eFootball|Football Manager|EA Sports FC|Pro Evolution Soccer
+es|Desde 2023, ¿cómo se llama la saga de fútbol de EA que antes se llamaba FIFA?|eFootball|Football Manager|EA Sports FC|Pro Evolution Soccer
+ja|2023年から、かつて「FIFA」と呼ばれていたEAのサッカーゲームのシリーズ名は？|eFootball|Football Manager|EA SPORTS FC|ウイニングイレブン
+zh|从2023年起，EA以前叫FIFA的足球游戏系列改叫什么？|eFootball|足球经理|EA Sports FC|实况足球
+#Q 2151 3 1 1
+ru|В какой игре нужно собирать в ряд по три одинаковые конфеты?|Clash of Clans|Subway Surfers|Candy Crush Saga|Fruit Ninja
+en|In which game do you match three identical candies in a row?|Clash of Clans|Subway Surfers|Candy Crush Saga|Fruit Ninja
+es|¿En qué juego hay que juntar tres caramelos iguales en fila?|Clash of Clans|Subway Surfers|Candy Crush Saga|Fruit Ninja
+ja|同じキャンディを3つ並べて消していくゲームは？|クラッシュ・オブ・クラン|サブウェイサーファーズ|キャンディークラッシュ|フルーツニンジャ
+zh|哪款游戏要把三颗相同的糖果连成一排？|部落冲突|地铁跑酷|糖果传奇|水果忍者
+#Q 2152 4 1 1
+ru|В какой мобильной игре разрезают пальцем подброшенные фрукты?|Candy Crush Saga|Angry Birds|Temple Run|Fruit Ninja
+en|In which mobile game do you slice fruit tossed into the air with your finger?|Candy Crush Saga|Angry Birds|Temple Run|Fruit Ninja
+es|¿En qué juego para móvil se cortan con el dedo frutas lanzadas al aire?|Candy Crush Saga|Angry Birds|Temple Run|Fruit Ninja
+ja|空中に投げられたフルーツを指で切っていくスマホゲームは？|キャンディークラッシュ|アングリーバード|テンプルラン|フルーツニンジャ
+zh|哪款手机游戏要用手指切开抛到空中的水果？|糖果传奇|愤怒的小鸟|神庙逃亡|水果忍者
+#Q 2153 4 1 1
+ru|В какой бесконечной игре-бегалке юный граффитист убегает от охранника с собакой?|Temple Run|Sonic Dash|Jetpack Joyride|Subway Surfers
+en|In which endless runner does a young graffiti artist flee from a guard and his dog?|Temple Run|Sonic Dash|Jetpack Joyride|Subway Surfers
+es|¿En qué juego de carreras infinitas un joven grafitero huye de un guardia y su perro?|Temple Run|Sonic Dash|Jetpack Joyride|Subway Surfers
+ja|落書きをした少年が、警備員と犬から逃げてひたすら走り続けるゲームは？|テンプルラン|ソニックダッシュ|ジェットパック・ジョイライド|サブウェイサーファーズ
+zh|哪款无尽奔跑类手机游戏里，涂鸦少年要躲避保安和他的狗？|神庙逃亡|索尼克冲刺|疯狂喷气机|地铁跑酷
+#Q 2154 1 1 1
+ru|В какой игре для Wii были боулинг, теннис и бокс?|Wii Sports|Wii Fit|Mario Party|Just Dance
+en|Which Wii game included bowling, tennis and boxing?|Wii Sports|Wii Fit|Mario Party|Just Dance
+es|¿Qué juego de Wii incluía bolos, tenis y boxeo?|Wii Sports|Wii Fit|Mario Party|Just Dance
+ja|ボウリング、テニス、ボクシングが遊べるWiiのゲームは？|Wii Sports|Wii Fit|マリオパーティ|ジャストダンス
+zh|哪款Wii游戏里有保龄球、网球和拳击？|Wii Sports|Wii Fit|马力欧派对|舞力全开
+#Q 2155 2 1 1
+ru|Какое животное в Minecraft даёт шерсть?|Корова|Овца|Свинья|Курица
+en|Which animal in Minecraft gives you wool?|Cow|Sheep|Pig|Chicken
+es|¿Qué animal de Minecraft da lana?|La vaca|La oveja|El cerdo|La gallina
+ja|マインクラフトで羊毛が取れる動物は？|ウシ|ヒツジ|ブタ|ニワトリ
+zh|在《我的世界》里，哪种动物能提供羊毛？|牛|羊|猪|鸡
+#Q 2156 2 1 1
+ru|Из чего крафтят верстак в Minecraft?|Из камня|Из досок|Из железа|Из шерсти
+en|What do you craft a crafting table from in Minecraft?|Stone|Planks|Iron|Wool
+es|¿Con qué se fabrica una mesa de trabajo en Minecraft?|Con piedra|Con tablas|Con hierro|Con lana
+ja|マインクラフトで作業台を作る材料は？|石|板材|鉄|羊毛
+zh|在《我的世界》里，工作台是用什么合成的？|石头|木板|铁|羊毛
+#Q 2157 1 1 1
+ru|Как называется огненное измерение Minecraft, полное лавы?|Нижний мир|Край|Верхний мир|Пустота
+en|What is the fiery Minecraft dimension full of lava called?|The Nether|The End|The Overworld|The Void
+es|¿Cómo se llama la dimensión ardiente de Minecraft llena de lava?|El Nether|El End|La Superficie|El Vacío
+ja|マインクラフトで、溶岩だらけの灼熱の世界（ディメンション）は？|ネザー|エンド|オーバーワールド|奈落
+zh|《我的世界》中那个到处是岩浆的炽热维度叫什么？|下界|末地|主世界|虚空
+#Q 2158 2 1 1
+ru|Какой тип покемонов наносит огненным двойной урон?|Травяной|Водный|Ледяной|Жуки
+en|Which Pokémon type is super effective against Fire types?|Grass|Water|Ice|Bug
+es|¿Qué tipo de Pokémon es súper eficaz contra el tipo Fuego?|Planta|Agua|Hielo|Bicho
+ja|ほのおタイプのポケモンに「こうかはばつぐん」なのはどのタイプ？|くさ|みず|こおり|むし
+zh|哪种属性的招式对火属性宝可梦效果绝佳？|草|水|冰|虫
+#Q 2159 2 1 1
+ru|Как зовут розовую ежиху, влюблённую в Соника?|Тейлз|Эми|Шэдоу|Наклз
+en|What is the name of the pink hedgehog who has a crush on Sonic?|Tails|Amy|Shadow|Knuckles
+es|¿Cómo se llama la eriza rosa enamorada de Sonic?|Tails|Amy|Shadow|Knuckles
+ja|ソニックに恋しているピンクのハリネズミの女の子は？|テイルス|エミー|シャドウ|ナックルズ
+zh|那只喜欢索尼克的粉色刺猬女孩叫什么？|塔尔斯|艾米|夏特|纳克鲁斯
+#Q 2160 4 1 1
+ru|Какого значка НЕТ на кнопках контроллера PlayStation?|Треугольника|Круга|Квадрата|Звезды
+en|Which symbol is NOT on the PlayStation controller buttons?|Triangle|Circle|Square|Star
+es|¿Qué símbolo NO aparece en los botones del mando de PlayStation?|Triángulo|Círculo|Cuadrado|Estrella
+ja|プレイステーションのコントローラーのボタンにない記号は？|三角|丸|四角|星
+zh|PlayStation手柄的按键上没有哪个符号？|三角形|圆形|方形|星形
+#Q 2161 3 1 1
+ru|Какой мессенджер с голосовыми каналами создавали прежде всего для игроков?|Telegram|WhatsApp|Discord|Skype
+en|Which chat app with voice channels was made mainly for gamers?|Telegram|WhatsApp|Discord|Skype
+es|¿Qué aplicación de chat con canales de voz se creó sobre todo para jugadores?|Telegram|WhatsApp|Discord|Skype
+ja|主にゲーマー向けに作られた、ボイスチャンネルのあるチャットアプリは？|Telegram|WhatsApp|Discord|Skype
+zh|哪款带语音频道的聊天软件最初主要是为游戏玩家打造的？|Telegram|WhatsApp|Discord|Skype
+#Q 2162 1 1 1
+ru|Что значит PvP в играх?|Игрок против игрока|Плата за победу|Пауза во время игры|Пиксель за пикселем
+en|What does PvP mean in games?|Player versus player|Pay for victory points|Pause via pad|Pixel per pixel
+es|¿Qué significa PvP en los videojuegos?|Jugador contra jugador|Pagar por victoria|Pausa durante la partida|Píxel a píxel
+ja|ゲーム用語の「PvP」とは？|プレイヤー同士の対戦|勝利のための課金|プレイ中の一時停止|ピクセル単位の描画
+zh|游戏中的“PvP”是什么意思？|玩家对战玩家|花钱买胜利|游戏中途暂停|逐像素绘制
+#Q 2163 1 1 1
+ru|Что такое «пасхалка» в видеоигре?|Спрятанный секрет от разработчиков|Праздничное событие|Ошибка в игре|Бонусная жизнь
+en|What is an "Easter egg" in a video game?|A secret hidden by the developers|A holiday event|A bug in the game|A bonus life
+es|¿Qué es un «huevo de Pascua» en un videojuego?|Un secreto escondido por los creadores|Un evento festivo|Un fallo del juego|Una vida extra
+ja|ゲームの「イースターエッグ」とは？|開発者がこっそり仕込んだ隠し要素|お祭りのイベント|ゲームの不具合|ボーナスの1UP
+zh|电子游戏里的“彩蛋”指什么？|开发者偷偷藏起来的秘密|节日活动|游戏漏洞|额外的一条命
+#Q 2164 1 1 1
+ru|Как называют ошибку в программе или игре?|Баг|Лут|Скин|Квест
+en|What is an error in a program or game called?|A bug|Loot|A skin|A quest
+es|¿Cómo se llama un error en un programa o un juego?|Un bug|Botín|Una skin|Una misión
+ja|プログラムやゲームの不具合のことを何という？|バグ|ドロップアイテム|スキン|クエスト
+zh|程序或游戏中的错误叫什么？|bug|战利品|皮肤|任务
+#Q 2165 4 1 1
+ru|В какой VR-игре под музыку разрубают летящие кубики световыми мечами?|Half-Life: Alyx|Superhot VR|Job Simulator|Beat Saber
+en|In which VR game do you slice flying cubes with light sabers to music?|Half-Life: Alyx|Superhot VR|Job Simulator|Beat Saber
+es|¿En qué juego de realidad virtual se cortan cubos voladores con sables de luz al ritmo de la música?|Half-Life: Alyx|Superhot VR|Job Simulator|Beat Saber
+ja|音楽に合わせて飛んでくるブロックを光の剣で切るVRゲームは？|Half-Life: Alyx|Superhot VR|Job Simulator|Beat Saber
+zh|哪款VR游戏要随着音乐用光剑劈开飞来的方块？|Half-Life: Alyx|Superhot VR|Job Simulator|Beat Saber
+#Q 2166 3 1 1
+ru|В каком режиме Minecraft можно летать и брать сколько угодно блоков?|В выживании|В хардкоре|В творческом|В приключении
+en|In which Minecraft mode can you fly and use unlimited blocks?|Survival|Hardcore|Creative|Adventure
+es|¿En qué modo de Minecraft se puede volar y usar bloques sin límite?|Supervivencia|Extremo|Creativo|Aventura
+ja|マインクラフトで、空を飛べてブロックを無限に使えるモードは？|サバイバル|ハードコア|クリエイティブ|アドベンチャー
+zh|在《我的世界》里，哪种模式可以飞行、方块无限使用？|生存模式|极限模式|创造模式|冒险模式
+#Q 2167 2 1 1
+ru|Что делают члены экипажа на собрании в Among Us?|Чинят двигатель|Голосуют, кого выкинуть с корабля|Выбирают капитана|Делят еду
+en|What do the crewmates do during a meeting in Among Us?|Fix the engine|Vote on who to throw off the ship|Choose a captain|Share out the food
+es|¿Qué hacen los tripulantes durante una reunión en Among Us?|Arreglan el motor|Votan a quién echar de la nave|Eligen a un capitán|Reparten la comida
+ja|「Among Us」の会議でクルーたちがすることは？|エンジンを修理する|誰を追放するか投票する|船長を決める|食料を分ける
+zh|在《Among Us》的会议上，船员们要做什么？|修理引擎|投票决定把谁赶出飞船|选出船长|分配食物
+#Q 2168 2 1 1
+ru|Как называется жанр, где сто игроков высаживаются на остров и побеждает последний выживший?|Песочница|Королевская битва|Рогалик|Стратегия
+en|What is the genre where a hundred players land on an island and the last survivor wins?|Sandbox|Battle royale|Roguelike|Strategy
+es|¿Cómo se llama el género en el que cien jugadores aterrizan en una isla y gana el último superviviente?|Sandbox|Battle royale|Roguelike|Estrategia
+ja|100人のプレイヤーが島に降り立ち、最後まで生き残った人が勝つゲームのジャンルは？|サンドボックス|バトルロイヤル|ローグライク|ストラテジー
+zh|一百名玩家降落到岛上、最后的幸存者获胜，这种游戏类型叫什么？|沙盒|大逃杀|Roguelike|策略
+#Q 2169 4 1 1
+ru|Что такое «скин» в игре?|Тип оружия|Уровень сложности|Сохранение игры|Внешний вид персонажа или предмета
+en|What is a "skin" in a game?|A type of weapon|A difficulty level|A game save|The look of a character or item
+es|¿Qué es una «skin» en un juego?|Un tipo de arma|Un nivel de dificultad|Una partida guardada|El aspecto de un personaje u objeto
+ja|ゲームの「スキン」とは？|武器の種類|難易度|セーブデータ|キャラクターやアイテムの見た目
+zh|游戏中的“皮肤”是什么？|一种武器|难度等级|游戏存档|角色或道具的外观
+#Q 2170 4 2 1
+ru|Что нужно собрать больше всех, чтобы победить в Mario Party?|Монеты|Грибы|Ключи|Звёзды
+en|What do you need to collect the most of to win in Mario Party?|Coins|Mushrooms|Keys|Stars
+es|¿De qué hay que conseguir más que nadie para ganar en Mario Party?|Monedas|Setas|Llaves|Estrellas
+ja|「マリオパーティ」で、一番多く集めた人が優勝するものは？|コイン|キノコ|カギ|スター
+zh|在《马力欧派对》中，收集最多的什么才能获胜？|金币|蘑菇|钥匙|星星
+#Q 2171 1 2 1
+ru|Какую игру в 1989 году клали в коробку с Game Boy в Америке и Европе?|Tetris|Super Mario Land|Pokémon|Pac-Man
+en|Which game came in the box with the Game Boy in America and Europe in 1989?|Tetris|Super Mario Land|Pokémon|Pac-Man
+es|¿Qué juego venía en la caja de la Game Boy en América y Europa en 1989?|Tetris|Super Mario Land|Pokémon|Pac-Man
+ja|1989年、アメリカやヨーロッパでゲームボーイに同梱されていたゲームは？|テトリス|スーパーマリオランド|ポケモン|パックマン
+zh|1989年在美国和欧洲，Game Boy包装盒里附带的是哪款游戏？|俄罗斯方块|超级马力欧大陆|宝可梦|吃豆人
+#Q 2172 1 2 1
+ru|Какую фразу показывает PUBG, когда вы заняли первое место?|Winner Winner Chicken Dinner|Victory Royale|Flawless Victory|Mission Complete
+en|Which phrase does PUBG show when you take first place?|Winner Winner Chicken Dinner|Victory Royale|Flawless Victory|Mission Complete
+es|¿Qué frase muestra PUBG cuando quedas en primer lugar?|Winner Winner Chicken Dinner|Victory Royale|Flawless Victory|Mission Complete
+ja|PUBGで1位になったときに表示される英語のフレーズは？|Winner Winner Chicken Dinner|Victory Royale|Flawless Victory|Mission Complete
+zh|在PUBG中获得第一名时会显示哪句英文？|Winner Winner Chicken Dinner|Victory Royale|Flawless Victory|Mission Complete
+#Q 2173 2 2 1
+ru|Какого цвета самые узнаваемые Joy-Con первой Nintendo Switch?|Чёрный и белый|Красный и синий|Жёлтый и зелёный|Розовый и фиолетовый
+en|What colors are the most recognizable Joy-Con of the first Nintendo Switch?|Black and white|Red and blue|Yellow and green|Pink and purple
+es|¿De qué colores son los Joy-Con más reconocibles de la primera Nintendo Switch?|Negro y blanco|Rojo y azul|Amarillo y verde|Rosa y morado
+ja|初代Nintendo Switchの一番おなじみのJoy-Conの色は？|黒と白|赤と青|黄色と緑|ピンクと紫
+zh|初代Nintendo Switch最经典的Joy-Con是什么颜色？|黑色和白色|红色和蓝色|黄色和绿色|粉色和紫色
+#Q 2174 1 2 1
+ru|Какой сервис для трансляций игр принадлежит компании Amazon?|Twitch|YouTube|Kick|Discord
+en|Which game streaming service is owned by Amazon?|Twitch|YouTube|Kick|Discord
+es|¿Qué plataforma de retransmisión de videojuegos pertenece a Amazon?|Twitch|YouTube|Kick|Discord
+ja|Amazonが所有しているゲーム配信サービスは？|Twitch|YouTube|Kick|Discord
+zh|哪个游戏直播平台归亚马逊所有？|Twitch|YouTube|Kick|Discord
+#Q 2175 2 2 1
+ru|Что такое DLC в играх?|Сохранение в облаке|Дополнительный загружаемый контент|Режим для двоих|Тип контроллера
+en|What is DLC in video games?|A cloud save|Extra downloadable content|A two-player mode|A type of controller
+es|¿Qué es un DLC en los videojuegos?|Una partida guardada en la nube|Contenido adicional descargable|Un modo para dos jugadores|Un tipo de mando
+ja|ゲームの「DLC」とは？|クラウドセーブ|追加でダウンロードするコンテンツ|2人プレイモード|コントローラーの種類
+zh|游戏中的“DLC”是什么？|云存档|可下载的追加内容|双人模式|一种手柄
+#Q 2176 2 2 1
+ru|С кем заключили неудачную сделку Капхед и Магмен в игре Cuphead?|С волшебником|С дьяволом|С пиратом|С королём
+en|Who did Cuphead and Mugman make a bad deal with in the game Cuphead?|A wizard|The Devil|A pirate|A king
+es|¿Con quién hicieron un mal trato Cuphead y Mugman en el juego Cuphead?|Con un mago|Con el Diablo|Con un pirata|Con un rey
+ja|「Cuphead」で、カップヘッドとマグマンが悪い取引をしてしまった相手は？|魔法使い|悪魔|海賊|王様
+zh|在游戏《茶杯头》中，茶杯头和马克杯人跟谁做了一笔糟糕的交易？|巫师|魔鬼|海盗|国王
+#Q 2177 1 2 1
+ru|В какой стратегии Blizzard воюют терраны, протоссы и зерги?|StarCraft|Warcraft III|Command & Conquer|Age of Empires
+en|In which Blizzard strategy game do Terrans, Protoss and Zerg fight?|StarCraft|Warcraft III|Command & Conquer|Age of Empires
+es|¿En qué juego de estrategia de Blizzard luchan terran, protoss y zerg?|StarCraft|Warcraft III|Command & Conquer|Age of Empires
+ja|テラン、プロトス、ザーグが戦うBlizzardのストラテジーゲームは？|スタークラフト|ウォークラフトIII|コマンド＆コンカー|エイジ オブ エンパイア
+zh|人族、神族和虫族在哪款暴雪即时战略游戏中交战？|星际争霸|魔兽争霸III|命令与征服|帝国时代
+#Q 2178 3 2 1
+ru|В каком месте происходит действие игр S.T.A.L.K.E.R.?|На Марсе|В Антарктиде|В Чернобыльской зоне отчуждения|В подземном Лондоне
+en|Where are the S.T.A.L.K.E.R. games set?|On Mars|In Antarctica|The Chernobyl Exclusion Zone|In underground London
+es|¿Dónde transcurren los juegos de S.T.A.L.K.E.R.?|En Marte|En la Antártida|En la zona de exclusión de Chernóbil|En el Londres subterráneo
+ja|「S.T.A.L.K.E.R.」シリーズの舞台は？|火星|南極|チェルノブイリ立入禁止区域|ロンドンの地下
+zh|《潜行者》系列游戏的故事发生在哪里？|火星|南极洲|切尔诺贝利隔离区|伦敦地下
+#Q 2179 4 2 1
+ru|По мотивам какого китайского романа создана игра Black Myth: Wukong?|«Троецарствие»|«Речные заводи»|«Сон в красном тереме»|«Путешествие на Запад»
+en|The game Black Myth: Wukong is based on which Chinese novel?|Romance of the Three Kingdoms|Water Margin|Dream of the Red Chamber|Journey to the West
+es|¿En qué novela china se basa el juego Black Myth: Wukong?|Romance de los Tres Reinos|A la orilla del agua|Sueño en el pabellón rojo|Viaje al Oeste
+ja|ゲーム「黒神話：悟空」の元になった中国の小説は？|三国志演義|水滸伝|紅楼夢|西遊記
+zh|游戏《黑神话：悟空》改编自哪部中国小说？|三国演义|水浒传|红楼梦|西游记
+#Q 2180 2 2 1
+ru|Какая игра серии Half-Life вышла только для шлемов виртуальной реальности?|Half-Life 2: Episode Two|Half-Life: Alyx|Black Mesa|Portal 2
+en|Which Half-Life game was released only for VR headsets?|Half-Life 2: Episode Two|Half-Life: Alyx|Black Mesa|Portal 2
+es|¿Qué juego de Half-Life salió solo para gafas de realidad virtual?|Half-Life 2: Episode Two|Half-Life: Alyx|Black Mesa|Portal 2
+ja|VRヘッドセット専用で発売された「Half-Life」シリーズのゲームは？|Half-Life 2: Episode Two|Half-Life: Alyx|Black Mesa|Portal 2
+zh|哪款《半条命》系列游戏只为VR头显推出？|Half-Life 2: Episode Two|Half-Life: Alyx|Black Mesa|Portal 2
+#Q 2181 3 2 1
+ru|Из какой страны студия CD Projekt Red, создавшая «Ведьмака» и Cyberpunk 2077?|Чехия|Германия|Польша|Швеция
+en|Which country is CD Projekt Red, the studio behind The Witcher and Cyberpunk 2077, from?|Czech Republic|Germany|Poland|Sweden
+es|¿De qué país es CD Projekt Red, el estudio de The Witcher y Cyberpunk 2077?|República Checa|Alemania|Polonia|Suecia
+ja|「ウィッチャー」や「サイバーパンク2077」を作ったCD Projekt Redはどこの国の会社？|チェコ|ドイツ|ポーランド|スウェーデン
+zh|开发《巫师》和《赛博朋克2077》的CD Projekt Red是哪个国家的公司？|捷克|德国|波兰|瑞典
+#Q 2182 3 2 1
+ru|Из какой страны компания Ubisoft, создающая Assassin's Creed?|Канада|Италия|Франция|США
+en|Which country is Ubisoft, the maker of Assassin's Creed, from?|Canada|Italy|France|USA
+es|¿De qué país es Ubisoft, la empresa de Assassin's Creed?|Canadá|Italia|Francia|Estados Unidos
+ja|「アサシン クリード」を作っているUbisoftはどこの国の会社？|カナダ|イタリア|フランス|アメリカ
+zh|制作《刺客信条》的育碧是哪个国家的公司？|加拿大|意大利|法国|美国
+#Q 2183 1 2 1
+ru|Чем особенный режим «Хардкор» в Minecraft?|У игрока только одна жизнь|Нет ночи|Все мобы мирные|Можно летать
+en|What is special about Hardcore mode in Minecraft?|You only get one life|There is no night|All mobs are peaceful|You can fly
+es|¿Qué tiene de especial el modo Extremo de Minecraft?|Solo tienes una vida|No hay noche|Todas las criaturas son pacíficas|Puedes volar
+ja|マインクラフトの「ハードコア」モードの特徴は？|命が一つしかない|夜が来ない|モブがすべておとなしい|空を飛べる
+zh|《我的世界》的“极限模式”有什么特点？|只有一条命|没有黑夜|所有生物都很友好|可以飞行
+#Q 2184 2 2 1
+ru|На что похожи участники игры Fall Guys?|На кубики|На мармеладные драже|На мячики|На пингвинов
+en|What do the contestants in Fall Guys look like?|Cubes|Jelly beans|Balls|Penguins
+es|¿A qué se parecen los concursantes de Fall Guys?|A cubos|A gominolas en forma de judía|A pelotas|A pingüinos
+ja|「Fall Guys」の参加者たちは何のような姿をしている？|サイコロ|ジェリービーンズ|ボール|ペンギン
+zh|《Fall Guys》里的参赛者长得像什么？|方块|软糖豆|球|企鹅
+#Q 2185 2 2 1
+ru|Какая компания создала шутер Valorant?|Valve|Riot Games|Blizzard|Epic Games
+en|Which company created the shooter Valorant?|Valve|Riot Games|Blizzard|Epic Games
+es|¿Qué empresa creó el shooter Valorant?|Valve|Riot Games|Blizzard|Epic Games
+ja|シューティングゲーム「VALORANT」を開発した会社は？|Valve|Riot Games|Blizzard|Epic Games
+zh|射击游戏《无畏契约》是哪家公司开发的？|Valve|Riot Games|暴雪|Epic Games
+#Q 2186 2 2 1
+ru|Как называется преступная организация из Pokémon Red и Blue?|Команда Аква|Команда R|Команда Магма|Команда Галактика
+en|What is the criminal organization in Pokémon Red and Blue called?|Team Aqua|Team Rocket|Team Magma|Team Galactic
+es|¿Cómo se llama la organización criminal de Pokémon Rojo y Azul?|Team Aqua|Team Rocket|Team Magma|Team Galaxia
+ja|「ポケットモンスター 赤・緑」に登場する悪の組織は？|アクア団|ロケット団|マグマ団|ギンガ団
+zh|《宝可梦 红·绿》中的反派组织叫什么？|海洋队|火箭队|熔岩队|银河队
+#Q 2187 3 2 1
+ru|Сколько сердец здоровья у полностью здорового игрока в Minecraft?|5|8|10|20
+en|How many hearts of health does a player have at full health in Minecraft?|5|8|10|20
+es|¿Cuántos corazones de vida tiene un jugador con la salud al máximo en Minecraft?|5|8|10|20
+ja|マインクラフトで体力が満タンのとき、ハートはいくつ？|5個|8個|10個|20個
+zh|在《我的世界》里，满血的玩家有几颗心？|5颗|8颗|10颗|20颗
+#Q 2188 1 3 1
+ru|К какому жанру относятся игры, где после смерти начинаешь заново со случайными уровнями (Hades, The Binding of Isaac)?|Рогалик (roguelike)|Метроидвания|Визуальная новелла|Файтинг
+en|Which genre do games like Hades and The Binding of Isaac, where you restart with random levels after dying, belong to?|Roguelike|Metroidvania|Visual novel|Fighting game
+es|¿A qué género pertenecen juegos como Hades o The Binding of Isaac, en los que al morir empiezas de nuevo con niveles aleatorios?|Roguelike|Metroidvania|Novela visual|Juego de lucha
+ja|「Hades」や「The Binding of Isaac」のように、死ぬとランダムなステージで最初からやり直すゲームのジャンルは？|ローグライク|メトロイドヴァニア|ノベルゲーム|格闘ゲーム
+zh|像《哈迪斯》和《以撒的结合》这样死后从头开始、关卡随机生成的游戏属于哪种类型？|Roguelike|类银河战士恶魔城|视觉小说|格斗游戏
+#Q 2189 4 3 1
+ru|Названия каких двух серий соединились в слове «метроидвания»?|Metroid и Zelda|Mega Man и Castlevania|Mario и Kirby|Metroid и Castlevania
+en|Which two series are combined in the word "Metroidvania"?|Metroid and Zelda|Mega Man and Castlevania|Mario and Kirby|Metroid and Castlevania
+es|¿Qué dos sagas se combinan en la palabra «metroidvania»?|Metroid y Zelda|Mega Man y Castlevania|Mario y Kirby|Metroid y Castlevania
+ja|「メトロイドヴァニア」という言葉の元になった2つのシリーズは？|メトロイドとゼルダの伝説|ロックマンと悪魔城ドラキュラ|マリオとカービィ|メトロイドと悪魔城ドラキュラ
+zh|“类银河战士恶魔城”这个说法来自哪两个游戏系列？|银河战士和塞尔达传说|洛克人和恶魔城|马力欧和星之卡比|银河战士和恶魔城
+#Q 2190 1 3 1
+ru|Как называется главный ежегодный турнир по Dota 2?|The International|Worlds|The Masters|Evolution
+en|What is the main yearly Dota 2 tournament called?|The International|Worlds|The Masters|Evolution
+es|¿Cómo se llama el gran torneo anual de Dota 2?|The International|Worlds|The Masters|Evolution
+ja|「Dota 2」の最大の年次大会の名前は？|The International|Worlds|The Masters|Evolution
+zh|《Dota 2》每年最重要的大赛叫什么？|国际邀请赛（The International）|全球总决赛（Worlds）|大师赛（The Masters）|EVO格斗大赛（Evolution）
+#Q 2191 3 3 1
+ru|Чьё имя стоит в полном названии серии стратегий Civilization?|Уилла Райта|Питера Молиньё|Сида Мейера|Джона Ромеро
+en|Whose name is in the full title of the Civilization strategy series?|Will Wright|Peter Molyneux|Sid Meier|John Romero
+es|¿El nombre de quién aparece en el título completo de la saga de estrategia Civilization?|Will Wright|Peter Molyneux|Sid Meier|John Romero
+ja|ストラテジーゲーム「シヴィライゼーション」シリーズの正式なタイトルに名前が入っている人物は？|ウィル・ライト|ピーター・モリニュー|シド・マイヤー|ジョン・ロメロ
+zh|策略游戏《文明》系列的完整名称里有谁的名字？|威尔·赖特|彼得·莫利纽克斯|席德·梅尔|约翰·罗梅洛
+#Q 2192 3 3 1
+ru|Кто создал The Sims и SimCity?|Сид Мейер|Хидэо Кодзима|Уилл Райт|Гейб Ньюэлл
+en|Who created The Sims and SimCity?|Sid Meier|Hideo Kojima|Will Wright|Gabe Newell
+es|¿Quién creó Los Sims y SimCity?|Sid Meier|Hideo Kojima|Will Wright|Gabe Newell
+ja|「ザ・シムズ」と「シムシティ」を生み出したのは誰？|シド・マイヤー|小島秀夫|ウィル・ライト|ゲイブ・ニューウェル
+zh|《模拟人生》和《模拟城市》的创造者是谁？|席德·梅尔|小岛秀夫|威尔·赖特|加布·纽维尔
+#Q 2193 2 3 1
+ru|На какой планете живёт Кирби?|На Зебесе|На Поп-стар|На Мобиусе|На Корнерии
+en|Which planet does Kirby live on?|Zebes|Popstar|Mobius|Corneria
+es|¿En qué planeta vive Kirby?|Zebes|Pop Star|Mobius|Corneria
+ja|カービィが住んでいる星は？|惑星ゼーベス|ポップスター|モビウス|コーネリア
+zh|星之卡比住在哪颗星球上？|泽贝斯|波普之星|莫比乌斯|科内利亚
+#Q 2194 1 3 1
+ru|Какой космический капитан командует крошечными растениями-пикминами?|Олимар|Луиджи|Тоад|Варио
+en|Which space captain leads the tiny plant creatures called Pikmin?|Olimar|Luigi|Toad|Wario
+es|¿Qué capitán espacial dirige a las diminutas criaturas planta llamadas Pikmin?|Olimar|Luigi|Toad|Wario
+ja|小さな植物の生き物「ピクミン」を率いる宇宙船の船長は？|オリマー|ルイージ|キノピオ|ワリオ
+zh|哪位宇宙船长带领着名叫皮克敏的小小植物生物？|欧力马|路易吉|奇诺比奥|瓦力欧
+#Q 2195 3 3 1
+ru|Как приставка Sega Mega Drive называлась в Северной Америке?|Saturn|Dreamcast|Genesis|Master System
+en|What was the Sega Mega Drive called in North America?|Saturn|Dreamcast|Genesis|Master System
+es|¿Cómo se llamaba la Sega Mega Drive en Norteamérica?|Saturn|Dreamcast|Genesis|Master System
+ja|セガの「メガドライブ」の北米での名前は？|サターン|ドリームキャスト|ジェネシス|マスターシステム
+zh|世嘉Mega Drive在北美叫什么名字？|Saturn|Dreamcast|Genesis|Master System
+#Q 2196 4 3 1
+ru|Какой композитор написал музыку к Super Mario Bros. и The Legend of Zelda?|Нобуо Уэмацу|Ёко Симомура|Коити Сугияма|Кодзи Кондо
+en|Which composer wrote the music for Super Mario Bros. and The Legend of Zelda?|Nobuo Uematsu|Yoko Shimomura|Koichi Sugiyama|Koji Kondo
+es|¿Qué compositor escribió la música de Super Mario Bros. y The Legend of Zelda?|Nobuo Uematsu|Yoko Shimomura|Koichi Sugiyama|Koji Kondo
+ja|「スーパーマリオブラザーズ」と「ゼルダの伝説」の音楽を作った作曲家は？|植松伸夫|下村陽子|すぎやまこういち|近藤浩治
+zh|为《超级马力欧兄弟》和《塞尔达传说》作曲的作曲家是谁？|植松伸夫|下村阳子|杉山浩一|近藤浩治
+#Q 2197 1 3 1
+ru|Какая игра появилась как любительский мод для Warcraft III?|Dota|League of Legends|StarCraft|Counter-Strike
+en|Which game began as a fan-made mod for Warcraft III?|Dota|League of Legends|StarCraft|Counter-Strike
+es|¿Qué juego nació como un mod hecho por fans para Warcraft III?|Dota|League of Legends|StarCraft|Counter-Strike
+ja|ファンが作った「ウォークラフトIII」のMODから生まれたゲームは？|Dota|リーグ・オブ・レジェンド|スタークラフト|カウンターストライク
+zh|哪款游戏最初是玩家为《魔兽争霸III》制作的模组？|Dota|英雄联盟|星际争霸|反恐精英
+#Q 2198 4 3 1
+ru|Из какой страны компания Supercell, создавшая Clash of Clans и Brawl Stars?|Швеция|Южная Корея|Канада|Финляндия
+en|Which country is Supercell, the maker of Clash of Clans and Brawl Stars, from?|Sweden|South Korea|Canada|Finland
+es|¿De qué país es Supercell, la empresa de Clash of Clans y Brawl Stars?|Suecia|Corea del Sur|Canadá|Finlandia
+ja|「クラッシュ・オブ・クラン」や「ブロスタ」を作ったSupercellはどこの国の会社？|スウェーデン|韓国|カナダ|フィンランド
+zh|开发《部落冲突》和《荒野乱斗》的Supercell是哪个国家的公司？|瑞典|韩国|加拿大|芬兰
+#Q 2199 3 3 1
+ru|В каком году вышла GTA V?|2008|2011|2013|2015
+en|In which year was GTA V released?|2008|2011|2013|2015
+es|¿En qué año salió GTA V?|2008|2011|2013|2015
+ja|「グランド・セフト・オートV」が発売されたのは何年？|2008年|2011年|2013年|2015年
+zh|《侠盗猎车手5》是哪一年发售的？|2008年|2011年|2013年|2015年
+#Q 2200 2 3 1
+ru|В каком году в Японии вышла самая первая The Legend of Zelda?|1981|1986|1991|1996
+en|In which year did the very first The Legend of Zelda come out in Japan?|1981|1986|1991|1996
+es|¿En qué año salió en Japón el primer The Legend of Zelda?|1981|1986|1991|1996
+ja|初代「ゼルダの伝説」が日本で発売されたのは何年？|1981年|1986年|1991年|1996年
+zh|第一部《塞尔达传说》是哪一年在日本发售的？|1981年|1986年|1991年|1996年
+#Q 2201 4 1 1
+ru|Что делает игрок в Geometry Dash?|Строит город|Ловит рыбу|Собирает пазлы|Прыгает кубиком в такт музыке
+en|What does the player do in Geometry Dash?|Builds a city|Goes fishing|Puts together jigsaw puzzles|Jumps as a cube to the beat of the music
+es|¿Qué hace el jugador en Geometry Dash?|Construye una ciudad|Pesca|Arma rompecabezas|Salta con un cubo al ritmo de la música
+ja|「Geometry Dash」でプレイヤーがすることは？|街を作る|魚を釣る|ジグソーパズルを組み立てる|音楽に合わせてキューブでジャンプする
+zh|在《几何冲刺》中玩家要做什么？|建造城市|钓鱼|拼拼图|跟着音乐节奏操控方块跳跃
+#Q 2202 4 1 1
+ru|Между чем пролетает птичка в игре Flappy Bird?|Между деревьями|Между облаками|Между небоскрёбами|Между трубами
+en|What does the bird fly between in Flappy Bird?|Trees|Clouds|Skyscrapers|Pipes
+es|¿Entre qué vuela el pájaro en Flappy Bird?|Entre árboles|Entre nubes|Entre rascacielos|Entre tuberías
+ja|「Flappy Bird」で鳥がすり抜けて飛ぶのは何の間？|木|雲|高層ビル|土管
+zh|在《Flappy Bird》中，小鸟要从什么之间飞过？|树木|云朵|摩天大楼|水管
+#Q 2203 2 1 1
+ru|Какое растение в Plants vs. Zombies даёт солнце?|Горохострел|Подсолнух|Стена-орех|Вишнёвая бомба
+en|Which plant in Plants vs. Zombies produces sun?|Peashooter|Sunflower|Wall-nut|Cherry Bomb
+es|¿Qué planta de Plants vs. Zombies produce soles?|Lanzaguisantes|Girasol|Nuez|Petacereza
+ja|「プランツ vs. ゾンビ」で太陽を生み出す植物は？|ピーシューター|ヒマワリ|ウォールナッツ|チェリーボム
+zh|在《植物大战僵尸》中，哪种植物能产生阳光？|豌豆射手|向日葵|坚果墙|樱桃炸弹
+#Q 2204 4 1 1
+ru|Как зовут маленькую обезьянку в красной кепке, друга Донки Конга?|Йоши|Тоад|Варио|Дидди Конг
+en|What is the name of the little monkey in a red cap who is Donkey Kong's buddy?|Yoshi|Toad|Wario|Diddy Kong
+es|¿Cómo se llama el monito de gorra roja, amigo de Donkey Kong?|Yoshi|Toad|Wario|Diddy Kong
+ja|赤い帽子をかぶった、ドンキーコングの相棒の小さなサルは？|ヨッシー|キノピオ|ワリオ|ディディーコング
+zh|那只戴红帽子、是大金刚好搭档的小猴子叫什么？|耀西|奇诺比奥|瓦力欧|迪迪刚
+#Q 2205 3 1 1
+ru|Что больше всего любит Донки Конг?|Яблоки|Кокосы|Бананы|Арбузы
+en|What does Donkey Kong love most?|Apples|Coconuts|Bananas|Watermelons
+es|¿Qué es lo que más le gusta a Donkey Kong?|Las manzanas|Los cocos|Los plátanos|Las sandías
+ja|ドンキーコングの大好物は？|リンゴ|ヤシの実|バナナ|スイカ
+zh|大金刚最爱吃什么？|苹果|椰子|香蕉|西瓜
+#Q 2206 3 1 1
+ru|Что выпадает из скелета в Minecraft?|Порох|Гнилая плоть|Кости и стрелы|Нить
+en|What does a skeleton drop in Minecraft?|Gunpowder|Rotten flesh|Bones and arrows|String
+es|¿Qué suelta un esqueleto en Minecraft?|Pólvora|Carne podrida|Huesos y flechas|Cuerda
+ja|マインクラフトでスケルトンを倒すと落とすものは？|火薬|腐った肉|骨と矢|糸
+zh|在《我的世界》里，骷髅会掉落什么？|火药|腐肉|骨头和箭|线
+#Q 2207 2 1 1
+ru|Чем кормят панду в Minecraft?|Морковью|Бамбуком|Рыбой|Пшеницей
+en|What do you feed a panda in Minecraft?|Carrots|Bamboo|Fish|Wheat
+es|¿Con qué se alimenta a un panda en Minecraft?|Con zanahorias|Con bambú|Con pescado|Con trigo
+ja|マインクラフトでパンダに与える食べ物は？|ニンジン|竹|魚|小麦
+zh|在《我的世界》里，用什么喂熊猫？|胡萝卜|竹子|鱼|小麦
+#Q 2208 1 1 1
+ru|Какой покемон ходит следом за игроком в Pokémon Yellow?|Пикачу|Иви|Бульбазавр|Мяут
+en|Which Pokémon follows the player around in Pokémon Yellow?|Pikachu|Eevee|Bulbasaur|Meowth
+es|¿Qué Pokémon sigue al jugador en Pokémon Amarillo?|Pikachu|Eevee|Bulbasaur|Meowth
+ja|「ポケットモンスター ピカチュウ」で、主人公の後ろをついて歩くポケモンは？|ピカチュウ|イーブイ|フシギダネ|ニャース
+zh|在《宝可梦 黄》中，哪只宝可梦会一直跟在主角身后？|皮卡丘|伊布|妙蛙种子|喵喵
+#Q 2209 3 1 1
+ru|В каком королевстве живут Марио и принцесса Пич?|В Хайруле|В Найт-Сити|В Грибном королевстве|В Халлоунесте
+en|In which kingdom do Mario and Princess Peach live?|Hyrule|Night City|The Mushroom Kingdom|Hallownest
+es|¿En qué reino viven Mario y la princesa Peach?|En Hyrule|En Night City|En el Reino Champiñón|En Hallownest
+ja|マリオとピーチ姫が住んでいる国は？|ハイラル|ナイトシティ|キノコ王国|ハロウネスト
+zh|马力欧和碧姬公主住在哪个王国？|海拉鲁|夜之城|蘑菇王国|圣巢
+#Q 2210 3 1 1
+ru|Как зовут бойца в белом кимоно, главного героя Street Fighter?|Кен|Гайл|Рю|Чун Ли
+en|What is the name of the fighter in a white gi who is the main hero of Street Fighter?|Ken|Guile|Ryu|Chun-Li
+es|¿Cómo se llama el luchador de kimono blanco, protagonista de Street Fighter?|Ken|Guile|Ryu|Chun-Li
+ja|「ストリートファイター」の主人公で、白い道着を着た格闘家は？|ケン|ガイル|リュウ|春麗
+zh|《街头霸王》中穿白色道服的主角叫什么？|肯|古烈|隆|春丽
+#Q 2211 1 1 1
+ru|За кого играют в игре Stray?|За рыжего кота|За собаку|За лису|За робота
+en|Who do you play as in the game Stray?|A ginger cat|A dog|A fox|A robot
+es|¿A quién controlas en el juego Stray?|A un gato naranja|A un perro|A un zorro|A un robot
+ja|ゲーム「Stray」でプレイヤーが操作するのは？|茶トラの猫|犬|キツネ|ロボット
+zh|在游戏《迷失》中，玩家扮演的是什么？|一只橘猫|一只狗|一只狐狸|一个机器人
+#Q 2212 3 1 1
+ru|Как называется игровая валюта в Fortnite?|Робаксы|Гемы|В-баксы|Кредиты
+en|What is the in-game currency of Fortnite called?|Robux|Gems|V-Bucks|Credits
+es|¿Cómo se llama la moneda de Fortnite?|Robux|Gemas|PaVos|Créditos
+ja|「フォートナイト」のゲーム内通貨の名前は？|Robux|ジェム|V-Bucks|クレジット
+zh|《堡垒之夜》的游戏货币叫什么？|Robux|宝石|V币|点数
+#Q 2213 2 1 1
+ru|Как зовут рыжеволосую героиню, второй стандартный облик игрока в Minecraft?|Лара|Алекс|Эми|Зои
+en|What is the name of the red-haired heroine who is Minecraft's second default player skin?|Lara|Alex|Amy|Zoe
+es|¿Cómo se llama la heroína pelirroja que es el segundo aspecto por defecto de Minecraft?|Lara|Alex|Amy|Zoe
+ja|マインクラフトの2人目のデフォルトキャラクターで、赤毛の女の子は？|ララ|アレックス|エミー|ゾーイ
+zh|《我的世界》第二个默认皮肤、那位红发女孩叫什么？|劳拉|艾利克斯|艾米|佐伊
+#Q 2214 1 1 1
+ru|Что Марио всегда носит на руках?|Белые перчатки|Кольца|Браслеты|Часы
+en|What does Mario always wear on his hands?|White gloves|Rings|Bracelets|A watch
+es|¿Qué lleva Mario siempre en las manos?|Guantes blancos|Anillos|Pulseras|Un reloj
+ja|マリオがいつも手にはめているものは？|白い手袋|指輪|ブレスレット|腕時計
+zh|马力欧手上总是戴着什么？|白手套|戒指|手镯|手表
+#Q 2215 3 1 1
+ru|Какого цвета трубы, по которым Марио путешествует между уровнями?|Красного|Синего|Зелёного|Серого
+en|What color are the pipes Mario travels through between areas?|Red|Blue|Green|Gray
+es|¿De qué color son las tuberías por las que viaja Mario?|Rojas|Azules|Verdes|Grises
+ja|マリオが入ってワープする土管は、たいてい何色？|赤|青|緑|灰色
+zh|马力欧钻进去穿梭的水管通常是什么颜色？|红色|蓝色|绿色|灰色
+#Q 2216 2 1 1
+ru|Что такое геймпад?|Коврик для мыши|Игровой контроллер|Игровая карта памяти|Наушники для игр
+en|What is a gamepad?|A mouse pad|A game controller|A memory card|A gaming headset
+es|¿Qué es un gamepad?|Una alfombrilla de ratón|Un mando de videojuegos|Una tarjeta de memoria|Unos auriculares para jugar
+ja|「ゲームパッド」とは？|マウスパッド|ゲーム用のコントローラー|メモリーカード|ゲーム用ヘッドセット
+zh|“游戏手柄”是什么？|鼠标垫|游戏控制器|存储卡|游戏耳机
+#Q 2217 2 1 1
+ru|Что такое чекпоинт в игре?|Секретный уровень|Контрольная точка, с которой продолжаешь после поражения|Магазин|Главное меню
+en|What is a checkpoint in a game?|A secret level|A spot you restart from after you fail|A shop|The main menu
+es|¿Qué es un punto de control en un juego?|Un nivel secreto|Un sitio desde el que continúas al perder|Una tienda|El menú principal
+ja|ゲームの「チェックポイント」とは？|隠しステージ|やられたときにそこから再開できる地点|お店|メインメニュー
+zh|游戏里的“存档点（检查点）”是什么？|隐藏关卡|失败后可以从那里继续的位置|商店|主菜单
+#Q 2218 1 1 1
+ru|Как называют сильного противника в конце уровня?|Босс|Моб|Нуб|Танк
+en|What is a strong enemy at the end of a level called?|A boss|A mob|A noob|A tank
+es|¿Cómo se llama el enemigo fuerte al final de un nivel?|Jefe|Mob|Novato|Tanque
+ja|ステージの最後に出てくる強い敵のことを何という？|ボス|モブ|初心者|タンク
+zh|关卡最后出现的强大敌人叫什么？|首领（Boss）|小怪|新手|坦克
+#Q 2219 1 2 1
+ru|Кто гонится за героем в Temple Run?|Демонические обезьяны|Волки|Полицейские|Динозавры
+en|Who chases the hero in Temple Run?|Demon monkeys|Wolves|Police officers|Dinosaurs
+es|¿Quién persigue al protagonista en Temple Run?|Monos demoníacos|Lobos|Policías|Dinosaurios
+ja|「テンプルラン」で主人公を追いかけてくるのは？|悪魔のようなサル|オオカミ|警察官|恐竜
+zh|在《神庙逃亡》中，追赶主角的是什么？|恶魔猴子|狼|警察|恐龙
+#Q 2220 3 2 1
+ru|Что выпадает из крипера в Minecraft?|Кости|Нить|Порох|Слизь
+en|What does a creeper drop in Minecraft?|Bones|String|Gunpowder|Slimeballs
+es|¿Qué suelta un creeper en Minecraft?|Huesos|Cuerda|Pólvora|Bolas de slime
+ja|マインクラフトでクリーパーを倒すと落とすものは？|骨|糸|火薬|スライムボール
+zh|在《我的世界》里，苦力怕会掉落什么？|骨头|线|火药|黏液球
+#Q 2221 2 2 1
+ru|Какая самая простая кирка, которой можно добыть алмазы в Minecraft?|Каменная|Железная|Деревянная|Золотая
+en|What is the most basic pickaxe that can mine diamonds in Minecraft?|Stone|Iron|Wooden|Gold
+es|¿Cuál es el pico más básico con el que se pueden extraer diamantes en Minecraft?|De piedra|De hierro|De madera|De oro
+ja|マインクラフトでダイヤモンドを掘れる、一番ランクの低いツルハシは？|石のツルハシ|鉄のツルハシ|木のツルハシ|金のツルハシ
+zh|在《我的世界》里，最低用哪种镐就能挖钻石？|石镐|铁镐|木镐|金镐
+#Q 2222 3 2 1
+ru|Сколько покемонов можно взять с собой в команду?|4|5|6|8
+en|How many Pokémon can you carry in your party?|4|5|6|8
+es|¿Cuántos Pokémon puedes llevar en tu equipo?|4|5|6|8
+ja|ポケモンの手持ちに入れられるのは何匹まで？|4匹|5匹|6匹|8匹
+zh|宝可梦队伍里最多能带几只宝可梦？|4只|5只|6只|8只
+#Q 2223 4 2 1
+ru|Как называется самая первая зона в Sonic the Hedgehog 1991 года?|Chemical Plant|Casino Night|Sky Sanctuary|Green Hill
+en|What is the very first zone in the 1991 Sonic the Hedgehog?|Chemical Plant|Casino Night|Sky Sanctuary|Green Hill
+es|¿Cuál es la primera zona del Sonic the Hedgehog de 1991?|Chemical Plant|Casino Night|Sky Sanctuary|Green Hill
+ja|1991年の「ソニック・ザ・ヘッジホッグ」の最初のゾーンは？|ケミカルプラントゾーン|カジノナイトゾーン|スカイサンクチュアリゾーン|グリーンヒルゾーン
+zh|1991年《刺猬索尼克》的第一个关卡是哪个地带？|化学工厂地带|赌场之夜地带|天空圣域地带|绿丘地带
+#Q 2224 1 2 1
+ru|Что кричит диктор Mortal Kombat, когда оглушённого соперника можно добить?|Finish him!|Game over!|Round two!|Get ready!
+en|What does the Mortal Kombat announcer shout when the dazed opponent can be finished off?|Finish him!|Game over!|Round two!|Get ready!
+es|¿Qué grita el locutor de Mortal Kombat cuando se puede rematar al rival aturdido?|Finish him!|Game over!|Round two!|Get ready!
+ja|「モータルコンバット」で、ふらふらの相手にとどめを刺せるときにアナウンサーが叫ぶ言葉は？|Finish him!|Game over!|Round two!|Get ready!
+zh|在《真人快打》中，对手晕眩可以终结时，解说员会喊什么？|Finish him!|Game over!|Round two!|Get ready!
+#Q 2225 1 2 1
+ru|Как называется злая корпорация из серии Resident Evil?|Амбрелла|Aperture Science|Чёрная Меза|Абстерго
+en|What is the evil corporation in the Resident Evil series called?|Umbrella|Aperture Science|Black Mesa|Abstergo
+es|¿Cómo se llama la malvada corporación de la saga Resident Evil?|Umbrella|Aperture Science|Black Mesa|Abstergo
+ja|「バイオハザード」シリーズに登場する悪の企業は？|アンブレラ社|アパーチャー・サイエンス|ブラックメサ|アブスターゴ
+zh|《生化危机》系列中的邪恶企业叫什么？|保护伞公司|光圈科技|黑山研究所|阿布斯泰戈
+#Q 2226 4 2 1
+ru|Каким животным является аниматроник Чика из Five Nights at Freddy's?|Кроликом|Медведем|Лисой|Курицей
+en|What animal is the animatronic Chica in Five Nights at Freddy's?|A rabbit|A bear|A fox|A chicken
+es|¿Qué animal es el animatrónico Chica en Five Nights at Freddy's?|Un conejo|Un oso|Un zorro|Una gallina
+ja|「Five Nights at Freddy's」のアニマトロニクス、チカは何の動物？|ウサギ|クマ|キツネ|ニワトリ
+zh|在《Five Nights at Freddy's》中，电子玩偶Chica是什么动物？|兔子|熊|狐狸|鸡
+#Q 2227 2 2 1
+ru|Чем занимается Том Нук в серии Animal Crossing?|Ловит рыбу|Продаёт дома в кредит|Играет на гитаре|Заведует музеем
+en|What does Tom Nook do in the Animal Crossing series?|Goes fishing|Sells you homes on loan|Plays the guitar|Runs the museum
+es|¿A qué se dedica Tom Nook en la saga Animal Crossing?|Pesca|Vende casas a crédito|Toca la guitarra|Dirige el museo
+ja|「どうぶつの森」シリーズのたぬきちの仕事は？|魚釣り|家をローンで売る|ギターの演奏|博物館の館長
+zh|在《动物森友会》系列中，狸克是做什么的？|钓鱼|以贷款方式卖房子|弹吉他|管理博物馆
+#Q 2228 1 2 1
+ru|Как называется карточная игра, в которую играют в «Ведьмаке 3»?|Гвинт|Хартстоун|Покер на костях|Пазаак
+en|What is the card game played in The Witcher 3?|Gwent|Hearthstone|Dice poker|Pazaak
+es|¿Cómo se llama el juego de cartas de The Witcher 3?|Gwent|Hearthstone|Póker de dados|Pazaak
+ja|「ウィッチャー3」の中で遊べるカードゲームは？|グウェント|ハースストーン|ダイスポーカー|パザック
+zh|在《巫师3》中可以玩的卡牌游戏叫什么？|昆特牌|炉石传说|骰子扑克|帕扎克
+#Q 2229 2 2 1
+ru|Как называются две враждующие фракции в World of Warcraft?|Свет и Тьма|Альянс и Орда|Империя и Повстанцы|Север и Юг
+en|What are the two rival factions in World of Warcraft?|Light and Darkness|The Alliance and the Horde|The Empire and the Rebels|North and South
+es|¿Cuáles son las dos facciones rivales de World of Warcraft?|La Luz y la Oscuridad|La Alianza y la Horda|El Imperio y los Rebeldes|El Norte y el Sur
+ja|「ワールド・オブ・ウォークラフト」で対立する2つの勢力は？|光と闇|アライアンスとホード|帝国と反乱軍|北と南
+zh|《魔兽世界》中对立的两大阵营是？|光明和黑暗|联盟和部落|帝国和反抗军|北方和南方
+#Q 2230 1 2 1
+ru|Сколько бит было у приставки NES (и её клона Dendy)?|8|16|32|64
+en|How many bits was the NES console?|8|16|32|64
+es|¿De cuántos bits era la consola NES?|8|16|32|64
+ja|ファミコン（NES）は何ビットのゲーム機？|8ビット|16ビット|32ビット|64ビット
+zh|红白机（NES）是多少位的游戏机？|8位|16位|32位|64位
+#Q 2231 4 2 1
+ru|Что ещё умела PlayStation 2, кроме игр?|Звонить по телефону|Печатать фотографии|Записывать телепередачи на кассету|Проигрывать DVD
+en|Besides games, what else could the PlayStation 2 do?|Make phone calls|Print photos|Record TV onto tapes|Play DVDs
+es|Además de juegos, ¿qué más podía hacer la PlayStation 2?|Hacer llamadas|Imprimir fotos|Grabar la tele en cintas|Reproducir DVD
+ja|プレイステーション2がゲーム以外にできたことは？|電話をかける|写真の印刷|テレビ番組をビデオテープに録画|DVDの再生
+zh|PlayStation 2除了玩游戏，还能做什么？|打电话|打印照片|把电视节目录到录像带上|播放DVD
+#Q 2232 3 2 1
+ru|В какой стране происходит действие игры Sekiro: Shadows Die Twice?|В Китае|В Корее|В Японии|В Монголии
+en|In which country is Sekiro: Shadows Die Twice set?|China|Korea|Japan|Mongolia
+es|¿En qué país transcurre Sekiro: Shadows Die Twice?|China|Corea|Japón|Mongolia
+ja|「SEKIRO: SHADOWS DIE TWICE」の舞台となる国は？|中国|朝鮮半島|日本|モンゴル
+zh|《只狼：影逝二度》的故事发生在哪个国家？|中国|朝鲜半岛|日本|蒙古
+#Q 2233 4 2 1
+ru|С кем сражается самурай Дзин в Ghost of Tsushima?|С португальскими пиратами|С китайской армией|С ниндзя-демонами|С монгольскими захватчиками
+en|Who does the samurai Jin fight in Ghost of Tsushima?|Portuguese pirates|A Chinese army|Demon ninjas|Mongol invaders
+es|¿Contra quién lucha el samurái Jin en Ghost of Tsushima?|Contra piratas portugueses|Contra un ejército chino|Contra ninjas demoníacos|Contra invasores mongoles
+ja|「Ghost of Tsushima」で侍の仁が戦う相手は？|ポルトガルの海賊|中国の軍隊|悪魔の忍者|蒙古の侵略軍
+zh|在《对马岛之魂》中，武士境井仁与谁作战？|葡萄牙海盗|中国军队|恶魔忍者|蒙古侵略军
+#Q 2234 4 2 1
+ru|Когда в игре Superhot движется время?|Только когда стреляешь|Только когда стоишь|Только когда закрываешь глаза|Только когда двигаешься ты
+en|When does time move in the game Superhot?|Only when you shoot|Only when you stand still|Only when you close your eyes|Only when you move
+es|¿Cuándo avanza el tiempo en el juego Superhot?|Solo cuando disparas|Solo cuando estás quieto|Solo cuando cierras los ojos|Solo cuando te mueves
+ja|ゲーム「SUPERHOT」で時間が進むのはいつ？|撃ったときだけ|止まっているときだけ|目を閉じたときだけ|自分が動いたときだけ
+zh|在游戏《燥热》中，时间什么时候才会流动？|只有你开枪的时候|只有你站着不动的时候|只有你闭上眼睛的时候|只有你移动的时候
+#Q 2235 2 2 1
+ru|Какого цвета два портала, которые создаёт героиня Portal?|Красный и зелёный|Синий и оранжевый|Белый и чёрный|Жёлтый и фиолетовый
+en|What colors are the two portals the heroine creates in Portal?|Red and green|Blue and orange|White and black|Yellow and purple
+es|¿De qué colores son los dos portales que crea la protagonista de Portal?|Rojo y verde|Azul y naranja|Blanco y negro|Amarillo y morado
+ja|「Portal」で主人公が作り出す2つのポータルの色は？|赤と緑|青とオレンジ|白と黒|黄色と紫
+zh|在《传送门》中，女主角制造的两个传送门是什么颜色？|红色和绿色|蓝色和橙色|白色和黑色|黄色和紫色
+#Q 2236 3 3 1
+ru|Какой моб охраняет подводные храмы в Minecraft и стреляет лучом из глаза?|Утопленник|Чешуйница|Страж|Ифрит
+en|Which Minecraft mob guards ocean monuments and shoots a beam from its eye?|Drowned|Silverfish|Guardian|Blaze
+es|¿Qué criatura de Minecraft vigila los monumentos oceánicos y dispara un rayo desde su ojo?|Ahogado|Lepisma|Guardián|Blaze
+ja|マインクラフトで海底神殿を守り、目からビームを撃ってくるモブは？|ドラウンド|シルバーフィッシュ|ガーディアン|ブレイズ
+zh|在《我的世界》里，守护海底神殿、会从眼睛里发射光束的生物是？|溺尸|蠹虫|守卫者|烈焰人
+#Q 2237 2 3 1
+ru|Какой моб в Minecraft нападает с неба на тех, кто несколько ночей не спал?|Гаст|Фантом|Вексы|Летучая мышь
+en|Which Minecraft mob attacks from the sky if you haven't slept for several nights?|Ghast|Phantom|Vex|Bat
+es|¿Qué criatura de Minecraft ataca desde el cielo si llevas varias noches sin dormir?|Ghast|Phantom|Vex|Murciélago
+ja|マインクラフトで、何日も寝ていないプレイヤーを空から襲ってくるモブは？|ガスト|ファントム|ヴェックス|コウモリ
+zh|在《我的世界》里，几天没睡觉的玩家会被哪种生物从空中袭击？|恶魂|幻翼|恼鬼|蝙蝠
+#Q 2238 3 3 1
+ru|Сколько лет проспал Линк перед началом Breath of the Wild?|10|50|100|1000
+en|How many years did Link sleep before the start of Breath of the Wild?|10|50|100|1000
+es|¿Cuántos años durmió Link antes del comienzo de Breath of the Wild?|10|50|100|1000
+ja|「ブレス オブ ザ ワイルド」の始まりまでに、リンクは何年眠っていた？|10年|50年|100年|1000年
+zh|在《旷野之息》开始之前，林克沉睡了多少年？|10年|50年|100年|1000年
+#Q 2239 3 3 1
+ru|Сколько гонщиков участвует в одной гонке Mario Kart 8?|8|10|12|16
+en|How many racers take part in one race of Mario Kart 8?|8|10|12|16
+es|¿Cuántos pilotos participan en una carrera de Mario Kart 8?|8|10|12|16
+ja|「マリオカート8」の1レースに出場するのは何人？|8人|10人|12人|16人
+zh|《马力欧卡丁车8》的一场比赛有多少名车手？|8名|10名|12名|16名
+#Q 2240 1 3 1
+ru|Как зовут доброго учёного, создавшего Мегамена?|Доктор Лайт|Доктор Вайли|Доктор Эггман|Профессор Оук
+en|What is the name of the kind scientist who created Mega Man?|Dr. Light|Dr. Wily|Dr. Eggman|Professor Oak
+es|¿Cómo se llama el bondadoso científico que creó a Mega Man?|Dr. Light|Dr. Wily|Dr. Eggman|Profesor Oak
+ja|ロックマンを作った優しい科学者は？|ライト博士|Dr.ワイリー|Dr.エッグマン|オーキド博士
+zh|创造了洛克人的善良科学家是谁？|莱特博士|威利博士|蛋头博士|大木博士
+#Q 2241 1 3 1
+ru|В какой игре впервые появился монстр Пирамидоголовый?|Silent Hill 2|Resident Evil 4|Dead Space|Outlast
+en|In which game did the monster Pyramid Head first appear?|Silent Hill 2|Resident Evil 4|Dead Space|Outlast
+es|¿En qué juego apareció por primera vez el monstruo Pyramid Head?|Silent Hill 2|Resident Evil 4|Dead Space|Outlast
+ja|怪物「三角頭（レッドピラミッドシング）」が初めて登場したゲームは？|サイレントヒル2|バイオハザード4|デッドスペース|OUTLAST
+zh|怪物“三角头”最早出现在哪款游戏中？|寂静岭2|生化危机4|死亡空间|逃生
+#Q 2242 1 3 1
+ru|Из какой игры пришёл мем «Лииирой Дженкинс»?|World of Warcraft|EverQuest|RuneScape|Guild Wars
+en|Which game did the "Leeroy Jenkins" meme come from?|World of Warcraft|EverQuest|RuneScape|Guild Wars
+es|¿De qué juego salió el meme «Leeroy Jenkins»?|World of Warcraft|EverQuest|RuneScape|Guild Wars
+ja|ミーム「リーロイ・ジェンキンス」が生まれたゲームは？|World of Warcraft|EverQuest|RuneScape|Guild Wars
+zh|“Leeroy Jenkins”这个梗出自哪款游戏？|魔兽世界|无尽的任务|RuneScape|激战
+#Q 2243 2 3 1
+ru|Какой компании принадлежит Riot Games, создатель League of Legends?|Sony|Tencent|Microsoft|NetEase
+en|Which company owns Riot Games, the maker of League of Legends?|Sony|Tencent|Microsoft|NetEase
+es|¿Qué empresa es dueña de Riot Games, creadora de League of Legends?|Sony|Tencent|Microsoft|NetEase
+ja|「リーグ・オブ・レジェンド」を作ったRiot Gamesを所有している会社は？|ソニー|テンセント|マイクロソフト|ネットイース
+zh|开发《英雄联盟》的Riot Games归哪家公司所有？|索尼|腾讯|微软|网易
+#Q 2244 1 3 1
+ru|Какая компания купила Mojang, создателя Minecraft, в 2014 году?|Microsoft|Sony|Nintendo|Electronic Arts
+en|Which company bought Mojang, the maker of Minecraft, in 2014?|Microsoft|Sony|Nintendo|Electronic Arts
+es|¿Qué empresa compró Mojang, la creadora de Minecraft, en 2014?|Microsoft|Sony|Nintendo|Electronic Arts
+ja|2014年にマインクラフトの開発元Mojangを買収した会社は？|マイクロソフト|ソニー|任天堂|エレクトロニック・アーツ
+zh|2014年，哪家公司收购了《我的世界》的开发商Mojang？|微软|索尼|任天堂|艺电
+#Q 2245 1 3 1
+ru|Какой президент Nintendo сказал: «В душе я геймер»?|Сатору Ивата|Сигэру Миямото|Хироси Ямаути|Реджи Фис-Эме
+en|Which Nintendo president said, "In my heart, I am a gamer"?|Satoru Iwata|Shigeru Miyamoto|Hiroshi Yamauchi|Reggie Fils-Aimé
+es|¿Qué presidente de Nintendo dijo «En mi corazón, soy un jugador»?|Satoru Iwata|Shigeru Miyamoto|Hiroshi Yamauchi|Reggie Fils-Aimé
+ja|「心の中ではゲーマーです」という言葉を残した任天堂の社長は？|岩田聡|宮本茂|山内溥|レジー・フィサメィ
+zh|说过“在我心中，我是一名玩家”的任天堂社长是谁？|岩田聪|宫本茂|山内溥|雷吉·菲尔斯-埃梅
+#Q 2246 4 3 1
+ru|В каком городе находится главный офис Nintendo?|В Токио|В Осаке|В Нагое|В Киото
+en|In which city is Nintendo's headquarters?|Tokyo|Osaka|Nagoya|Kyoto
+es|¿En qué ciudad está la sede de Nintendo?|Tokio|Osaka|Nagoya|Kioto
+ja|任天堂の本社がある都市は？|東京|大阪|名古屋|京都
+zh|任天堂总部位于哪座城市？|东京|大阪|名古屋|京都
+#Q 2247 2 3 1
+ru|Какая домашняя приставка Nintendo использовала маленькие оптические диски?|Nintendo 64|GameCube|Super Nintendo|NES
+en|Which Nintendo home console used small optical discs?|Nintendo 64|GameCube|Super Nintendo|NES
+es|¿Qué consola doméstica de Nintendo usaba pequeños discos ópticos?|Nintendo 64|GameCube|Super Nintendo|NES
+ja|小さな光ディスクを使っていた任天堂の据え置きゲーム機は？|NINTENDO64|ゲームキューブ|スーパーファミコン|ファミコン
+zh|哪款任天堂家用游戏机使用小尺寸光盘？|Nintendo 64|GameCube|超级任天堂|红白机
+#Q 2248 1 3 1
+ru|Как называется мир, в котором происходит Elden Ring?|Междуземье|Лордран|Ярнам|Хайрул
+en|What is the world of Elden Ring called?|The Lands Between|Lordran|Yharnam|Hyrule
+es|¿Cómo se llama el mundo de Elden Ring?|Las Tierras Intermedias|Lordran|Yharnam|Hyrule
+ja|「エルデンリング」の舞台となる世界は？|狭間の地|ロードラン|ヤーナム|ハイラル
+zh|《艾尔登法环》的故事发生在哪片土地？|交界地|罗德兰|亚楠|海拉鲁
+#Q 2249 4 3 1
+ru|Как зовут молчаливую героиню игры Portal?|Аликс|Элли|Кортана|Челл
+en|What is the name of the silent heroine of Portal?|Alyx|Ellie|Cortana|Chell
+es|¿Cómo se llama la protagonista silenciosa de Portal?|Alyx|Ellie|Cortana|Chell
+ja|「Portal」の無口な主人公の女性の名前は？|アリックス|エリー|コルタナ|シェル
+zh|《传送门》中那位沉默的女主角叫什么？|爱莉克斯|艾莉|科塔娜|雪儿
+#Q 2250 4 3 1
+ru|В кого превращаются супруги Коди и Мэй в игре It Takes Two?|В мышей|В игрушечных роботов|В призраков|В кукол
+en|What do the married couple Cody and May turn into in It Takes Two?|Mice|Toy robots|Ghosts|Dolls
+es|¿En qué se convierten Cody y May, el matrimonio de It Takes Two?|En ratones|En robots de juguete|En fantasmas|En muñecos
+ja|「It Takes Two」で夫婦のコーディとメイは何に変えられてしまう？|ネズミ|おもちゃのロボット|おばけ|人形
+zh|在《双人成行》中，夫妻科迪和小梅变成了什么？|老鼠|玩具机器人|鬼魂|玩偶
+#Q 2251 1 1 1
+ru|Как Марио обычно побеждает врагов-гумб?|Прыгает на них сверху|Стреляет в них из лука|Бросает в них бананы|Обходит их стороной
+en|How does Mario usually defeat Goombas?|He jumps on top of them|He shoots them with a bow|He throws bananas at them|He walks around them
+es|¿Cómo suele derrotar Mario a los Goombas?|Les salta encima|Les dispara con un arco|Les lanza plátanos|Los esquiva
+ja|マリオがクリボーを倒すいちばん基本的な方法は？|上から踏みつける|弓矢で撃つ|バナナを投げる|よけて通る
+zh|马力欧通常怎样打败栗宝宝？|从上面踩它|用弓箭射它|朝它扔香蕉|绕开它
+#Q 2252 3 1 1
+ru|Что делает Марио в самом конце уровня в Super Mario Bros.?|Открывает сундук|Садится на корабль|Прыгает на флагшток|Звонит в колокол
+en|What does Mario do at the very end of a level in Super Mario Bros.?|Opens a chest|Boards a ship|Jumps onto a flagpole|Rings a bell
+es|¿Qué hace Mario al final de cada nivel de Super Mario Bros.?|Abre un cofre|Sube a un barco|Salta al mástil de la bandera|Toca una campana
+ja|「スーパーマリオブラザーズ」で、ステージの最後にマリオがすることは？|宝箱を開ける|船に乗る|ゴールのポールに飛びつく|鐘を鳴らす
+zh|在《超级马力欧兄弟》中，每关最后马力欧要做什么？|打开宝箱|登上船|跳上旗杆|敲钟
+#Q 2253 3 1 1
+ru|Чем в Minecraft стригут овец, не причиняя им вреда?|Мечом|Топором|Ножницами|Лопатой
+en|What do you use in Minecraft to shear sheep without hurting them?|A sword|An axe|Shears|A shovel
+es|¿Qué se usa en Minecraft para esquilar ovejas sin hacerles daño?|Una espada|Un hacha|Tijeras|Una pala
+ja|マインクラフトで、ヒツジを傷つけずに羊毛を刈る道具は？|剣|斧|ハサミ|シャベル
+zh|在《我的世界》里，用什么剪羊毛而不伤害羊？|剑|斧头|剪刀|铲子
+#Q 2254 1 1 1
+ru|Что показывают звёзды в углу экрана в серии GTA?|Насколько сильно вас ищет полиция|Сколько у вас денег|Сколько осталось жизней|Ваш рейтинг в сети
+en|What do the stars in the corner of the screen show in the GTA series?|How hard the police are after you|How much money you have|How many lives you have left|Your online rating
+es|¿Qué indican las estrellas en la esquina de la pantalla en la saga GTA?|Cuánto te busca la policía|Cuánto dinero tienes|Cuántas vidas te quedan|Tu puntuación en línea
+ja|「GTA」シリーズで、画面の隅に出る星の数が表すものは？|警察の手配度|所持金|残りの命|オンラインの評価
+zh|在《GTA》系列中，屏幕角落的星星代表什么？|被警察通缉的程度|你有多少钱|还剩几条命|你的在线评分
+#Q 2255 1 1 1
+ru|Как называется валюта в The Sims?|Симолеоны|Рупии|Кредиты|Гемы
+en|What is the currency in The Sims called?|Simoleons|Rupees|Credits|Gems
+es|¿Cómo se llama la moneda de Los Sims?|Simoleones|Rupias|Créditos|Gemas
+ja|「ザ・シムズ」の通貨の名前は？|シムオリオン|ルピー|クレジット|ジェム
+zh|《模拟人生》里的货币叫什么？|西蒙币（Simoleons）|卢比|点数|宝石
+#Q 2256 1 1 1
+ru|Каким контроллером играют в Guitar Hero?|Пластиковой гитарой|Барабанными палочками|Микрофоном|Педалями
+en|What controller do you play Guitar Hero with?|A plastic guitar|Drumsticks|A microphone|Pedals
+es|¿Con qué mando se juega a Guitar Hero?|Con una guitarra de plástico|Con baquetas|Con un micrófono|Con pedales
+ja|「ギターヒーロー」を遊ぶときのコントローラーは？|プラスチックのギター|ドラムスティック|マイク|ペダル
+zh|玩《吉他英雄》用的是什么控制器？|塑料吉他|鼓槌|麦克风|踏板
+#Q 2257 2 1 1
+ru|На что наступают игроки в Dance Dance Revolution?|На клавиши пианино|На стрелки на танцевальном коврике|На педали|На мячи
+en|What do players step on in Dance Dance Revolution?|Piano keys|Arrows on a dance mat|Pedals|Balls
+es|¿Qué pisan los jugadores en Dance Dance Revolution?|Teclas de piano|Flechas en una alfombra de baile|Pedales|Pelotas
+ja|「ダンスダンスレボリューション」でプレイヤーが踏むのは？|ピアノの鍵盤|マットの上の矢印|ペダル|ボール
+zh|在《劲舞革命》中玩家要踩什么？|钢琴键|跳舞毯上的箭头|踏板|球
+#Q 2258 2 1 1
+ru|Что значит «кооп» в играх?|Соревнование друг с другом|Игра вместе против общего противника|Прохождение на время|Одиночная кампания
+en|What does "co-op" mean in games?|Competing against each other|Playing together against a common enemy|Playing against the clock|A single-player campaign
+es|¿Qué significa «cooperativo» en los videojuegos?|Competir unos contra otros|Jugar juntos contra un enemigo común|Jugar contrarreloj|Una campaña para un jugador
+ja|ゲームの「協力プレイ（Co-op）」とは？|プレイヤー同士で競い合うこと|仲間と一緒に共通の敵と戦う遊び方|タイムアタック|ひとり用のキャンペーン
+zh|游戏中的“合作模式（Co-op）”是什么意思？|玩家之间互相竞争|大家一起对抗共同的敌人|限时挑战|单人战役
+#Q 2259 3 1 1
+ru|Что значит FPS как название жанра игр?|Стратегия в реальном времени|Гонки|Шутер от первого лица|Головоломка
+en|As a game genre, what does FPS stand for?|Real-time strategy|Racing|First-person shooter|Puzzle
+es|Como género de videojuegos, ¿qué significa FPS?|Estrategia en tiempo real|Carreras|Shooter en primera persona|Puzle
+ja|ゲームのジャンルとしての「FPS」とは？|リアルタイムストラテジー|レース|一人称視点のシューティング|パズル
+zh|作为游戏类型，FPS指的是什么？|即时战略游戏|赛车游戏|第一人称射击游戏|益智游戏
+#Q 2260 1 1 1
+ru|Как называют игры, где можно свободно ходить по огромной карте куда угодно?|Игры с открытым миром|Аркады|Визуальные новеллы|Головоломки
+en|What are games called where you can roam freely anywhere across a huge map?|Open-world games|Arcade games|Visual novels|Puzzle games
+es|¿Cómo se llaman los juegos en los que puedes ir libremente a cualquier parte de un mapa enorme?|Juegos de mundo abierto|Juegos arcade|Novelas visuales|Juegos de puzles
+ja|広大なマップを自由にどこへでも歩き回れるゲームを何という？|オープンワールド|アーケードゲーム|ノベルゲーム|パズルゲーム
+zh|可以在巨大地图上自由前往任何地方的游戏叫什么？|开放世界游戏|街机游戏|视觉小说|益智游戏
+#Q 2261 4 1 1
+ru|Какие существа в Half-Life прыгают людям на голову?|Гумбы|Криперы|Слаймы|Хедкрабы
+en|Which creatures in Half-Life leap onto people's heads?|Goombas|Creepers|Slimes|Headcrabs
+es|¿Qué criaturas de Half-Life saltan a la cabeza de las personas?|Goombas|Creepers|Slimes|Headcrabs
+ja|「Half-Life」で人間の頭に飛びついてくる生き物は？|クリボー|クリーパー|スライム|ヘッドクラブ
+zh|在《半条命》中，会扑到人头上的生物是什么？|栗宝宝|苦力怕|史莱姆|猎头蟹
+#Q 2262 1 1 1
+ru|С кем сражаются выжившие в Left 4 Dead?|С ордами заражённых зомби|С инопланетянами|С роботами|С динозаврами
+en|Who do the survivors fight in Left 4 Dead?|Hordes of infected zombies|Aliens|Robots|Dinosaurs
+es|¿Contra quién luchan los supervivientes en Left 4 Dead?|Contra hordas de zombis infectados|Contra extraterrestres|Contra robots|Contra dinosaurios
+ja|「Left 4 Dead」で生存者たちが戦う相手は？|感染者のゾンビの大群|宇宙人|ロボット|恐竜
+zh|在《求生之路》中，幸存者们在和什么战斗？|成群的感染者丧尸|外星人|机器人|恐龙
+#Q 2263 4 1 1
+ru|Кто такой Спайро из одноимённой серии игр?|Синий ёжик|Оранжевый бандикут|Зелёный динозавр|Фиолетовый дракончик
+en|Who is Spyro, from the game series of the same name?|A blue hedgehog|An orange bandicoot|A green dinosaur|A little purple dragon
+es|¿Quién es Spyro, de la saga del mismo nombre?|Un erizo azul|Un bandicut naranja|Un dinosaurio verde|Un pequeño dragón morado
+ja|ゲームシリーズの主人公「スパイロ」とは？|青いハリネズミ|オレンジ色のバンディクート|緑の恐竜|紫色の小さなドラゴン
+zh|同名游戏系列的主角斯派罗是什么？|一只蓝色刺猬|一只橙色袋狸|一只绿色恐龙|一条紫色的小龙
+#Q 2264 4 1 1
+ru|В какой игре из Windows нужно найти все мины на поле?|Косынка|Червы|Пинбол|Сапёр
+en|In which Windows game do you have to find all the mines on the board?|Solitaire|Hearts|Pinball|Minesweeper
+es|¿En qué juego de Windows hay que encontrar todas las minas del tablero?|Solitario|Corazones|Pinball|Buscaminas
+ja|Windowsに入っていた、地雷をすべて見つけるゲームは？|ソリティア|ハーツ|ピンボール|マインスイーパ
+zh|在哪款Windows自带游戏中要找出所有地雷？|纸牌|红心大战|三维弹球|扫雷
+#Q 2265 2 1 1
+ru|Какой пасьянс много лет шёл вместе с Windows?|Покер|Косынка|Блэкджек|Дурак
+en|Which solitaire card game came with Windows for many years?|Poker|Klondike Solitaire|Blackjack|Durak
+es|¿Qué solitario de cartas venía con Windows durante muchos años?|Póker|Solitario Klondike|Blackjack|Durak
+ja|長年Windowsに付いてきた、ひとりで遊ぶトランプゲームは？|ポーカー|ソリティア（クロンダイク）|ブラックジャック|ドゥラーク
+zh|多年来随Windows附带的单人纸牌游戏是哪个？|扑克|纸牌（克朗代克）|二十一点|傻瓜牌
+#Q 2266 4 1 1
+ru|Кто бежит и прыгает через кактусы в игре Google Chrome без интернета?|Кот|Робот|Ёжик|Динозавр
+en|Who runs and jumps over cacti in Google Chrome's offline game?|A cat|A robot|A hedgehog|A dinosaur
+es|¿Quién corre y salta cactus en el juego de Google Chrome sin conexión?|Un gato|Un robot|Un erizo|Un dinosaurio
+ja|ネットに繋がらないときのGoogle Chromeのゲームで、サボテンを跳び越えて走るのは？|猫|ロボット|ハリネズミ|恐竜
+zh|谷歌浏览器断网小游戏里，奔跑着跳过仙人掌的是什么？|猫|机器人|刺猬|恐龙
+#Q 2267 2 1 1
+ru|Какая игра прославилась на старых телефонах Nokia?|Tetris|Snake (змейка)|Pac-Man|Angry Birds
+en|Which game became famous on old Nokia phones?|Tetris|Snake|Pac-Man|Angry Birds
+es|¿Qué juego se hizo famoso en los antiguos móviles Nokia?|Tetris|Snake (la serpiente)|Pac-Man|Angry Birds
+ja|昔のノキアの携帯電話で有名になったゲームは？|テトリス|スネーク|パックマン|アングリーバード
+zh|哪款游戏在老式诺基亚手机上非常出名？|俄罗斯方块|贪吃蛇|吃豆人|愤怒的小鸟
+#Q 2268 2 1 1
+ru|Каким животным является Говорящий Том из мобильных игр?|Собакой|Котом|Попугаем|Хомяком
+en|What animal is Talking Tom from the mobile games?|A dog|A cat|A parrot|A hamster
+es|¿Qué animal es Talking Tom, de los juegos para móvil?|Un perro|Un gato|Un loro|Un hámster
+ja|スマホゲームの「トーキング・トム」は何の動物？|犬|猫|オウム|ハムスター
+zh|手机游戏里的“会说话的汤姆”是什么动物？|狗|猫|鹦鹉|仓鼠
+#Q 2269 3 1 1
+ru|В какой браузерной игре нужно угадать слово из 5 букв за 6 попыток?|Скрэббл|Кроссворд|Wordle|Виселица
+en|In which browser game do you guess a 5-letter word in 6 tries?|Scrabble|Crossword|Wordle|Hangman
+es|¿En qué juego de navegador hay que adivinar una palabra de 5 letras en 6 intentos?|Scrabble|Crucigrama|Wordle|El ahorcado
+ja|5文字の英単語を6回以内に当てるブラウザゲームは？|スクラブル|クロスワード|Wordle|ハングマン
+zh|在哪款网页游戏中要在6次之内猜出一个5个字母的单词？|拼字游戏|填字游戏|Wordle|Hangman
+#Q 2270 2 1 1
+ru|Что такое лутбокс в играх?|Сундук с сохранениями|Коробка со случайными наградами|Ящик для мусора|Уровень-тренировка
+en|What is a loot box in games?|A chest that stores your saves|A box with random rewards|A trash bin|A training level
+es|¿Qué es una caja de botín en los videojuegos?|Un cofre para las partidas guardadas|Una caja con premios aleatorios|Una papelera|Un nivel de entrenamiento
+ja|ゲームの「ルートボックス（ガチャ箱）」とは？|セーブデータを入れる箱|中身がランダムな報酬の箱|ゴミ箱|練習用ステージ
+zh|游戏里的“战利品箱（开箱）”是什么？|保存存档的箱子|装着随机奖励的箱子|垃圾桶|练习关卡
+#Q 2271 1 2 1
+ru|Чего не любит ёж Соник?|Воды, он не умеет плавать|Огня|Снега|Темноты
+en|What does Sonic the Hedgehog dislike?|Water, because he can't swim|Fire|Snow|Darkness
+es|¿Qué no le gusta a Sonic?|El agua, porque no sabe nadar|El fuego|La nieve|La oscuridad
+ja|ソニックが苦手なものは？|水（泳げない）|火|雪|暗闇
+zh|索尼克害怕什么？|水，因为他不会游泳|火|雪|黑暗
+#Q 2272 4 2 1
+ru|Кого боятся криперы в Minecraft?|Собак|Кур|Жителей деревни|Кошек
+en|What are creepers afraid of in Minecraft?|Dogs|Chickens|Villagers|Cats
+es|¿A qué le tienen miedo los creepers en Minecraft?|A los perros|A las gallinas|A los aldeanos|A los gatos
+ja|マインクラフトでクリーパーが怖がって逃げる動物は？|犬|ニワトリ|村人|猫
+zh|在《我的世界》里，苦力怕害怕什么？|狗|鸡|村民|猫
+#Q 2273 1 2 1
+ru|Какой светящийся блок добывают в Нижнем мире Minecraft?|Светокамень|Обсидиан|Незерак|Песок душ
+en|Which glowing block is mined in the Nether in Minecraft?|Glowstone|Obsidian|Netherrack|Soul sand
+es|¿Qué bloque luminoso se extrae en el Nether de Minecraft?|Piedra luminosa|Obsidiana|Netherrack|Arena de almas
+ja|マインクラフトのネザーで採れる、光るブロックは？|グロウストーン|黒曜石|ネザーラック|ソウルサンド
+zh|在《我的世界》的下界里能采到哪种会发光的方块？|萤石|黑曜石|下界岩|灵魂沙
+#Q 2274 2 2 1
+ru|Из чего крафтят ведро в Minecraft?|Из досок|Из железных слитков|Из золотых слитков|Из камня
+en|What do you craft a bucket from in Minecraft?|Planks|Iron ingots|Gold ingots|Stone
+es|¿Con qué se fabrica un cubo en Minecraft?|Con tablas|Con lingotes de hierro|Con lingotes de oro|Con piedra
+ja|マインクラフトでバケツを作る材料は？|板材|鉄インゴット|金インゴット|石
+zh|在《我的世界》里，桶是用什么合成的？|木板|铁锭|金锭|石头
+#Q 2275 4 2 1
+ru|Как предатели в Among Us быстро перемещаются по кораблю?|Через телепорт|На лифте|По крыше|Через вентиляцию
+en|How do impostors in Among Us move around the ship quickly?|By teleporter|By elevator|Over the roof|Through the vents
+es|¿Cómo se mueven rápido los impostores por la nave en Among Us?|Con un teletransportador|En ascensor|Por el tejado|Por los conductos de ventilación
+ja|「Among Us」でインポスターが船内をすばやく移動する方法は？|テレポーターを使う|エレベーターに乗る|屋根の上を通る|通気口（ベント）を使う
+zh|在《Among Us》中，内鬼怎样在飞船里快速移动？|用传送器|坐电梯|从屋顶走|钻通风管道
+#Q 2276 3 2 1
+ru|Какие три материала собирают для строительства в Fortnite?|Песок, стекло и глина|Лёд, снег и вода|Дерево, камень и металл|Кости, шерсть и кожа
+en|Which three materials do you gather for building in Fortnite?|Sand, glass and clay|Ice, snow and water|Wood, stone and metal|Bone, wool and leather
+es|¿Qué tres materiales se recogen para construir en Fortnite?|Arena, vidrio y arcilla|Hielo, nieve y agua|Madera, piedra y metal|Hueso, lana y cuero
+ja|「フォートナイト」で建築のために集める3つの資材は？|砂・ガラス・粘土|氷・雪・水|木材・石材・金属|骨・羊毛・革
+zh|在《堡垒之夜》中，建造时要收集哪三种材料？|沙子、玻璃和黏土|冰、雪和水|木材、石头和金属|骨头、羊毛和皮革
+#Q 2277 3 2 1
+ru|Сколько главных героев в сюжете GTA V?|1|2|3|4
+en|How many main characters are there in the GTA V story?|1|2|3|4
+es|¿Cuántos protagonistas tiene la historia de GTA V?|1|2|3|4
+ja|「グランド・セフト・オートV」のストーリーの主人公は何人？|1人|2人|3人|4人
+zh|《侠盗猎车手5》的故事有几位主角？|1位|2位|3位|4位
+#Q 2278 4 2 1
+ru|Что даёт знаменитый чит-код motherlode в The Sims?|Бессмертие|Новый дом|Новых друзей|Много денег
+en|What does the famous cheat code "motherlode" give you in The Sims?|Immortality|A new house|New friends|Lots of money
+es|¿Qué te da el famoso truco «motherlode» en Los Sims?|La inmortalidad|Una casa nueva|Nuevos amigos|Mucho dinero
+ja|「ザ・シムズ」の有名なチートコード「motherlode」の効果は？|不死身になる|新しい家がもらえる|友達が増える|大金が手に入る
+zh|《模拟人生》中著名的秘籍“motherlode”有什么效果？|长生不死|得到新房子|多交新朋友|获得一大笔钱
+#Q 2279 2 2 1
+ru|Из чего делали аксессуары Nintendo Labo для Switch?|Из дерева|Из картона|Из пластика|Из металла
+en|What were the Nintendo Labo accessories for Switch made of?|Wood|Cardboard|Plastic|Metal
+es|¿De qué estaban hechos los accesorios Nintendo Labo para Switch?|De madera|De cartón|De plástico|De metal
+ja|Nintendo Switch用の「Nintendo Labo」は何で組み立てる？|木|段ボール|プラスチック|金属
+zh|Switch的“Nintendo Labo”配件是用什么做的？|木头|硬纸板|塑料|金属
+#Q 2280 1 2 1
+ru|Что значит RPG как жанр игр?|Ролевая игра|Ракетная стрелялка|Гоночная игра|Пошаговая головоломка
+en|As a game genre, what does RPG stand for?|Role-playing game|Rocket-propelled game|Racing pro game|Real puzzle game
+es|Como género de videojuegos, ¿qué significa RPG?|Juego de rol|Juego de cohetes|Juego de carreras|Juego de puzles
+ja|ゲームのジャンル「RPG」とは？|ロールプレイングゲーム|ロケット発射ゲーム|レーシングゲーム|パズルゲーム
+zh|作为游戏类型，RPG是什么意思？|角色扮演游戏|火箭射击游戏|赛车游戏|益智游戏
+#Q 2281 1 2 1
+ru|Что игроки называют гриндом?|Долгое однообразное повторение ради прокачки|Быстрое прохождение игры|Игру без звука|Прыжок через стену
+en|What do players mean by "grinding"?|Repeating the same task over and over to level up|Finishing a game very fast|Playing with the sound off|Jumping over a wall
+es|¿Qué llaman los jugadores «farmear» o «grindear»?|Repetir lo mismo una y otra vez para subir de nivel|Terminar un juego muy rápido|Jugar sin sonido|Saltar un muro
+ja|ゲーマーの言う「グラインド（稼ぎ作業）」とは？|レベル上げのために同じことを何度も繰り返すこと|ゲームをとても速くクリアすること|音を消して遊ぶこと|壁を飛び越えること
+zh|玩家说的“刷（grind）”是什么意思？|为了升级一遍遍重复同样的事情|非常快速地通关|关掉声音玩游戏|跳过墙壁
+#Q 2282 4 2 1
+ru|Как зовут командира, главного героя трилогии Mass Effect?|Мастер Чиф|Маркус Феникс|Сэм Фишер|Шепард
+en|What is the name of the commander who is the hero of the Mass Effect trilogy?|Master Chief|Marcus Fenix|Sam Fisher|Shepard
+es|¿Cómo se llama el comandante protagonista de la trilogía Mass Effect?|Jefe Maestro|Marcus Fenix|Sam Fisher|Shepard
+ja|「マスエフェクト」三部作の主人公の司令官の名前は？|マスターチーフ|マーカス・フェニックス|サム・フィッシャー|シェパード
+zh|《质量效应》三部曲的主角指挥官叫什么？|士官长|马库斯·菲尼克斯|山姆·费舍尔|薛帕德
+#Q 2283 3 2 1
+ru|Как называется наручный компьютер героя в серии Fallout?|Омни-инструмент|Кодек|Пип-Бой|Анимус
+en|What is the wrist computer worn in the Fallout series called?|Omni-tool|Codec|Pip-Boy|Animus
+es|¿Cómo se llama el ordenador de muñeca de la saga Fallout?|Omniherramienta|Códec|Pip-Boy|Animus
+ja|「Fallout」シリーズで主人公が腕に付けているコンピューターは？|オムニツール|コーデック|Pip-Boy|アニムス
+zh|《辐射》系列中戴在手腕上的电脑叫什么？|万用工具|无线电通讯器|哔哔小子|Animus
+#Q 2284 1 2 1
+ru|Что такое «прыжок веры» в серии Assassin's Creed?|Прыжок с огромной высоты в стог сена|Двойной прыжок в воздухе|Прыжок через пропасть на лошади|Прыжок в портал
+en|What is the "Leap of Faith" in the Assassin's Creed series?|A jump from a great height into a haystack|A double jump in midair|Leaping a chasm on horseback|A jump into a portal
+es|¿Qué es el «salto de fe» en la saga Assassin's Creed?|Un salto desde gran altura a un montón de paja|Un doble salto en el aire|Saltar un abismo a caballo|Un salto a un portal
+ja|「アサシン クリード」シリーズの「イーグルダイブ（信念の跳躍）」とは？|高い所から干し草の山へ飛び降りること|空中での二段ジャンプ|馬で谷を飛び越えること|ポータルに飛び込むこと
+zh|《刺客信条》系列中的“信仰之跃”是什么？|从高处跳进干草堆|空中二段跳|骑马跃过深谷|跳进传送门
+#Q 2285 3 2 1
+ru|Какой номер у лысого агента из серии Hitman?|007|13|47|99
+en|What number is the bald agent from the Hitman series?|007|13|47|99
+es|¿Qué número tiene el agente calvo de la saga Hitman?|007|13|47|99
+ja|「ヒットマン」シリーズのスキンヘッドの暗殺者のコードネームの数字は？|007|13|47|99
+zh|《杀手》系列中那位光头特工的代号数字是多少？|007|13|47|99
+#Q 2286 2 2 1
+ru|По правилам какой настольной ролевой игры сделана Baldur's Gate 3?|Warhammer|Dungeons & Dragons|Pathfinder|Magic: The Gathering
+en|Baldur's Gate 3 follows the rules of which tabletop role-playing game?|Warhammer|Dungeons & Dragons|Pathfinder|Magic: The Gathering
+es|¿Las reglas de qué juego de rol de mesa sigue Baldur's Gate 3?|Warhammer|Dungeons & Dragons|Pathfinder|Magic: The Gathering
+ja|「バルダーズ・ゲート3」が採用しているテーブルトークRPGのルールは？|ウォーハンマー|ダンジョンズ＆ドラゴンズ|パスファインダー|マジック：ザ・ギャザリング
+zh|《博德之门3》采用的是哪款桌面角色扮演游戏的规则？|战锤|龙与地下城|开拓者|万智牌
+#Q 2287 4 2 1
+ru|Какую игру прозвали «покемонами с оружием»?|Temtem|Digimon Story|Monster Hunter|Palworld
+en|Which game was nicknamed "Pokémon with guns"?|Temtem|Digimon Story|Monster Hunter|Palworld
+es|¿Qué juego recibió el apodo de «Pokémon con armas»?|Temtem|Digimon Story|Monster Hunter|Palworld
+ja|「銃を持ったポケモン」と呼ばれたゲームは？|Temtem|デジモンストーリー|モンスターハンター|パルワールド
+zh|哪款游戏被戏称为“拿枪的宝可梦”？|Temtem|数码宝贝物语|怪物猎人|幻兽帕鲁
+#Q 2288 1 3 1
+ru|Каким цветом показывала изображение неудачная приставка Nintendo Virtual Boy?|Красным|Зелёным|Синим|Жёлтым
+en|In what color did Nintendo's failed Virtual Boy console show its images?|Red|Green|Blue|Yellow
+es|¿De qué color mostraba las imágenes la fracasada consola Virtual Boy de Nintendo?|Rojo|Verde|Azul|Amarillo
+ja|任天堂の「バーチャルボーイ」の映像は何色だった？|赤|緑|青|黄色
+zh|任天堂失败的游戏机Virtual Boy用什么颜色显示画面？|红色|绿色|蓝色|黄色
+#Q 2289 4 3 1
+ru|Какой была последняя игровая приставка Sega?|Saturn|Mega Drive|Game Gear|Dreamcast
+en|What was Sega's last game console?|Saturn|Mega Drive|Game Gear|Dreamcast
+es|¿Cuál fue la última consola de Sega?|Saturn|Mega Drive|Game Gear|Dreamcast
+ja|セガが最後に発売した家庭用ゲーム機は？|セガサターン|メガドライブ|ゲームギア|ドリームキャスト
+zh|世嘉推出的最后一款游戏机是哪款？|Saturn|Mega Drive|Game Gear|Dreamcast
+#Q 2290 4 3 1
+ru|Как называлась самая первая домашняя игровая приставка 1972 года?|Atari 2600|ColecoVision|NES|Magnavox Odyssey
+en|What was the very first home video game console, from 1972?|Atari 2600|ColecoVision|NES|Magnavox Odyssey
+es|¿Cuál fue la primera consola doméstica de videojuegos, de 1972?|Atari 2600|ColecoVision|NES|Magnavox Odyssey
+ja|1972年に発売された、世界初の家庭用ゲーム機は？|Atari 2600|コレコビジョン|ファミコン|オデッセイ（マグナボックス）
+zh|1972年推出的世界上第一台家用游戏机是什么？|雅达利2600|ColecoVision|红白机|Magnavox Odyssey
+#Q 2291 2 3 1
+ru|В каком году появился магазин Steam?|1998|2003|2008|2011
+en|In which year did the Steam store launch?|1998|2003|2008|2011
+es|¿En qué año se lanzó Steam?|1998|2003|2008|2011
+ja|Steamがサービスを開始したのは何年？|1998年|2003年|2008年|2011年
+zh|Steam平台是哪一年推出的？|1998年|2003年|2008年|2011年
+#Q 2292 4 3 1
+ru|Что такое хитбокс в играх?|Сундук с оружием|Список лучших игроков|Кнопка быстрого удара|Невидимая зона, по которой считается попадание
+en|What is a hitbox in games?|A chest full of weapons|A leaderboard|A quick-attack button|An invisible area that counts as being hit
+es|¿Qué es una hitbox en los videojuegos?|Un cofre lleno de armas|Una tabla de clasificación|Un botón de ataque rápido|Una zona invisible que cuenta como impacto
+ja|ゲームの「当たり判定（ヒットボックス）」とは？|武器の入った箱|ランキング表|素早く攻撃するボタン|攻撃が当たったとみなされる見えない範囲
+zh|游戏中的“判定框（hitbox）”是什么？|装满武器的箱子|排行榜|快速攻击键|判定是否被击中的隐形区域
+#Q 2293 4 3 1
+ru|Кому принадлежит мем-фраза «It just works» («Оно просто работает»)?|Гейбу Ньюэллу|Хидэо Кодзиме|Питеру Молиньё|Тодду Говарду
+en|Who said the meme phrase "It just works"?|Gabe Newell|Hideo Kojima|Peter Molyneux|Todd Howard
+es|¿Quién dijo la frase convertida en meme «It just works»?|Gabe Newell|Hideo Kojima|Peter Molyneux|Todd Howard
+ja|ミームになったフレーズ「It just works」を言ったのは誰？|ゲイブ・ニューウェル|小島秀夫|ピーター・モリニュー|トッド・ハワード
+zh|成为梗的那句“It just works”是谁说的？|加布·纽维尔|小岛秀夫|彼得·莫利纽克斯|陶德·霍华德
+#Q 2294 4 3 1
+ru|Что позволяет отматывать время в Prince of Persia: The Sands of Time?|Песочные часы|Кольцо|Амулет|Кинжал
+en|What lets you rewind time in Prince of Persia: The Sands of Time?|An hourglass|A ring|An amulet|A dagger
+es|¿Qué permite rebobinar el tiempo en Prince of Persia: Las arenas del tiempo?|Un reloj de arena|Un anillo|Un amuleto|Una daga
+ja|「プリンス・オブ・ペルシャ 時間の砂」で時間を巻き戻せる道具は？|砂時計|指輪|お守り|短剣
+zh|在《波斯王子：时之沙》中，什么能让时间倒流？|沙漏|戒指|护身符|一把匕首
+#Q 2295 2 3 1
+ru|Каким приёмом прославилась игра Max Payne?|Двойным прыжком|Замедлением времени в перестрелках|Невидимостью|Разрушением зданий
+en|Which feature made Max Payne famous?|A double jump|Slowing down time in gunfights|Invisibility|Destroying buildings
+es|¿Qué mecánica hizo famoso a Max Payne?|El doble salto|Ralentizar el tiempo en los tiroteos|La invisibilidad|Destruir edificios
+ja|「マックス・ペイン」を有名にしたゲームの特徴は？|二段ジャンプ|銃撃戦で時間をゆっくりにする|透明化|建物の破壊
+zh|《马克思·佩恩》因为什么玩法而出名？|二段跳|枪战中让时间变慢|隐身|摧毁建筑
+#Q 2296 2 3 1
+ru|Какая студия создала Crash Bandicoot, а позже Uncharted и The Last of Us?|Insomniac Games|Naughty Dog|Santa Monica Studio|Guerrilla Games
+en|Which studio created Crash Bandicoot and later Uncharted and The Last of Us?|Insomniac Games|Naughty Dog|Santa Monica Studio|Guerrilla Games
+es|¿Qué estudio creó Crash Bandicoot y más tarde Uncharted y The Last of Us?|Insomniac Games|Naughty Dog|Santa Monica Studio|Guerrilla Games
+ja|「クラッシュ・バンディクー」と、のちに「アンチャーテッド」「The Last of Us」を作ったスタジオは？|インソムニアック・ゲームズ|ノーティードッグ|サンタモニカスタジオ|ゲリラゲームズ
+zh|哪家工作室创造了《古惑狼》，后来又做了《神秘海域》和《最后生还者》？|Insomniac Games|顽皮狗|圣莫尼卡工作室|Guerrilla Games
+#Q 2297 1 3 1
+ru|Какая игра стала «Игрой года» на The Game Awards 2024?|Astro Bot|Elden Ring|Baldur's Gate 3|Black Myth: Wukong
+en|Which game won Game of the Year at The Game Awards 2024?|Astro Bot|Elden Ring|Baldur's Gate 3|Black Myth: Wukong
+es|¿Qué juego ganó el premio al Juego del Año en The Game Awards 2024?|Astro Bot|Elden Ring|Baldur's Gate 3|Black Myth: Wukong
+ja|「The Game Awards 2024」でゲーム・オブ・ザ・イヤーに選ばれたのは？|アストロボット|エルデンリング|バルダーズ・ゲート3|黒神話：悟空
+zh|哪款游戏获得了The Game Awards 2024年度游戏？|宇宙机器人|艾尔登法环|博德之门3|黑神话：悟空
+#Q 2298 4 3 1
+ru|Как зовут героиню игры Hollow Knight: Silksong?|Мэдлин|Самус|Лара|Хорнет
+en|What is the name of the heroine of Hollow Knight: Silksong?|Madeline|Samus|Lara|Hornet
+es|¿Cómo se llama la protagonista de Hollow Knight: Silksong?|Madeline|Samus|Lara|Hornet
+ja|「Hollow Knight: Silksong」の主人公の名前は？|マデリン|サムス|ララ|ホーネット
+zh|《空洞骑士：丝之歌》的女主角叫什么？|玛德琳|萨姆斯|劳拉|大黄蜂
+#Q 2299 1 3 1
+ru|В какой стране создали самую первую GTA?|В Великобритании|В США|В Канаде|В Германии
+en|In which country was the very first GTA made?|The United Kingdom|The USA|Canada|Germany
+es|¿En qué país se creó el primer GTA?|En Reino Unido|En Estados Unidos|En Canadá|En Alemania
+ja|初代「GTA」が作られた国は？|イギリス|アメリカ|カナダ|ドイツ
+zh|第一代《GTA》是在哪个国家制作的？|英国|美国|加拿大|德国
+#Q 2300 1 3 1
+ru|Какая компания создала Pokémon GO?|Niantic|Game Freak|Nintendo|Supercell
+en|Which company created Pokémon GO?|Niantic|Game Freak|Nintendo|Supercell
+es|¿Qué empresa creó Pokémon GO?|Niantic|Game Freak|Nintendo|Supercell
+ja|「Pokémon GO」を開発した会社は？|ナイアンティック|ゲームフリーク|任天堂|Supercell
+zh|《Pokémon GO》是哪家公司开发的？|Niantic|Game Freak|任天堂|Supercell
+#Q 2301 1 1 1
+ru|Какого цвета покемон Чармандер?|Оранжевого|Синего|Зелёного|Фиолетового
+en|What color is the Pokémon Charmander?|Orange|Blue|Green|Purple
+es|¿De qué color es el Pokémon Charmander?|Naranja|Azul|Verde|Morado
+ja|ポケモンのヒトカゲの体の色は？|オレンジ色|青|緑|紫
+zh|宝可梦小火龙是什么颜色的？|橙色|蓝色|绿色|紫色
+#Q 2302 2 1 1
+ru|Какой розовый круглый покемон усыпляет всех своей песней?|Клефэйри|Джигглипафф|Чанси|Слоупок
+en|Which round pink Pokémon sings everyone to sleep?|Clefairy|Jigglypuff|Chansey|Slowpoke
+es|¿Qué Pokémon rosa y redondo duerme a todos con su canción?|Clefairy|Jigglypuff|Chansey|Slowpoke
+ja|歌でみんなを眠らせてしまう、ピンク色の丸いポケモンは？|ピッピ|プリン|ラッキー|ヤドン
+zh|哪只粉红色的圆滚滚宝可梦会用歌声让大家睡着？|皮皮|胖丁|吉利蛋|呆呆兽
+#Q 2303 2 1 1
+ru|Какое животное в Minecraft можно подоить ведром?|Овцу|Корову|Свинью|Лошадь
+en|Which animal in Minecraft can you milk with a bucket?|A sheep|A cow|A pig|A horse
+es|¿A qué animal de Minecraft se puede ordeñar con un cubo?|A la oveja|A la vaca|Al cerdo|Al caballo
+ja|マインクラフトでバケツを使って牛乳が取れる動物は？|ヒツジ|ウシ|ブタ|ウマ
+zh|在《我的世界》里，可以用桶给哪种动物挤奶？|羊|牛|猪|马
+#Q 2304 4 1 1
+ru|Какой моб в Minecraft бросается зельями?|Зомби|Паук|Крипер|Ведьма
+en|Which Minecraft mob throws potions?|Zombie|Spider|Creeper|Witch
+es|¿Qué criatura de Minecraft lanza pociones?|El zombi|La araña|El creeper|La bruja
+ja|マインクラフトで、ポーションを投げてくるモブは？|ゾンビ|クモ|クリーパー|ウィッチ
+zh|在《我的世界》里，哪种生物会扔药水？|僵尸|蜘蛛|苦力怕|女巫
+#Q 2305 2 1 1
+ru|Как в Minecraft пропустить ночь?|Зажечь факел|Лечь спать в кровать|Выпить молоко|Прыгнуть в воду
+en|How do you skip the night in Minecraft?|Light a torch|Sleep in a bed|Drink milk|Jump into water
+es|¿Cómo se salta la noche en Minecraft?|Encendiendo una antorcha|Durmiendo en una cama|Bebiendo leche|Saltando al agua
+ja|マインクラフトで夜をスキップする方法は？|松明をつける|ベッドで寝る|牛乳を飲む|水に飛び込む
+zh|在《我的世界》里，怎样跳过黑夜？|点燃火把|在床上睡觉|喝牛奶|跳进水里
+#Q 2306 4 1 1
+ru|Что происходит с обычными зомби в Minecraft на солнце?|Они засыпают|Они растут|Они становятся мирными|Они загораются
+en|What happens to regular zombies in Minecraft in sunlight?|They fall asleep|They grow bigger|They become friendly|They catch fire
+es|¿Qué les pasa a los zombis normales de Minecraft bajo el sol?|Se duermen|Crecen|Se vuelven pacíficos|Se prenden fuego
+ja|マインクラフトの普通のゾンビは、日光を浴びるとどうなる？|眠る|大きくなる|おとなしくなる|燃える
+zh|在《我的世界》里，普通僵尸晒到太阳会怎样？|睡着|变大|变得友好|着火
+#Q 2307 4 1 1
+ru|Что подбирает Линк в The Legend of Zelda, чтобы восстановить здоровье?|Звёзды|Монеты|Ключи|Сердечки
+en|What does Link pick up in The Legend of Zelda to restore health?|Stars|Coins|Keys|Hearts
+es|¿Qué recoge Link en The Legend of Zelda para recuperar salud?|Estrellas|Monedas|Llaves|Corazones
+ja|「ゼルダの伝説」でリンクが体力を回復するために拾うものは？|星|コイン|カギ|ハート
+zh|在《塞尔达传说》中，林克捡起什么来恢复体力？|星星|金币|钥匙|红心
+#Q 2308 3 1 1
+ru|Что даёт Гриб в Mario Kart?|Неуязвимость|Невидимость|Ускорение|Лишний круг
+en|What does the Mushroom do in Mario Kart?|Makes you invincible|Makes you invisible|Gives you a speed boost|Gives you an extra lap
+es|¿Qué hace el Champiñón en Mario Kart?|Te hace invencible|Te vuelve invisible|Te da un acelerón|Te da una vuelta extra
+ja|マリオカートでキノコを使うとどうなる？|無敵になる|透明になる|加速する|1周多く走れる
+zh|在《马力欧卡丁车》中，蘑菇有什么作用？|无敌|隐身|加速|多跑一圈
+#Q 2309 2 1 1
+ru|Как Кирби взлетает в воздух сам по себе?|Машет крыльями|Надувается воздухом|Крутится как пропеллер|Включает реактивный ранец
+en|How does Kirby fly up into the air on his own?|He flaps his wings|He puffs himself up with air|He spins like a propeller|He uses a jetpack
+es|¿Cómo vuela Kirby por sí mismo?|Bate las alas|Se infla de aire|Gira como una hélice|Usa una mochila propulsora
+ja|カービィが自分の力で空を飛ぶ方法は？|羽をはばたかせる|空気を吸い込んでふくらむ|プロペラのように回る|ジェットパックを使う
+zh|星之卡比自己是怎样飞起来的？|拍打翅膀|吸气把自己鼓起来|像螺旋桨一样旋转|用喷气背包
+#Q 2310 3 1 1
+ru|Что закладывают террористы в обычном режиме Counter-Strike?|Флаг|Ловушку|Бомбу|Капсулу с ядом
+en|What do the terrorists plant in the standard Counter-Strike mode?|A flag|A trap|A bomb|A poison capsule
+es|¿Qué colocan los terroristas en el modo normal de Counter-Strike?|Una bandera|Una trampa|Una bomba|Una cápsula de veneno
+ja|「カウンターストライク」の基本ルールで、テロリスト側が設置するものは？|旗|罠|爆弾|毒のカプセル
+zh|在《反恐精英》的爆破模式中，恐怖分子要安放什么？|旗帜|陷阱|炸弹|毒药胶囊
+#Q 2311 2 1 1
+ru|Каким спортом занимаются в серии Tony Hawk's Pro Skater?|Сёрфингом|Скейтбордингом|Сноубордом|Велосипедом BMX
+en|Which sport do you do in the Tony Hawk's Pro Skater series?|Surfing|Skateboarding|Snowboarding|BMX biking
+es|¿Qué deporte se practica en la saga Tony Hawk's Pro Skater?|Surf|Skateboard|Snowboard|BMX
+ja|「トニー・ホーク プロスケーター」シリーズで遊べるスポーツは？|サーフィン|スケートボード|スノーボード|BMX
+zh|《托尼·霍克职业滑板》系列玩的是什么运动？|冲浪|滑板|单板滑雪|小轮车
+#Q 2312 2 1 1
+ru|Что называют комбо в файтингах?|Финальный ролик|Серию ударов подряд, которую трудно прервать|Смену персонажа|Паузу между раундами
+en|What is a combo in fighting games?|The ending cutscene|A chain of hits in a row that is hard to break|Switching characters|The pause between rounds
+es|¿Qué es un combo en los juegos de lucha?|La escena final|Una serie de golpes seguidos difícil de cortar|Cambiar de personaje|La pausa entre rondas
+ja|格闘ゲームの「コンボ」とは？|エンディングのムービー|途切れずにつながる連続攻撃|キャラクターの交代|ラウンド間の休憩
+zh|格斗游戏里的“连招（combo）”是什么？|结局动画|难以打断的一连串攻击|切换角色|回合间的休息
+#Q 2313 3 1 1
+ru|Кого называют хилером в командных играх?|Персонажа, который принимает весь урон|Разведчика|Персонажа, который лечит союзников|Снайпера
+en|Who is the "healer" in team games?|The character who soaks up damage|The scout|The character who heals allies|The sniper
+es|¿Quién es el «sanador» en los juegos de equipo?|El personaje que aguanta el daño|El explorador|El personaje que cura a los aliados|El francotirador
+ja|チーム戦のゲームで「ヒーラー」とは？|ダメージを引き受けるキャラクター|偵察役|味方を回復するキャラクター|スナイパー
+zh|团队游戏里的“奶妈（治疗）”指什么？|承受伤害的角色|侦察兵|给队友回血的角色|狙击手
+#Q 2314 4 1 1
+ru|Что такое мод для игры?|Официальный трейлер|Режим паузы|Таблица рекордов|Изменение игры, сделанное фанатами
+en|What is a game mod?|An official trailer|A pause mode|A high-score table|A change to the game made by fans
+es|¿Qué es un mod de un juego?|Un tráiler oficial|Un modo de pausa|Una tabla de récords|Un cambio al juego hecho por fans
+ja|ゲームの「MOD」とは？|公式の予告映像|一時停止モード|ハイスコア表|ファンが作ったゲームの改造データ
+zh|游戏的“模组（MOD）”是什么？|官方预告片|暂停模式|最高分排行榜|玩家制作的游戏修改内容
+#Q 2315 1 1 1
+ru|Что такое патч для игры?|Обновление с исправлениями|Новая приставка|Скидка в магазине|Чит-код
+en|What is a game patch?|An update with fixes|A new console|A store discount|A cheat code
+es|¿Qué es un parche de un juego?|Una actualización con correcciones|Una consola nueva|Un descuento en la tienda|Un truco
+ja|ゲームの「パッチ」とは？|修正のためのアップデート|新しいゲーム機|お店の値引き|チートコード
+zh|游戏的“补丁”是什么？|带有修复内容的更新|新的游戏机|商店折扣|作弊码
+#Q 2316 3 1 1
+ru|Что такое инди-игра?|Игра про Индию|Игра только для приставок|Игра от небольшой независимой команды|Бесплатная игра от крупной компании
+en|What is an indie game?|A game about India|A console-only game|A game by a small independent team|A free game from a big company
+es|¿Qué es un juego indie?|Un juego sobre la India|Un juego solo para consolas|Un juego de un pequeño equipo independiente|Un juego gratis de una gran empresa
+ja|「インディーゲーム」とは？|インドが舞台のゲーム|家庭用ゲーム機専用のゲーム|小さな独立系チームが作ったゲーム|大企業の無料ゲーム
+zh|“独立游戏”是什么？|以印度为背景的游戏|只能在主机上玩的游戏|由小型独立团队制作的游戏|大公司的免费游戏
+#Q 2317 1 1 1
+ru|Как игроки называют достижение в игре?|Ачивка|Абилка|Аггро|Апгрейд
+en|What is an in-game accomplishment called?|An achievement|An ability|Aggro|An upgrade
+es|¿Cómo se llama un logro en un videojuego?|Logro|Habilidad|Aggro|Mejora
+ja|ゲーム内で特定の条件を満たすともらえる称号のようなものは？|実績（トロフィー）|アビリティ|ヘイト|アップグレード
+zh|在游戏中完成特定条件获得的荣誉叫什么？|成就|技能|仇恨值|升级
+#Q 2318 3 1 1
+ru|В каком городе происходит действие игры Marvel's Spider-Man 2018 года?|В Лос-Анджелесе|В Чикаго|В Нью-Йорке|В Лондоне
+en|In which city is the 2018 game Marvel's Spider-Man set?|Los Angeles|Chicago|New York|London
+es|¿En qué ciudad transcurre el juego Marvel's Spider-Man de 2018?|Los Ángeles|Chicago|Nueva York|Londres
+ja|2018年のゲーム「Marvel's Spider-Man」の舞台となる都市は？|ロサンゼルス|シカゴ|ニューヨーク|ロンドン
+zh|2018年的游戏《漫威蜘蛛侠》的故事发生在哪座城市？|洛杉矶|芝加哥|纽约|伦敦
+#Q 2319 3 1 1
+ru|Что значит «стелс» в играх?|Быстрая езда|Строительство базы|Скрытное прохождение незаметно для врагов|Игра на двоих
+en|What does "stealth" mean in games?|Driving fast|Building a base|Getting through unseen by enemies|Playing as a pair
+es|¿Qué significa «sigilo» en los videojuegos?|Conducir rápido|Construir una base|Avanzar sin que te vean los enemigos|Jugar en pareja
+ja|ゲームの「ステルス」とは？|速く車を走らせること|基地を建てること|敵に見つからないようにこっそり進むこと|2人で遊ぶこと
+zh|游戏里的“潜行”是什么意思？|快速开车|建造基地|不被敌人发现地悄悄前进|两人一起玩
+#Q 2320 3 1 1
+ru|Что можно скрафтить из девяти алмазов в Minecraft?|Алмазную броню целиком|Портал|Алмазный блок|Маяк
+en|What can you craft from nine diamonds in Minecraft?|A full set of diamond armor|A portal|A block of diamond|A beacon
+es|¿Qué se puede fabricar con nueve diamantes en Minecraft?|Una armadura de diamante completa|Un portal|Un bloque de diamante|Un faro
+ja|マインクラフトで、ダイヤモンド9個から作れるものは？|ダイヤモンドの防具一式|ポータル|ダイヤモンドブロック|ビーコン
+zh|在《我的世界》里，九颗钻石可以合成什么？|一整套钻石盔甲|传送门|钻石块|信标
+#Q 2321 4 1 1
+ru|Что такое эмоции в Fortnite?|Настроение персонажа, влияющее на силу|Смайлики в чате|Награды за победу|Танцы и жесты персонажа
+en|What are emotes in Fortnite?|A mood that affects your power|Chat smileys|Rewards for winning|Character dances and gestures
+es|¿Qué son los gestos en Fortnite?|Un estado de ánimo que cambia tu fuerza|Emoticonos del chat|Premios por ganar|Bailes y movimientos del personaje
+ja|「フォートナイト」の「エモート」とは？|強さに影響する気分|チャットの絵文字|勝利のご褒美|キャラクターのダンスやジェスチャー
+zh|《堡垒之夜》里的“表情动作”是什么？|影响战斗力的心情|聊天表情|胜利奖励|角色的舞蹈和动作
+#Q 2322 2 2 1
+ru|Кто приходит в Minecraft с двумя ламами и продаёт редкие товары?|Ведьма|Странствующий торговец|Разбойник|Кузнец
+en|Who shows up in Minecraft with two llamas and sells rare goods?|The witch|The wandering trader|The pillager|The blacksmith
+es|¿Quién aparece en Minecraft con dos llamas y vende objetos raros?|La bruja|El vendedor ambulante|El saqueador|El herrero
+ja|マインクラフトで、2頭のラマを連れて現れ、珍しい品を売る人物は？|ウィッチ|行商人|ピリジャー|鍛冶屋
+zh|在《我的世界》里，带着两只羊驼出现、出售稀有物品的是谁？|女巫|流浪商人|掠夺者|铁匠
+#Q 2323 3 2 1
+ru|Что крафтят в Minecraft из трёх шерсти и трёх досок?|Ковёр|Флаг|Кровать|Картину
+en|What do you craft in Minecraft from three wool and three planks?|A carpet|A banner|A bed|A painting
+es|¿Qué se fabrica en Minecraft con tres de lana y tres tablas?|Una alfombra|Un estandarte|Una cama|Un cuadro
+ja|マインクラフトで、羊毛3つと板材3つで作れるものは？|カーペット|旗|ベッド|絵画
+zh|在《我的世界》里，三块羊毛加三块木板可以合成什么？|地毯|旗帜|床|画
+#Q 2324 2 2 1
+ru|Как выглядит враг Чейн Чомп из игр про Марио?|Летающая черепаха|Чёрный шар с зубами на цепи|Огненный цветок|Привидение с языком
+en|What does the Mario enemy Chain Chomp look like?|A flying turtle|A black ball with teeth on a chain|A fire flower|A ghost with its tongue out
+es|¿Cómo es el enemigo de Mario llamado Chomp Cadenas?|Una tortuga voladora|Una bola negra con dientes atada a una cadena|Una flor de fuego|Un fantasma con la lengua fuera
+ja|マリオシリーズの敵「ワンワン」はどんな姿？|空を飛ぶカメ|鎖につながれた歯のある黒い玉|ファイアフラワー|舌を出したおばけ
+zh|马力欧系列里的敌人“汪汪”长什么样？|会飞的乌龟|拴着锁链、长着牙的黑色圆球|火焰花|吐着舌头的幽灵
+#Q 2325 3 2 1
+ru|Сколько разных фигур в классическом «Тетрисе»?|5|6|7|9
+en|How many different pieces are there in classic Tetris?|5|6|7|9
+es|¿Cuántas piezas diferentes hay en el Tetris clásico?|5|6|7|9
+ja|クラシックなテトリスには、何種類のブロックがある？|5種類|6種類|7種類|9種類
+zh|经典《俄罗斯方块》中一共有几种不同的方块？|5种|6种|7种|9种
+#Q 2326 1 2 1
+ru|Как зовут пса-музыканта с гитарой из Animal Crossing?|К.К. Слайдер|Том Нук|Изабель|Блейзерс
+en|What is the name of the guitar-playing dog in Animal Crossing?|K.K. Slider|Tom Nook|Isabelle|Blathers
+es|¿Cómo se llama el perro guitarrista de Animal Crossing?|Totakeke|Tom Nook|Canela|Sócrates
+ja|「どうぶつの森」でギターを弾く犬のミュージシャンは？|とたけけ|たぬきち|しずえ|フータ
+zh|《动物森友会》里那只弹吉他的狗音乐家叫什么？|K.K.|狸克|西施惠|傅达
+#Q 2327 3 2 1
+ru|Какой звук много лет издавал персонаж Roblox, когда погибал?|«Ouch»|«Game over»|«Oof»|«Bye»
+en|Which sound did a Roblox character make for years when it died?|"Ouch"|"Game over"|"Oof"|"Bye"
+es|¿Qué sonido hizo durante años el personaje de Roblox al morir?|«Ouch»|«Game over»|«Oof»|«Bye»
+ja|長年、Robloxのキャラクターがやられたときに鳴っていた声は？|「Ouch」|「Game over」|「Oof」|「Bye」
+zh|多年来，Roblox角色死亡时会发出什么声音？|“Ouch”|“Game over”|“Oof”|“Bye”
+#Q 2328 1 2 1
+ru|Как называются играбельные персонажи в Valorant?|Агенты|Чемпионы|Герои|Легенды
+en|What are the playable characters in Valorant called?|Agents|Champions|Heroes|Legends
+es|¿Cómo se llaman los personajes jugables de Valorant?|Agentes|Campeones|Héroes|Leyendas
+ja|「VALORANT」で操作するキャラクターは何と呼ばれる？|エージェント|チャンピオン|ヒーロー|レジェンド
+zh|《无畏契约》中可操作的角色叫什么？|特工|冠军|英雄|传奇
+#Q 2329 2 2 1
+ru|Сколько игроков в каждой команде в соревновательном матче Counter-Strike?|4|5|6|8
+en|How many players are on each team in a competitive Counter-Strike match?|4|5|6|8
+es|¿Cuántos jugadores tiene cada equipo en una partida competitiva de Counter-Strike?|4|5|6|8
+ja|「カウンターストライク」の競技用マッチで、1チームは何人？|4人|5人|6人|8人
+zh|《反恐精英》竞技比赛中每队有几名队员？|4名|5名|6名|8名
+#Q 2330 4 2 1
+ru|Какая серия реалистичных гонок выходит на PlayStation от Sony?|Forza Motorsport|Need for Speed|Mario Kart|Gran Turismo
+en|Which realistic racing series is made by Sony for PlayStation?|Forza Motorsport|Need for Speed|Mario Kart|Gran Turismo
+es|¿Qué saga de carreras realistas hace Sony para PlayStation?|Forza Motorsport|Need for Speed|Mario Kart|Gran Turismo
+ja|ソニーがプレイステーション向けに作っているリアルなレースゲームのシリーズは？|Forza Motorsport|ニード・フォー・スピード|マリオカート|グランツーリスモ
+zh|索尼为PlayStation推出的写实赛车游戏系列是哪个？|极限竞速|极品飞车|马力欧卡丁车|GT赛车
+#Q 2331 3 2 1
+ru|Кого в шутерах называют кемпером?|Игрока, который всё время бегает|Новичка|Игрока, который долго сидит в засаде на одном месте|Игрока, который играет за медика
+en|In shooters, who is called a "camper"?|A player who never stops running|A beginner|A player who waits in ambush in one spot|A player who plays the medic
+es|En los shooters, ¿a quién se llama «camper»?|Al que no para de correr|Al novato|Al jugador que espera escondido en un mismo sitio|Al que juega de médico
+ja|シューティングゲームで「芋（キャンパー）」と呼ばれるのは？|ずっと走り回っているプレイヤー|初心者|一か所に隠れて待ち伏せし続けるプレイヤー|衛生兵役のプレイヤー
+zh|射击游戏里的“camper”指什么样的玩家？|一直跑来跑去的玩家|新手|一直躲在一个地方埋伏的玩家|扮演医疗兵的玩家
+#Q 2332 3 2 1
+ru|Что значит «понерфить» персонажа?|Усилить его|Удалить из игры|Ослабить его обновлением|Сменить ему внешность
+en|What does it mean to "nerf" a character?|To make it stronger|To remove it from the game|To weaken it in an update|To change its look
+es|¿Qué significa «nerfear» a un personaje?|Hacerlo más fuerte|Quitarlo del juego|Debilitarlo con una actualización|Cambiarle el aspecto
+ja|キャラクターを「ナーフする」とは？|強くすること|ゲームから削除すること|アップデートで弱くすること|見た目を変えること
+zh|给角色“削弱（nerf）”是什么意思？|让它变强|把它从游戏中删除|通过更新让它变弱|改变它的外观
+#Q 2333 1 2 1
+ru|Что такое ремастер игры?|Переиздание старой игры с улучшенной графикой|Продолжение с новым сюжетом|Пробная версия|Фильм по игре
+en|What is a game remaster?|A re-release of an old game with improved graphics|A sequel with a new story|A demo version|A movie based on the game
+es|¿Qué es una remasterización de un juego?|Una reedición de un juego antiguo con mejores gráficos|Una secuela con historia nueva|Una versión de prueba|Una película basada en el juego
+ja|ゲームの「リマスター」とは？|昔のゲームをグラフィックを良くして出し直したもの|新しい物語の続編|体験版|ゲームの映画化
+zh|游戏的“重制版（复刻）”是什么？|画面经过强化的旧游戏再版|有新剧情的续作|试玩版|根据游戏改编的电影
+#Q 2334 3 2 1
+ru|В каком городе происходит действие игры Metro 2033?|В Киеве|В Санкт-Петербурге|В Москве|В Минске
+en|In which city is the game Metro 2033 set?|Kyiv|Saint Petersburg|Moscow|Minsk
+es|¿En qué ciudad transcurre el juego Metro 2033?|Kiev|San Petersburgo|Moscú|Minsk
+ja|ゲーム「メトロ2033」の舞台となる都市は？|キーウ|サンクトペテルブルク|モスクワ|ミンスク
+zh|游戏《地铁2033》的故事发生在哪座城市？|基辅|圣彼得堡|莫斯科|明斯克
+#Q 2335 1 2 1
+ru|Что больше всего любит решать профессор Лейтон?|Головоломки|Уравнения|Кроссворды|Судебные дела
+en|What does Professor Layton love solving most?|Puzzles|Equations|Crosswords|Court cases
+es|¿Qué es lo que más le gusta resolver al profesor Layton?|Puzles|Ecuaciones|Crucigramas|Casos judiciales
+ja|レイトン教授が何より好きなのは何を解くこと？|ナゾ（パズル）|方程式|クロスワード|裁判の事件
+zh|雷顿教授最喜欢解什么？|谜题|方程|填字游戏|法庭案件
+#Q 2336 4 2 1
+ru|Кем работает Феникс Райт из серии Ace Attorney?|Детективом|Прокурором|Судьёй|Адвокатом
+en|What is Phoenix Wright's job in the Ace Attorney series?|Detective|Prosecutor|Judge|Defense lawyer
+es|¿A qué se dedica Phoenix Wright en la saga Ace Attorney?|Es detective|Es fiscal|Es juez|Es abogado defensor
+ja|「逆転裁判」シリーズの成歩堂龍一の職業は？|探偵|検事|裁判長|弁護士
+zh|《逆转裁判》系列中的成步堂龙一是做什么的？|侦探|检察官|法官|律师
+#Q 2337 3 2 1
+ru|Как называлась первая портативная приставка Sony?|PS Vita|Game Gear|PSP|Game Boy Advance
+en|What was Sony's first handheld console called?|PS Vita|Game Gear|PSP|Game Boy Advance
+es|¿Cómo se llamaba la primera consola portátil de Sony?|PS Vita|Game Gear|PSP|Game Boy Advance
+ja|ソニー初の携帯型ゲーム機は？|PS Vita|ゲームギア|PSP|ゲームボーイアドバンス
+zh|索尼的第一款掌上游戏机叫什么？|PS Vita|Game Gear|PSP|Game Boy Advance
+#Q 2338 3 2 1
+ru|В каком году вышла первая Nintendo Switch?|2014|2015|2017|2019
+en|In which year was the first Nintendo Switch released?|2014|2015|2017|2019
+es|¿En qué año salió la primera Nintendo Switch?|2014|2015|2017|2019
+ja|初代Nintendo Switchが発売されたのは何年？|2014年|2015年|2017年|2019年
+zh|初代Nintendo Switch是哪一年发售的？|2014年|2015年|2017年|2019年
+#Q 2339 4 3 1
+ru|Как называются две стороны, которые сражаются в Dota 2?|Альянс и Орда|Синие и Красные|Север и Юг|Radiant и Dire
+en|What are the two sides that fight in Dota 2?|Alliance and Horde|Blue and Red|North and South|Radiant and Dire
+es|¿Cómo se llaman los dos bandos que luchan en Dota 2?|Alianza y Horda|Azul y Rojo|Norte y Sur|Radiant y Dire
+ja|「Dota 2」で戦う2つの陣営は？|アライアンスとホード|ブルーとレッド|北と南|RadiantとDire
+zh|《Dota 2》中对战的两方叫什么？|联盟和部落|蓝方和红方|北方和南方|天辉和夜魇
+#Q 2340 2 3 1
+ru|Как называется игровой движок Valve, на котором сделаны Half-Life 2 и Portal?|Unreal Engine|Source|Unity|id Tech
+en|What is Valve's game engine that Half-Life 2 and Portal run on?|Unreal Engine|Source|Unity|id Tech
+es|¿Cómo se llama el motor de Valve con el que se hicieron Half-Life 2 y Portal?|Unreal Engine|Source|Unity|id Tech
+ja|「Half-Life 2」や「Portal」に使われたValveのゲームエンジンは？|Unreal Engine|Source|Unity|id Tech
+zh|《半条命2》和《传送门》使用的Valve游戏引擎叫什么？|虚幻引擎|Source|Unity|id Tech
+#Q 2341 2 3 1
+ru|Как называлась самая первая игра серии The Elder Scrolls?|Daggerfall|Arena|Morrowind|Oblivion
+en|What was the very first game in The Elder Scrolls series?|Daggerfall|Arena|Morrowind|Oblivion
+es|¿Cuál fue el primer juego de la saga The Elder Scrolls?|Daggerfall|Arena|Morrowind|Oblivion
+ja|「The Elder Scrolls」シリーズの一番最初の作品は？|ダガーフォール|アリーナ|モロウウィンド|オブリビオン
+zh|《上古卷轴》系列的第一部作品是哪一部？|匕首雨|竞技场|晨风|湮没
+#Q 2342 2 3 1
+ru|Как называется высочайшая гора Скайрима, где живут Седобородые?|Роковая гора|Глотка Мира|Пик Дракона|Гора Хиджал
+en|What is Skyrim's highest mountain, home of the Greybeards, called?|Mount Doom|The Throat of the World|Dragon's Peak|Mount Hyjal
+es|¿Cómo se llama la montaña más alta de Skyrim, hogar de los Barbagrises?|El Monte del Destino|La Garganta del Mundo|El Pico del Dragón|El Monte Hyjal
+ja|「スカイリム」で一番高い山で、グレイビアードが住んでいるのは？|滅びの山|世界のノド|竜の峰|ハイジャル山
+zh|《上古卷轴5》中最高的山、灰胡子们居住的地方叫什么？|末日火山|世界之喉|龙之峰|海加尔山
+#Q 2343 2 3 1
+ru|В каком году вышел самый первый Doom?|1989|1993|1996|1999
+en|In which year was the very first Doom released?|1989|1993|1996|1999
+es|¿En qué año salió el primer Doom?|1989|1993|1996|1999
+ja|初代「DOOM」が発売されたのは何年？|1989年|1993年|1996年|1999年
+zh|第一代《毁灭战士》是哪一年发行的？|1989年|1993年|1996年|1999年
+#Q 2344 4 3 1
+ru|Какая студия создала Doom и Quake?|Valve|Epic Games|Blizzard|id Software
+en|Which studio created Doom and Quake?|Valve|Epic Games|Blizzard|id Software
+es|¿Qué estudio creó Doom y Quake?|Valve|Epic Games|Blizzard|id Software
+ja|「DOOM」と「Quake」を作ったスタジオは？|Valve|Epic Games|Blizzard|id Software
+zh|《毁灭战士》和《雷神之锤》是哪家工作室开发的？|Valve|Epic Games|暴雪|id Software
+#Q 2345 1 3 1
+ru|Из какой страны компания Paradox, создающая стратегии Crusader Kings и Europa Universalis?|Швеция|Германия|Нидерланды|Франция
+en|Which country is Paradox, the maker of Crusader Kings and Europa Universalis, from?|Sweden|Germany|The Netherlands|France
+es|¿De qué país es Paradox, creadora de Crusader Kings y Europa Universalis?|Suecia|Alemania|Países Bajos|Francia
+ja|「クルセイダーキングス」や「ヨーロッパ・ユニバーサリス」を作るParadoxはどこの国の会社？|スウェーデン|ドイツ|オランダ|フランス
+zh|开发《十字军之王》和《欧陆风云》的Paradox是哪个国家的公司？|瑞典|德国|荷兰|法国
+#Q 2346 2 3 1
+ru|По роману какого писателя создана игра Metro 2033?|Сергея Лукьяненко|Дмитрия Глуховского|Виктора Пелевина|Бориса Стругацкого
+en|The game Metro 2033 is based on a novel by which writer?|Sergei Lukyanenko|Dmitry Glukhovsky|Victor Pelevin|Boris Strugatsky
+es|¿En la novela de qué escritor se basa el juego Metro 2033?|Serguéi Lukiánenko|Dmitri Glujovski|Víktor Pelevin|Borís Strugatski
+ja|ゲーム「メトロ2033」の原作小説を書いた作家は？|セルゲイ・ルキヤネンコ|ドミトリー・グルホフスキー|ヴィクトル・ペレーヴィン|ボリス・ストルガツキー
+zh|游戏《地铁2033》改编自哪位作家的小说？|谢尔盖·卢基扬年科|德米特里·格鲁霍夫斯基|维克多·佩列文|鲍里斯·斯特鲁伽茨基
+#Q 2347 2 3 1
+ru|Каким художественным стилем запомнилась The Legend of Zelda: The Wind Waker?|Чёрно-белой графикой|Яркой мультяшной графикой|Пластилиновыми фигурками|Фотореализмом
+en|Which art style is The Legend of Zelda: The Wind Waker remembered for?|Black-and-white graphics|Bright cartoon-like graphics|Clay figures|Photorealism
+es|¿Por qué estilo artístico se recuerda The Legend of Zelda: The Wind Waker?|Gráficos en blanco y negro|Gráficos de dibujos animados muy coloridos|Figuras de plastilina|Fotorrealismo
+ja|「ゼルダの伝説 風のタクト」の印象的なグラフィックの特徴は？|白黒の画面|アニメ調の明るいトゥーン表現|粘土の人形|写真のようなリアルさ
+zh|《塞尔达传说：风之杖》以哪种画风令人印象深刻？|黑白画面|明亮的卡通渲染画风|黏土人偶|照片般的写实风格
+#Q 2348 2 3 1
+ru|В каком году вышла первая Tomb Raider с Ларой Крофт?|1992|1996|2001|2004
+en|In which year was the first Tomb Raider with Lara Croft released?|1992|1996|2001|2004
+es|¿En qué año salió el primer Tomb Raider con Lara Croft?|1992|1996|2001|2004
+ja|ララ・クロフトが登場する初代「トゥームレイダー」が発売されたのは何年？|1992年|1996年|2001年|2004年
+zh|劳拉·克劳馥登场的第一部《古墓丽影》是哪一年发行的？|1992年|1996年|2001年|2004年
+#Q 2349 2 3 1
+ru|В каком году вышла первая Half-Life?|1994|1998|2001|2004
+en|In which year was the first Half-Life released?|1994|1998|2001|2004
+es|¿En qué año salió el primer Half-Life?|1994|1998|2001|2004
+ja|初代「Half-Life」が発売されたのは何年？|1994年|1998年|2001年|2004年
+zh|第一代《半条命》是哪一年发行的？|1994年|1998年|2001年|2004年
+#Q 2350 2 3 1
+ru|В каком веке происходит действие игры Hogwarts Legacy?|В XVIII веке|В XIX веке|В XX веке|В XXI веке
+en|In which century is the game Hogwarts Legacy set?|The 18th century|The 19th century|The 20th century|The 21st century
+es|¿En qué siglo transcurre el juego Hogwarts Legacy?|En el siglo XVIII|En el siglo XIX|En el siglo XX|En el siglo XXI
+ja|ゲーム「ホグワーツ・レガシー」の時代設定は何世紀？|18世紀|19世紀|20世紀|21世紀
+zh|游戏《霍格沃茨之遗》的故事发生在哪个世纪？|18世纪|19世纪|20世纪|21世纪
+#Q 2351 3 1 1
+ru|Что выпадает из паука в Minecraft?|Кости|Порох|Нить|Перья
+en|What does a spider drop in Minecraft?|Bones|Gunpowder|String|Feathers
+es|¿Qué suelta una araña en Minecraft?|Huesos|Pólvora|Cuerda|Plumas
+ja|マインクラフトでクモを倒すと落とすものは？|骨|火薬|糸|羽根
+zh|在《我的世界》里，蜘蛛会掉落什么？|骨头|火药|线|羽毛
+#Q 2352 3 1 1
+ru|Какое из этих животных в Minecraft можно оседлать?|Корову|Овцу|Лошадь|Курицу
+en|Which of these Minecraft animals can you put a saddle on and ride?|Cow|Sheep|Horse|Chicken
+es|¿A cuál de estos animales de Minecraft se le puede poner una silla para montarlo?|A la vaca|A la oveja|Al caballo|A la gallina
+ja|マインクラフトで、鞍をつけて乗れる動物はどれ？|ウシ|ヒツジ|ウマ|ニワトリ
+zh|在《我的世界》里，下面哪种动物可以装上鞍骑乘？|牛|羊|马|鸡
+#Q 2353 4 1 1
+ru|Что меняется с каждым новым уровнем в «Тетрисе»?|Фигуры становятся больше|Стакан становится шире|Фигуры меняют цвет на чёрный|Фигуры падают быстрее
+en|What changes with each new level in Tetris?|The pieces get bigger|The well gets wider|The pieces turn black|The pieces fall faster
+es|¿Qué cambia con cada nivel nuevo del Tetris?|Las piezas se hacen más grandes|El pozo se hace más ancho|Las piezas se vuelven negras|Las piezas caen más rápido
+ja|テトリスでレベルが上がるごとに変わることは？|ブロックが大きくなる|フィールドが広くなる|ブロックが黒くなる|ブロックの落ちる速さが上がる
+zh|在《俄罗斯方块》中，每升一级会有什么变化？|方块变得更大|游戏区变得更宽|方块变成黑色|方块下落得更快
+#Q 2354 3 1 1
+ru|Чем стреляют друг в друга игроки в Splatoon?|Водой|Мыльными пузырями|Краской|Снежками
+en|What do players shoot at each other in Splatoon?|Water|Soap bubbles|Ink|Snowballs
+es|¿Qué se disparan los jugadores en Splatoon?|Agua|Pompas de jabón|Tinta|Bolas de nieve
+ja|「スプラトゥーン」でプレイヤーが撃ち合うものは？|水|シャボン玉|インク|雪玉
+zh|在《斯普拉遁》中，玩家互相发射什么？|水|肥皂泡|墨水|雪球
+#Q 2355 3 1 1
+ru|Чем запускают птиц в Angry Birds?|Пушкой|Катапультой из ложки|Рогаткой|Батутом
+en|What are the birds launched with in Angry Birds?|A cannon|A spoon catapult|A slingshot|A trampoline
+es|¿Con qué se lanzan los pájaros en Angry Birds?|Con un cañón|Con una catapulta de cuchara|Con un tirachinas|Con una cama elástica
+ja|「アングリーバード」で鳥を飛ばす道具は？|大砲|スプーンの投石機|パチンコ（スリングショット）|トランポリン
+zh|在《愤怒的小鸟》中，小鸟是用什么发射出去的？|大炮|勺子投石机|弹弓|蹦床
+#Q 2356 1 1 1
+ru|Что нужно доставить зелёному монстрику Ам Ням в игре Cut the Rope?|Конфету|Яблоко|Рыбку|Мороженое
+en|What do you have to get to the little green monster Om Nom in Cut the Rope?|A candy|An apple|A fish|An ice cream
+es|¿Qué hay que hacerle llegar al monstruito verde Om Nom en Cut the Rope?|Un caramelo|Una manzana|Un pez|Un helado
+ja|「カット・ザ・ロープ」で、緑の小さなモンスター、オムノムに届けるものは？|キャンディ|リンゴ|魚|アイスクリーム
+zh|在《割绳子》中，要把什么送到绿色小怪兽Om Nom嘴里？|糖果|苹果|小鱼|冰淇淋
+#Q 2357 1 1 1
+ru|Что строят игроки в Clash of Clans?|Деревню с защитой|Гоночную трассу|Космический корабль|Парк аттракционов
+en|What do players build in Clash of Clans?|A defended village|A race track|A spaceship|An amusement park
+es|¿Qué construyen los jugadores en Clash of Clans?|Una aldea con defensas|Un circuito de carreras|Una nave espacial|Un parque de atracciones
+ja|「クラッシュ・オブ・クラン」でプレイヤーが作るものは？|防衛設備のある村|レース場|宇宙船|遊園地
+zh|在《部落冲突》中，玩家要建造什么？|有防御的村庄|赛车场|宇宙飞船|游乐园
+#Q 2358 4 1 1
+ru|Чем занимаются игроки в Overcooked?|Строят ресторан|Ловят рыбу|Участвуют в гонках|Вместе готовят еду на безумной кухне
+en|What do players do in Overcooked?|Build a restaurant|Go fishing|Race cars|Cook meals together in a chaotic kitchen
+es|¿Qué hacen los jugadores en Overcooked?|Construyen un restaurante|Pescan|Hacen carreras|Cocinan juntos en una cocina caótica
+ja|「Overcooked（オーバークック）」でプレイヤーがすることは？|レストランを建てる|魚を釣る|レースをする|めちゃくちゃなキッチンで協力して料理する
+zh|在《胡闹厨房》中，玩家要做什么？|建造餐厅|钓鱼|赛车|在混乱的厨房里合作做菜
+#Q 2359 4 1 1
+ru|Что означает XP в играх?|Дополнительные жизни|Силу удара|Скорость бега|Очки опыта
+en|What does XP mean in games?|Extra lives|Attack power|Running speed|Experience points
+es|¿Qué significa XP en los videojuegos?|Vidas extra|Fuerza de ataque|Velocidad de carrera|Puntos de experiencia
+ja|ゲームの「XP（EXP）」とは？|残りの命|攻撃力|走る速さ|経験値
+zh|游戏中的“XP”是什么？|额外生命|攻击力|奔跑速度|经验值
+#Q 2360 1 1 1
+ru|Что обычно означает HP в играх?|Очки здоровья|Очки опыта|Уровень брони|Количество монет
+en|What does HP usually mean in games?|Health points|Experience points|Armor level|Number of coins
+es|¿Qué suele significar HP en los videojuegos?|Puntos de vida|Puntos de experiencia|Nivel de armadura|Número de monedas
+ja|ゲームの「HP」とは？|体力（ヒットポイント）|経験値|防御力|コインの数
+zh|游戏中的“HP”通常指什么？|生命值|经验值|护甲等级|金币数量
+#Q 2361 3 1 1
+ru|На что обычно тратится мана в играх?|На покупки в магазине|На бег|На заклинания и магию|На прыжки
+en|What is mana usually spent on in games?|Shop purchases|Running|Spells and magic|Jumping
+es|¿En qué se suele gastar el maná en los videojuegos?|En compras en la tienda|En correr|En hechizos y magia|En saltar
+ja|ゲームで「MP（マナ）」は主に何に使う？|お店での買い物|ダッシュ|魔法|ジャンプ
+zh|游戏里的“法力（MP）”通常用来做什么？|在商店买东西|奔跑|施放法术|跳跃
+#Q 2362 4 1 1
+ru|Что значит «сейв» в играх?|Победа|Пауза|Выход из игры|Сохранение игры
+en|What is a "save" in a game?|A victory|A pause|Quitting the game|A saved copy of your progress
+es|¿Qué es una «partida guardada»?|Una victoria|Una pausa|Salir del juego|Una copia guardada de tu progreso
+ja|ゲームの「セーブ」とは？|勝利|一時停止|ゲームをやめること|進み具合を記録すること
+zh|游戏里的“存档”是什么？|获胜|暂停|退出游戏|把游戏进度保存下来
+#Q 2363 4 1 1
+ru|Какая знаменитая трасса Mario Kart проходит в космосе по разноцветной дороге без бортиков?|Замок Боузера|Пляж Купы|Трасса Луиджи|Радужная дорога
+en|Which famous Mario Kart track runs through space on a multicolored road with no rails?|Bowser's Castle|Koopa Beach|Luigi Circuit|Rainbow Road
+es|¿Qué famoso circuito de Mario Kart recorre el espacio por una carretera multicolor sin vallas?|Castillo de Bowser|Playa Koopa|Circuito Luigi|Senda Arco Iris
+ja|マリオカートで、宇宙にある色とりどりの柵のない道を走る有名なコースは？|クッパキャッスル|ノコノコビーチ|ルイージサーキット|レインボーロード
+zh|《马力欧卡丁车》里那条在太空中、五颜六色又没有护栏的著名赛道是？|酷霸王城堡|慢慢龟海滩|路易吉赛道|彩虹之路
+#Q 2364 3 1 1
+ru|Какая клавиша на ПК чаще всего ставит игру на паузу и открывает меню?|Enter|Пробел|Esc|Tab
+en|Which PC key most often pauses the game and opens the menu?|Enter|Space|Esc|Tab
+es|¿Qué tecla del PC suele pausar el juego y abrir el menú?|Intro|Espacio|Esc|Tab
+ja|パソコンのゲームで、一時停止してメニューを開くことが多いキーは？|Enter|スペース|Esc|Tab
+zh|在电脑游戏中，最常用来暂停并打开菜单的是哪个键？|回车|空格|Esc|Tab
+#Q 2365 1 1 1
+ru|Какими клавишами обычно ходят в играх на ПК?|W, A, S, D|Q, E, R, T|Z, X, C, V|I, J, K, L
+en|Which keys are usually used to move in PC games?|W, A, S, D|Q, E, R, T|Z, X, C, V|I, J, K, L
+es|¿Qué teclas se suelen usar para moverse en los juegos de PC?|W, A, S, D|Q, E, R, T|Z, X, C, V|I, J, K, L
+ja|パソコンのゲームで移動によく使うキーは？|W、A、S、D|Q、E、R、T|Z、X、C、V|I、J、K、L
+zh|在电脑游戏中，通常用哪几个键来移动？|W、A、S、D|Q、E、R、T|Z、X、C、V|I、J、K、L
+#Q 2366 1 1 1
+ru|Что такое читы в играх?|Коды или программы, которые дают нечестное преимущество|Секретные уровни от разработчиков|Подсказки на экране загрузки|Официальные обновления
+en|What are cheats in games?|Codes or programs that give an unfair advantage|Secret levels from the developers|Tips on the loading screen|Official updates
+es|¿Qué son los trucos en los videojuegos?|Códigos o programas que dan una ventaja injusta|Niveles secretos de los creadores|Consejos en la pantalla de carga|Actualizaciones oficiales
+ja|ゲームの「チート」とは？|ずるい有利さを得るコードやプログラム|開発者が作った隠しステージ|ロード画面のヒント|公式アップデート
+zh|游戏里的“作弊（外挂）”是什么？|获得不公平优势的代码或程序|开发者设计的隐藏关卡|加载画面上的提示|官方更新
+#Q 2367 2 1 1
+ru|Как называется крестообразная кнопка на геймпаде?|Курок|Крестовина|Стик|Бампер
+en|What is the cross-shaped button on a gamepad called?|Trigger|D-pad|Stick|Bumper
+es|¿Cómo se llama el botón en forma de cruz de un mando?|Gatillo|Cruceta|Joystick|Botón superior
+ja|ゲームパッドにある十字の形のボタンは？|トリガー|十字キー|スティック|バンパー
+zh|游戏手柄上十字形状的按键叫什么？|扳机键|十字键|摇杆|肩键
+#Q 2368 3 1 1
+ru|Когда в Minecraft на поверхности появляется больше всего монстров?|Утром|Днём|Ночью|В дождь днём
+en|When do the most monsters appear on the surface in Minecraft?|In the morning|At midday|At night|On rainy days
+es|¿Cuándo aparecen más monstruos en la superficie de Minecraft?|Por la mañana|A mediodía|De noche|En los días de lluvia
+ja|マインクラフトで地上にモンスターが一番たくさん出てくるのはいつ？|朝|昼|夜|雨の日の昼
+zh|在《我的世界》里，地面上什么时候出现的怪物最多？|早晨|中午|夜晚|下雨的白天
+#Q 2369 4 1 1
+ru|Какое оружие в Minecraft стреляет стрелами?|Меч|Трезубец|Топор|Лук
+en|Which Minecraft weapon shoots arrows?|Sword|Trident|Axe|Bow
+es|¿Qué arma de Minecraft dispara flechas?|La espada|El tridente|El hacha|El arco
+ja|マインクラフトで矢を撃つ武器は？|剣|トライデント|斧|弓
+zh|在《我的世界》里，哪种武器可以射箭？|剑|三叉戟|斧头|弓
+#Q 2370 2 1 1
+ru|К какому жанру относится «Тетрис»?|Шутер|Головоломка|Гонки|Ролевая игра
+en|Which genre does Tetris belong to?|Shooter|Puzzle|Racing|Role-playing
+es|¿A qué género pertenece el Tetris?|Shooter|Puzle|Carreras|Rol
+ja|テトリスのジャンルは？|シューティング|パズル|レース|RPG
+zh|《俄罗斯方块》属于哪种游戏类型？|射击|益智|赛车|角色扮演
+#Q 2371 1 2 1
+ru|Что даёт Марио перо в Super Mario World?|Плащ, с которым можно летать|Крылья ангела|Невидимость|Огненные шары
+en|What does the feather give Mario in Super Mario World?|A cape that lets him fly|Angel wings|Invisibility|Fireballs
+es|¿Qué le da la pluma a Mario en Super Mario World?|Una capa para volar|Alas de ángel|Invisibilidad|Bolas de fuego
+ja|「スーパーマリオワールド」で、マリオが羽根を取ると何が手に入る？|空を飛べるマント|天使の羽|透明になる力|ファイアボール
+zh|在《超级马力欧世界》中，马力欧拿到羽毛会得到什么？|可以飞行的披风|天使翅膀|隐身能力|火球
+#Q 2372 1 2 1
+ru|В кого превращается Марио, взяв колокольчик в Super Mario 3D World?|В кошку|В собаку|В лису|В кролика
+en|What does Mario turn into after grabbing a bell in Super Mario 3D World?|A cat|A dog|A fox|A rabbit
+es|¿En qué se convierte Mario al coger una campana en Super Mario 3D World?|En gato|En perro|En zorro|En conejo
+ja|「スーパーマリオ 3Dワールド」で、マリオがスーパーベルを取ると何になる？|ネコ|イヌ|キツネ|ウサギ
+zh|在《超级马力欧3D世界》中，马力欧拿到铃铛后会变成什么？|猫|狗|狐狸|兔子
+#Q 2373 2 2 1
+ru|Какой покемон может эволюционировать в восемь разных форм?|Пикачу|Иви|Мьюту|Снорлакс
+en|Which Pokémon can evolve into eight different forms?|Pikachu|Eevee|Mewtwo|Snorlax
+es|¿Qué Pokémon puede evolucionar en ocho formas diferentes?|Pikachu|Eevee|Mewtwo|Snorlax
+ja|8種類の違う姿に進化できるポケモンは？|ピカチュウ|イーブイ|ミュウツー|カビゴン
+zh|哪只宝可梦可以进化成八种不同的形态？|皮卡丘|伊布|超梦|卡比兽
+#Q 2374 1 2 1
+ru|Какие лесные существа прячутся по всему Хайрулу в Breath of the Wild и дарят семена?|Короки|Гороны|Зора|Рито
+en|Which forest creatures hide all over Hyrule in Breath of the Wild and give you seeds?|Koroks|Gorons|Zoras|Ritos
+es|¿Qué criaturas del bosque se esconden por todo Hyrule en Breath of the Wild y te dan semillas?|Kologs|Goron|Zora|Orni
+ja|「ブレス オブ ザ ワイルド」でハイラル中に隠れていて、見つけると実をくれる森の妖精は？|コログ|ゴロン|ゾーラ|リト
+zh|在《旷野之息》中，藏在海拉鲁各处、找到后会送你种子的森林精灵是？|克洛格|鼓隆族|佐拉族|利特族
+#Q 2375 1 2 1
+ru|Что делают в Minecraft из сахарного тростника?|Бумагу и сахар|Хлеб|Верёвку|Стекло
+en|What do you make from sugar cane in Minecraft?|Paper and sugar|Bread|Rope|Glass
+es|¿Qué se hace con la caña de azúcar en Minecraft?|Papel y azúcar|Pan|Cuerda|Cristal
+ja|マインクラフトでサトウキビから作れるものは？|紙と砂糖|パン|ロープ|ガラス
+zh|在《我的世界》里，甘蔗可以做成什么？|纸和糖|面包|绳子|玻璃
+#Q 2376 2 2 1
+ru|Чем занимается собачка Изабель в Animal Crossing?|Продаёт одежду|Работает секретарём и помогает жителям|Держит кафе|Водит самолёт
+en|What is the little dog Isabelle's job in Animal Crossing?|She sells clothes|She works as a secretary and helps residents|She runs a café|She flies a plane
+es|¿A qué se dedica la perrita Canela en Animal Crossing?|Vende ropa|Es secretaria y ayuda a los vecinos|Lleva una cafetería|Pilota un avión
+ja|「どうぶつの森」のしずえの仕事は？|服を売る|秘書として住民を手伝う|喫茶店を営む|飛行機を操縦する
+zh|在《动物森友会》中，西施惠是做什么的？|卖衣服|担任秘书帮助居民|经营咖啡店|开飞机
+#Q 2377 4 2 1
+ru|Что получает боец, разбив Смэш-шар в Super Smash Bros.?|Дополнительную жизнь|Невидимость|Право выбрать арену|Возможность нанести финальный суперудар
+en|What does a fighter get by breaking the Smash Ball in Super Smash Bros.?|An extra life|Invisibility|The right to choose the stage|The chance to unleash a Final Smash
+es|¿Qué consigue un luchador al romper la Bola Smash en Super Smash Bros.?|Una vida extra|Invisibilidad|Elegir el escenario|Poder lanzar un Smash Final
+ja|「大乱闘スマッシュブラザーズ」で、スマッシュボールを割るとどうなる？|残り人数が1つ増える|透明になる|ステージを選べる|最後の切りふだが使える
+zh|在《任天堂明星大乱斗》中，打破大乱斗球后可以做什么？|多一条命|变成隐身|选择场地|使出终极必杀技
+#Q 2378 2 2 1
+ru|Что постепенно сужает игровую зону в Fortnite?|Лава|Буря|Вода|Туман
+en|What gradually shrinks the play area in Fortnite?|Lava|The Storm|Water|Fog
+es|¿Qué va reduciendo poco a poco la zona de juego en Fortnite?|La lava|La tormenta|El agua|La niebla
+ja|「フォートナイト」で、プレイできるエリアをだんだん狭めていくものは？|溶岩|ストーム|水|霧
+zh|在《堡垒之夜》中，是什么让游戏区域逐渐缩小？|岩浆|风暴|洪水|浓雾
+#Q 2379 4 2 1
+ru|Чем знаменита сковородка в PUBG?|Восстанавливает здоровье|Делает невидимым|Позволяет готовить еду|Защищает от пуль
+en|What is the frying pan famous for in PUBG?|It restores health|It makes you invisible|It lets you cook food|It blocks bullets
+es|¿Por qué es famosa la sartén en PUBG?|Porque cura|Porque te vuelve invisible|Porque sirve para cocinar|Porque para las balas
+ja|PUBGのフライパンが有名な理由は？|体力が回復する|透明になれる|料理ができる|銃弾を防いでくれる
+zh|PUBG里的平底锅为什么出名？|能回血|能隐身|能做饭|能挡子弹
+#Q 2380 3 2 1
+ru|Какую игру Valve в шутку называют «симулятором шляп»?|Counter-Strike 2|Portal 2|Team Fortress 2|Left 4 Dead 2
+en|Which Valve game is jokingly called a "hat simulator"?|Counter-Strike 2|Portal 2|Team Fortress 2|Left 4 Dead 2
+es|¿Qué juego de Valve se llama en broma «simulador de sombreros»?|Counter-Strike 2|Portal 2|Team Fortress 2|Left 4 Dead 2
+ja|冗談で「帽子シミュレーター」と呼ばれているValveのゲームは？|Counter-Strike 2|Portal 2|Team Fortress 2|Left 4 Dead 2
+zh|哪款Valve游戏被玩家戏称为“帽子模拟器”？|反恐精英2|传送门2|军团要塞2|求生之路2
+#Q 2381 1 2 1
+ru|Почему у Кратоса из God of War пепельно-белая кожа?|Её покрывает пепел его погибшей семьи|Он призрак|Он родился во льдах|Это боевая раскраска спартанцев
+en|Why does Kratos from God of War have ash-white skin?|It is covered in the ashes of his dead family|He is a ghost|He was born in the ice|It is Spartan war paint
+es|¿Por qué Kratos, de God of War, tiene la piel blanca como la ceniza?|Está cubierta de las cenizas de su familia muerta|Es un fantasma|Nació en el hielo|Es pintura de guerra espartana
+ja|「ゴッド・オブ・ウォー」のクレイトスの肌が灰のように白いのはなぜ？|亡くなった家族の遺灰が肌にこびりついたから|幽霊だから|氷の中で生まれたから|スパルタの戦化粧だから
+zh|《战神》中的奎托斯为什么皮肤是灰白色的？|身上沾满了死去家人的骨灰|他是幽灵|他在冰里出生|那是斯巴达的战斗彩绘
+#Q 2382 1 2 1
+ru|Как зовут вязаного человечка из LittleBigPlanet?|Сэкбой|Астробот|Рэйман|Кирби
+en|What is the name of the knitted little character from LittleBigPlanet?|Sackboy|Astro|Rayman|Kirby
+es|¿Cómo se llama el muñequito de punto de LittleBigPlanet?|Sackboy|Astro|Rayman|Kirby
+ja|「リトルビッグプラネット」の毛糸でできた小さな主人公は？|リビッツ|アストロ|レイマン|カービィ
+zh|《小小大星球》里那个布偶小人叫什么？|麻布仔|阿斯特罗|雷曼|星之卡比
+#Q 2383 1 2 1
+ru|Как называются фигурки Nintendo, которые можно подключать к играм?|Amiibo|Skylanders|Miis|Funko Pop
+en|What are the Nintendo figures that connect to games called?|Amiibo|Skylanders|Miis|Funko Pop
+es|¿Cómo se llaman las figuras de Nintendo que se conectan a los juegos?|Amiibo|Skylanders|Miis|Funko Pop
+ja|ゲームと連動できる任天堂のフィギュアの名前は？|amiibo|スカイランダーズ|Mii|Funko Pop
+zh|可以与游戏连动的任天堂手办叫什么？|amiibo|Skylanders|Mii|Funko Pop
+#Q 2384 4 2 1
+ru|Что такое боевой пропуск (Battle Pass)?|Билет на киберспортивный турнир|Код для бесплатной игры|Разрешение на игру в клане|Сезонный список наград, которые открываются за игру
+en|What is a Battle Pass?|A ticket to an esports event|A code for a free game|Permission to join a clan|A seasonal track of rewards unlocked by playing
+es|¿Qué es un pase de batalla?|Una entrada a un torneo de esports|Un código para un juego gratis|Un permiso para unirse a un clan|Una lista de premios de temporada que se desbloquean jugando
+ja|「バトルパス」とは？|eスポーツ大会のチケット|無料ゲームのコード|クランに入る許可|遊ぶほど報酬が解放されるシーズンごとの仕組み
+zh|“通行证（Battle Pass）”是什么？|电竞比赛门票|免费游戏兑换码|加入战队的许可|通过游玩逐步解锁奖励的赛季系统
+#Q 2385 1 2 1
+ru|Что делает Молния в Mario Kart?|Уменьшает всех соперников|Ускоряет только вас|Ломает трассу|Меняет погоду
+en|What does the Lightning item do in Mario Kart?|Shrinks all your rivals|Speeds up only you|Breaks the track|Changes the weather
+es|¿Qué hace el Rayo en Mario Kart?|Encoge a todos los rivales|Solo te acelera a ti|Rompe la pista|Cambia el tiempo
+ja|マリオカートのサンダーを使うとどうなる？|ライバル全員が小さくなる|自分だけ加速する|コースが壊れる|天気が変わる
+zh|在《马力欧卡丁车》中，闪电道具有什么效果？|让所有对手变小|只让自己加速|破坏赛道|改变天气
+#Q 2386 4 2 1
+ru|Какой герой Ubisoft прославился тем, что у него нет рук и ног?|Крэш|Спайро|Сэкбой|Рэйман
+en|Which Ubisoft hero is famous for having no arms or legs?|Crash|Spyro|Sackboy|Rayman
+es|¿Qué héroe de Ubisoft es famoso por no tener brazos ni piernas?|Crash|Spyro|Sackboy|Rayman
+ja|手足がないことで知られるUbisoftのキャラクターは？|クラッシュ|スパイロ|リビッツ|レイマン
+zh|哪位育碧的角色因为没有手臂和腿而出名？|古惑狼|斯派罗|麻布仔|雷曼
+#Q 2387 4 2 1
+ru|Что такое «гача» в мобильных играх?|Ежедневный вход|Режим для двоих|Обучение|Лотерея на случайных персонажей и предметы
+en|What is "gacha" in mobile games?|A daily login|A two-player mode|A tutorial|A lottery for random characters and items
+es|¿Qué es el «gacha» en los juegos para móvil?|El inicio de sesión diario|Un modo para dos|Un tutorial|Un sorteo de personajes y objetos al azar
+ja|スマホゲームの「ガチャ」とは？|毎日のログイン|2人プレイモード|チュートリアル|ランダムでキャラクターやアイテムが当たるくじ
+zh|手机游戏里的“抽卡（gacha）”是什么？|每日签到|双人模式|新手教程|随机获得角色和道具的抽奖
+#Q 2388 1 3 1
+ru|Как называется научная лаборатория из игры Portal?|Aperture Science|Black Mesa|Umbrella|Abstergo
+en|What is the name of the science lab in Portal?|Aperture Science|Black Mesa|Umbrella|Abstergo
+es|¿Cómo se llama el laboratorio científico de Portal?|Aperture Science|Black Mesa|Umbrella|Abstergo
+ja|「Portal」の科学研究施設の名前は？|アパーチャー・サイエンス|ブラックメサ|アンブレラ社|アブスターゴ
+zh|《传送门》中的科学实验室叫什么？|光圈科技|黑山研究所|保护伞公司|阿布斯泰戈
+#Q 2389 3 3 1
+ru|Как зовут злодея Far Cry 3, рассуждающего об определении безумия?|Пейган Мин|Иосиф Сид|Ваас|Антон Кастильо
+en|What is the name of the Far Cry 3 villain who talks about the definition of insanity?|Pagan Min|Joseph Seed|Vaas|Antón Castillo
+es|¿Cómo se llama el villano de Far Cry 3 que habla de la definición de locura?|Pagan Min|Joseph Seed|Vaas|Antón Castillo
+ja|「ファークライ3」で「狂気の定義」を語る悪役は？|パガン・ミン|ジョセフ・シード|バース|アントン・カスティーヨ
+zh|《孤岛惊魂3》中那个谈论“疯狂的定义”的反派叫什么？|佩甘·闵|约瑟夫·席德|瓦斯|安东·卡斯蒂略
+#Q 2390 3 3 1
+ru|Как называется подводный город из первой BioShock?|Колумбия|Сити 17|Восторг|Найт-Сити
+en|What is the underwater city in the first BioShock called?|Columbia|City 17|Rapture|Night City
+es|¿Cómo se llama la ciudad submarina del primer BioShock?|Columbia|City 17|Rapture|Night City
+ja|初代「バイオショック」の海底都市の名前は？|コロンビア|シティ17|ラプチャー|ナイトシティ
+zh|第一代《生化奇兵》中的海底城市叫什么？|哥伦比亚|17号城市|销魂城|夜之城
+#Q 2391 3 3 1
+ru|Кем работает Айзек Кларк, герой Dead Space?|Врачом|Пилотом|Инженером|Полицейским
+en|What is the job of Isaac Clarke, the hero of Dead Space?|Doctor|Pilot|Engineer|Police officer
+es|¿Cuál es la profesión de Isaac Clarke, protagonista de Dead Space?|Médico|Piloto|Ingeniero|Policía
+ja|「デッドスペース」の主人公アイザック・クラークの職業は？|医者|パイロット|エンジニア|警察官
+zh|《死亡空间》的主角艾萨克·克拉克是做什么的？|医生|飞行员|工程师|警察
+#Q 2392 3 3 1
+ru|Какой космический пират-дракон - заклятый враг Самус Аран?|Боузер|Ганон|Ридли|Кинг Кей Рул
+en|Which space-pirate dragon is Samus Aran's archenemy?|Bowser|Ganon|Ridley|King K. Rool
+es|¿Qué dragón pirata espacial es el archienemigo de Samus Aran?|Bowser|Ganon|Ridley|King K. Rool
+ja|サムス・アランの宿敵である、宇宙海賊のドラゴンは？|クッパ|ガノン|リドリー|キングクルール
+zh|萨姆斯·阿兰的宿敌、那条宇宙海盗巨龙叫什么？|酷霸王|加侬|利德雷|库鲁鲁王
+#Q 2393 3 3 1
+ru|Какое новое оружие получил Кратос в God of War 2018 года?|Клинки Хаоса|Молот Мьёльнир|Топор Левиафан|Копьё Гунгнир
+en|Which new weapon did Kratos get in the 2018 God of War?|The Blades of Chaos|The hammer Mjölnir|The Leviathan Axe|The spear Gungnir
+es|¿Qué arma nueva recibió Kratos en el God of War de 2018?|Las Espadas del Caos|El martillo Mjölnir|El hacha Leviatán|La lanza Gungnir
+ja|2018年の「ゴッド・オブ・ウォー」でクレイトスが手にした新しい武器は？|ブレイズ・オブ・カオス|ミョルニル|リヴァイアサン・アックス|グングニル
+zh|在2018年的《战神》中，奎托斯拿到的新武器是什么？|混沌之刃|雷神之锤|利维坦之斧|永恒之枪
+#Q 2394 2 3 1
+ru|Как назывался световой пистолет для приставки NES?|Wiimote|Zapper|Power Glove|R.O.B.
+en|What was the light gun for the NES called?|Wiimote|Zapper|Power Glove|R.O.B.
+es|¿Cómo se llamaba la pistola de luz de la NES?|Wiimote|Zapper|Power Glove|R.O.B.
+ja|ファミコン（NES）用の光線銃の北米での名前は？|Wiiリモコン|Zapper|パワーグローブ|R.O.B.
+zh|红白机（NES）的光线枪叫什么？|Wii遥控器|Zapper|Power Glove|R.O.B.
+#Q 2395 2 3 1
+ru|Как прозвали поломку Xbox 360, при которой вокруг кнопки загорались красные огни?|Синий экран смерти|Красное кольцо смерти|Чёрная дыра|Красный глаз
+en|What was the Xbox 360 failure called when red lights lit up around the button?|The Blue Screen of Death|The Red Ring of Death|The Black Hole|The Red Eye
+es|¿Cómo se llamaba la avería de la Xbox 360 en la que se encendían luces rojas alrededor del botón?|La pantalla azul de la muerte|El anillo rojo de la muerte|El agujero negro|El ojo rojo
+ja|Xbox 360で、ボタンの周りが赤く光る故障は何と呼ばれた？|ブルースクリーン|レッドリング（赤い輪）|ブラックホール|レッドアイ
+zh|Xbox 360按钮周围亮起红灯的故障被称作什么？|蓝屏死机|红色死亡之环（三红）|黑洞|红眼
+#Q 2396 3 3 1
+ru|Какая знаменитая игра про Джеймса Бонда вышла на Nintendo 64?|Skyfall|Casino Royale|GoldenEye 007|Dr. No
+en|Which famous James Bond game came out on the Nintendo 64?|Skyfall|Casino Royale|GoldenEye 007|Dr. No
+es|¿Qué famoso juego de James Bond salió en Nintendo 64?|Skyfall|Casino Royale|GoldenEye 007|Dr. No
+ja|NINTENDO64で発売された有名なジェームズ・ボンドのゲームは？|スカイフォール|カジノ・ロワイヤル|ゴールデンアイ 007|ドクター・ノオ
+zh|在Nintendo 64上推出的著名詹姆斯·邦德游戏是哪款？|大破天幕杀机|皇家赌场|黄金眼007|诺博士
+#Q 2397 3 3 1
+ru|Сколько башен у каждого игрока в начале матча Clash Royale?|1|2|3|4
+en|How many towers does each player have at the start of a Clash Royale match?|1|2|3|4
+es|¿Cuántas torres tiene cada jugador al empezar una partida de Clash Royale?|1|2|3|4
+ja|「クラッシュ・ロワイヤル」の対戦開始時、各プレイヤーが持っているタワーの数は？|1つ|2つ|3つ|4つ
+zh|《皇室战争》开局时，每位玩家有几座塔？|1座|2座|3座|4座
+#Q 2398 1 3 1
+ru|Что нужно в Minecraft, кроме опыта, чтобы зачаровать предмет на столе зачарований?|Лазурит|Изумруд|Редстоун|Кварц
+en|Besides experience, what do you need in Minecraft to enchant an item at an enchanting table?|Lapis lazuli|Emerald|Redstone|Quartz
+es|Además de experiencia, ¿qué hace falta en Minecraft para encantar un objeto en la mesa de encantamientos?|Lapislázuli|Esmeralda|Redstone|Cuarzo
+ja|マインクラフトでエンチャントテーブルを使うとき、経験値のほかに必要なものは？|ラピスラズリ|エメラルド|レッドストーン|クォーツ
+zh|在《我的世界》里，用附魔台附魔时，除了经验还需要什么？|青金石|绿宝石|红石|石英
+#Q 2399 2 3 1
+ru|В масках каких персонажей грабят банки герои игры Payday?|Зверей|Клоунов|Супергероев|Президентов
+en|What kind of masks do the bank robbers wear in the game Payday?|Animal masks|Clown masks|Superhero masks|President masks
+es|¿Qué máscaras llevan los atracadores del juego Payday?|De animales|De payaso|De superhéroes|De presidentes
+ja|ゲーム「PAYDAY」で銀行強盗たちがかぶっているマスクは？|動物|ピエロ|スーパーヒーロー|大統領
+zh|在游戏《收获日》中，银行劫匪们戴的是什么面具？|动物面具|小丑面具|超级英雄面具|总统面具
+#Q 2400 1 3 1
+ru|Какая британская студия создала Banjo-Kazooie и Donkey Kong Country?|Rare|Rocksteady|Codemasters|Lionhead
+en|Which British studio created Banjo-Kazooie and Donkey Kong Country?|Rare|Rocksteady|Codemasters|Lionhead
+es|¿Qué estudio británico creó Banjo-Kazooie y Donkey Kong Country?|Rare|Rocksteady|Codemasters|Lionhead
+ja|「バンジョーとカズーイの大冒険」や「スーパードンキーコング」を作ったイギリスのスタジオは？|レア社|ロックステディ|コードマスターズ|ライオンヘッド
+zh|哪家英国工作室制作了《班卓熊大冒险》和《大金刚国度》？|Rare|Rocksteady|Codemasters|Lionhead
